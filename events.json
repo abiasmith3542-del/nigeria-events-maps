@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Kidnapping Report",
+    "location": "Abuja",
+    "lat": 9.0765,
+    "lng": 7.3986,
+    "level": "high",
+    "time": "2026-06-30 10:20"
+  },
+  {
+    "title": "Road Accident",
+    "location": "Lagos",
+    "lat": 6.5244,
+    "lng": 3.3792,
+    "level": "medium",
+    "time": "2026-06-30 09:00"
+  }
+]
