@@ -1,8 +1,8 @@
-name: Update Nigeria Events
+name: Nigeria Security Monitor
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,17 +10,84 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate Data
+      - name: Install Python
+        run: pip install feedparser
+
+      - name: Fetch & Analyze
         run: |
-          echo '[{"title":"Auto Event Lagos","location":"Lagos","lat":6.5,"lng":3.3,"level":"high","time":"auto"}]' > events.json
+          python <<EOF
+          import feedparser, json
+
+          url = "https://news.google.com/rss/search?q=Nigeria+kidnap+OR+ransom+OR+attack+OR+accident+OR+protest+OR+murder+OR+terrorist&hl=en&gl=NG&ceid=NG:en"
+          feed = feedparser.parse(url)
+
+          # 尼日利亚州坐标（核心🔥）
+          states = {
+            "Lagos": (6.5244, 3.3792),
+            "Abuja": (9.0765, 7.3986),
+            "Kano": (12.0022, 8.5919),
+            "Kaduna": (10.5105, 7.4165),
+            "Borno": (11.8846, 13.1510),
+            "Rivers": (4.8156, 7.0498),
+            "Oyo": (7.3775, 3.9470),
+            "Delta": (5.7040, 5.9339),
+            "Edo": (6.6342, 5.9304),
+            "Plateau": (9.2182, 9.5179),
+            "Benue": (7.1904, 8.1296)
+          }
+
+          # 关键词分类🔥
+          def classify(title):
+            t = title.lower()
+
+            if any(k in t for k in ["kidnap", "ransom"]):
+              return "Kidnap", "high"
+            if any(k in t for k in ["attack", "terrorist", "boko"]):
+              return "Terror Attack", "high"
+            if any(k in t for k in ["murder", "killed", "gunmen"]):
+              return "Violence", "high"
+            if "protest" in t:
+              return "Protest", "medium"
+            if "accident" in t:
+              return "Accident", "low"
+
+            return "Other", "low"
+
+          events = []
+
+          for entry in feed.entries[:8]:
+            title = entry.title
+
+            event_type, level = classify(title)
+
+            location = "Nigeria"
+            lat, lng = 9.0820, 8.6753
+
+            for state in states:
+              if state.lower() in title.lower():
+                location = state
+                lat, lng = states[state]
+
+            events.append({
+              "title": f"[{event_type}] {title}",
+              "location": location,
+              "lat": lat,
+              "lng": lng,
+              "level": level,
+              "time": entry.published
+            })
+
+          with open("events.json", "w") as f:
+            json.dump(events, f)
+
+          EOF
 
       - name: Commit
         run: |
           git config user.name "bot"
           git config user.email "bot@example.com"
           git add events.json
-          git commit -m "update" || echo "no change"
+          git commit -m "security update" || echo "no change"
           git push
