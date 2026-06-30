@@ -27,12 +27,17 @@ function loadEvents() {
   .then(res => res.json())
   .then(data => {
     data.forEach(e => {
-      let color = e.level === "high" ? "red" : "orange";
+      let color = "green";
+
+      if (e.level === "high") color = "red";
+      else if (e.level === "medium") color = "orange";
 
       let marker = L.circleMarker([e.lat, e.lng], {
-        color: color,
-        radius: 8
-      }).addTo(map);
+                color: color,
+                fillColor: color,
+                fillOpacity: 0.7,
+                radius: 10
+                }).addTo(map);
 
       marker.bindPopup(`
         <b>${e.title}</b><br/>
