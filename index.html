@@ -3,13 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>尼日利亚安全局势实时看板 (移动端高精度版)</title>
+    <title>尼日利亚安全局势实时看板 (全功能优化版)</title>
     
-    <!-- 1. 引入 Leaflet 地图基础样式与 JS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     
-    <!-- 2. 引入防堆叠点聚合插件 (MarkerCluster) 样式与 JS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
@@ -24,7 +22,7 @@
             width: 100%;
             height: 100%;
             overflow: hidden;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
         }
         #map {
             width: 100%;
@@ -32,21 +30,35 @@
             z-index: 1;
         }
         
-        /* 顶部标题栏悬浮层 */
-        .header-banner {
+        /* 1️⃣ 可折叠的顶部标题栏 */
+        .header-container {
             position: absolute;
             top: 10px;
             left: 10px;
             right: 10px;
+            z-index: 1000;
+            transition: all 0.3s ease;
+        }
+        .header-banner {
             background: rgba(255, 255, 255, 0.95);
             padding: 12px;
             border-radius: 8px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.15);
-            z-index: 1000;
             text-align: center;
+            position: relative;
+            overflow: hidden;
+            transition: max-height 0.3s ease, padding 0.3s ease;
+            max-height: 200px;
+        }
+        /* 最小化状态下的Banner */
+        .header-container.minimized .header-banner {
+            max-height: 0;
+            padding: 0;
+            border: none;
+            box-shadow: none;
         }
         .header-banner h1 {
-            font-size: 13pt;
+            font-size: 12pt;
             color: #333;
             margin-bottom: 4px;
         }
@@ -54,8 +66,119 @@
             font-size: 8.5pt;
             color: #666;
         }
+        /* 折叠/展开触发按钮 */
+        .toggle-banner-btn {
+            width: 40px;
+            height: 24px;
+            background: rgba(255, 255, 255, 0.95);
+            border-bottom-left-radius: 6px;
+            border-bottom-right-radius: 6px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 10pt;
+            color: #333;
+            font-weight: bold;
+        }
 
-        /* 💥 手机端专属：滑出式底部详情抽屉 (Bottom Sheet) */
+        /* 2️⃣ 右侧可最小化的半透明图例 (Legend) */
+        .map-legend {
+            position: absolute;
+            right: 10px;
+            top: 140px;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.75); /* 半透明 */
+            backdrop-filter: blur(5px);
+            padding: 8px 10px;
+            border-radius: 6px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            font-size: 8.5pt;
+            color: #333;
+            transition: all 0.3s ease;
+            max-width: 110px;
+        }
+        .map-legend.minimized {
+            padding: 4px;
+            background: rgba(255, 255, 255, 0.9);
+        }
+        .legend-title {
+            font-weight: bold;
+            margin-bottom: 6px;
+            border-bottom: 1px solid rgba(0,0,0,0.1);
+            padding-bottom: 2px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 4px;
+        }
+        .legend-color {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            margin-right: 6px;
+            flex-shrink: 0;
+        }
+
+        /* 3️⃣ 左下角日期筛选与一周数据汇总面板 */
+        .date-filter-panel {
+            position: absolute;
+            left: 10px;
+            bottom: 25px;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+            width: calc(100% - 20px);
+            max-width: 320px;
+        }
+        .panel-title {
+            font-size: 9pt;
+            font-weight: bold;
+            margin-bottom: 6px;
+            color: #222;
+        }
+        .date-select-wrapper {
+            display: flex;
+            gap: 5px;
+            overflow-x: auto; /* 手机端支持横向滑动挑选日期 */
+            padding-bottom: 4px;
+            scrollbar-width: none;
+        }
+        .date-select-wrapper::-webkit-scrollbar { display: none; }
+        .date-btn {
+            background: #f1f3f5;
+            border: 1px solid #dee2e6;
+            padding: 5px 8px;
+            border-radius: 4px;
+            font-size: 8pt;
+            white-space: nowrap;
+            cursor: pointer;
+            text-align: center;
+            flex: 1;
+        }
+        .date-btn.active {
+            background: #007bff;
+            color: white;
+            border-color: #007bff;
+            font-weight: bold;
+        }
+        .summary-text {
+            font-size: 8pt;
+            color: #666;
+            margin-top: 5px;
+            border-top: 1px dashed #ddd;
+            padding-top: 4px;
+        }
+
+        /* 💥 手机端滑出式底部详情抽屉 */
         .bottom-sheet {
             position: fixed;
             bottom: -100%;
@@ -71,161 +194,242 @@
             max-height: 50%;
             overflow-y: auto;
         }
-        .bottom-sheet.active {
-            bottom: 0;
-        }
+        .bottom-sheet.active { bottom: 0; }
         .bottom-sheet-closer {
             float: right;
             font-size: 24px;
             font-weight: bold;
             color: #bbb;
             cursor: pointer;
-            padding: 0 5px;
             line-height: 1;
         }
         .sheet-title {
-            font-size: 12pt;
+            font-size: 11pt;
             font-weight: bold;
             color: #111;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
             line-height: 1.4;
-            padding-right: 20px;
-        }
-        .sheet-meta {
-            font-size: 9.5pt;
-            margin-bottom: 12px;
         }
         .badge {
             display: inline-block;
-            padding: 3px 8px;
+            padding: 2px 6px;
             border-radius: 4px;
-            font-size: 8.5pt;
+            font-size: 8pt;
             font-weight: bold;
             color: white;
             margin-right: 5px;
         }
-        /* 对应 3 种风险评级颜色 */
         .badge.high { background-color: #dc3545; }
         .badge.medium { background-color: #fd7e14; }
         .badge.low { background-color: #17a2b8; }
-        
-        .sheet-content {
-            font-size: 10pt;
-            color: #444;
-            line-height: 1.6;
-            border-top: 1px solid #eee;
-            padding-top: 12px;
-        }
-        .source-btn {
-            display: inline-block;
-            background: #007bff;
-            color: white;
-            text-decoration: none;
-            padding: 10px 16px;
-            border-radius: 6px;
-            font-weight: bold;
-            font-size: 9.5pt;
-            margin-top: 12px;
-            text-align: center;
-        }
     </style>
 </head>
 <body>
 
-    <!-- 顶部状态小横幅 -->
-    <div class="header-banner">
-        <h1>🇳🇬 尼日利亚安全监测智能地图 (移动端优化)</h1>
-        <p>已启用自动点聚合与重叠弹开算法，点击地图空白处可收起抽屉</p>
+    <div class="header-container" id="headerContainer">
+        <div class="header-banner">
+            <h1>🇳🇬 尼日利亚安全监测智能地图</h1>
+            <p>已启用自动点聚合与重叠弹开算法。支持日期筛选。</p>
+        </div>
+        <div class="toggle-banner-btn" onclick="toggleHeader()">▲</div>
     </div>
 
-    <!-- 地图主容器 -->
+    <div class="map-legend" id="mapLegend">
+        <div class="legend-title">
+            <span id="legendText">图例</span>
+            <span style="cursor:pointer;padding-left:10px;color:#007bff;" onclick="toggleLegend()">[缩]</span>
+        </div>
+        <div id="legendBody">
+            <div class="legend-item"><div class="legend-color" style="background:#dc3545;"></div>最高危险</div>
+            <div class="legend-item"><div class="legend-color" style="background:#fd7e14;"></div>中度风险</div>
+            <div class="legend-item"><div class="legend-color" style="background:#17a2b8;"></div>低危意外</div>
+        </div>
+    </div>
+
+    <div class="date-filter-panel">
+        <div class="panel-title">📅 过去一周时段查询</div>
+        <div class="date-select-wrapper" id="dateButtonsContainer">
+            <button class="date-btn active" onclick="filterByDate('all')">全部</button>
+            </div>
+        <div class="summary-text" id="weekSummaryText">正在统计本周安全事件总数...</div>
+    </div>
+
     <div id="map"></div>
 
-    <!-- 手机底部详情弹窗 -->
     <div id="bottomSheet" class="bottom-sheet">
         <span class="bottom-sheet-closer" onclick="closeSheet()">&times;</span>
         <div id="sheetTitle" class="sheet-title">加载中...</div>
-        <div class="sheet-meta">
+        <div style="font-size:9pt; margin-bottom:10px;">
             <span id="sheetBadge" class="badge">LEVEL</span>
-            <span id="sheetLocation" style="color: #555; font-weight: 500;">地点</span>
-            <span id="sheetDate" style="color: #888; margin-left: 10px;">日期</span>
+            <span id="sheetLocation" style="color: #555;">地点</span>
+            <span id="sheetDate" style="color: #888; margin-left:10px;">日期</span>
         </div>
-        <div id="sheetContent" class="sheet-content">
-            详情内容加载中...
-        </div>
+        <div id="sheetContent" style="font-size:9.5pt; color:#444; border-top:1px solid #eee; padding-top:10px;"></div>
     </div>
 
     <script>
-        // 1. 初始化地图对象（定位于尼日利亚几何中心）
+        let globalRawData = []; // 存储从 data.json 异步获取的完整原始数据
+        let currentSelectedDate = 'all';
+
+        // 1. 初始化地图对象
         const map = L.map('map', {
             center: [9.0820, 8.6753],
             zoom: 6,
-            zoomControl: false // 隐藏默认的左上角+-号，为手机版面省空间
+            zoomControl: false 
         });
 
-        // 2. 载入高质感、高对比度的浅色极简底图
+        // 2. 载入高对比度极简底图
         L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-            attribution: '&copy; OpenStreetMap &copy; CARTO'
+            attribution: '&copy; OpenStreetMap'
         }).addTo(map);
 
-        // 3. 配置智能点聚合插件核心参数
+        // 3. 初始化点聚合网络
         const markersGroup = L.markerClusterGroup({
-            spiderfyOnMaxZoom: true,   // 🔥 核心：经纬度绝对重合的点（如阿布贾保底点），点击后像蜘蛛网一样放射状散开
+            spiderfyOnMaxZoom: true,   
             showCoverageOnHover: false, 
-            zoomToBoundsOnClick: true, // 🔥 核心：点击数字聚合圈，地图平滑缩放聚焦
-            maxClusterRadius: 60       // 🔥 核心：手机端最佳聚合像素半径，完美切断手机上的气泡黏连
+            zoomToBoundsOnClick: true, 
+            maxClusterRadius: 55       
         });
+        map.addLayer(markersGroup);
 
-        // 风险色彩判定辅助函数
         function getColor(level) {
-            if (level === 'high') return '#dc3545';   // 强危：红
-            if (level === 'medium') return '#fd7e14'; // 中危：橙
-            return '#17a2b8';                         // 低危/意外：蓝
+            if (level === 'high') return '#dc3545';
+            if (level === 'medium') return '#fd7e14';
+            return '#17a2b8';
         }
 
-        // 4. 发起异步 Fetch 请求，动态读取后台生成的 data.json
-        fetch('data.json')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('未找到最新的安全数据文件 data.json');
+        // 4. 控制组件：1. 顶部Banner的折叠与展开
+        function toggleHeader() {
+            const container = document.getElementById('headerContainer');
+            const btn = document.querySelector('.toggle-banner-btn');
+            if (container.classList.contains('minimized')) {
+                container.classList.remove('minimized');
+                btn.innerText = '▲';
+            } else {
+                container.add('minimized');
+                btn.innerText = '▼';
+            }
+        }
+
+        // 4. 控制组件：2. 右侧图例的折叠与展开
+        function toggleLegend() {
+            const legend = document.getElementById('mapLegend');
+            const body = document.getElementById('legendBody');
+            const text = document.getElementById('legendText');
+            const toggleBtn = legend.querySelector('span:last-child');
+            if (legend.classList.contains('minimized')) {
+                legend.classList.remove('minimized');
+                body.style.display = 'block';
+                text.style.display = 'inline';
+                toggleBtn.innerText = '[缩]';
+            } else {
+                legend.classList.add('minimized');
+                body.style.display = 'none';
+                text.style.display = 'none';
+                toggleBtn.innerText = 'ℹ️ 图例';
+            }
+        }
+
+        // 5. 动态生成最近7天的日期过滤按钮
+        function generateDateButtons() {
+            const container = document.getElementById('dateButtonsContainer');
+            const today = new Date();
+            
+            for (let i = 0; i < 7; i++) {
+                const d = new Date(today);
+                d.setDate(today.getDate() - i);
+                
+                // 格式化为 YYYY-MM-DD
+                const year = d.getFullYear();
+                const month = String(d.getMonth() + 1).padStart(2, '0');
+                const day = String(d.getDate()).padStart(2, '0');
+                const dateString = `${year}-${month}-${day}`;
+                
+                // 显示用简写 MM/DD
+                const displayString = `${month}/${day}`;
+
+                const btn = document.createElement('button');
+                btn.className = 'date-btn';
+                btn.innerText = displayString;
+                btn.setAttribute('data-date', dateString);
+                btn.onclick = function() {
+                    // 切换选中的高亮样式
+                    document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    filterByDate(dateString);
+                };
+                container.appendChild(btn);
+            }
+        }
+
+        // 6. 核心数据渲染与多准则过滤控制引擎
+        function renderData() {
+            // 清空现有的所有聚合点
+            markersGroup.clearLayers();
+
+            let countHigh = 0, countMedium = 0, countLow = 0;
+            let filteredCount = 0;
+
+            globalRawData.forEach(item => {
+                // 统计全量/一周信息汇总
+                if (item.level === 'high') countHigh++;
+                else if (item.level === 'medium') countMedium++;
+                else countLow++;
+
+                // 按日期过滤逻辑判断
+                if (currentSelectedDate !== 'all' && item.date !== currentSelectedDate) {
+                    return; // 如果不匹配当前选中日期，则不执行渲染
                 }
-                return response.json();
-            })
-            .then(data => {
-                // 遍历并渲染所有经后台严格过滤去重后的安全事件
-                data.forEach(item => {
-                    // 创建增强型触控气泡（通过 radius: 10 扩大手机手指的有效点击热区）
-                    const marker = L.circleMarker([item.lat, item.lng], {
-                        radius: 11, 
-                        fillColor: getColor(item.level),
-                        color: '#ffffff',
-                        weight: 2,
-                        opacity: 1,
-                        fillOpacity: 0.85
-                    });
 
-                    // 5. 绑定点击触控：点击后直接从屏幕下方拉出半高详情抽屉
-                    marker.on('click', function(e) {
-                        // 阻止事件冒泡到地图
-                        L.DomEvent.stopPropagation(e);
-                        openSheet(item);
-                    });
+                filteredCount++;
 
-                    // 将气泡统一注册到聚合网络中
-                    markersGroup.addLayer(marker);
+                // 创建增强触控气泡
+                const marker = L.circleMarker([item.lat, item.lng], {
+                    radius: 11, 
+                    fillColor: getColor(item.level),
+                    color: '#ffffff',
+                    weight: 2,
+                    opacity: 1,
+                    fillOpacity: 0.85
                 });
 
-                // 将处理完毕的聚合网络一齐倾注进底图
-                map.addLayer(markersGroup);
-            })
-            .catch(error => {
-                console.error('地图数据流加载失败:', error);
-                document.getElementById('sheetTitle').innerText = '数据同步失败';
-                document.getElementById('sheetContent').innerText = '请检查根目录下是否存在 data.json，或等待 Github Actions 自动化构建完成。';
-                document.getElementById('bottomSheet').classList.add('active');
+                // 绑定点击唤醒抽屉面板
+                marker.on('click', function(e) {
+                    L.DomEvent.stopPropagation(e);
+                    openSheet(item);
+                });
+
+                markersGroup.addLayer(marker);
             });
 
-        // 6. 移动端底部滑出抽屉控制器
+            // 实时同步更新左下角的一周信息汇总状态
+            const total = countHigh + countMedium + countLow;
+            document.getElementById('weekSummaryText').innerHTML = `
+                📊 本周汇总: 共 <b>${total}</b> 起事件 (高危:${countHigh} | 中危:${countMedium} | 低危:${countLow})<br>
+                🔍 当前筛选日期显示: <b>${filteredCount}</b> 条记录
+            `;
+        }
+
+        // 日期点击事件调用接口
+        function filterByDate(date) {
+            currentSelectedDate = date;
+            renderData();
+        }
+
+        // 7. 异步加载外部 JSON 安全数据库
+        generateDateButtons();
+        fetch('data.json')
+            .then(res => res.json())
+            .then(data => {
+                globalRawData = data;
+                renderData(); // 执行首次渲染
+            })
+            .catch(err => {
+                console.error("数据加载错误:", err);
+                document.getElementById('weekSummaryText').innerText = "暂无离线 data.json 数据，请检查后台爬虫状态。";
+            });
+
+        // 8. 移动端抽屉控制面板
         function openSheet(item) {
             document.getElementById('sheetTitle').innerText = `[${item.type}] ${item.title}`;
             document.getElementById('sheetLocation').innerText = `📍 事发地: ${item.location}`;
@@ -235,25 +439,22 @@
             badge.className = `badge ${item.level}`;
             badge.innerText = item.level.toUpperCase();
 
-            // 如果爬虫脚本导出了带完整链接的格式，则直接在按钮中使用
-            let sourceLink = item.summary && item.summary.includes('href=') ? item.summary : '';
-            // 提取原始链接
-            let urlMatch = sourceLink.match(/href="([^"]+)"/);
-            let targetUrl = urlMatch ? urlMatch[1] : "#";
+            let targetUrl = "#";
+            if (item.summary) {
+                let urlMatch = item.summary.match(/href="([^"]+)"/);
+                if (urlMatch) targetUrl = urlMatch[1];
+            }
 
             document.getElementById('sheetContent').innerHTML = `
-                <p style="margin-bottom: 12px; color: #555;">监测系统自动捕获到一起发生于 <b>${item.location}</b> 的安全事件，分类标签为 <b>${item.type}</b>。请在该区域活动的人员强化警惕。</p>
-                ${targetUrl !== "#" ? `<a href="${targetUrl}" target="_blank" class="source-btn">点击查阅本地媒体一手报道 (Source Link)</a>` : ''}
+                <p style="margin-bottom: 12px; color: #555;">该安全突发事件已被成功定位并分类。前往该地区的常驻人员及差旅同胞请务必提高警惕，注意防范。</p>
+                ${targetUrl !== "#" ? `<a href="${targetUrl}" target="_blank" style="display:inline-block; background:#007bff; color:white; text-decoration:none; padding:8px 14px; border-radius:6px; font-weight:bold; font-size:9pt;">查阅原始媒体一手报道</a>` : ''}
             `;
-
             document.getElementById('bottomSheet').classList.add('active');
         }
 
         function closeSheet() {
             document.getElementById('bottomSheet').classList.remove('active');
         }
-        
-        // 手机触控交互细节：轻触地图任意空白处，自动平滑收起底部详情面板
         map.on('click', closeSheet);
     </script>
 </body>
