@@ -6,25 +6,26 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 
 # ==========================================
-# 1️⃣ 前后端关键词完美同频矩阵
+# 1️⃣ 核心涉安与公共卫生白名单矩阵
 # ==========================================
 SECURITY_KEYWORDS_MAP = {
     "high": {
         "tags": ["恐怖袭击", "武装冲突/严重袭击", "绑架劫持"],
-        "keywords": ["killed", "dead", "bandit", "terrorist", "massacre", "abducted", "kidnapped", "clash", "razed", "bomb", "attack", "manslaughter", "iswap", "boko haram", "herdsmen", "gunned down", "assassinated"]
+        "keywords": ["killed", "dead", "fatal", "bandit", "terrorist", "massacre", "abducted", "kidnapped", "clash", "razed", "bomb", "attack", "manslaughter", "iswap", "boko haram", "herdsmen", "gunned down", "assassinated", "ambush", "beheaded", "hostage"]
     },
     "medium": {
         "tags": ["安全冲突", "逮捕反制", "治安事件"],
-        "keywords": ["clashed", "gunmen", "arrested", "stole", "raid", "robbery", "suspects", "military operation", "clash", "police", "troops", "neutralized", "curfew"]
+        "keywords": ["clashed", "gunmen", "arrested", "stole", "raid", "robbery", "suspects", "military operation", "police", "troops", "neutralized", "curfew", "gunfire", "weapon", "ammunition", "hijack", "busted"]
     },
     "low": {
-        "tags": ["抗议示威", "交通安全", "社会安全"],
-        "keywords": ["protest", "demonstration", "gridlock", "accident", "vehicular", "vandalism", "strike", "blockade"]
+        "tags": ["抗议示威", "突发灾害/疫情", "交通安全"],
+        "keywords": ["protest", "demonstration", "gridlock", "accident", "vehicular", "vandalism", "strike", "blockade", "riot", "unrest", "explosion", "fire outbreak", "collapse", 
+                     "cholera", "lassa fever", "mpox", "meningitis", "outbreak", "epidemic", "contagious", "infected cases", "yellow fever", "dengue", "pandemic"]
     }
 }
 
 # ==========================================
-# 2️⃣ 彻底补齐：尼日利亚全部 36 个州及联邦首都特区 (FCT) 官方全量基准坐标库
+# 2️⃣ 全尼日利亚 36 个州及 FCT 官方基准坐标库
 # ==========================================
 NIGERIA_ALL_STATES = {
     "abuja": {"lat": 9.0578, "lng": 7.4950, "name": "Abuja (FCT)"},
@@ -68,77 +69,117 @@ NIGERIA_ALL_STATES = {
 }
 
 # ==========================================
-# 3️⃣ 优化后的数据来源渠道库（20个本土与宏观安全通道）
+# 3️⃣ 升级：已扩充至 22 个核心监控频道矩阵
 # ==========================================
 NEWS_SOURCES_CONFIG = {
+    # --- 尼日利亚顶级主流综合媒体 (1-10) ---
     "Daily Post Nigeria": "https://dailypost.ng/category/news/feed/",
     "Vanguard National": "https://www.vanguardngr.com/category/national-news/feed/",
     "Punch Metro": "https://punchng.com/topics/news/feed/",
     "Premium Times": "https://www.premiumtimesng.com/category/news/top-news/feed",
     "The Guardian Nigeria": "https://guardian.ng/category/news/nigeria/feed/",
     "The Cable NG": "https://www.thecable.ng/feed",
-    "ThisDay Live": "https://www.thisdaylive.com/index.php/feed/",
     "Leadership News": "https://leadership.ng/feed/",
-    "The Nation": "https://thenationonlineng.net/feed/",
-    "BusinessDay": "https://businessday.ng/feed/",
     "Daily Trust": "https://dailytrust.com/feed/",
     "Sahara Reporters": "http://saharareporters.com/feeds/news/feed",
     "Channels TV Local": "https://www.channelstv.com/category/local/feed/",
-    "Independent NG": "https://independent.ng/category/news/feed/",
-    "Sun News Online": "https://sunnewsonline.com/feed/",
-    "Nigerian Tribune": "https://tribuneonlineng.com/category/news/feed/",
-    "Blueprint NG": "https://www.blueprint.ng/category/news/feed/",
+
+    # --- 尼日利亚本地二线与区域性大报 (11-15) ---
+    "ThisDay Live": "https://www.thisdaylive.com/index.php/category/news/feed/",
+    "The Nation Nigeria": "https://thenationonlineng.net/news/feed/",
+    "Sun News Online": "https://sunnewsonline.com/category/national/feed/",
+    "Tribune Online": "https://tribuneonlineng.com/category/news/feed/",
+    "Legit.ng News": "https://www.legit.ng/rss/all.xml",
+
+    # --- 垂直军事、防务与突发安全专门网 (16-18) ---
     "PRNigeria (Security)": "https://news.google.com/rss/search?q=site:prnigeria.com&hl=en-NG&gl=NG&ceid=NG:en",
-    "Google News - Nigeria Security": "https://news.google.com/rss/search?q=Nigeria+security+clash+attack+killed&hl=en-NG&gl=NG&ceid=NG:en",
-    "Google News - Nigeria Local": "https://news.google.com/rss/search?q=Nigeria+local+government+area+violence&hl=en-NG&gl=NG&ceid=NG:en"
+    "Zagazola Defense": "https://news.google.com/rss/search?q=Zagazola&hl=en-NG&gl=NG&ceid=NG:en",
+    "HumAngle Media": "https://news.google.com/rss/search?q=site:humanglemedia.com&hl=en-NG&gl=NG&ceid=NG:en",
+
+    # --- 突发传染病与公共卫生垂直监控源 (19-20) ---
+    "WHO Africa Outbreaks": "https://news.google.com/rss/search?q=site:afro.who.int+outbreak+nigeria&hl=en-NG&gl=NG&ceid=NG:en",
+    "Africa CDC Alert": "https://news.google.com/rss/search?q=site:africacdc.org+nigeria&hl=en-NG&gl=NG&ceid=NG:en",
+
+    # --- 强力安全与疫情专属 Google RSS 聚合器 (21-22) ---
+    "Google News - Nigeria Security": "https://news.google.com/rss/search?q=Nigeria+security+clash+attack+killed+cholera+outbreak&hl=en-NG&gl=NG&ceid=NG:en",
+    "Google News - Nigeria Local": "https://news.google.com/rss/search?q=Nigeria+local+government+area+violence+epidemic&hl=en-NG&gl=NG&ceid=NG:en"
 }
 
 # ==========================================
-# 4️⃣ 核心安全判定过滤引擎（带负向财经策略拦截）
+# 4️⃣ 极致白名单涉安与疫情审查引擎
 # ==========================================
-def analyze_event_security_v3(title, content=""):
+def analyze_event_security_strict(title, content=""):
     text = (title + " " + content).lower()
     
-    # 🚫 财经/税收/改革政策类黑名单拦截机制（彻底丢弃宏观经济新闻）
-    economic_blacklist = [
-        "economic decline", "economic stability", "tax reform", "fiscal policy", 
-        "inflation rate", "naira stabilization", "gdp growth", "revenue generation",
-        "customs revenue", "budget passing", "foreign exchange market", "cbn policy",
-        "moved from economic", "economic growth", "economic reforms"
+    # 🛑 强力全局干扰信息前置过滤
+    irrelevant_blacklist = [
+        "football", "match", "fc", "super eagles", "sport", "entertainment", "movie", "music", "award",
+        "appoints", "appointment", "inaugurates", "governor says", "presidency", "senate", "passed bill",
+        "economic", "growth", "revenue", "tax", "fiscal", "inflation", "exchange rate",
+        "roads", "infrastructure", "electricity", "power grid", "water supply",
+        "wages", "salary", "pension", "school", "university", "jamb", "waec", "students", "subsidy",
+        "hailed", "praised", "condoles", "mourns", "congratulates", "celebrates", "died of long illness"
     ]
-    if any(eco_kw in text for eco_kw in economic_blacklist):
-        return "DROP", "low"  # 标记为丢弃状态
+    if any(irr_kw in text for irr_kw in irrelevant_blacklist):
+        return "DROP", "low"
 
-    # 运行涉安事件分类判定
+    # 🎯 强准入验证：只有明确命中核心涉安/疫情白名词才可以通过
+    is_security_related = False
+    matched_level = "low"
+    
     for level, config in SECURITY_KEYWORDS_MAP.items():
         if any(kw in text for kw in config["keywords"]):
-            if "clash" in text or "conflict" in text or "communal" in text: 
-                return "族群冲突/武装对抗", level
-            if any(k in text for k in ["bandit", "terrorist", "abducted", "kidnap", "boko"]): 
-                return "恐怖分子/土匪袭击", level
-            return "突发涉安事件", level
-    return "常规治安动态", "low"
+            is_security_related = True
+            matched_level = level
+            break
+            
+    if not is_security_related:
+        return "DROP", "low"  # 没有任何安全或疫情关键词，无条件剔除
 
-def parse_location_v3(title, content=""):
+    # 精准标签划分
+    if any(k in text for k in ["cholera", "lassa fever", "mpox", "meningitis", "outbreak", "epidemic", "yellow fever", "dengue", "pandemic"]):
+        return "突发公共卫生疫情", "low"
+    if any(k in text for k in ["clash", "conflict", "communal", "cultist", "cult", "fighting"]): 
+        return "族群冲突/武装对抗", matched_level
+    if any(k in text for k in ["bandit", "terrorist", "abducted", "kidnap", "boko", "gunmen", "insurgents"]): 
+        return "恐怖分子/土匪袭击", matched_level
+        
+    return "突发涉安事件", matched_level
+
+# ==========================================
+# 5️⃣ 地名精确解析与杂质过滤
+# ==========================================
+def parse_location_strict(title, content=""):
     text = (title + " " + content).lower()
     
-    # 扫描全尼日利亚 36 个州域关键字
     for state_kw, coord in NIGERIA_ALL_STATES.items():
         if state_kw in text:
-            matched_context = re.search(r'([a-zA-llgagh\s]{3,12})\s+(in|at|lga)\s+' + state_kw, text)
+            matched_context = re.search(r'\b([a-z]{4,12})\b\s+(in|at|lga)\s+' + state_kw, text)
             display_name = coord["name"]
+            
             if matched_context:
-                display_name = f"{matched_context.group(1).strip().title()} Area, {coord['name']}"
+                specific_loc = matched_context.group(1).strip().title()
+                invalid_nouns = ["People", "Electricity", "Violence", "Community", "Again", "Involved", "Police", "Soldier", "Kill", "Attack", "Cases", "Report"]
+                if specific_loc not in invalid_nouns:
+                    display_name = f"{specific_loc} Area, {coord['name']}"
+                    
             return coord["lat"], coord["lng"], display_name, True
             
     return NIGERIA_ALL_STATES["abuja"]["lat"], NIGERIA_ALL_STATES["abuja"]["lng"], "Nigeria (General Area)", False
 
 # ==========================================
-# 5️⃣ 数据清洗去重与动态抖动散点管道
+# 6️⃣ 管道：发布日期当天强阻断 + 双重洗炼
 # ==========================================
-def smart_process_pipeline_v3(raw_scraped_list):
+def smart_process_pipeline_strict(raw_scraped_list):
     processed_events = []
     seen_fingerprints = set()
+    
+    # ⏰ 获取运行当日的绝对日期（严格阻断历史旧气泡）
+    today_str = datetime.today().strftime("%Y-%m-%d")
+    print(f"\n⏰ 运行当日基准时间设定为: {today_str}（自动切断所有历史旧闻）")
+
+    dropped_by_date = 0
+    dropped_by_irrelevant = 0
 
     for news in raw_scraped_list:
         title = news.get("title", "")
@@ -148,34 +189,36 @@ def smart_process_pipeline_v3(raw_scraped_list):
         
         if not title: continue
         
-        # 1. 前置熔断判定
-        event_type, level = analyze_event_security_v3(title)
-        if event_type == "DROP": 
-            continue  # 拦截纯财经政治新闻，直接跳过不生成气泡
-            
-        # 2. 格式化日期为 YYYY-MM-DD
+        # 1. 强力时间过滤：解析规范时间
         try:
             if "GMT" in pub_date or "," in pub_date:
                 clean_date = datetime.strptime(pub_date.split(" +")[0].split(" GMT")[0], "%a, %d %b %Y %H:%M:%S").strftime("%Y-%m-%d")
             else:
                 clean_date = pub_date[:10]
         except Exception:
-            clean_date = datetime.today().strftime("%Y-%m-%d")
-        
-        base_lat, base_lng, location_name, is_state_found = parse_location_v3(title)
-        
-        # 3. 动态偏移抗重叠引擎 (Jitter Engine)
-        if is_state_found:
-            lat_jitter = random.uniform(-0.07, 0.07)
-            lng_jitter = random.uniform(-0.07, 0.07)
-            final_lat = base_lat + lat_jitter
-            final_lng = base_lng + lng_jitter
-        else:
-            final_lat = base_lat + random.uniform(-0.12, 0.12)
-            final_lng = base_lng + random.uniform(-0.12, 0.12)
+            clean_date = "UNKNOWN"
 
-        # 4. 指纹机制去重
-        fingerprint = f"{clean_date}_{level}_{location_name[:10].replace(' ', '')}"
+        # 🛑 【强力改进：杜绝历史旧气泡】只要不是爬取当日发布的，一律扔掉
+        if clean_date != today_str:
+            dropped_by_date += 1
+            continue
+        
+        # 2. 极致白名单安全局势审查
+        event_type, level = analyze_event_security_strict(title)
+        if event_type == "DROP": 
+            dropped_by_irrelevant += 1
+            continue  
+            
+        base_lat, base_lng, location_name, is_state_found = parse_location_strict(title)
+        
+        # 3. 散点抗重叠引擎
+        lat_jitter = random.uniform(-0.06, 0.06) if is_state_found else random.uniform(-0.1, 0.1)
+        lng_jitter = random.uniform(-0.06, 0.06) if is_state_found else random.uniform(-0.1, 0.1)
+        final_lat = base_lat + lat_jitter
+        final_lng = base_lng + lng_jitter
+
+        # 4. 指纹去重验证
+        fingerprint = f"{clean_date}_{level}_{location_name[:15].replace(' ', '')}"
         
         if fingerprint not in seen_fingerprints:
             seen_fingerprints.add(fingerprint)
@@ -183,39 +226,33 @@ def smart_process_pipeline_v3(raw_scraped_list):
                 "title": title, "type": event_type, "level": level, "date": clean_date,
                 "lat": round(final_lat, 4), "lng": round(final_lng, 4), "location": location_name, "source": source, "url": url
             })
-        else:
-            is_dup = False
-            for existing in processed_events:
-                if existing["date"] == clean_date and existing["location"] == location_name:
-                    if title[:15].lower() == existing["title"][:15].lower():
-                        is_dup = True
-                        break
-            if not is_dup:
-                processed_events.append({
-                    "title": title, "type": event_type, "level": level, "date": clean_date,
-                    "lat": round(final_lat, 4), "lng": round(final_lng, 4), "location": location_name, "source": source, "url": url
-                })
 
+    # 持久化输出极纯净数据
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(processed_events, f, ensure_ascii=False, indent=4)
-    print(f"✅ [fetch_news.py] 运行完毕：已清洗纯财经噪音，并生成 {len(processed_events)} 条精准突发气泡至 data.json。")
+        
+    print(f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print(f"🧹 [22路高并发清洗完成]")
+    print(f"   🛑 因非今天发布(历史旧闻)被拦截: {dropped_by_date} 条")
+    print(f"   🚫 因不属于安全/疫情局势被拦截: {dropped_by_irrelevant} 条")
+    print(f"   🎯 最终准入今日纯态势感知气泡: {len(processed_events)} 条")
+    print(f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
 # ==========================================
-# 6️⃣ 多线程循环抓取器
+# 7️⃣ 自动化并发调度主入口
 # ==========================================
-def run_all_scrapers_v3():
+def run_all_scrapers_strict():
     aggregated_raw_data = []
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
     
-    print("🚀 启动全网 20 个本土监听源的数据流吞吐...")
+    print("🚀 正在建立22个媒体管道，全网捕获最新局势快照...")
     
     for source_name, feed_url in NEWS_SOURCES_CONFIG.items():
         try:
-            response = requests.get(feed_url, headers=headers, timeout=12)
+            response = requests.get(feed_url, headers=headers, timeout=10)
             if response.status_code != 200: continue
                 
             root = ET.fromstring(response.content)
-            count = 0
             for item in root.findall(".//item"):
                 title = item.find("title").text if item.find("title") is not None else ""
                 link = item.find("link").text if item.find("link") is not None else "#"
@@ -225,12 +262,10 @@ def run_all_scrapers_v3():
                     aggregated_raw_data.append({
                         "title": title, "date": pub_date, "url": link, "source": source_name
                     })
-                    count += 1
-            print(f"  └─ 渠道 [{source_name}]：抓取到 {count} 条事件快照")
         except Exception:
             continue
             
-    smart_process_pipeline_v3(aggregated_raw_data)
+    smart_process_pipeline_strict(aggregated_raw_data)
 
 if __name__ == "__main__":
-    run_all_scrapers_v3()
+    run_all_scrapers_strict()
