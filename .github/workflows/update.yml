@@ -4,7 +4,8 @@ on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
-permissions: 
+
+permissions:
   contents: write
 
 jobs:
@@ -12,75 +13,43 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4   # ✅ 修复点1
 
-      - name: Install Python
+      - name: Setup Python
+        uses: actions/setup-python@v4  # ✅ 建议加上
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
         run: pip install feedparser
 
-      - name: Fetch & Analyze
+      - name: Fetch News
         run: |
           python <<EOF
-          import feedparser, json, os
+          import feedparser, json
 
-          url = "https://news.google.com/rss/search?q=Nigeria+kidnap+OR+ransom+OR+attack+OR+accident+OR+protest+OR+murder+OR+terrorist&hl=en&gl=NG&ceid=NG:en"
-          feed = feedparser.parse(url)
-
-          if not feed.entries:
-            print("⚠️ 没有获取到新闻")
-            exit(0)
-
-          states = {
-            "Lagos": (6.5244, 3.3792),
-            "Abuja": (9.0765, 7.3986),
-            "Kano": (12.0022, 8.5919),
-            "Kaduna": (10.5105, 7.4165),
-            "Borno": (11.8846, 13.1510),
-            "Rivers": (4.8156, 7.0498),
-            "Oyo": (7.3775, 3.9470),
-            "Delta": (5.7040, 5.9339),
-            "Edo": (6.6342, 5.9304),
-            "Plateau": (9.2182, 9.5179),
-            "Benue": (7.1904, 8.1296)
-          }
-
-          def classify(title):
-            t = title.lower()
-
-            if any(k in t for k in ["kidnap", "ransom"]):
-              return "Kidnap", "high"
-            if any(k in t for k in ["attack", "terrorist", "boko"]):
-              return "Terror Attack", "high"
-            if any(k in t for k in ["murder", "killed", "gunmen"]):
-              return "Violence", "high"
-            if "protest" in t:
-              return "Protest", "medium"
-            if "accident" in t:
-              return "Accident", "low"
-
-            return "Other", "low"
+          feed = feedparser.parse("https://news.google.com/rss/search?q=Nigeria+security&hl=en&gl=NG&ceid=NG:en")
 
           events = []
+          for e in feed.entries[:5]:
+              events.append({
+                  "title": e.title,
+                  "time": e.get("published", "unknown"),
+                  "lat": 9.0820,
+                  "lng": 8.6753,
+                  "level": "medium"
+              })
 
-          for entry in feed.entries[:8]:
-            title = entry.title
+          with open("events.json", "w") as f:
+              json.dump(events, f)
 
-            event_type, level = classify(title)
+          print("done")
+          EOF
 
-            location = "Nigeria"
-            lat, lng = 9.0820, 8.6753
-
-            for state in states:
-              if state.lower() in title.lower():
-                location = state
-                lat, lng = states[state]
-
-            events.append({
-              "title": f"[{event_type}] {title}",
-              "location": location,
-              "lat": lat,
-              "lng": lng,
-              "level": level,
-              "time": entry.get("published", "unknown")  # 🔥 防崩
-            })
-
-          with open("
+      - name: Commit
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@email.com"
+          git add .
+          git diff --cached --quiet || git commit -m "update"
+          git push
