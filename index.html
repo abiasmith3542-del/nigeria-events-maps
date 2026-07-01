@@ -20,17 +20,30 @@ var map = L.map('map').setView([9.0820, 8.6753], 6);
 // 地图底图
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png')
   .addTo(map);
-
+   
 // 加载事件数据
-function loadEvents() {
-  fetch("./events.json")
+fetch("data/events.json")
   .then(res => res.json())
   .then(data => {
     data.forEach(e => {
-      let color = "green";
+      L.circleMarker([e.lat, e.lng], {
+        color: getColor(e.level)
+      })
+      .addTo(map)
+      .bindPopup(`
+        <b>${e.title}</b><br>
+        Level: ${e.level}<br>
+        <a href=" " target="_blank">Source</a >
+      `);
+    });
+  });
 
-      if (e.level === "high") color = "red";
-      else if (e.level === "medium") color = "orange";
+function getColor(level) {
+  if (level >= 5) return "red";
+  if (level >= 4) return "orange";
+  if (level >= 3) return "yellow";
+  return "green";
+}
 
       let marker = L.circleMarker([e.lat, e.lng], {
                 color: color,
@@ -53,7 +66,7 @@ loadEvents();
 // 每10秒刷新（模拟实时🔥）
 setInterval(() => {
   location.reload();
-}, 10000);
+}, 60000);
 </script>
 
 </body>
