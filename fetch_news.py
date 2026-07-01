@@ -123,7 +123,7 @@ def extract_location(title_text, summary_text=""):
     return "Nigeria (General)", [9.05 + random.uniform(-0.6, 0.6), 7.49 + random.uniform(-0.6, 0.6)]
 
 def fetch_rss_news():
-    url = "https://news.google.com/rss/search?q=Nigeria+(attack+OR+kidnap+OR+protest+OR+killed+OR+accident+OR+clash+OR+bandits)&hl=en-NG&gl=NG&ceid=NG:en"
+    url = "https://news.google.com/rss/search?q=Nigeria+(attack+OR+kidnap+OR+protest+OR+killed+OR+accident+OR+clash+OR+bandits+OR+flooding+OR+rainstorm+OR+crash)&hl=en-NG&gl=NG&ceid=NG:en"
     
     try:
         response = requests.get(url, timeout=15)
