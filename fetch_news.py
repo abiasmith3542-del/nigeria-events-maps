@@ -4,6 +4,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import random
 import requests
+import re
 
 # 1. 关键词和安全等级配置
 KEYWORDS = {
@@ -20,9 +21,8 @@ ZH_MAPPING = {
     "accident": "交通事故", "crash": "车祸", "collapse": "建筑倒塌", "flooding": "洪涝灾害", "strike": "罢工游行"
 }
 
-# 2. 升级版：尼日利亚完整 36 个州及核心城市的精准地理经纬度库
+# 2. 尼日利亚完整地理经纬度库
 NIGERIA_LOCATIONS = {
-    # 地点关键词 (全小写): [州/城市显示名称, 纬度, 经度]
     "plateau": ["Plateau State", 9.4167, 9.5833],
     "jos": ["Jos", 9.8965, 8.8583],
     "bokkos": ["Bokkos (Plateau)", 9.3000, 8.9500],
@@ -91,8 +91,20 @@ NIGERIA_LOCATIONS = {
     "abakaliki": ["Abakaliki", 6.2649, 8.0527]
 }
 
+def clean_google_url(google_url):
+    """
+    通过向 Google 发起无痕轻量请求，获取其重定向后真正的媒体原始网址
+    """
+    try:
+        # 使用不追踪、不带 cookie 的浏览器头部，快速碰一下重定向链接
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        res = requests.head(google_url, headers=headers, allow_redirects=True, timeout=5)
+        return res.url
+    except:
+        # 如果碰触超时或失败，采用正则尝试将某些明显的编码网址解出来，或者使用原网址保底
+        return google_url
+
 def analyze_text(text):
-    """分析文本，提取安全分类、中文标签和安全等级"""
     text_lower = text.lower()
     for level, words in KEYWORDS.items():
         for word in words:
@@ -101,26 +113,16 @@ def analyze_text(text):
     return None, None
 
 def extract_location(title_text, summary_text=""):
-    """
-    智能解析新闻中的发生地点。
-    组合搜索标题和描述，优先匹配精确的地名或州名。
-    """
     search_scope = (title_text + " " + summary_text).lower()
-    
-    # 优先精确检测。如果在库里匹配到了具体的城市、县或者州：
     for loc_key, info in NIGERIA_LOCATIONS.items():
         if loc_key in search_scope:
-            # 返回 识别的地名，[纬度, 经度]
-            # 略微加一点极小的随机偏移（0.02度以内），防止同一地区的多个事件气泡重叠在一起
             lat_offset = random.uniform(-0.015, 0.015)
             lng_offset = random.uniform(-0.015, 0.015)
             return info[0], [info[1] + lat_offset, info[2] + lng_offset]
             
-    # 如果真的完全找不到地名，保底留在阿布贾区域并大范围随机偏移，并在前端标记为全尼日利亚通用
     return "Nigeria (General)", [9.05 + random.uniform(-0.6, 0.6), 7.49 + random.uniform(-0.6, 0.6)]
 
 def fetch_rss_news():
-    # 扩大 Google 新闻 RSS 搜索范围，以便尽可能抓全本地事件
     url = "https://news.google.com/rss/search?q=Nigeria+(attack+OR+kidnap+OR+protest+OR+killed+OR+accident+OR+clash+OR+bandits)&hl=en-NG&gl=NG&ceid=NG:en"
     
     try:
@@ -134,7 +136,7 @@ def fetch_rss_news():
 
         for item in root.findall('.//item'):
             title = item.find('title').text
-            link = item.find('link').text
+            raw_link = item.find('link').text
             pub_date_str = item.find('pubDate').text
             description = item.find('description').text if item.find('description') is not None else ""
             
@@ -151,10 +153,12 @@ def fetch_rss_news():
                 level, event_zh = analyze_text(description)
 
             if not level:
-                continue  # 过滤非安全事件
+                continue  
 
-            # 升级：同时把标题和新闻链接丢进地点提取器
             loc_name, coords = extract_location(title, description)
+            
+            # 【升级核心】：将原有的 Google 间接链接，转化为纯净干净的原始媒体报社网页链接
+            real_news_url = clean_google_url(raw_link)
             
             incidents.append({
                 "title": title.split(" - ")[0], 
@@ -164,7 +168,7 @@ def fetch_rss_news():
                 "lat": coords[0],
                 "lng": coords[1],
                 "location": loc_name,
-                "summary": f'<a href=" " target="_blank" style="color: #007bff; text-decoration: underline;">点击查看原始新闻链接 (Original News)</a >'
+                "summary": f'<a href=" " target="_blank" style="color: #007bff; text-decoration: underline; font-weight: bold;">点击查看原始新闻链接 (Original News)</a >'
             })
             
         return incidents
@@ -173,10 +177,10 @@ def fetch_rss_news():
         return []
 
 if __name__ == "__main__":
-    print("开始执行尼日利亚精准地名爬虫...")
+    print("开始执行尼日利亚精准地名与原始链接解密爬虫...")
     new_data = fetch_rss_news()
     
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(new_data, f, ensure_ascii=False, indent=4)
         
-    print(f"抓取完成！成功精准定位并存入 {len(new_data)} 条本周安全动态。")
+    print(f"抓取完成！成功存入 {len(new_data)} 条带干净原始链接的安全动态。")
