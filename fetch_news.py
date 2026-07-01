@@ -68,7 +68,7 @@ NIGERIA_ALL_STATES = {
 }
 
 # ==========================================
-# 3️⃣ 优化后的数据来源渠道库（强化尼日利亚本土及地方分类流，全覆盖抓取）
+# 3️⃣ 优化后的数据来源渠道库（20个本土与宏观安全通道）
 # ==========================================
 NEWS_SOURCES_CONFIG = {
     "Daily Post Nigeria": "https://dailypost.ng/category/news/feed/",
@@ -94,10 +94,22 @@ NEWS_SOURCES_CONFIG = {
 }
 
 # ==========================================
-# 4️⃣ 全功能防漏核心引擎（含动态抖动不重叠与智能降级定位机制）
+# 4️⃣ 核心安全判定过滤引擎（带负向财经策略拦截）
 # ==========================================
 def analyze_event_security_v3(title, content=""):
     text = (title + " " + content).lower()
+    
+    # 🚫 财经/税收/改革政策类黑名单拦截机制（彻底丢弃宏观经济新闻）
+    economic_blacklist = [
+        "economic decline", "economic stability", "tax reform", "fiscal policy", 
+        "inflation rate", "naira stabilization", "gdp growth", "revenue generation",
+        "customs revenue", "budget passing", "foreign exchange market", "cbn policy",
+        "moved from economic", "economic growth", "economic reforms"
+    ]
+    if any(eco_kw in text for eco_kw in economic_blacklist):
+        return "DROP", "low"  # 标记为丢弃状态
+
+    # 运行涉安事件分类判定
     for level, config in SECURITY_KEYWORDS_MAP.items():
         if any(kw in text for kw in config["keywords"]):
             if "clash" in text or "conflict" in text or "communal" in text: 
@@ -108,29 +120,21 @@ def analyze_event_security_v3(title, content=""):
     return "常规治安动态", "low"
 
 def parse_location_v3(title, content=""):
-    """
-    智能解析引擎：无需穷举774个LGA坐标。
-    机制：检测文章提及的任何州名。如果在新闻中发现地名（即使是没有硬编码坐标的小地方或LGA），
-    提取其关联的州，并由清洗流在州基准中心点自动进行随机微分轻微偏移（Jitter），
-    使其在前端渲染成独立的、不互相重叠覆盖的气泡，达到零死角全覆盖。
-    """
     text = (title + " " + content).lower()
     
-    # 扫描是否包含任意一个合法的尼日利亚州名
+    # 扫描全尼日利亚 36 个州域关键字
     for state_kw, coord in NIGERIA_ALL_STATES.items():
         if state_kw in text:
-            # 提取具体的上下文关键词，使前端展示更精细
             matched_context = re.search(r'([a-zA-llgagh\s]{3,12})\s+(in|at|lga)\s+' + state_kw, text)
             display_name = coord["name"]
             if matched_context:
                 display_name = f"{matched_context.group(1).strip().title()} Area, {coord['name']}"
             return coord["lat"], coord["lng"], display_name, True
             
-    # 全局极端保底（阿布贾总归纳点）
     return NIGERIA_ALL_STATES["abuja"]["lat"], NIGERIA_ALL_STATES["abuja"]["lng"], "Nigeria (General Area)", False
 
 # ==========================================
-# 5️⃣ 抗堆叠防误杀数据清洗管道
+# 5️⃣ 数据清洗去重与动态抖动散点管道
 # ==========================================
 def smart_process_pipeline_v3(raw_scraped_list):
     processed_events = []
@@ -143,8 +147,13 @@ def smart_process_pipeline_v3(raw_scraped_list):
         source = news.get("source", "未知媒体")
         
         if not title: continue
+        
+        # 1. 前置熔断判定
+        event_type, level = analyze_event_security_v3(title)
+        if event_type == "DROP": 
+            continue  # 拦截纯财经政治新闻，直接跳过不生成气泡
             
-        # 格式化日期
+        # 2. 格式化日期为 YYYY-MM-DD
         try:
             if "GMT" in pub_date or "," in pub_date:
                 clean_date = datetime.strptime(pub_date.split(" +")[0].split(" GMT")[0], "%a, %d %b %Y %H:%M:%S").strftime("%Y-%m-%d")
@@ -153,12 +162,9 @@ def smart_process_pipeline_v3(raw_scraped_list):
         except Exception:
             clean_date = datetime.today().strftime("%Y-%m-%d")
         
-        event_type, level = analyze_event_security_v3(title)
         base_lat, base_lng, location_name, is_state_found = parse_location_v3(title)
         
-        # 💥 动态偏移抗堆叠机制 (Jitter Engine)：
-        # 同一个州如果同一天有多条不同的细分地名新闻（例如Akwa Ibom不同的LGA），
-        # 赋予其微小的坐标偏移量（+-0.08度以内），防止它们在前端地图上完全重叠而导致不可见！
+        # 3. 动态偏移抗重叠引擎 (Jitter Engine)
         if is_state_found:
             lat_jitter = random.uniform(-0.07, 0.07)
             lng_jitter = random.uniform(-0.07, 0.07)
@@ -168,7 +174,7 @@ def smart_process_pipeline_v3(raw_scraped_list):
             final_lat = base_lat + random.uniform(-0.12, 0.12)
             final_lng = base_lng + random.uniform(-0.12, 0.12)
 
-        # 指纹验证（日期+级别+位置前缀）
+        # 4. 指纹机制去重
         fingerprint = f"{clean_date}_{level}_{location_name[:10].replace(' ', '')}"
         
         if fingerprint not in seen_fingerprints:
@@ -178,7 +184,6 @@ def smart_process_pipeline_v3(raw_scraped_list):
                 "lat": round(final_lat, 4), "lng": round(final_lng, 4), "location": location_name, "source": source, "url": url
             })
         else:
-            # 二次判断，防止标题前缀不同的同地独立事件被干掉
             is_dup = False
             for existing in processed_events:
                 if existing["date"] == clean_date and existing["location"] == location_name:
@@ -193,22 +198,21 @@ def smart_process_pipeline_v3(raw_scraped_list):
 
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(processed_events, f, ensure_ascii=False, indent=4)
-    print(f"✅ [fetch_news.py] 完美运行：已并行调度 20 组多地域数据，成功清洗并输出 {len(processed_events)} 个安全气泡至 data.json 文件。")
+    print(f"✅ [fetch_news.py] 运行完毕：已清洗纯财经噪音，并生成 {len(processed_events)} 条精准突发气泡至 data.json。")
 
 # ==========================================
-# 6️⃣ 自动化抓取执行机
+# 6️⃣ 多线程循环抓取器
 # ==========================================
 def run_all_scrapers_v3():
     aggregated_raw_data = []
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
     
-    print("🚀 开始请求全量 20 个尼日利亚本土化安全情报监听数据通道...")
+    print("🚀 启动全网 20 个本土监听源的数据流吞吐...")
     
     for source_name, feed_url in NEWS_SOURCES_CONFIG.items():
         try:
             response = requests.get(feed_url, headers=headers, timeout=12)
-            if response.status_code != 200:
-                continue
+            if response.status_code != 200: continue
                 
             root = ET.fromstring(response.content)
             count = 0
@@ -222,11 +226,10 @@ def run_all_scrapers_v3():
                         "title": title, "date": pub_date, "url": link, "source": source_name
                     })
                     count += 1
-            print(f"  └─ 渠道 [{source_name}]：同步提取到 {count} 条潜在区域数据")
+            print(f"  └─ 渠道 [{source_name}]：抓取到 {count} 条事件快照")
         except Exception:
             continue
             
-    # 执行智能过滤管道
     smart_process_pipeline_v3(aggregated_raw_data)
 
 if __name__ == "__main__":
