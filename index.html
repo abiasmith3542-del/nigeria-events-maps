@@ -1,73 +1,132 @@
 <!DOCTYPE html>
-<html>
+<html lang="zh-CN">
 <head>
-  <title>Nigeria Emergency Map</title>
-  <meta charset="utf-8" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
-  <style>
-    #map { height: 100vh; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>尼日利亚安全局势动态跟踪</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        body { margin: 0; font-family: -apple-system, sans-serif; display: flex; flex-direction: column; height: 100vh; }
+        #control-panel { padding: 10px; background: #f8f9fa; border-bottom: 1px solid #ddd; display: flex; gap: 10px; align-items: center; overflow-x: auto; }
+        #map { flex: 1; width: 100%; }
+        .date-btn { padding: 6px 12px; border: 1px solid #ccc; background: white; cursor: pointer; border-radius: 4px; white-space: nowrap; }
+        .date-btn.active { background: #d9534f; color: white; border-color: #d43f3a; }
+        .date-btn:hover { background: #e9ecef; }
+        .popup-content h3 { margin: 0 0 8px 0; font-size: 15px; color: #333; }
+        .popup-content p { margin: 0 0 6px 0; font-size: 13px; color: #666; line-height: 1.4; }
+        .popup-meta { font-size: 11px; color: #999; font-weight: bold; }
+    </style>
 </head>
 <body>
 
-<div id="map"></div>
+    <div id="control-panel">
+        <button class="date-btn active" id="btn-all" onclick="filterDate('all')">显示全部(1周内)</button>
+    </div>
+    <div id="map"></div>
 
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const map = L.map('map').setView([9.082, 8.6753], 6);
 
-<script>
-var map = L.map('map').setView([9.0820, 8.6753], 6);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
 
-// 地图底图
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png')
-  .addTo(map);
-   
-// 加载事件数据
-fetch("data/events.json")
-  .then(res => res.json())
-  .then(data => {
-    data.forEach(e => {
-      L.circleMarker([e.lat, e.lng], {
-        color: getColor(e.level)
-      })
-      .addTo(map)
-      .bindPopup(`
-        <b>${e.title}</b><br>
-        Level: ${e.level}<br>
-        <a href=" " target="_blank">Source</a >
-      `);
-    });
-  });
+        let allIncidents = [];
+        let markerLayer = L.layerGroup().addTo(map);
+        let selectedDate = 'all';
 
-function getColor(level) {
-  if (level >= 5) return "red";
-  if (level >= 4) return "orange";
-  if (level >= 3) return "yellow";
-  return "green";
-}
+        const levelColors = {
+            "high": { r: 219, g: 68, b: 85 },     // 红色
+            "medium": { r: 240, g: 173, b: 78 },  // 橙色
+            "low": { r: 91, g: 192, b: 222 }      // 蓝色
+        };
 
-      let marker = L.circleMarker([e.lat, e.lng], {
-                color: color,
-                fillColor: color,
-                fillOpacity: 0.7,
-                radius: 10
-                }).addTo(map);
+        function initDateButtons() {
+            const panel = document.getElementById('control-panel');
+            for (let i = 0; i < 7; i++) {
+                const d = new Date();
+                d.setDate(d.getDate() - i);
+                const dateStr = d.toISOString().split('T')[0];
+                
+                const btn = document.createElement('button');
+                btn.className = 'date-btn';
+                btn.id = `btn-${dateStr}`;
+                btn.innerText = i === 0 ? `今天 (${dateStr})` : dateStr;
+                btn.onclick = () => filterDate(dateStr);
+                panel.appendChild(btn);
+            }
+        }
 
-      marker.bindPopup(`
-        <b>${e.title}</b><br/>
-        Location: ${e.location}<br/>
-        Time: ${e.time}
-      `).openPopup();
-    });
-  });
-}
+        function getBubbleStyle(incidentDateStr, level) {
+            const today = new Date();
+            today.setHours(0,0,0,0);
+            const incidentDate = new Date(incidentDateStr);
+            incidentDate.setHours(0,0,0,0);
 
-loadEvents();
+            const diffTime = today - incidentDate;
+            const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
 
-// 每60秒刷新（模拟实时🔥）
-setInterval(() => {
-  location.reload();
-}, 60000);
-</script>
+            if (diffDays < 0 || diffDays >= 7) return null;
 
+            // 当天最深，往后每天透明度减少 0.12
+            const opacity = Math.max(0.15, 0.95 - (diffDays * 0.12));
+            const colorObj = levelColors[level] || levelColors["low"];
+            const colorStr = `rgb(${colorObj.r}, ${colorObj.g}, ${colorObj.b})`;
+
+            return {
+                radius: 12 + (level === 'high' ? 6 : level === 'medium' ? 3 : 0),
+                fillColor: colorStr,
+                color: colorStr,
+                weight: 1,
+                opacity: opacity + 0.05,
+                fillOpacity: opacity
+            };
+        }
+
+        function renderMarkers() {
+            markerLayer.clearLayers();
+            
+            allIncidents.forEach(item => {
+                if (selectedDate !== 'all' && item.date !== selectedDate) return;
+
+                const style = getBubbleStyle(item.date, item.level);
+                if (!style) return;
+
+                const circle = L.circleMarker([item.lat, item.lng], style);
+                const popupHtml = `
+                    <div class="popup-content">
+                        <h3>[${item.type}] ${item.title}</h3>
+                        <p>${item.summary}</p >
+                        <div class="popup-meta">日期: ${item.date} | 地点: ${item.location}</div>
+                    </div>
+                `;
+                circle.bindPopup(popupHtml);
+                markerLayer.addLayer(circle);
+            });
+        }
+
+        function filterDate(dateStr) {
+            selectedDate = dateStr;
+            document.querySelectorAll('.date-btn').forEach(btn => btn.classList.remove('active'));
+            if(dateStr === 'all') {
+                document.getElementById('btn-all').classList.add('active');
+            } else {
+                document.getElementById(`btn-${dateStr}`).classList.add('active');
+            }
+            renderMarkers();
+        }
+
+        // 从同目录下的 data.json 异步拉取爬虫数据
+        fetch('./data.json')
+            .then(res => res.json())
+            .then(data => {
+                allIncidents = data;
+                renderMarkers();
+            })
+            .catch(err => console.log("暂无数据或加载失败:", err));
+
+        initDateButtons();
+    </script>
 </body>
 </html>
