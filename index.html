@@ -2,131 +2,259 @@
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>尼日利亚安全局势动态跟踪</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>尼日利亚安全局势实时看板 (移动端高精度版)</title>
+    
+    <!-- 1. 引入 Leaflet 地图基础样式与 JS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- 2. 引入防堆叠点聚合插件 (MarkerCluster) 样式与 JS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
     <style>
-        body { margin: 0; font-family: -apple-system, sans-serif; display: flex; flex-direction: column; height: 100vh; }
-        #control-panel { padding: 10px; background: #f8f9fa; border-bottom: 1px solid #ddd; display: flex; gap: 10px; align-items: center; overflow-x: auto; }
-        #map { flex: 1; width: 100%; }
-        .date-btn { padding: 6px 12px; border: 1px solid #ccc; background: white; cursor: pointer; border-radius: 4px; white-space: nowrap; }
-        .date-btn.active { background: #d9534f; color: white; border-color: #d43f3a; }
-        .date-btn:hover { background: #e9ecef; }
-        .popup-content h3 { margin: 0 0 8px 0; font-size: 15px; color: #333; }
-        .popup-content p { margin: 0 0 6px 0; font-size: 13px; color: #666; line-height: 1.4; }
-        .popup-meta { font-size: 11px; color: #999; font-weight: bold; }
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body, html {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+        #map {
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+        }
+        
+        /* 顶部标题栏悬浮层 */
+        .header-banner {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            right: 10px;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 12px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+            z-index: 1000;
+            text-align: center;
+        }
+        .header-banner h1 {
+            font-size: 13pt;
+            color: #333;
+            margin-bottom: 4px;
+        }
+        .header-banner p {
+            font-size: 8.5pt;
+            color: #666;
+        }
+
+        /* 💥 手机端专属：滑出式底部详情抽屉 (Bottom Sheet) */
+        .bottom-sheet {
+            position: fixed;
+            bottom: -100%;
+            left: 0;
+            width: 100%;
+            background: #ffffff;
+            border-top-left-radius: 16px;
+            border-top-right-radius: 16px;
+            box-shadow: 0 -4px 20px rgba(0,0,0,0.2);
+            z-index: 2000;
+            transition: bottom 0.3s ease-out;
+            padding: 20px;
+            max-height: 50%;
+            overflow-y: auto;
+        }
+        .bottom-sheet.active {
+            bottom: 0;
+        }
+        .bottom-sheet-closer {
+            float: right;
+            font-size: 24px;
+            font-weight: bold;
+            color: #bbb;
+            cursor: pointer;
+            padding: 0 5px;
+            line-height: 1;
+        }
+        .sheet-title {
+            font-size: 12pt;
+            font-weight: bold;
+            color: #111;
+            margin-bottom: 10px;
+            line-height: 1.4;
+            padding-right: 20px;
+        }
+        .sheet-meta {
+            font-size: 9.5pt;
+            margin-bottom: 12px;
+        }
+        .badge {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 8.5pt;
+            font-weight: bold;
+            color: white;
+            margin-right: 5px;
+        }
+        /* 对应 3 种风险评级颜色 */
+        .badge.high { background-color: #dc3545; }
+        .badge.medium { background-color: #fd7e14; }
+        .badge.low { background-color: #17a2b8; }
+        
+        .sheet-content {
+            font-size: 10pt;
+            color: #444;
+            line-height: 1.6;
+            border-top: 1px solid #eee;
+            padding-top: 12px;
+        }
+        .source-btn {
+            display: inline-block;
+            background: #007bff;
+            color: white;
+            text-decoration: none;
+            padding: 10px 16px;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 9.5pt;
+            margin-top: 12px;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
 
-    <div id="control-panel">
-        <button class="date-btn active" id="btn-all" onclick="filterDate('all')">显示全部(1周内)</button>
+    <!-- 顶部状态小横幅 -->
+    <div class="header-banner">
+        <h1>🇳🇬 尼日利亚安全监测智能地图 (移动端优化)</h1>
+        <p>已启用自动点聚合与重叠弹开算法，点击地图空白处可收起抽屉</p>
     </div>
+
+    <!-- 地图主容器 -->
     <div id="map"></div>
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script>
-        const map = L.map('map').setView([9.082, 8.6753], 6);
+    <!-- 手机底部详情弹窗 -->
+    <div id="bottomSheet" class="bottom-sheet">
+        <span class="bottom-sheet-closer" onclick="closeSheet()">&times;</span>
+        <div id="sheetTitle" class="sheet-title">加载中...</div>
+        <div class="sheet-meta">
+            <span id="sheetBadge" class="badge">LEVEL</span>
+            <span id="sheetLocation" style="color: #555; font-weight: 500;">地点</span>
+            <span id="sheetDate" style="color: #888; margin-left: 10px;">日期</span>
+        </div>
+        <div id="sheetContent" class="sheet-content">
+            详情内容加载中...
+        </div>
+    </div>
 
+    <script>
+        // 1. 初始化地图对象（定位于尼日利亚几何中心）
+        const map = L.map('map', {
+            center: [9.0820, 8.6753],
+            zoom: 6,
+            zoomControl: false // 隐藏默认的左上角+-号，为手机版面省空间
+        });
+
+        // 2. 载入高质感、高对比度的浅色极简底图
         L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-            attribution: '© OpenStreetMap contributors'
+            attribution: '&copy; OpenStreetMap &copy; CARTO'
         }).addTo(map);
 
-        let allIncidents = [];
-        let markerLayer = L.layerGroup().addTo(map);
-        let selectedDate = 'all';
+        // 3. 配置智能点聚合插件核心参数
+        const markersGroup = L.markerClusterGroup({
+            spiderfyOnMaxZoom: true,   // 🔥 核心：经纬度绝对重合的点（如阿布贾保底点），点击后像蜘蛛网一样放射状散开
+            showCoverageOnHover: false, 
+            zoomToBoundsOnClick: true, // 🔥 核心：点击数字聚合圈，地图平滑缩放聚焦
+            maxClusterRadius: 60       // 🔥 核心：手机端最佳聚合像素半径，完美切断手机上的气泡黏连
+        });
 
-        const levelColors = {
-            "high": { r: 219, g: 68, b: 85 },     // 红色
-            "medium": { r: 240, g: 173, b: 78 },  // 橙色
-            "low": { r: 91, g: 192, b: 222 }      // 蓝色
-        };
-
-        function initDateButtons() {
-            const panel = document.getElementById('control-panel');
-            for (let i = 0; i < 7; i++) {
-                const d = new Date();
-                d.setDate(d.getDate() - i);
-                const dateStr = d.toISOString().split('T')[0];
-                
-                const btn = document.createElement('button');
-                btn.className = 'date-btn';
-                btn.id = `btn-${dateStr}`;
-                btn.innerText = i === 0 ? `今天 (${dateStr})` : dateStr;
-                btn.onclick = () => filterDate(dateStr);
-                panel.appendChild(btn);
-            }
+        // 风险色彩判定辅助函数
+        function getColor(level) {
+            if (level === 'high') return '#dc3545';   // 强危：红
+            if (level === 'medium') return '#fd7e14'; // 中危：橙
+            return '#17a2b8';                         // 低危/意外：蓝
         }
 
-        function getBubbleStyle(incidentDateStr, level) {
-            const today = new Date();
-            today.setHours(0,0,0,0);
-            const incidentDate = new Date(incidentDateStr);
-            incidentDate.setHours(0,0,0,0);
-
-            const diffTime = today - incidentDate;
-            const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
-
-            if (diffDays < 0 || diffDays >= 7) return null;
-
-            // 当天最深，往后每天透明度减少 0.12
-            const opacity = Math.max(0.15, 0.95 - (diffDays * 0.12));
-            const colorObj = levelColors[level] || levelColors["low"];
-            const colorStr = `rgb(${colorObj.r}, ${colorObj.g}, ${colorObj.b})`;
-
-            return {
-                radius: 12 + (level === 'high' ? 6 : level === 'medium' ? 3 : 0),
-                fillColor: colorStr,
-                color: colorStr,
-                weight: 1,
-                opacity: opacity + 0.05,
-                fillOpacity: opacity
-            };
-        }
-
-        function renderMarkers() {
-            markerLayer.clearLayers();
-            
-            allIncidents.forEach(item => {
-                if (selectedDate !== 'all' && item.date !== selectedDate) return;
-
-                const style = getBubbleStyle(item.date, item.level);
-                if (!style) return;
-
-                const circle = L.circleMarker([item.lat, item.lng], style);
-                const popupHtml = `
-                    <div class="popup-content">
-                        <h3>[${item.type}] ${item.title}</h3>
-                        <p>${item.summary}</p >
-                        <div class="popup-meta">日期: ${item.date} | 地点: ${item.location}</div>
-                    </div>
-                `;
-                circle.bindPopup(popupHtml);
-                markerLayer.addLayer(circle);
-            });
-        }
-
-        function filterDate(dateStr) {
-            selectedDate = dateStr;
-            document.querySelectorAll('.date-btn').forEach(btn => btn.classList.remove('active'));
-            if(dateStr === 'all') {
-                document.getElementById('btn-all').classList.add('active');
-            } else {
-                document.getElementById(`btn-${dateStr}`).classList.add('active');
-            }
-            renderMarkers();
-        }
-
-        // 从同目录下的 data.json 异步拉取爬虫数据
-        fetch('./data.json')
-            .then(res => res.json())
-            .then(data => {
-                allIncidents = data;
-                renderMarkers();
+        // 4. 发起异步 Fetch 请求，动态读取后台生成的 data.json
+        fetch('data.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('未找到最新的安全数据文件 data.json');
+                }
+                return response.json();
             })
-            .catch(err => console.log("暂无数据或加载失败:", err));
+            .then(data => {
+                // 遍历并渲染所有经后台严格过滤去重后的安全事件
+                data.forEach(item => {
+                    // 创建增强型触控气泡（通过 radius: 10 扩大手机手指的有效点击热区）
+                    const marker = L.circleMarker([item.lat, item.lng], {
+                        radius: 11, 
+                        fillColor: getColor(item.level),
+                        color: '#ffffff',
+                        weight: 2,
+                        opacity: 1,
+                        fillOpacity: 0.85
+                    });
 
-        initDateButtons();
+                    // 5. 绑定点击触控：点击后直接从屏幕下方拉出半高详情抽屉
+                    marker.on('click', function(e) {
+                        // 阻止事件冒泡到地图
+                        L.DomEvent.stopPropagation(e);
+                        openSheet(item);
+                    });
+
+                    // 将气泡统一注册到聚合网络中
+                    markersGroup.addLayer(marker);
+                });
+
+                // 将处理完毕的聚合网络一齐倾注进底图
+                map.addLayer(markersGroup);
+            })
+            .catch(error => {
+                console.error('地图数据流加载失败:', error);
+                document.getElementById('sheetTitle').innerText = '数据同步失败';
+                document.getElementById('sheetContent').innerText = '请检查根目录下是否存在 data.json，或等待 Github Actions 自动化构建完成。';
+                document.getElementById('bottomSheet').classList.add('active');
+            });
+
+        // 6. 移动端底部滑出抽屉控制器
+        function openSheet(item) {
+            document.getElementById('sheetTitle').innerText = `[${item.type}] ${item.title}`;
+            document.getElementById('sheetLocation').innerText = `📍 事发地: ${item.location}`;
+            document.getElementById('sheetDate').innerText = `📅 日期: ${item.date}`;
+            
+            const badge = document.getElementById('sheetBadge');
+            badge.className = `badge ${item.level}`;
+            badge.innerText = item.level.toUpperCase();
+
+            // 如果爬虫脚本导出了带完整链接的格式，则直接在按钮中使用
+            let sourceLink = item.summary && item.summary.includes('href=') ? item.summary : '';
+            // 提取原始链接
+            let urlMatch = sourceLink.match(/href="([^"]+)"/);
+            let targetUrl = urlMatch ? urlMatch[1] : "#";
+
+            document.getElementById('sheetContent').innerHTML = `
+                <p style="margin-bottom: 12px; color: #555;">监测系统自动捕获到一起发生于 <b>${item.location}</b> 的安全事件，分类标签为 <b>${item.type}</b>。请在该区域活动的人员强化警惕。</p>
+                ${targetUrl !== "#" ? `<a href="${targetUrl}" target="_blank" class="source-btn">点击查阅本地媒体一手报道 (Source Link)</a>` : ''}
+            `;
+
+            document.getElementById('bottomSheet').classList.add('active');
+        }
+
+        function closeSheet() {
+            document.getElementById('bottomSheet').classList.remove('active');
+        }
+        
+        // 手机触控交互细节：轻触地图任意空白处，自动平滑收起底部详情面板
+        map.on('click', closeSheet);
     </script>
 </body>
 </html>
