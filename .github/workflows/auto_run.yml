@@ -16,7 +16,7 @@ jobs:
     - name: 设置 Python 环境
       uses: actions/setup-python@v4
       with:
-        python-python: '3.10'
+        python-version: '3.10'
 
     - name: 安装爬虫依赖组件
       run: |
