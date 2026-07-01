@@ -4,19 +4,19 @@
         "type": "恐怖分子",
         "level": "high",
         "date": "2026-06-29",
-        "lat": 9.999186775526738,
-        "lng": 6.014533648267615,
+        "lat": 10.00683289344113,
+        "lng": 6.000094901036194,
         "location": "Niger State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
-        "title": "Gunmen storm a Nigerian school and kidnap students during exams, police say",
-        "type": "绑架事件",
-        "level": "medium",
-        "date": "2026-06-29",
-        "lat": 9.986902319327339,
-        "lng": 5.998704686684209,
-        "location": "Niger State",
+        "title": "Heavy rain triggers flooding across Lagos, strands commuters, businesses",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 6.518299467374628,
+        "lng": 3.365502134251369,
+        "location": "Lagos",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
@@ -24,19 +24,39 @@
         "type": "严重袭击",
         "level": "high",
         "date": "2026-06-25",
-        "lat": 9.991523244202915,
-        "lng": 5.996274300276199,
+        "lat": 9.998795735214701,
+        "lng": 6.009860995775866,
         "location": "Niger State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
-        "title": "Nigeria’s security crisis: 79,323 Killed, 34,773 abducted in six years",
+        "title": "Heavy rains trigger widespread flooding across Nigeria’s commercial city, cripple businesses",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 10.00620736156252,
+        "lng": 5.996778261054238,
+        "location": "Niger State",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "Nigeria’s security crisis: 79,323 killed, 34,773 abducted in six years",
         "type": "严重袭击",
         "level": "high",
         "date": "2026-07-01",
-        "lat": 9.986385095330014,
-        "lng": 5.986545139152785,
+        "lat": 10.013501103664273,
+        "lng": 6.0126632465479695,
         "location": "Niger State",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "NiMet Warns of Flash Flooding in 19 States, FCT",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 9.05696285111275,
+        "lng": 7.4876590154165426,
+        "location": "Abuja (FCT)",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
@@ -44,18 +64,8 @@
         "type": "严重袭击",
         "level": "high",
         "date": "2026-07-01",
-        "lat": 10.010615767811911,
-        "lng": 6.007623170018421,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Nigerian army rescues 10 kidnapped students, as 2 soldiers killed in clashes with Boko Haram terrorists",
-        "type": "恐怖分子",
-        "level": "high",
-        "date": "2026-06-29",
-        "lat": 9.995138418634516,
-        "lng": 6.010945893087797,
+        "lat": 10.003195481790332,
+        "lng": 6.003817528605974,
         "location": "Niger State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
@@ -64,8 +74,18 @@
         "type": "恐怖分子",
         "level": "high",
         "date": "2026-07-01",
-        "lat": 9.999289575080368,
-        "lng": 5.9942440315511245,
+        "lat": 9.997806413257887,
+        "lng": 6.006514922523421,
+        "location": "Niger State",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "Nigerian army rescues 10 kidnapped students, as 2 soldiers killed in clashes with Boko Haram terrorists",
+        "type": "恐怖分子",
+        "level": "high",
+        "date": "2026-06-29",
+        "lat": 9.992129271145508,
+        "lng": 6.011270548626997,
         "location": "Niger State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
@@ -74,19 +94,19 @@
         "type": "严重袭击",
         "level": "high",
         "date": "2026-07-01",
-        "lat": 10.49699102274327,
-        "lng": 7.419861636297234,
+        "lat": 10.506552574372085,
+        "lng": 7.402252438970899,
         "location": "Kaduna",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
-        "title": "Teachers Dead, Students Abducted in Lassa School Attack in Northeastern Nigeria",
-        "type": "强行诱拐",
-        "level": "medium",
-        "date": "2026-06-29",
-        "lat": 9.990636258247873,
-        "lng": 5.991515809798476,
-        "location": "Niger State",
+        "title": "Flooding Triggers Widespread Power Outage in Parts of Lagos",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 6.53880915491799,
+        "lng": 3.376593631082032,
+        "location": "Lagos",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
@@ -94,29 +114,9 @@
         "type": "抗议示威",
         "level": "low",
         "date": "2026-07-01",
-        "lat": 8.679349217611508,
-        "lng": 7.623360406198752,
+        "lat": 8.90785097415546,
+        "lng": 7.426674871435223,
         "location": "Nigeria (General)",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "ORFA report: 79,323 killed, 34,773 abducted in Nigeria’s terror violence in six years",
-        "type": "严重袭击",
-        "level": "high",
-        "date": "2026-07-01",
-        "lat": 9.993292530500558,
-        "lng": 6.005254066270482,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Christians killed at twice the rate of Muslims in Nigeria, report finds",
-        "type": "严重袭击",
-        "level": "high",
-        "date": "2026-06-30",
-        "lat": 9.992730156150266,
-        "lng": 6.005922987312883,
-        "location": "Niger State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
@@ -124,8 +124,88 @@
         "type": "严重袭击",
         "level": "high",
         "date": "2026-06-26",
-        "lat": 6.511294127520005,
-        "lng": 3.3729706142256846,
+        "lat": 6.534796760562817,
+        "lng": 3.3805113268212033,
+        "location": "Lagos",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "Flooding Forces TCN to Declare Force Majeure at Lagos Substations",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 6.515413553242688,
+        "lng": 3.389734242864489,
+        "location": "Lagos",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "Lagos residents lament as flooding cripples transport, businesses",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-06-30",
+        "lat": 6.516570695578467,
+        "lng": 3.3678726025604555,
+        "location": "Lagos",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "South Africa anti-immigration protests on June 30: Nigeria evacuate 269 citizens from South Africa as June 30 deadline for illegal migrants to comot take effect",
+        "type": "抗议示威",
+        "level": "low",
+        "date": "2026-06-29",
+        "lat": 9.999384607548233,
+        "lng": 5.989596183254872,
+        "location": "Niger State",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "Teachers Dead, Students Abducted in Lassa School Attack in Northeastern Nigeria",
+        "type": "强行诱拐",
+        "level": "medium",
+        "date": "2026-06-29",
+        "lat": 10.014554189260652,
+        "lng": 6.002123209758306,
+        "location": "Niger State",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "West and Central Africa: 2026 Flooding Outlook (23",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-06-25",
+        "lat": 8.803828491521658,
+        "lng": 7.617878516583315,
+        "location": "Nigeria (General)",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "NiMet Alerts Lagos, Others To Flash Flooding In Coastal Areas",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-06-30",
+        "lat": 6.515386005611829,
+        "lng": 3.379724920738634,
+        "location": "Lagos",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "ORFA report: 79,323 killed, 34,773 abducted in Nigeria’s terror violence in six years",
+        "type": "严重袭击",
+        "level": "high",
+        "date": "2026-07-01",
+        "lat": 10.004149070602766,
+        "lng": 5.992324402997438,
+        "location": "Niger State",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "Severe flooding cripples Nigeria's commercial hub Lagos",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 6.509727760283686,
+        "lng": 3.3654350033176117,
         "location": "Lagos",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
@@ -134,8 +214,18 @@
         "type": "严重袭击",
         "level": "high",
         "date": "2026-06-29",
-        "lat": 9.997616486284327,
-        "lng": 5.986693136750606,
+        "lat": 10.008766151971246,
+        "lng": 5.989068451627063,
+        "location": "Niger State",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "Christians killed at twice the rate of Muslims in Nigeria, report finds",
+        "type": "严重袭击",
+        "level": "high",
+        "date": "2026-06-30",
+        "lat": 9.991047588945568,
+        "lng": 6.01116877421434,
         "location": "Niger State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
@@ -144,8 +234,8 @@
         "type": "绑架事件",
         "level": "medium",
         "date": "2026-07-01",
-        "lat": 7.327728452065928,
-        "lng": 8.759385672606102,
+        "lat": 7.318494272911879,
+        "lng": 8.74595830843964,
         "location": "Benue State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
@@ -154,18 +244,8 @@
         "type": "严重袭击",
         "level": "high",
         "date": "2026-06-30",
-        "lat": 9.99730717627618,
-        "lng": 5.9958619394430475,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Several bandits, terrorists killed in Niger: Nigerian Army",
-        "type": "恐怖分子",
-        "level": "high",
-        "date": "2026-06-30",
-        "lat": 10.009376650627262,
-        "lng": 6.002543542678533,
+        "lat": 9.987286868044531,
+        "lng": 5.999353916697732,
         "location": "Niger State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
@@ -174,9 +254,29 @@
         "type": "博科圣地",
         "level": "high",
         "date": "2026-06-30",
-        "lat": 11.832339160565805,
-        "lng": 13.144537342754237,
+        "lat": 11.830720156481352,
+        "lng": 13.160322485999012,
         "location": "Borno State",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "Gunmen storm a Nigerian school and kidnap students during exams, police say",
+        "type": "绑架事件",
+        "level": "medium",
+        "date": "2026-06-30",
+        "lat": 9.992822480940198,
+        "lng": 6.004244986801756,
+        "location": "Niger State",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "Several bandits, terrorists killed in Niger: Nigerian Army",
+        "type": "恐怖分子",
+        "level": "high",
+        "date": "2026-06-30",
+        "lat": 10.012369423221939,
+        "lng": 5.989538557493397,
+        "location": "Niger State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
@@ -184,9 +284,19 @@
         "type": "绑架事件",
         "level": "medium",
         "date": "2026-06-29",
-        "lat": 7.999087024742278,
-        "lng": 3.9911626911952305,
+        "lat": 7.994576849932835,
+        "lng": 3.993611440691566,
         "location": "Oyo State",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "Flooding: Kosofe Council Boss Blames Indiscriminate Waste Disposal",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-06-30",
+        "lat": 10.013947838035678,
+        "lng": 5.9897640988530245,
+        "location": "Niger State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
@@ -194,8 +304,8 @@
         "type": "土匪劫掠",
         "level": "medium",
         "date": "2026-07-01",
-        "lat": 12.975872028014857,
-        "lng": 7.606214858441274,
+        "lat": 12.971992711280379,
+        "lng": 7.601578611696251,
         "location": "Katsina State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
@@ -204,19 +314,9 @@
         "type": "土匪劫掠",
         "level": "medium",
         "date": "2026-06-30",
-        "lat": 9.992171194286344,
-        "lng": 6.002797659853522,
+        "lat": 9.988807196079346,
+        "lng": 5.992379752664158,
         "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Nigerian Air Force eliminates many bandits along Niger–Kaduna–Zamfara border",
-        "type": "土匪劫掠",
-        "level": "medium",
-        "date": "2026-06-29",
-        "lat": 10.514725967123155,
-        "lng": 7.420020857076859,
-        "location": "Kaduna",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
@@ -224,9 +324,19 @@
         "type": "抗议示威",
         "level": "low",
         "date": "2026-06-30",
-        "lat": 9.055199642104945,
-        "lng": 7.508073503836179,
+        "lat": 9.045754731668646,
+        "lng": 7.506532196203001,
         "location": "Abuja (FCT)",
+        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+    },
+    {
+        "title": "18 Sokoto travellers killed in Kebbi road crash while returning from Lagos",
+        "type": "严重袭击",
+        "level": "high",
+        "date": "2026-06-30",
+        "lat": 6.529586614016173,
+        "lng": 3.3745837538386465,
+        "location": "Lagos",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
     {
@@ -234,8 +344,8 @@
         "type": "土匪劫掠",
         "level": "medium",
         "date": "2026-06-29",
-        "lat": 6.515099844722216,
-        "lng": 3.3696983814103905,
+        "lat": 6.522060225985126,
+        "lng": 3.3718121067925035,
         "location": "Lagos",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
@@ -244,8 +354,8 @@
         "type": "严重袭击",
         "level": "high",
         "date": "2026-06-30",
-        "lat": 9.990127226207605,
-        "lng": 6.013085630888699,
+        "lat": 10.013747975982303,
+        "lng": 5.9947375182581855,
         "location": "Niger State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     },
@@ -254,19 +364,9 @@
         "type": "土匪劫掠",
         "level": "medium",
         "date": "2026-06-29",
-        "lat": 11.826132040818315,
-        "lng": 13.15280582942331,
+        "lat": 11.838920513921693,
+        "lng": 13.14347271303087,
         "location": "Borno State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Seven killed as bandits attack Local govt in Katsina",
-        "type": "严重袭击",
-        "level": "high",
-        "date": "2026-06-29",
-        "lat": 12.983176920953166,
-        "lng": 7.593533304070516,
-        "location": "Katsina State",
         "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
     }
 ]
