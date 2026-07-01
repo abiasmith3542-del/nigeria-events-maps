@@ -4,369 +4,529 @@
         "type": "恐怖分子",
         "level": "high",
         "date": "2026-06-29",
-        "lat": 9.991654257558357,
-        "lng": 6.001259512049825,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Heavy rain triggers flooding across Lagos, strands commuters, businesses",
-        "type": "洪涝灾害",
-        "level": "low",
-        "date": "2026-07-01",
-        "lat": 6.516368859074122,
-        "lng": 3.373044064203276,
-        "location": "Lagos",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "20 killed in latest devastating attack in Nigeria",
-        "type": "严重袭击",
-        "level": "high",
-        "date": "2026-06-25",
-        "lat": 9.999945913349979,
-        "lng": 5.98903817772458,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Heavy rains trigger widespread flooding across Nigeria’s commercial city, cripple businesses",
-        "type": "洪涝灾害",
-        "level": "low",
-        "date": "2026-07-01",
-        "lat": 9.998588215125283,
-        "lng": 6.00690137073659,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Nigeria’s security crisis: 79,323 killed, 34,773 abducted in six years",
-        "type": "严重袭击",
-        "level": "high",
-        "date": "2026-07-01",
-        "lat": 9.991848240939541,
-        "lng": 6.002219915761283,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "NiMet Warns of Flash Flooding in 19 States, FCT",
-        "type": "洪涝灾害",
-        "level": "low",
-        "date": "2026-07-01",
-        "lat": 9.045426671536962,
-        "lng": 7.5002183097479085,
-        "location": "Abuja (FCT)",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Newspaper Headlines: 79,323 killed, 34,773 abducted in Nigeria in six years",
-        "type": "严重袭击",
-        "level": "high",
-        "date": "2026-07-01",
-        "lat": 9.9897658202453,
-        "lng": 6.006096860958248,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Military Neutralises 129 Terrorists, Rescues 542 Kidnap Victims in June",
-        "type": "恐怖分子",
-        "level": "high",
-        "date": "2026-07-01",
-        "lat": 9.999760557142926,
-        "lng": 5.997581096679954,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Nigerian army rescues 10 kidnapped students, as 2 soldiers killed in clashes with Boko Haram terrorists",
-        "type": "恐怖分子",
-        "level": "high",
-        "date": "2026-06-29",
-        "lat": 10.014164545548027,
-        "lng": 5.992194258394831,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Nigeria’s Leaders Slammed After Funeral for 9 Catholics Killed in Kaduna",
-        "type": "严重袭击",
-        "level": "high",
-        "date": "2026-07-01",
-        "lat": 10.517308068952895,
-        "lng": 7.401979379657767,
-        "location": "Kaduna",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Flooding Triggers Widespread Power Outage in Parts of Lagos",
-        "type": "洪涝灾害",
-        "level": "low",
-        "date": "2026-07-01",
-        "lat": 6.524534667251905,
-        "lng": 3.3926471400410727,
-        "location": "Lagos",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 9.150367369150043,
+        "lng": 7.759400370486773,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZWFXT2tsZUhIdEJjZ0tpdDdsekU0aGY2NGlVZEoxWHV4UzY0U0U0eXVGdUdCZU1qc3hvWm8yVkUxZElEVFg3aUJxUlYxUnZQRE40N0MycTZXV2JIdkZJTWFfTGd1dXhJeklQNzljdEd1akxFWlp0Z3pSZWdkNkVfaThuVlNKUzJZQjZPVVgyVGJubU1sUFZreHkzZ3JWamU4UVUzY0QzTEl4VW5sa2FWUzdzWktPRDV2WUJYY1pxelZ6MG5VTFE?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "Protests in South Africa against illegal migrants: 'Di protest go continue afta June 30 deadline'",
         "type": "抗议示威",
         "level": "low",
         "date": "2026-07-01",
-        "lat": 9.606747004789701,
-        "lng": 7.688497619962137,
-        "location": "Nigeria (General)",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 9.234395551963166,
+        "lng": 7.248492651124587,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fUm1kbGxNTEJ5NldaN21zS2VJOFU2WG01YklnZVluak1JY0psVGlDc3BSb2otZ2RjY29PZzNCeXNUOC1LTWpzU3ZNTGQ4eUhfcHR0NEU1LW16Wkhf0gFiQVVfeXFMTklrNnNxMFRyZDdWYnBKU0R3RlZxdTJHQk5JMkhzdk1tc2dzdktET3k2Z25Cakl3Q09rS3Q1a1A1WWpRVHRVZUhZU3F3TVdDaUU3ZTdFdkZzOEVqeEJvUVh6VFE?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Boko Haram terrorists attack school, kill teacher, kidnap several students in northeast Nigeria",
+        "type": "恐怖分子",
+        "level": "high",
+        "date": "2026-06-29",
+        "lat": 9.147531442961606,
+        "lng": 7.825747915053068,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNOExhMmtLdGVTS205ZU0wSFpIOTZyMmQyakNQeVItRjExck1vSUJEc3RzdUtVc3RucUZyOEVNVGtsWllFQ2FQMl9EVHM0RzZSQWU1RGlZSWRGV3gzNjdCVGh6Y0JaX1FTTENvbHZQZExVR29xaUZHeFBiMGJyUkJ0V3Y2YmJOSnlDQ3lQZTh2aXdOOFZEaVBYUlRLU3NVQzBoVlRRZEtBMkJwYzNKWlk5QTJnOUowbkhBemY0dEl0VmJKUklTVUpUM0ZFb0cyQQ?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Gunmen storm a Nigerian school and kidnap students during exams, police say",
+        "type": "绑架事件",
+        "level": "medium",
+        "date": "2026-06-29",
+        "lat": 8.577198454043568,
+        "lng": 7.363728243711454,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTlZQXNVWC01VGRmUU45dmNjaXdnS1hNdmJEbGpUUWRGWWsybmRLeDhYN0o0UDN2WTc0eC1maU85TkpvNDZEV2xQSUllV2J4Yk1obUF1M21FaEtyMUN3TjdCWnZSV1plOFFfMVVmRkNkVDIwMFVQUzMtVWl2Vm9iUHNOVTJFWk9DZkRTLWtXanpXUnpmOGNlc2poZFgyZGVOWkdUUldhSGJUaDBRN05oX9IBtgFBVV95cUxQNTVMQkV3cEQtVlA3T01kb2VZYWpxbVZTVGRnN3JsVGV2Y0txVlBZNE9zVnI5Rm9TaWN1bTYzRXpDenZLYWpDUGx0d3J6NThSYmVJQ1VUdVR4UHpYVVBkVTdHYTZRbEdleWx5SVRtSFFWc0dIcjFTVWFHcER6LTdkbUpTbk84U05mZjVKNWdwTzV1QjdvTWxoUDNKY1M1UGZoaHBmU2o2azlQUnQzamxUc2N3cm9Bdw?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Heavy rain triggers flooding across Lagos, strands commuters, businesses",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 9.103504179678035,
+        "lng": 7.333696619970845,
+        "location": "Lagos State",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Lagos State</div><a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVWo1MEpSWk5BUnowTUdFOWNWWGw4bHZMajRMTWlWYnRyWkRldmZndTA3TlFOS2wyYjE3RURJOG1wU2wxV04yTEhyWHFCWmMxVkxTUjlfUUh4Q0NCT3VJODBlN1lYMFlqOVpJZURicjJzb1hWdktyYXh3Q3YtMGlUSEpLLWRreXgyVzctUll1VVd4Q0hTNm5yaE9UM3pTbG03dHFTa3l2VVVwWkIyeHRN?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Nigeria’s security crisis: 79,323 killed, 34,773 abducted in six years",
+        "type": "严重袭击",
+        "level": "high",
+        "date": "2026-07-01",
+        "lat": 9.210738916563518,
+        "lng": 7.734481097016299,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWNOQ0VFdkloVEl5ZFJKZF9DNmJCZkF3VkgwdGlsWUJYQ3g3ZDVUaDI4NFR4OUJ5S1k2QTFfQVpvUVFvYXNRVlU4RnctZVd2Q2JiRkEwc0YxS29GYWgtN085RmFUaFktRnB3WlBOSTNfdkhKVkJqQTY4TUhiRXQ1cdIBhgFBVV95cUxQeTBKcmpLN3AtMG9iME1mQmVGdEZVWU1hLU02aGpxclE5dFlHeFp4VEJnczRJQmJlU2lWMGxuV1FfaXg3eFltRWtXMVFnZ0NjemZ6b2hpb1pUanhlbzR0M1dmSGVWQjRSN2t2SlBzbl9MLXk2bVZ0b1BpRnFZS09YSnZ6Vmpqdw?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Newspaper Headlines: 79,323 killed, 34,773 abducted in Nigeria in six years",
+        "type": "严重袭击",
+        "level": "high",
+        "date": "2026-07-01",
+        "lat": 9.304359032532187,
+        "lng": 7.759107590523067,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQU19sM0hEcE5WT0U4Tjk1SW9uNkNEU24xdTdjN3RPRm9na2Q0NjNucUpnVUJhRC02SWFHcUJLemZGeFN5eVgxcWk0SGE3QnFQc0l4WjdNOVMzUDNlZHJscUtRYTVyU1dDWmNheVZpM3RuZjVHSmxNY1RLTnRLMWtLcGF1eU1Jc2RUYk5QVEdxRHdBZUtHOF9oOVpNQjI?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "79,323 killed, 34,773 abducted in Nigeria in six years – Report",
+        "type": "严重袭击",
+        "level": "high",
+        "date": "2026-07-01",
+        "lat": 8.765797105006603,
+        "lng": 7.642989836276959,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPb29mdVlOZ2d4OVNvU1FIekhFTVhWdjlCZWJPQmk2YVVXMmM3ckxOeHhYQXJBSFB2SFZybzJyNGdDaGJWRkVqSl9mMkZTZ054T1lxNFJKTHpIWDlibnJQUFJlbmhlSjF1VG9DaFJOQXd4ZkI3aTB4SFhaVzEyeUVLSVlpWmtKZw?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "NiMet Warns of Flash Flooding in 19 States, FCT",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 8.570513157679633,
+        "lng": 7.38708464420477,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFAtbzV0Um82X1A1TmVnNzg1NllvVkRWMlBPYk1pNTB3ci0tSkhtNERJQTN6bmtfN2UwTEdENnF2LWRQTldSaEtGT1RQRXpEN0RYRGNvb2tCRVpDZnpHRUxJY29DSXFxd2NPczAyZGdYcHVqN1Iy?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "Nine people killed in building collapse in Lagos, Nigeria",
         "type": "严重袭击",
         "level": "high",
         "date": "2026-06-26",
-        "lat": 6.53745335601486,
-        "lng": 3.370473975061077,
+        "lat": 6.45448891956559,
+        "lng": 3.3861191061060847,
         "location": "Lagos",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Lagos</div><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVWtUUjMtMjdUVWZZZHE0RTBVS0ZIUnd5blFxMFBfVE91cVk3LUY1WnFmbWtOOVRfQ0djQnBHdHg2a25TUlVlcmM4OURoTklKM1E3MWtEYjZzdGl5c3ZzZDA5cUF0a2xibXpyTWRQQ2xsSjRlWk5iNUlMZXB0S0VqUlRQREppSDRrUlBodWthaERTUUhreVVPanpRVlQ5Z9IBowFBVV95cUxNaHRmdFlOVnFCNFk2WDREbzJuY21fdnl2dTdXSENoajgwcUVSUmE0U0VoXzVDanBBTFVSd1VoWWFkd3ppWHNrbFFrVlFhQUVlNDUzazBkd21aS1Y1d3ZDNUg5SzdQcTVLd1dzNTVXVGQ4Z0Rvc3lVbEQ5Qlk2Rk1lWmtFcGE0dFB4bXd5ZHBYY2U1eVB4dVo5VlM1MHRScTlxTXpv?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
-        "title": "Flooding Forces TCN to Declare Force Majeure at Lagos Substations",
+        "title": "Heavy rains trigger widespread flooding across Nigeria’s commercial city, cripple businesses",
         "type": "洪涝灾害",
         "level": "low",
         "date": "2026-07-01",
-        "lat": 6.511605242697337,
-        "lng": 3.3725173981538408,
-        "location": "Lagos",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "Lagos residents lament as flooding cripples transport, businesses",
-        "type": "洪涝灾害",
-        "level": "low",
-        "date": "2026-06-30",
-        "lat": 6.524269706299199,
-        "lng": 3.3688197561721194,
-        "location": "Lagos",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 8.85257631580105,
+        "lng": 7.037223582613024,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkJ4Y2ZGS1V5Y0xKMDQ1UlR5U3Q0MnZ1bU0xYUFBR2E0X1ZGMExqVGNoYkxLc1NiR21KeU1GM1dTaTVjN19ZaU5MaE9fZTVvTjlwbWNDaThOeUZsRFRJZUktamdfS0pWdEEwVHY4UVFWalhIcDRodFlWVURsSWluSFhxeThMX19TcTRNSExMb0t6OVZaV3F2SXpKenVITlFCbEtFOWNwUmdwczNzMWdEcThYUWczMFRqVi12OTBUcWRZcmxYTGc?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "South Africa anti-immigration protests on June 30: Nigeria evacuate 269 citizens from South Africa as June 30 deadline for illegal migrants to comot take effect",
         "type": "抗议示威",
         "level": "low",
         "date": "2026-06-29",
-        "lat": 10.00442347503764,
-        "lng": 6.007646806392619,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 8.67133676288742,
+        "lng": 7.974691613805658,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pay1fS0VpMU41YXRTdUtqRGF6X2hyd0I1UTRfYVpJeHU1YTlfS3ktYVlvbm16MEx6SEs2Q0F5TEt6RVRvZ19GQU5pSE5pMUZzNVJXMkVWbFdCOUdN0gFiQVVfeXFMUGRiUVZlcnVvUUU4YzF5MEVYMkhZMWNadjFnYWEwSjNFSm5TWTBnVGYtdTRXc3BoSm03YVBYakE3dWN1dUJOc0hqSGdvRFRhcS1ZVGRac1YwQndVeGlhU1JRMmc?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Nigerian army rescues 10 kidnapped students, as 2 soldiers killed in clashes with Boko Haram terrorists",
+        "type": "恐怖分子",
+        "level": "high",
+        "date": "2026-06-29",
+        "lat": 9.504196878859355,
+        "lng": 7.824238099439432,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTkhWWlBOQm93UUdhZlA2VkNHOTcxa3kxUjAxNGRfQjZZc2MxM1lJS2FRejk0a3NLRHh6SXdKLVlxSlJTdnVRcTVQZi1tSjgtRFFJdUV2OHBJNjBZc09CY3J1OGk5SUZNNWpwd1had0Q1dl9FNktXU2cyN3EzTm9TYlJYWHh5YXdfMDNOT082V25JdjZNMGdxd1dJRTJpcUdtbkhhdlJsT3NiVmRLSDlha25nQmV1VmYwaWxqRTc1NFhGb1RWVGRvQVVXZXhac3hhbXRtZmc5V2Utdw?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Military Neutralises 129 Terrorists, Rescues 542 Kidnap Victims in June",
+        "type": "恐怖分子",
+        "level": "high",
+        "date": "2026-07-01",
+        "lat": 8.620907658973255,
+        "lng": 7.878241748367973,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPNEx4ZUt3WHAxMWFvX3VJZDZCTk9YN1RVcEpodVZfZkV6cC1JOV9qZXEzdER3anJVb2lTYVJQR0xoUzVTZTBTNldUbW9BekhrVmktZldyN05ydmVVRUtFMmZtSXI4cmpEdnZCNEdwck5WNjBUQUgtSHZRU1lJM0NqQmN5akVBek5SS1FzbjJZOTdzMFBKdWszRWtVc0JhcThlR2xibl8zUHBiaVIyMW0wVEJFbDFfdmZ4QlpqSkN4Y2NwaTZ0?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "At least 37 students missing after school kidnapping in Northeastern Nigeria",
+        "type": "绑架事件",
+        "level": "medium",
+        "date": "2026-06-30",
+        "lat": 8.639234070305557,
+        "lng": 7.60434340616089,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUhKSE1HaTQtNmp5NUNpUmpaN21LSFlGaWNiQzE5bG9UTnh3cW52RHJaY05rMjRUa18wWkNhdEV2VUNDRFBiN3lDdGkxZ3ZueXpZdHUtR1VHSnhCZ0sydDNzMDJ4U0hFamE5cjBsbEhrSEVIOEJvdmdDeHJSU3B6YU9TOVA3M2hhdy1WWGdkbjE3cjFIX24yM0RWQ25Wb2RzMmZqMHA1NXhja2ZaYnNvRjZWTDdSUdIBuwFBVV95cUxOVjAyZDhLc1pseEpBYUQtcHBrcmY1RnZ6VkJWaGc3UE9jbjB5OU1SWWJpRHBtaldkOTZ0ZjRBeUZYZ3I3cjBUOU5taGRuLW9ubzBzOVNfajh2LXlPZDFqV2o4bFVadTVuMmQ0Yjg1NG9xSVEtSWhsdG9MZUdkc1JPbGNTblV1eTJrSm5Ca0I2ck05ejUzUlMwRnA2QXA0VmZOMWpkZzNSdHNjd29KUHEwZk8wT1ZPek9UREtF?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Nigeria’s Leaders Slammed After Funeral for 9 Catholics Killed in Kaduna",
+        "type": "严重袭击",
+        "level": "high",
+        "date": "2026-07-01",
+        "lat": 10.616710762641523,
+        "lng": 7.279176113831844,
+        "location": "Kaduna State",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Kaduna State</div><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcUNOT2g1WEVWRi1EQjZwVGlsYVRxVUZwVVJhZEZ0LWk1dC1aWDlIY0pUQ080R3FDdXpva0dIdHlVUUU2SWZxTXJ0X2lxUGtwdC02U1JEM2xqZ1UzRTJzb0Z5dDlaUzJkNDRleEFDNnc4dkpkeXNpN0c4dEhZdkVDV2ltQ1RObGgyTTEzRWxyUm5xTDRHejNfc0YwVldURHFURU9Yem9VeXQ?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Borno State schoolchildren kidnapping: 'We neva get peace of mind afta dem kidnap our children wen dem dey write exams for Borno'",
+        "type": "绑架事件",
+        "level": "medium",
+        "date": "2026-06-30",
+        "lat": 12.180376687200972,
+        "lng": 13.317221069265504,
+        "location": "Borno",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Borno</div><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XUG5UTDYyNEM5aERXWmF5V3A0Q0swTERCbFJnRTZ0ZDZiUGp0UFgtNzRrdnZ1U2Jza0ljMjFfRTFLQWhGRm1HTDh0NEcySm5TVUgtdmNWUUlzYmhC0gFiQVVfeXFMUEhiWXNNZVgxTlJTaUlhdFFJcGdXYmFRR2JwWWNwWWt2S2NPYl9fd2QtZUtJX3k3RXc5OXdCVnZhSDF3eFdhNEZjdVI4SHB2aGJfOUVtaGhSaHQwenNVMFVkeUE?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Flooding Forces TCN to Declare Force Majeure at Lagos Substations",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 9.129569274756875,
+        "lng": 7.3921444233438836,
+        "location": "Lagos State",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Lagos State</div><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGtJSXlPSmd0a0pFaHJ2NHJ4cWdYbkVnS3hhX2lvaFFqbjNORmxvS2FjNVVyeTNRemNZREhXMi14MUhnWjlUV1JQd0dMM1BoZFJzN3FTSVVPT3M1VHRFT1NYS29BS2dkX3ZJeVZpZUw5Zl9WdkNRS3hFeVVOMkNFRmVqQ2MwUkV5SmNJOHZ5UG9zNXdlUlNaVU9CQlBETERhNWZTLXVlQnlZU1BVRm9tbm93?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Xenophobia: Nigerian embassy packed, 269 return as S’Africa protests rise",
+        "type": "抗议示威",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 8.651658130898419,
+        "lng": 7.428204714387331,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmdWU3d2NWpOb0FoS0ljWEpKOE5FRW16Y1RRblZZd21kdjVsUXcwTS1GUmxTSWttb3ZySWF1Sk9pY3hnOFRQd3JfMmctNi1VN1oxcjRTaXRlLUtRV3FjOTRFUm1sVGtoVWczck1yaVJXcjM0cmtoeUpaaVgxcUppY01UdXl3c2ZycFJLeXgxdlU5c2g1dUE?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Flooding Triggers Widespread Power Outage in Parts of Lagos",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 9.048284786279291,
+        "lng": 7.656376822877062,
+        "location": "Lagos State",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Lagos State</div><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMUdxTEh4WUFRdFNJM2hKTXZ1V2d5NmdwdU9fSE5ZVzBrMXVvYUNwbjhFS283aGJ0aXFOSlg5QXBvYUZiWWcwWG05NS1WbjFDVkdhNUFoeEVGMXNNM2FGNHJkc0szYkFlNlNQdVU4STNYcHM0eHljRnlXLXIzLWppYi1XUEJVWHpJam5pdHk5a3Q1RV9rU2E4?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "Teachers Dead, Students Abducted in Lassa School Attack in Northeastern Nigeria",
         "type": "强行诱拐",
         "level": "medium",
         "date": "2026-06-29",
-        "lat": 10.01109263709219,
-        "lng": 6.0034078432627656,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "West and Central Africa: 2026 Flooding Outlook (23",
-        "type": "洪涝灾害",
-        "level": "low",
-        "date": "2026-06-25",
-        "lat": 8.732386030091728,
-        "lng": 7.4849164610609416,
-        "location": "Nigeria (General)",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
-    },
-    {
-        "title": "NiMet Alerts Lagos, Others To Flash Flooding In Coastal Areas",
-        "type": "洪涝灾害",
-        "level": "low",
-        "date": "2026-06-30",
-        "lat": 6.538988122927156,
-        "lng": 3.374939416678146,
-        "location": "Lagos",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 9.381378718209469,
+        "lng": 7.97840605717556,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS09ERnE3S0hWS1VkZmtwNkpNdDU0SnRpMHd6R2Z0WFJ2WS03d29qaS02MElJMDNDSzRXRkFLX0VaVVlGYXVsMG5SaC1jOVU2OWhDTlZpcUw1bFpYQ2R2UUxiWVIySjlkMlVQdEVrY3RwcVJPZXJCaDMzbm43QXcwZXNzV3FJdnk4NmtUYnRGRzZfODE4cElKcGd1Rm5JT25PU3ptR3FaLU0?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "ORFA report: 79,323 killed, 34,773 abducted in Nigeria’s terror violence in six years",
         "type": "严重袭击",
         "level": "high",
         "date": "2026-07-01",
-        "lat": 10.011427200958014,
-        "lng": 6.0127783336369545,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 9.517537639941137,
+        "lng": 7.837386385863456,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUVdDMllCc19GM0lraW1Gd2k3Rm53M3ZNdUFBREF3VE40Um05NE13VkJSMVlrVW5Zd2NVZ1BoYV9tTjlBSXhTRno4U1VOY1VETGxRS0FuZkxzc053c3ZGLTRmSW1FQVRVTlNOWVhsMUNfaVJUbGJ3MDk3ZkkzR2g3TDlDUkJuQ1ItVVR1T1ZjcHpJM2ZKdGc5bzh4U19GTWFQSGFVdGpXUHYwTXQ3Q0ZUeg?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "12 convicted, sentenced to death over terrorism, kidnapping cases in Nigeria",
+        "type": "恐怖主义",
+        "level": "high",
+        "date": "2026-07-01",
+        "lat": 8.58789276903203,
+        "lng": 7.904106494358622,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0pRX192V1Z5Vk9rVzRDaThlbmRlbm42dHlMd1FkNFpPaUxsVGg3SENMVWtiMWRfVzZfaVVCbjlPamlpYXR6WjZPOGtldHRXS0dIbjYzYUUtaGdpckpWRjQ0OEFMNjhSZlhmcS1XcmJuM3hHWlphVFFWXzJON1RNV3ZkZC02QVo2aXF5dnd0ZFJuZFJ2MmZUdFZtclB6QUNrcDBmOUVBc3BOMGM?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Nigeria warns against attacks on its citizens as anti-migrant protests begin in South Africa",
+        "type": "抗议示威",
+        "level": "low",
+        "date": "2026-06-30",
+        "lat": 9.245121128727165,
+        "lng": 7.8364736110323605,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmFucU1xMVVmUFdpeHEwR1U5Z0FDZkhnaU12bUgwdkkzM2RfcTFLeW94eWtseTg4QkNIRW41cWt1MlprTkhtNkcwSElCMnRQRGxLY3BSeXBnTmNIUlJReWFERDB4aFFhWDA2QnFya2cyM0g5RlRmbF9ZbEhLU1VOTzNSOUhWVEQ3TkJsaU5IdXRPbHFjTG0wMG9EWnl6SVg5ZnFn?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "NiMet Alerts Lagos, Others To Flash Flooding In Coastal Areas",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-06-30",
+        "lat": 8.903015651274217,
+        "lng": 7.488925727895084,
+        "location": "Lagos State",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Lagos State</div><a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3pnYXRUVVp1dU1ydzU5WW5qUHZtTG1lOXN3VFF1R3RLQ2ZHc1BUdVp4YmR4MGZ6TjU0T3RadVYyWFJXZTBzVjlyOHNlam8yWHg0MGRWdGQ0bWs2YU1vVVhpYWN6enBVeHVJZ1F1WG1IbG1JMVZ5ZTFnSGtaTWZ3SXJWMlp3RFQ3ZFc2UkJWaE5tc1d3WmhBQmJib3NTMTIz?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "Severe flooding cripples Nigeria's commercial hub Lagos",
         "type": "洪涝灾害",
         "level": "low",
         "date": "2026-07-01",
-        "lat": 6.529616534877425,
-        "lng": 3.3718075098731095,
-        "location": "Lagos",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 9.192938476701414,
+        "lng": 7.670653085085527,
+        "location": "Lagos State",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Lagos State</div><a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYlluaHllWUZyUFVwZHZTY19BQWNFNzZrVEJkdE9xV21Ub0VXbUxiY2tVcll4WVJPLWdBeEU2RGlNbjQzcnhVaTR0ZHYtX0tGWExWN044VXZwYlpGVUM1QjRnUTBYeVBRdExBdmtCTTMyMTY5b1JDZm5HbWM1dDQ5aVRndHpuVjdQcVZ3TUtvMmZaNHh4NnpseVdGRHU?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "Trump aide: US troops killed 199 jihadists in single operation in Nigeria — biggest since 9/11",
         "type": "严重袭击",
         "level": "high",
         "date": "2026-06-29",
-        "lat": 10.000211512622966,
-        "lng": 6.012434764061132,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 8.948178985300213,
+        "lng": 7.309895494557816,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2wycU9oemRMQ1RwOWM0d1FFSUJZWFhYaFBZNjlmWE9qcG1VbWFRR1lBSHdycUdSeWFTNVlDb3JCREFqTzVFaFVVaGRDcjdUV2N0UWdyZlhZWUl5VlV0NlpKMzZPLVg1YXVnUVF2QUZSN1R5Z09qM0xJOUk4ZndsdWJvN3ZyV3c1X3J2bTR1S3dVbElKTEdEQXk1MXp1cmFteDJ2NmFIX09TRXEwTWdmQWxLN3lncEU?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
-        "title": "Christians killed at twice the rate of Muslims in Nigeria, report finds",
+        "title": "79,323 killed, 34,773 civilians abducted in six years — Report",
         "type": "严重袭击",
         "level": "high",
         "date": "2026-06-30",
-        "lat": 9.996572060528678,
-        "lng": 5.994509196512726,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 9.10192533213941,
+        "lng": 7.260304217651481,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHZLSXkxZ1RkY0lER1lieXNWVGJQY2xQLXZ4OWp1Tk5TeU5yeGx6U0NnVmhYMzlxanROd0pLU1pEakhxTlgxVV82dEd0ZFBJbU9BSHBEeGRpTDRPYzNyZ3BzOWpXUjQzVFZhclVkRDVsVEtLc0hIbWx6S2JmcVo5OVRfTko?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "Gunmen kidnap NKST pastor, two church members in Benue",
         "type": "绑架事件",
         "level": "medium",
         "date": "2026-07-01",
-        "lat": 7.345770814037198,
-        "lng": 8.750899494130383,
+        "lat": 9.084921747427765,
+        "lng": 7.45887423692715,
         "location": "Benue State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Benue State</div><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQajVfd0RQaGg5WG5vSG1vcXhvVC1remh0Q01NQmR5dmFmRUR3djgzcXRSMm1LSkh0R2Ntd0hLbU53UjBjYWdNc0FLT2MyOWgxZS1KSmZ3S3drR3RyUXhJa3RQX1Fhai1vWDV5YjNvdUNfekZrT3JjUmhkUnZPOHQwU2FQa3E1RkI0LVJFSG02Yw?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
-        "title": "79,323 killed 34,773 adopted in Nigeria within six years- ORFA report",
-        "type": "严重袭击",
-        "level": "high",
+        "title": "June 30: Foreigners stranded, on edge as anti-immigrant protests rock S/Africa",
+        "type": "抗议示威",
+        "level": "low",
         "date": "2026-06-30",
-        "lat": 10.010258052974736,
-        "lng": 5.999358036912915,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 9.229545011410357,
+        "lng": 7.587149979721386,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYVdIa1pYOUNsZGtKUjBLVHliRmgyZmhjd1JyS3RsMlVYZXd4aGZoWWhLeUVpNXF5aW9Sc0tvT0xEeUdLQ1ZPT2VDU1l6dGpLUS1kTzM5ZDRQeXlUMm1pcWFLdG9YQXV5TTk3NUxaY3g2d1MyTUxZZWdlSV9lVHRxMi1MN0FhSTR3d3ZFV0Y4aF9kV3VtWVpKbFN1bnQyT2FnNndsXw?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "South Africa anti-immigration protests on June 30: Anti-immigration protests start for South Africa as deadline for illegal migrants to comot take effect",
+        "type": "抗议示威",
+        "level": "low",
+        "date": "2026-06-30",
+        "lat": 9.142024941902728,
+        "lng": 7.4582424028020835,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxNmI2SW45aTJreUhmRldCV1ZmdTNwcGY2V3haSUkyUTFYcTk5bFZrS1BsUFI4OVFPVDMyckIyb0p6M2RHNFdRMUlxWHVxc2djeE9mUlM3OTFDR2o50gFiQVVfeXFMT3p3a2RJQ2Y1LTZ3Tlp5UXMxbG5HMGxxaUxoQ0tSWGhXX3gzazM5N1pjQUpySXZrQUVyNXpIWG5jbXpKNGNlVVpmV1J2S2d3dU5haHkya05nX3ZtdFhsc2FOeVE?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "EXCLUSIVE: Full List Of 104 Nigerian Soldiers Declared Missing With Service Rifles Weeks After Boko Haram’s Deadly Attack On Borno Base",
         "type": "博科圣地",
         "level": "high",
         "date": "2026-06-30",
-        "lat": 11.830363372987351,
-        "lng": 13.157149079449963,
-        "location": "Borno State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 8.749795549144705,
+        "lng": 7.080140043813484,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUUd1Rlh5NWxPWU8xMmpNeDhsVmpvNElsMnQzSE9LWmxWenRFeWhwbmtEWm9tZ3pMbXZHRFJwbC11eWdUYml5Tjd6a29OTjlreTYwNENKSm84SUJxVHpiSDRZLXpuTkRGRk9vdmwzYy1oT1JJRG9EemhsSzNMcGYwNzRMSUREZDM0Q05kNDlESUdoYzNQUlBUVkVGSnpfZzQ5by1IMXVWU1pZV3RmRFowdXBtdE9TLVJYSndvR2xuVndhdw?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
-        "title": "Gunmen storm a Nigerian school and kidnap students during exams, police say",
+        "title": "Nigeria Records 79,323 Terror Deaths, 34,773 Abductions In 6 Years",
+        "type": "强行诱拐",
+        "level": "medium",
+        "date": "2026-06-30",
+        "lat": 8.710380680808669,
+        "lng": 7.273144313837637,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmJwbWlGcDdkMmtjeVNQVWw3V3BIRk9OTHBkTkRsZ2RqSENnRGJKMlBfWTBnTl9GdkU1bkEwZ0NlNU1aaGNSOVc2UHhsdEJyVk9ITkxsTzVKWDBqUmdMZTN1Q3Ezc2lVcG5sOUlLQzlUU0E3U1prdUVBRnpSdFNMVURuZEdTTFM2V3hYdkhiTQ?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Two Christians Slain, Seven Kidnapped in Kaduna State, Nigeria",
         "type": "绑架事件",
         "level": "medium",
         "date": "2026-06-30",
-        "lat": 10.003168505038577,
-        "lng": 6.008966467342294,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 10.375485582902947,
+        "lng": 7.850886562497986,
+        "location": "Kaduna State",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Kaduna State</div><a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZURxQ2ExenppZG45UzN1b0VqdDJCa3czQlc2MEFJVzJ2TDZoQzBrWlVqbDJfN3d6THVPX05ucGxfR3JaTkVJM2dtVFJfTTdEeVZNbThsaGlWbFFaNllOR09qOXBZMldJV0NIdkRFXzZwZVZ1WUJuUjhxYnZCZHZCSThVbHJuOWR2NFNHMEZuM2cxVTNNU1lrdERxM2Ytdw?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "Several bandits, terrorists killed in Niger: Nigerian Army",
         "type": "恐怖分子",
         "level": "high",
         "date": "2026-06-30",
-        "lat": 10.004755989277266,
-        "lng": 5.989231441971735,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 9.040920237414262,
+        "lng": 7.084845702797442,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGdmNG9JOUtFeVd4NV9HLUl2Mkx2c3UzSllySnZvZ3Vaa2owV2ZmQUFkeURaVV9Ld3hFVjBEYjliUWZURE1ObWtUdWVGUG41U25XODc4eFRCY1FLWGQ0YWhkRW1FeVpGcDFqUnJkSmZyTHo2U1dhMndPVXE5YU1wYzZWTjQ1ZUU?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
-        "title": "Oyo Police rescue two abducted children, arrest four Kidnap suspects",
-        "type": "绑架事件",
+        "title": "Nigeria warns South Africa over attacks on citizens amid anti-migrant protests",
+        "type": "抗议示威",
+        "level": "low",
+        "date": "2026-06-30",
+        "lat": 9.454846949575773,
+        "lng": 7.551152538779744,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPSFVTb1RnVFctZ1Z2emNoNmZiaTV1NThyV180NC16SWVhVXNlejg4eVQ2bnJTNHpUc1d5U3d4VnllQWgxUUR2bzJKeWFQRGNPTkJWWldnbFhucGhjY2hiSEtsN09QNkJJazl3bl82YjRveEU2eDRrWjRPQ2JleDdXb2VRaXI2cFYyQ01tLW9DSmJTMkcyQ29VMTVvcVp4NkVKQlVpQXFvS0w5RXBtczdEUA?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Gunmen kill two Police officers at Rivers checkpoint",
+        "type": "枪手袭击",
         "level": "medium",
-        "date": "2026-06-29",
-        "lat": 7.993089967704318,
-        "lng": 3.9895325340622856,
-        "location": "Oyo State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "date": "2026-06-30",
+        "lat": 9.039892971904345,
+        "lng": 7.613293750501856,
+        "location": "Rivers State",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Rivers State</div><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNM0xIdG9OQUF4RVEwZTVqX0hzUGNvdGU4ZkpaZ19GNWZHeDdTbEoxa1J4WlRKSGZ5Y0N6MFYzb25QLUIwQmJBRWZoYm8xVklTRlVRMF9JWTBlUkphWFlJZkdySklQX3ZzY0w4OVlZVFEyYmlQQmdMaHd0cTZ6TWt4UUFIcHpQc0EyaVplN3Z6d0daYXdWZHlJ?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Report: 79,323 Killed, 34,773 Abducted In Nigeria’s Terror Violence Over Five Years, Report Says",
+        "type": "严重袭击",
+        "level": "high",
+        "date": "2026-06-30",
+        "lat": 9.46841455895911,
+        "lng": 7.291642846032697,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPR21FTGk0NlBkXzQwZEpBWjhUTmo4YnFuM3VCMWZoZXVMU0FmTXB4T2stOEt5TUhpT2QxTVp0a1BwZlg3UDlJQmlrclpsd1ZiN1o3bUM2bV91ZllUZzA1Y1dGV3VuTktYRkF1dzBHeDFuZFBPbmhYNUlvaU9CMDZ2NlNlRHNaR21pWXo1TTJlNHBqTVNaSG9Dam54ZWNxTTNUeEEyTTBudHQteGRIbDhvWHFB?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "Flooding: Kosofe Council Boss Blames Indiscriminate Waste Disposal",
         "type": "洪涝灾害",
         "level": "low",
         "date": "2026-06-30",
-        "lat": 9.997600796753373,
-        "lng": 6.014258023422544,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 9.05671556062377,
+        "lng": 7.721273452278529,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOTjBQeF8yellUT3hpcFZVV2dCcTliWjVLYVhQMzk5a0FnbUZielRndW54b0I5TUhmN1BaR1NTWmoyZ2VyMUVzQkJFSU43VEhWYXBJTWNNV3I2VFpTWWNHcGNFMVdaRHhKUDhDV29rdVUzcHY2WkVSbWNvbGItbVBUcXlXVHVlV0lTMVpZQUZ3?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "Bandits flee as troops recover rustled livestock in Katsina",
         "type": "土匪劫掠",
         "level": "medium",
         "date": "2026-07-01",
-        "lat": 12.976010027238706,
-        "lng": 7.607488066989787,
+        "lat": 8.91246170195283,
+        "lng": 7.596826387922963,
         "location": "Katsina State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Katsina State</div><a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPaFJaSGpaVmlFM1drWVBvRVpEVzBLSHduVy1KMzRtalA2Mk9tVXdBYjZqU1hleDRuaFFPOWlhd1hreDE3d25OamI5dTJrQXJidW5rcG1iX3FpT3FqdmVieDNTTnQ5MnVLQWF3Z0FPNnI1SnZwTEttMnhJT1prWnE1U0RNdS1pV0dxTE56VnVlMnQ2WXZzSlVj?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "Several bandits neutralized after military airstrike",
         "type": "土匪劫掠",
         "level": "medium",
         "date": "2026-06-30",
-        "lat": 10.0020127889233,
-        "lng": 5.986246692334214,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 8.739874028850107,
+        "lng": 7.2650505396641645,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMUNGeG5SbkdNTUloWm4xdXRXREJoRTZKNjlhZmNRWkxNM2NWSHgxWEM2VXFZbzlMa0VXUWxfRXhDOXFLRzFVX2I5eF80eDI5TkFCQndlUENHYl9iWF95ZjJyc3VHdkx6MXBfQ3JrS2tjX2RMb1UwRmhEeGRDTV80ZWJKU1haQWgzNndKY3Nn?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Nigerian Air Force eliminates many bandits along Niger–Kaduna–Zamfara border",
+        "type": "土匪劫掠",
+        "level": "medium",
+        "date": "2026-06-29",
+        "lat": 10.360782863077826,
+        "lng": 7.570441650732334,
+        "location": "Kaduna State",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Kaduna State</div><a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnVXQm1hSnA2TWYzYzFKVkdUcFAtS1VVc2FFbC02ZXVOS040VWJmdU5xRDRwVlJiSUV4OUJzbXkwdWIydHpfZXdUTUpvZEdOMGV4dmdaNWNUbEItMDNmQmNwWG5meXM1bEh1RThhTW9KZ25IZ2VLb2p1VW4wb1dNbl9vSVhKTXE0eThfWHoyWGF4cVNBX2RTd2VTbjFJNEQ0bUh1YnRaUlhwVmJETnc?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
         "title": "2027: ‘Justice Lifu must go protest’ rocks Abuja [PHOTOS]",
         "type": "抗议示威",
         "level": "low",
         "date": "2026-06-30",
-        "lat": 9.064239457975896,
-        "lng": 7.4892393522117775,
-        "location": "Abuja (FCT)",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "lat": 9.172520795737645,
+        "lng": 7.2933493128364075,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNTkRCMi1wZWdQN29qQUJHdkJodzhQOGc3YnNtcG80dmpuWnNRMUJlWkhneVc3MkppeUYzcTd2Z1Q2Xzhwdk9TT3NOMjhZaXdDOHhmSjVZX2lZbDBQUnBaV3d4LU04TU92ZEVYUVhiNXM3WkN4aDRINWdRbTVpdExLV1c1SFVhbVBEb2d5OVFn?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
-        "title": "18 Sokoto travellers killed in Kebbi road crash while returning from Lagos",
+        "title": "VIDEO: Nigerians seek refuge at embassy in South Africa over fears of anti-immigrant protest",
+        "type": "抗议示威",
+        "level": "low",
+        "date": "2026-06-29",
+        "lat": 9.142809438549293,
+        "lng": 7.855360853321898,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1VBN09BQWVXdWc3cEFsSzdQUzZWb29qeVNlVmtNbnRpTzZibG01ZkJGbDhGYlp2QlREZTdkNFg2YVJ0aTMzSmNPcnBfX2FzeGdwTWpuZkg0NmFvaEdDYlhKQjdjYlZZbVRVNkswNnhOQzlxUWFwXzFUdDJkUFp2NDNjbHVTOUtWbVVmQ3V5cl91cDNvaUlpRm5rS0daeTBqR0FaYzRPOEtKakNQQWZCUGNn?oc=5&hl=en-US&gl=US&ceid=US:en\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Sokoto Court sentences six convicted armed robbers to death",
+        "type": "抢劫案",
+        "level": "medium",
+        "date": "2026-07-01",
+        "lat": 13.059571150176007,
+        "lng": 5.322816183699732,
+        "location": "Sokoto",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Sokoto</div><a href=\"https://www.vanguardngr.com/2026/07/sokoto-court-sentences-six-convicted-armed-robbers-to-death/\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Benue PDP gov candidate condemns killings, demands action",
+        "type": "屠杀事件",
+        "level": "high",
+        "date": "2026-07-01",
+        "lat": 9.200294376815027,
+        "lng": 7.568592979271372,
+        "location": "Benue State",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Benue State</div><a href=\"https://punchng.com/benue-pdp-gov-candidate-condemns-killings-demands-action/?utm_source=rss.punchng.com&utm_medium=web\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Kane double sends DR Congo out of World Cup",
+        "type": "罢工游行",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 8.751270464016692,
+        "lng": 7.962385295381017,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://dailytrust.com/kane-double-sends-dr-congo-out-of-world-cup/\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Abduction: Oyo teachers suspend strike",
+        "type": "强行诱拐",
+        "level": "medium",
+        "date": "2026-07-01",
+        "lat": 8.210849703356928,
+        "lng": 3.559539903743404,
+        "location": "Oyo",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Oyo</div><a href=\"https://dailytrust.com/abduction-oyo-teachers-suspend-strike/\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "Despite N1.25bn Ecological Fund, Lagos Still Submerged",
+        "type": "洪涝灾害",
+        "level": "low",
+        "date": "2026-07-01",
+        "lat": 6.445495209425922,
+        "lng": 3.4035985576129035,
+        "location": "Lagos",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Lagos</div><a href=\"https://dailytrust.com/despite-n1-25bn-ecological-fund-lagos-still-submerged/\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
+    },
+    {
+        "title": "10 killed in Benue community",
         "type": "严重袭击",
         "level": "high",
-        "date": "2026-06-30",
-        "lat": 6.518076271383934,
-        "lng": 3.3821995141334855,
-        "location": "Lagos",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "date": "2026-07-01",
+        "lat": 7.341339204209409,
+        "lng": 8.776598027437574,
+        "location": "Benue",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Benue</div><a href=\"https://dailytrust.com/10-killed-in-benue-community/\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
-        "title": "Bandits will block Lagos-Ibadan Expressway – Primate Ayodele warns",
-        "type": "土匪劫掠",
+        "title": "Oyo Abduction: Teachers suspend strike after govt appeal",
+        "type": "强行诱拐",
         "level": "medium",
-        "date": "2026-06-29",
-        "lat": 6.511897684492902,
-        "lng": 3.373511905558111,
-        "location": "Lagos",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "date": "2026-07-01",
+        "lat": 8.208984569634065,
+        "lng": 3.569980894154716,
+        "location": "Oyo",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Oyo</div><a href=\"https://www.premiumtimesng.com/regional/ssouth-west/892159-oyo-abduction-teachers-suspend-strike-after-govt-appeal.html\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
-        "title": "79,323 Killed, 34,773 Abducted In Nigeria In Six Years — Report",
-        "type": "严重袭击",
+        "title": "Death toll from Venezuela earthquake rises to 1,943",
+        "type": "致命事件",
         "level": "high",
-        "date": "2026-06-30",
-        "lat": 9.993690136020032,
-        "lng": 6.007846686681134,
-        "location": "Niger State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "date": "2026-07-01",
+        "lat": 9.106784777253175,
+        "lng": 6.990287936292682,
+        "location": "Nigeria (General Area)",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Nigeria (General Area)</div><a href=\"https://www.premiumtimesng.com/foreign/world-foreign/892172-death-toll-from-venezuela-earthquake-rises-to-1943.html\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     },
     {
-        "title": "Bandits kill teacher, abduct students writing NECO exam in Borno",
-        "type": "土匪劫掠",
-        "level": "medium",
-        "date": "2026-06-29",
-        "lat": 11.819151209226304,
-        "lng": 13.151917977021204,
-        "location": "Borno State",
-        "summary": "<a href=\" \" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击查看原始新闻链接 (Original News)</a >"
+        "title": "Nigerian Army declares 104 soldiers missing, says they ‘absconded,’ are ‘deserters’",
+        "type": "叛军活动",
+        "level": "high",
+        "date": "2026-07-01",
+        "lat": 6.421334868236192,
+        "lng": 7.483739035605758,
+        "location": "Islamic",
+        "summary": "<div style=\"font-weight:bold;margin-bottom:5px;\">地区: Islamic</div><a href=\"https://www.premiumtimesng.com/news/top-news/892134-nigerian-army-declares-104-soldiers-missing-says-they-absconded-are-deserters.html\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline; font-weight: bold;\">点击打开原始媒体报道 (Source Link)</a>"
     }
 ]
