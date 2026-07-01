@@ -153,7 +153,7 @@ def fetch_rss_news():
             if not level:
                 continue  # 过滤非安全事件
 
-            # 升级：同时把标题和新闻正文简介丢进地点提取器
+            # 升级：同时把标题和新闻链接丢进地点提取器
             loc_name, coords = extract_location(title, description)
             
             incidents.append({
