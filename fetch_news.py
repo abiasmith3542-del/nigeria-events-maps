@@ -164,7 +164,7 @@ def fetch_rss_news():
                 "lat": coords[0],
                 "lng": coords[1],
                 "location": loc_name,
-                "summary": f"据尼日利亚本地媒体报道，在 {loc_name} 区域发生了一起【{event_zh}】相关突发事件，请注意安全出行并查阅原始新闻。"
+                "summary": f'<a href=" " target="_blank" style="color: #007bff; text-decoration: underline;">点击查看原始新闻链接 (Original News)</a >'
             })
             
         return incidents
