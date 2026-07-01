@@ -1,7 +1,7 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
 
-const API_KEY = "你的API_KEY";
+const API_KEY = "pub_92a3062b63da4ee3b31c528e88c0e618";
 const FILE = "./data/events.json";
 
 // 👉 7天时间（毫秒）
