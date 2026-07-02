@@ -790,5 +790,38 @@
         "location": "Ogun State",
         "source": "Punch Metro",
         "url": "https://punchng.com/2027-ogun-west-group-yayis-aide-clash-over-senators-indigeneship-status/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops repel ISWAP attack after ambush on military convoy in Borno",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 11.8027,
+        "lng": 13.1503,
+        "location": "Convoy Area, Borno State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/troops-repel-iswap-attack-after-ambush-on-military-convoy-in-borno/"
+    },
+    {
+        "title": "Sokoto: Bandits gun down 10-year-old, abduct married women, children",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 13.0774,
+        "lng": 5.2399,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/sokoto-bandits-gun-down-10-year-old-abduct-married-women-children/"
+    },
+    {
+        "title": "Police Arraign Three Suspects Over Jungle Justice Incident In Ebonyi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-02",
+        "lat": 6.2511,
+        "lng": 7.9698,
+        "location": "Incident Area, Ebonyi State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/02/police-arraign-three-suspects-over-jungle-justice-incident-in-ebonyi/"
     }
 ]
