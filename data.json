@@ -152,5 +152,71 @@
         "location": "Kogi State",
         "source": "Google News - Nigeria Local",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR0tUU2VKTERINjRXanl0RXBWVXRNYWVDWHBtYzZUanAzT2p0bUhXcldpOXMwYWdMdzR6WFpCeDNMbmo4SDdiY3RyYnFxQ0VWXzVJZFJlbG4zNmZERlVzZU1Mb1JxS2RBOWFHU3FVY0ZKMW11QjVLblo3UVdPMGlZRVJ2UTFMcmQzbUY5UEtzSWNXY1A0NDJpaVFLaXAyZW80U2dtWXhFRHVqbmhrMkF2VklaNkhUTTZqc1lBZ014YXlQV3NlcGFhV0NSbl8xZw?oc=5"
+    },
+    {
+        "title": "Police arrest two over illegal firearms in Plateau",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-02",
+        "lat": 9.4676,
+        "lng": 9.5583,
+        "location": "Firearms Area, Plateau State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/892363-police-arrest-two-over-illegal-firearms-in-plateau.html"
+    },
+    {
+        "title": "10 killed in fresh attack on Benue community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 7.3583,
+        "lng": 8.7834,
+        "location": "Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/10-killed-in-fresh-attack-on-benue-community/"
+    },
+    {
+        "title": "Many feared killed as herders, farmers clash in Niger",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 10.0167,
+        "lng": 6.0358,
+        "location": "Clash Area, Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/many-feared-killed-as-herders-farmers-clash-in-niger/"
+    },
+    {
+        "title": "Bandits kill 2 Quranic students, abduct 3 in Bauchi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 10.4951,
+        "lng": 9.9785,
+        "location": "Bauchi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-2-quranic-students-abduct-3-in-bauchi/"
+    },
+    {
+        "title": "Another IED explosion leaves 2 soldiers dead in Sokoto",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 13.0392,
+        "lng": 5.2417,
+        "location": "Dead Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/another-ied-explosion-leaves-2-soldiers-dead-in-sokoto/"
+    },
+    {
+        "title": "The avoidable deaths from Lassa fever",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-02",
+        "lat": 8.9581,
+        "lng": 7.5842,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/the-avoidable-deaths-from-lassa-fever/"
     }
 ]
