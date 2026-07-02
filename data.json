@@ -757,5 +757,38 @@
         "location": "Weapons Area, Kebbi State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZE9fREV4Z3c1aDRXWmJDQ2VBaUJoQ0lTN2RldGhuRHJFd042ZVdzTFk4MzhkSnB5c0kxM21KQ3gxQmJEcXZnNjRUcTN4aVpSU3kzRFNpR0tCQWJTYk15U3l0a2phOGxPVzNqUDVHVFlOUEJXT3U0UE1yaXVlOENNdXJfSW1pUEdDT2FQOWpFZG5rUlNYd3VLR2hwb2hHYzExM0cwUGt5SU4wckd2cWZqdlF3?oc=5"
+    },
+    {
+        "title": "US pulls troops from Nigeria after counterterrorism operation",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-02",
+        "lat": 9.9562,
+        "lng": 6.0494,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/us-pulls-troops-from-nigeria-after-counterterrorism-operation/"
+    },
+    {
+        "title": "ASUU threatens indefinite strike over unpaid 2025 agreement at Plateau varsity",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-02",
+        "lat": 9.5327,
+        "lng": 9.478,
+        "location": "Agreement Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/asuu-threatens-indefinite-strike-over-unpaid-2025-agreement-at-plateau-varsity/"
+    },
+    {
+        "title": "2027: Ogun West group, Yayi’s aide clash over Senator’s indigeneship status",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 7.0224,
+        "lng": 3.5305,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2027-ogun-west-group-yayis-aide-clash-over-senators-indigeneship-status/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
