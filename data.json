@@ -1,11 +1,22 @@
 [
     {
+        "title": "Rev360 Crash: LCCI demands CIT deadline extension, penalty waiver",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 8.9919,
+        "lng": 7.5747,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/rev360-crash-lcci-demands-cit-deadline-extension-penalty-waiver/"
+    },
+    {
         "title": "NPA launches task force to tackle port gridlock",
         "type": "突发涉安事件",
         "level": "low",
         "date": "2026-07-02",
-        "lat": 9.0246,
-        "lng": 7.4159,
+        "lat": 8.9669,
+        "lng": 7.5304,
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/npa-launches-task-force-to-tackle-port-gridlock/?utm_source=rss.punchng.com&utm_medium=web"
@@ -15,10 +26,21 @@
         "type": "突发涉安事件",
         "level": "medium",
         "date": "2026-07-02",
-        "lat": 9.0268,
-        "lng": 7.4861,
+        "lat": 8.9618,
+        "lng": 7.4277,
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/state-police-ekweremadus-foresight-tinubus-courage-mbahs-example/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kogi Monarch urges unity to tackle insecurity, praises Tinubu’s State police plan",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-02",
+        "lat": 7.7685,
+        "lng": 6.6965,
+        "location": "Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kogi-monarch-urges-unity-to-tackle-insecurity-praises-tinubus-state-police-plan/"
     }
 ]
