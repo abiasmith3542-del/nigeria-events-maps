@@ -3,19 +3,19 @@ import re
 import random
 import requests
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # ==========================================
-# 1️⃣ 核心涉安与公共卫生白名单矩阵
+# 1️⃣ 核心涉安与公共卫生白名单矩阵（强准入词库）
 # ==========================================
 SECURITY_KEYWORDS_MAP = {
     "high": {
         "tags": ["恐怖袭击", "武装冲突/严重袭击", "绑架劫持"],
-        "keywords": ["killed", "dead", "fatal", "bandit", "terrorist", "massacre", "abducted", "kidnapped", "clash", "razed", "bomb", "attack", "manslaughter", "iswap", "boko haram", "herdsmen", "gunned down", "assassinated", "ambush", "beheaded", "hostage"]
+        "keywords": ["killed", "dead", "fatal", "bandit", "terrorist", "massacre", "abducted", "kidnapped", "clash", "razed", "bomb", "attack", "manslaughter", "iswap", "boko haram", "herdsmen", "gunned down", "assassinated", "ambush", "beheaded", "hostage", "neutralized", "massacred"]
     },
     "medium": {
         "tags": ["安全冲突", "逮捕反制", "治安事件"],
-        "keywords": ["clashed", "gunmen", "arrested", "stole", "raid", "robbery", "suspects", "military operation", "police", "troops", "neutralized", "curfew", "gunfire", "weapon", "ammunition", "hijack", "busted"]
+        "keywords": ["clashed", "gunmen", "arrested", "stole", "raid", "robbery", "suspects", "military operation", "police", "troops", "curfew", "gunfire", "weapon", "ammunition", "hijack", "busted", "vigilante"]
     },
     "low": {
         "tags": ["抗议示威", "突发灾害/疫情", "交通安全"],
@@ -25,7 +25,7 @@ SECURITY_KEYWORDS_MAP = {
 }
 
 # ==========================================
-# 2️⃣ 全尼日利亚 36 个州及 FCT 官方基准坐标库
+# 2️⃣ 全尼日利亚全量基准坐标库
 # ==========================================
 NIGERIA_ALL_STATES = {
     "abuja": {"lat": 9.0578, "lng": 7.4950, "name": "Abuja (FCT)"},
@@ -69,10 +69,9 @@ NIGERIA_ALL_STATES = {
 }
 
 # ==========================================
-# 3️⃣ 升级：已扩充至 22 个核心监控频道矩阵
+# 3️⃣ 22路高并发核心频道矩阵
 # ==========================================
 NEWS_SOURCES_CONFIG = {
-    # --- 尼日利亚顶级主流综合媒体 (1-10) ---
     "Daily Post Nigeria": "https://dailypost.ng/category/news/feed/",
     "Vanguard National": "https://www.vanguardngr.com/category/national-news/feed/",
     "Punch Metro": "https://punchng.com/topics/news/feed/",
@@ -83,47 +82,27 @@ NEWS_SOURCES_CONFIG = {
     "Daily Trust": "https://dailytrust.com/feed/",
     "Sahara Reporters": "http://saharareporters.com/feeds/news/feed",
     "Channels TV Local": "https://www.channelstv.com/category/local/feed/",
-
-    # --- 尼日利亚本地二线与区域性大报 (11-15) ---
     "ThisDay Live": "https://www.thisdaylive.com/index.php/category/news/feed/",
     "The Nation Nigeria": "https://thenationonlineng.net/news/feed/",
     "Sun News Online": "https://sunnewsonline.com/category/national/feed/",
     "Tribune Online": "https://tribuneonlineng.com/category/news/feed/",
     "Legit.ng News": "https://www.legit.ng/rss/all.xml",
-
-    # --- 垂直军事、防务与突发安全专门网 (16-18) ---
     "PRNigeria (Security)": "https://news.google.com/rss/search?q=site:prnigeria.com&hl=en-NG&gl=NG&ceid=NG:en",
     "Zagazola Defense": "https://news.google.com/rss/search?q=Zagazola&hl=en-NG&gl=NG&ceid=NG:en",
     "HumAngle Media": "https://news.google.com/rss/search?q=site:humanglemedia.com&hl=en-NG&gl=NG&ceid=NG:en",
-
-    # --- 突发传染病与公共卫生垂直监控源 (19-20) ---
     "WHO Africa Outbreaks": "https://news.google.com/rss/search?q=site:afro.who.int+outbreak+nigeria&hl=en-NG&gl=NG&ceid=NG:en",
     "Africa CDC Alert": "https://news.google.com/rss/search?q=site:africacdc.org+nigeria&hl=en-NG&gl=NG&ceid=NG:en",
-
-    # --- 强力安全与疫情专属 Google RSS 聚合器 (21-22) ---
     "Google News - Nigeria Security": "https://news.google.com/rss/search?q=Nigeria+security+clash+attack+killed+cholera+outbreak&hl=en-NG&gl=NG&ceid=NG:en",
     "Google News - Nigeria Local": "https://news.google.com/rss/search?q=Nigeria+local+government+area+violence+epidemic&hl=en-NG&gl=NG&ceid=NG:en"
 }
 
 # ==========================================
-# 4️⃣ 极致白名单涉安与疫情审查引擎
+# 4️⃣ 强核心准入机制（涉安大案拥有黑名单豁免权）
 # ==========================================
-def analyze_event_security_strict(title, content=""):
+def analyze_event_security_v5(title, content=""):
     text = (title + " " + content).lower()
     
-    # 🛑 强力全局干扰信息前置过滤
-    irrelevant_blacklist = [
-        "football", "match", "fc", "super eagles", "sport", "entertainment", "movie", "music", "award",
-        "appoints", "appointment", "inaugurates", "governor says", "presidency", "senate", "passed bill",
-        "economic", "growth", "revenue", "tax", "fiscal", "inflation", "exchange rate",
-        "roads", "infrastructure", "electricity", "power grid", "water supply",
-        "wages", "salary", "pension", "school", "university", "jamb", "waec", "students", "subsidy",
-        "hailed", "praised", "condoles", "mourns", "congratulates", "celebrates", "died of long illness"
-    ]
-    if any(irr_kw in text for irr_kw in irrelevant_blacklist):
-        return "DROP", "low"
-
-    # 🎯 强准入验证：只有明确命中核心涉安/疫情白名词才可以通过
+    # 🎯 优先检查涉安/疫情核心白名单：一旦命中硬核事件词汇，直接豁免黑名单拦截！
     is_security_related = False
     matched_level = "low"
     
@@ -132,9 +111,18 @@ def analyze_event_security_strict(title, content=""):
             is_security_related = True
             matched_level = level
             break
-            
+
+    # 🛑 只有在不涉及硬核危险事件的前提下，黑名单拦截才生效
     if not is_security_related:
-        return "DROP", "low"  # 没有任何安全或疫情关键词，无条件剔除
+        irrelevant_blacklist = [
+            "football", "match", "fc", "super eagles", "sport", "entertainment", "movie", "music", "award",
+            "appoints", "appointment", "inaugurates", "passed bill", "economic", "growth", "revenue", "tax", 
+            "fiscal", "inflation", "exchange rate", "roads", "infrastructure", "electricity", "wages", "salary", 
+            "pension", "school", "university", "jamb", "waec", "subsidy", "hailed", "praised"
+        ]
+        if any(irr_kw in text for irr_kw in irrelevant_blacklist):
+            return "DROP", "low"
+        return "DROP", "low"  # 既没命中硬核白名单，也没命中常规黑名单的闲聊内容，直接默认剥离！
 
     # 精准标签划分
     if any(k in text for k in ["cholera", "lassa fever", "mpox", "meningitis", "outbreak", "epidemic", "yellow fever", "dengue", "pandemic"]):
@@ -168,15 +156,19 @@ def parse_location_strict(title, content=""):
     return NIGERIA_ALL_STATES["abuja"]["lat"], NIGERIA_ALL_STATES["abuja"]["lng"], "Nigeria (General Area)", False
 
 # ==========================================
-# 6️⃣ 管道：发布日期当天强阻断 + 双重洗炼
+# 6️⃣ 数据清洗管道（48小时动态滑动窗口机制）
 # ==========================================
-def smart_process_pipeline_strict(raw_scraped_list):
+def smart_process_pipeline_v5(raw_scraped_list):
     processed_events = []
     seen_fingerprints = set()
     
-    # ⏰ 获取运行当日的绝对日期（严格阻断历史旧气泡）
-    today_str = datetime.today().strftime("%Y-%m-%d")
-    print(f"\n⏰ 运行当日基准时间设定为: {today_str}（自动切断所有历史旧闻）")
+    # ⏰ 开启 48 小时滑动时间窗口（完美解决 RSS 发稿时差和日期字符卡死问题）
+    today = datetime.today()
+    allowed_dates = [
+        today.strftime("%Y-%m-%d"),
+        (today - timedelta(days=1)).strftime("%Y-%m-%d")
+    ]
+    print(f"\n⏰ 实时滑动侦听窗口：允许入库的日期为 {allowed_dates}（其余历史老旧新闻将予以拦截）")
 
     dropped_by_date = 0
     dropped_by_irrelevant = 0
@@ -189,7 +181,7 @@ def smart_process_pipeline_strict(raw_scraped_list):
         
         if not title: continue
         
-        # 1. 强力时间过滤：解析规范时间
+        # 1. 强力时间戳解析
         try:
             if "GMT" in pub_date or "," in pub_date:
                 clean_date = datetime.strptime(pub_date.split(" +")[0].split(" GMT")[0], "%a, %d %b %Y %H:%M:%S").strftime("%Y-%m-%d")
@@ -198,13 +190,13 @@ def smart_process_pipeline_strict(raw_scraped_list):
         except Exception:
             clean_date = "UNKNOWN"
 
-        # 🛑 【强力改进：杜绝历史旧气泡】只要不是爬取当日发布的，一律扔掉
-        if clean_date != today_str:
+        # 🛑 【滑动窗口拦截】只允许入库48小时内（今明/昨今）爆发的最热动态
+        if clean_date not in allowed_dates:
             dropped_by_date += 1
             continue
         
-        # 2. 极致白名单安全局势审查
-        event_type, level = analyze_event_security_strict(title)
+        # 2. 白名单核心安全局势审查
+        event_type, level = analyze_event_security_v5(title)
         if event_type == "DROP": 
             dropped_by_irrelevant += 1
             continue  
@@ -227,25 +219,25 @@ def smart_process_pipeline_strict(raw_scraped_list):
                 "lat": round(final_lat, 4), "lng": round(final_lng, 4), "location": location_name, "source": source, "url": url
             })
 
-    # 持久化输出极纯净数据
+    # 持久化输出
     with open("data.json", "w", encoding="utf-8") as f:
         json.dump(processed_events, f, ensure_ascii=False, indent=4)
         
     print(f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print(f"🧹 [22路高并发清洗完成]")
-    print(f"   🛑 因非今天发布(历史旧闻)被拦截: {dropped_by_date} 条")
-    print(f"   🚫 因不属于安全/疫情局势被拦截: {dropped_by_irrelevant} 条")
-    print(f"   🎯 最终准入今日纯态势感知气泡: {len(processed_events)} 条")
+    print(f"🧹 [48小时滑动侦听流运行完成]")
+    print(f"   🛑 因非近期发布(历史老旧新闻)被拦截: {dropped_by_date} 条")
+    print(f"   🚫 因纯碎民生/政治/非涉安噪音被拦截: {dropped_by_irrelevant} 条")
+    print(f"   🎯 成功入库的高硬核实时安全气泡: {len(processed_events)} 条")
     print(f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
 # ==========================================
-# 7️⃣ 自动化并发调度主入口
+# 7️⃣ 自动化调度
 # ==========================================
-def run_all_scrapers_strict():
+def run_all_scrapers_v5():
     aggregated_raw_data = []
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
     
-    print("🚀 正在建立22个媒体管道，全网捕获最新局势快照...")
+    print("🚀 正在建立22个媒体监听管道，拉取最新突发态势...")
     
     for source_name, feed_url in NEWS_SOURCES_CONFIG.items():
         try:
@@ -265,7 +257,7 @@ def run_all_scrapers_strict():
         except Exception:
             continue
             
-    smart_process_pipeline_strict(aggregated_raw_data)
+    smart_process_pipeline_v5(aggregated_raw_data)
 
 if __name__ == "__main__":
-    run_all_scrapers_strict()
+    run_all_scrapers_v5()
