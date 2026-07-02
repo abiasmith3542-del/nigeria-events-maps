@@ -218,5 +218,192 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/the-avoidable-deaths-from-lassa-fever/"
+    },
+    {
+        "title": "Gunmen attack NIPSS again, one killed in gun battle in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 9.4846,
+        "lng": 9.5025,
+        "location": "Battle Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-attack-nipss-again-one-killed-in-gun-battle-in-plateau/"
+    },
+    {
+        "title": "Police rescue two kidnap victims, neutralise suspected abductor in Oyo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-02",
+        "lat": 8.043,
+        "lng": 3.9643,
+        "location": "Abductor Area, Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-rescue-two-kidnap-victims-neutralise-suspected-abductor-in-oyo/"
+    },
+    {
+        "title": "Troops Intercept Terrorists, Rescue 6 Abducted Victims in Sokoto Operation - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-06-27",
+        "lat": 9.943,
+        "lng": 6.0068,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQVXNMMGRYRW5SYUcyUVR4SzBIUDl4VkZaT0ppcTBGMnNXRWhqbWhhak9IbEl3UUU0WlhQY2F0eDBzdEFyNEExckZRTWRQVkFSSDB2b3c1ZDREdk5YSHEzSW8zT016ZjJGclp6dTF3?oc=5"
+    },
+    {
+        "title": "Troops Arrest Suspected Gunrunner, Seize 3 Rifles in Plateau - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-06-27",
+        "lat": 9.4741,
+        "lng": 9.4763,
+        "location": "Rifles Area, Plateau State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPVVVEQXhCOVRlckZEVlpBU0c4SHdFaWpfZjVZcmpibm5mU3R4eThzbmtaeDZ6ZmFnSGl2Snc3eExOVlZUV0ZIamdackhyRDRCUS1wRlM5VDJBMmZhUXNYUVFJd0o1dkxzMlliZA?oc=5"
+    },
+    {
+        "title": "Troops Rescue 4 Women, 2 Children from Terrorists in Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-06-30",
+        "lat": 12.494,
+        "lng": 7.5868,
+        "location": "Terrorists Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rUkV5WkdvNUt3SFlLWldQYi1TbVRMd3FBSHlBRnIxdV9qQmY5MXZVd2N0RXllQzhFX2dzQy14SnJsTXZubWx3OUliTGQ3YU13OVlkZHN6ejVmTWVZYlk1ZWNrcWxmY3M4UmN4YTBKbw?oc=5"
+    },
+    {
+        "title": "OPHK Troops Intensify Security Patrols to Safeguard Farmers in Borno - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-06-28",
+        "lat": 11.853,
+        "lng": 13.2014,
+        "location": "Farmers Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wNFVEM2JSTjZTVnNyb3ktT21GeXFNNHNUNEhILWdhV1lEbHloQXRCSFlrb2JkQ1pOZGI5WldaaC1ReTVicXMwcy0ycy01QTgxeHZnUFJCa1hEWjdTMldrREhpZjVCbkFmLW1SOVBpMEdtZw?oc=5"
+    },
+    {
+        "title": "Terrorists Exploiting Cyberspace for Recruitment, Funding, Says COAS - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-06-30",
+        "lat": 10.0182,
+        "lng": 6.0227,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90N09CbEZtQmdKWlJDSUNPUlNLdUIzdWY1Z2gtaXBBZVUzaWN6YkdiSjJYa1B5LUhFWTU0SkNndkhRUmNZc3lFNnNxS2RTRUlqZXVIMFlHbWMxVUN6ZjVaYk1RU0lmdw?oc=5"
+    },
+    {
+        "title": "Troops Foil Terrorist Attack on Benue Market, Kill Two - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-06-28",
+        "lat": 7.2963,
+        "lng": 8.7574,
+        "location": "Benue State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90aE9qeHB4em1YY0pCZVpwU0gtc1NabWNMTmx1bHlOY0xOR21BQzVSMEhIdmVEWGxZUUdMUDd2Vi1GVDNzTlRDWjh4cGNrYWprekttQnNINzF5NGN2ZTlSbllWa1N6ZHoyazEyQ1B3?oc=5"
+    },
+    {
+        "title": "Military Offensive Cripples ISWAP, Forces Senior Commanders to Surrender - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-06-29",
+        "lat": 9.9744,
+        "lng": 6.0418,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1neG9mZzZ5TE9URUN6UXg2Sms0WWxVaDVlWkZuRHZXdTJKcDVhMVJGYTRGRFd2cHBNSUxTcU5jVW1KUjdPbDZ0b3BhLXhNWGt5enpkREJnZEZtWHkzaWxsdWl6Rm9pbnhkWlVTX2pB?oc=5"
+    },
+    {
+        "title": "Military Airstrikes Kill Scores of Bandits, Destroy Camp Along Niger–Kaduna–Zamfara Border - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-06-30",
+        "lat": 10.4778,
+        "lng": 7.4809,
+        "location": "Kaduna State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaXg3STk4VlRYdlgydExVaUd0cW0zcUh1dGx3bUdZdDNKWlNENl9LUXZLRDZrbTlsVDVienh4Nk05RmVVa2ZkdVJYeHZfdDc1cUIxXzZ4Wmh2eW4zeDBfMkFJd3RBVEdMV2c?oc=5"
+    },
+    {
+        "title": "Again, DSS Releases Kaduna Herder Cleared of Boko Haram Links, Pays N3m Compensation - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-06-27",
+        "lat": 10.5238,
+        "lng": 7.5476,
+        "location": "Kaduna State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5NHozdy1pcDNvbUxnTXZtODZ6VzBYTV9VRnpZVDkzdmNjTWxvUV9hVUJDVUN2VXREM1JmMkNJQS16WlhDS2VJMHlSU0xFRU5MZFR1czFoVVFnX3lZTTdVbGxIT29xSDNsanR3?oc=5"
+    },
+    {
+        "title": "Troops Rescue 10 Abducted NECO Candidates After ISWAP School Attack in Borno - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-06-29",
+        "lat": 11.8904,
+        "lng": 13.2088,
+        "location": "Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSTXZzdHVxc20ydThYR3hlS2ZkX2JSMDNQdkQ1UjQ0VU5MXzYyZzNBRFhFbVZfeHBzb2Jlb0REbVBreU1iODdsWmRRS0hvT2hpSDF3aTBSOUU1RmgyWGJHY3F5cGNSQS1Sd2pLc2FuNXg?oc=5"
+    },
+    {
+        "title": "Troops Rescue Six Kidnap Victims in Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-06-30",
+        "lat": 12.5517,
+        "lng": 7.6678,
+        "location": "Victims Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vOUVzZnBISnRDVk1feFc1NDJud0VkVEdQb09XMlBod2x2S0hlSXNLakFhUXFaTkkyYjF3WXV2MmpNMEVDV2VCVVV2WVBaOUZ4UmJNemdkVG9DcGVjUXN4WEFmSWo4a2RoNlpLSg?oc=5"
+    },
+    {
+        "title": "Troops, NDLEA Arrest 7 Suspected Drug Peddlers in Abuja, Katsina - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-06-25",
+        "lat": 9.0716,
+        "lng": 7.4928,
+        "location": "Peddlers Area, Abuja (FCT)",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yeFFzbnhTUmVRUTI1Vl9NY2NUUk1aZGEza1A3UEZtMTJnYWgwd1lhV1VFc3hrc1I0SUxDZjZjb1pvS0c5X2FkNENsRUt5aE1GWmZKUnIxcG5HREVhSlBBT2NjTXctbksxMnRnbmtOLUQ?oc=5"
+    },
+    {
+        "title": "Troops Foil Planned Attack, Kill Two Lakurawa Terrorists in Kebbi - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-06-28",
+        "lat": 11.4293,
+        "lng": 4.2098,
+        "location": "Terrorists Area, Kebbi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00ZVoxaEp2U1laOXJ4TUxLc2ZaTlpxMWJ5WUdsUDMyRGZmSFE4QnMzSGc3T2JVanc5RFc0bFI0cnpzQmlFNEFGUEZMbUt6T1RnRE9RNnlVUTU4VmZjaXRaUzJpQTlscndOQkE2bEF2TQ?oc=5"
+    },
+    {
+        "title": "ISWAP Shows Signs of Fracturing After Al-Minuki Raid - Africa Defense Forum",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-06-30",
+        "lat": 9.0875,
+        "lng": 7.5476,
+        "location": "Nigeria (General Area)",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMHVhbXNhQV9oWWNPeWpQVHFCa19GZGN4QnFUVUhaSlFGNmpUV2psYmJZYlp0cjZ1azVzUVhSLVo5bmtDaXIwMkpLdEF5UDRiX1djTHRwTjcxSklxaDJ0WE5CQ1daWWtmN0lFRDNvRHV4d09vb1piNUtGelJlTF9DNHlTYXFVMXVVMEQtajVTYw?oc=5"
+    },
+    {
+        "title": "Sultan of Sokoto Condemns Kaduna Mob Lynching, Demands Probe into Police Complicity - streamlinefeed.co.ke",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-06-29",
+        "lat": 10.5255,
+        "lng": 7.5427,
+        "location": "Kaduna State",
+        "source": "Google News - Nigeria Local",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUhFdFNRRjhHSjh6eVhISngzQUFodlNNa09iM3BtVEVxejBRU1d4dm43SmNfYzI2ci05UWhXZHRaOW9qNWhPTDdwOU1sQlhSbnpvbWFxeGtqMlZTZDRrYzFWU3BNcnQtVXdwRGRZNEM3alVNbTNDeVZkcUNKRXd5QjJYcjhPcjBWdC1zYk96ZkxiUTRFa2J5OA?oc=5"
     }
 ]
