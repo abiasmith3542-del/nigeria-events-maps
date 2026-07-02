@@ -669,5 +669,93 @@
         "location": "Benue State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYjZabDUxdXZZV2tLY2VVclh3V1JSQW55QXk3aU5wS2lPZkJVVWRqSFFNR0dPTW9rdHlBVGJRQnlZV0QwdDZsRVpaU3M4Qk9UVlZSZ0RwaS1wc0laTEFMTko3MWw3eVRlYWlWZWIzcDFMVGszd1QyMGdCZm5Kb0l3YjZWMEd6amI0aDlfNnB3c1R4aGtHLS1Ca1FFNzVvZFJ6dTJLejJXN0w4RTRJQ2ZZd1RzdXlZaEthaDZta0h0cnBjb0R4ZW40TQ?oc=5"
+    },
+    {
+        "title": "Police arrest three over alleged assassination plot against APC campaign DG in Osun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-02",
+        "lat": 7.5548,
+        "lng": 4.5242,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-arrest-three-over-alleged-assassination-plot-against-apc-campaign-dg-in-osun/"
+    },
+    {
+        "title": "Police rescue abducted 8-year-old in Gombe, arrest four suspects",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 10.3139,
+        "lng": 11.158,
+        "location": "Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-abducted-8-year-old-in-gombe-arrest-four-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops bust illegal arms factory in Kebbi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-02",
+        "lat": 11.4119,
+        "lng": 4.1657,
+        "location": "Factory Area, Kebbi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-bust-illegal-arms-factory-in-kebbi/"
+    },
+    {
+        "title": "Troops Foil ISWAP Attack Plot, Arrest Suspected Spy, Logistics Suppliers in Borno - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-06-28",
+        "lat": 11.8365,
+        "lng": 13.1311,
+        "location": "Suppliers Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0d3pjdlgtMVk2R0QtVzNwLXZlQkp6MmxMazJrMWgyaXcxb1BaT3dKRjhZaFA0Z0JOR1lRZUlHVzBxcUZXZ0pzNXhHYnVXTWIyTmZabm1uSFBLRWZCNjJIYVdkakdkcEhPaWF2VEdEdDQ?oc=5"
+    },
+    {
+        "title": "Troops Arrest Suspected Arms Supplier, Recover Five Locally Made AK-47 Rifles in Niger - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-02",
+        "lat": 10.0321,
+        "lng": 5.9912,
+        "location": "Rifles Area, Niger State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMXhqWldYcHVnM3NzWk1Gb2lRVFZlRzk4TEFfdWQzdlFhdWJ1b0t0d0pHbHB5dDB4OHhuN283emRlMEt2cDJNam9EQ2RsSkJ4bENVdkZJbml0ZUJOUzFXZ2M4SjNLWENhVWhCMGFMdVBNMEFpZlFoVS11TWsxOE5uVFpGcGhhZ1NDdFRWUzh6Y3NCNFB0TzgzeF81Q2pyNWt5cGtLTW9YWlNUY0YwWWZsbVhBWURQOWVWZm1WQ2R6NXBqR0I0SGpuVU93?oc=5"
+    },
+    {
+        "title": "Troops Recover 117 Rustled Livestock, Return Them to Owners in Katsina - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-02",
+        "lat": 12.5413,
+        "lng": 7.5972,
+        "location": "Owners Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUt2Y2RpU1NmLWlGbnZHVzJ5N3NMTHpnQ3lmSWFfbnQza0NWNDRzTDlwVjIxYTYtVDd0QmJmNjNhaDN3azh6alg4VWtJNVY4TGpfYmdGaXdHSUZueE02X1oxTnVsaGY0aTRaR2pPMzRielViaFhLeG80SXhxeG4wOXlIbVNzR2x3dTJJdW9OUXU2QUlwcS1wN2NGY3R0V0tOZkdZSUF5WDk2aXprRHZ6Y25HNE8?oc=5"
+    },
+    {
+        "title": "Heavy Fighting Erupts Between Lakurawa, Bandits in Niger Forest, Casualties Feared - zagazola.org",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-02",
+        "lat": 9.9593,
+        "lng": 5.9586,
+        "location": "Bandits Area, Niger State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0dwcGRTaXZsRkJBMU96U2UwV3JRLXdNc2ViVmdEeHZVbTBaS0JrRURZbGJka3ZSTm9zOUNuUnNUbE5aRjNfaFNVWXdoRHFZN1JlSTE5R3NrQmxmOF8ydVZ5VUFnUkdGXzZRXzJiWmlKN0ZQWDlaaGg3Z2VxUHFaT1dGd21faGp1aWNlOUJlTUc2OHlwUk1VMDJGRnhOMExaU0hnYTdzVmZQeHd6UmJUSk81N1AxQVRkMFcxMXltLWZwUEk?oc=5"
+    },
+    {
+        "title": "Troops Neutralise Two Terrorists, Recover Weapons in Kebbi Offensive - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-06-28",
+        "lat": 11.4583,
+        "lng": 4.1804,
+        "location": "Weapons Area, Kebbi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZE9fREV4Z3c1aDRXWmJDQ2VBaUJoQ0lTN2RldGhuRHJFd042ZVdzTFk4MzhkSnB5c0kxM21KQ3gxQmJEcXZnNjRUcTN4aVpSU3kzRFNpR0tCQWJTYk15U3l0a2phOGxPVzNqUDVHVFlOUEJXT3U0UE1yaXVlOENNdXJfSW1pUEdDT2FQOWpFZG5rUlNYd3VLR2hwb2hHYzExM0cwUGt5SU4wckd2cWZqdlF3?oc=5"
     }
 ]
