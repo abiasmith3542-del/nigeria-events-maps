@@ -1087,5 +1087,38 @@
         "location": "Bandits Area, Katsina State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/court-remands-2-suspects-for-aiding-bandits-in-katsina/"
+    },
+    {
+        "title": "Police, forest guards rescue two kidnap victims in Bauchi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 10.5276,
+        "lng": 10.0243,
+        "location": "Victims Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-forest-guards-rescue-two-kidnap-victims-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Oyo adjusts school calendar, announces July 6 resumption following NUT strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-03",
+        "lat": 8.0241,
+        "lng": 4.0485,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/oyo-adjusts-school-calendar-announces-july-6-resumption-following-nut-strike/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "APC commends police for foiling assassination attempt on Osun campaign DG",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 7.5063,
+        "lng": 4.4973,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/apc-commends-police-for-foiling-assassination-attempt-on-osun-campaign-dg/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
