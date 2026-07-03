@@ -1351,5 +1351,27 @@
         "location": "Peddlers Area, Jos, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYThJS3puRmZjYlJEYjlGal81UmVjVG8wQWZrdHJFN3ltSnBrSkRyQjZ0RDRCbXdMME1yVU9ZejUwTFN2R1ItVGJFVEw2dGxxbklsdDdnUmVaWE5GaTFEUTA1NWhyOXVoemR6LVJiZGFSYXJfOF9oaDFFcHlmUWRwSmotR09UN210em11UjhUdmRqLUtpUHUwbDNjbGhNbzJBcnlhZA?oc=5"
+    },
+    {
+        "title": "2 Soldiers Killed As Troops Repel Terrorist Attack In Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-03",
+        "lat": 13.0479,
+        "lng": 5.2311,
+        "location": "Sokoto State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/2-soldiers-killed-as-troops-repel-terrorist-attack-in-sokoto/"
+    },
+    {
+        "title": "Boko Haram sets four vehicles ablaze in Yobe",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-03",
+        "lat": 11.9993,
+        "lng": 11.458,
+        "location": "Ablaze Area, Yobe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/boko-haram-sets-four-vehicles-ablaze-in-yobe/"
     }
 ]
