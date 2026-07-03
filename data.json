@@ -363,17 +363,6 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vOUVzZnBISnRDVk1feFc1NDJud0VkVEdQb09XMlBod2x2S0hlSXNLakFhUXFaTkkyYjF3WXV2MmpNMEVDV2VCVVV2WVBaOUZ4UmJNemdkVG9DcGVjUXN4WEFmSWo4a2RoNlpLSg?oc=5"
     },
     {
-        "title": "Troops, NDLEA Arrest 7 Suspected Drug Peddlers in Abuja, Katsina - PRNigeria News",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-06-25",
-        "lat": 9.0716,
-        "lng": 7.4928,
-        "location": "Peddlers Area, Abuja (FCT)",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yeFFzbnhTUmVRUTI1Vl9NY2NUUk1aZGEza1A3UEZtMTJnYWgwd1lhV1VFc3hrc1I0SUxDZjZjb1pvS0c5X2FkNENsRUt5aE1GWmZKUnIxcG5HREVhSlBBT2NjTXctbksxMnRnbmtOLUQ?oc=5"
-    },
-    {
         "title": "Troops Foil Planned Attack, Kill Two Lakurawa Terrorists in Kebbi - PRNigeria News",
         "type": "恐怖分子/土匪袭击",
         "level": "high",
@@ -845,5 +834,82 @@
         "location": "Traders Area, Akwa Ibom State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX1JLSU1BT1U3SXZnYW5TUXdEUnZtcHRwNDN5Vkd2Z2FXcDlLelJOb2w4RGJZa3VEcmVSbTEyLVhrdi1VUHpGbzQwMFB1WkFQTDVEZ0dEOTR5VjlTSW52b2I5bWF5ckpsVDhaT2V4dDlwMUQwRkUwZ3R6bWpESE1leDBoUWRkUzMwTlhNMTVCZ1F4NV81U3hRbmVUSndpdkNiNGFCemQzMjhyX2pfdVY3a2V1RUY?oc=5"
+    },
+    {
+        "title": "Police rescue abducted eight-year-old, arrest four in Gombe",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-03",
+        "lat": 10.2521,
+        "lng": 11.1222,
+        "location": "Four Area, Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-abducted-eight-year-old-arrest-four-in-gombe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "ASUU raises fresh strike threat in Lagos, Gombe, Plateau",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-03",
+        "lat": 9.5192,
+        "lng": 9.466,
+        "location": "Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/asuu-raises-fresh-strike-threat-in-lagos-gombe-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "No Yobe LGA under terrorists’ control – SSG",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-03",
+        "lat": 12.033,
+        "lng": 11.4909,
+        "location": "Yobe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/no-yobe-lga-under-terrorists-control-ssg/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Over 1,700 terror suspects convicted since 2017 – FG",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 9.1382,
+        "lng": 7.4744,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/over-1700-terror-suspects-convicted-since-2017-fg/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Arrest Suspected IPOB Armourer, Logistics Courier In Imo Raid",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 5.4551,
+        "lng": 7.0712,
+        "location": "Courier Area, Imo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-arrest-suspected-ipob-armourer-logistics-courier-in-imo-raid/"
+    },
+    {
+        "title": "Police Link Abuja Security Lockdown To Planned Protest",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-02",
+        "lat": 9.0503,
+        "lng": 7.5259,
+        "location": "Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-link-abuja-security-lockdown-to-planned-protest/"
+    },
+    {
+        "title": "Military Rescues Eight Kidnap Victims During Forest Raid in Plateau - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-06-26",
+        "lat": 9.5516,
+        "lng": 9.5369,
+        "location": "Raid Area, Plateau State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVcXRiVV9GOFBURkhGSW9wY0NOM2hTT0hjSWZKNG5oU1dVeGpuQmRvWHpDdDhsYUpVU3ZwNzFUTUEwQy1KTjlSWGUwNU9SdU9NbVN0UmZoTURqM2dGX1B0ZUxvdms5S29xVDlwSFNtNnM?oc=5"
     }
 ]
