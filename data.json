@@ -977,5 +977,115 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/again-gunmen-attack-nipss/"
+    },
+    {
+        "title": "Ex-Benue SSG dies after gun injuries from bandits",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-03",
+        "lat": 7.3033,
+        "lng": 8.7816,
+        "location": "Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ex-benue-ssg-dies-after-gun-injuries-from-bandits/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest four armed robbery suspects in Adamawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 9.2876,
+        "lng": 12.4592,
+        "location": "Suspects Area, Adamawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-armed-robbery-suspects-in-adamawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest four suspected armed robbers in Ondo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 7.2133,
+        "lng": 5.1791,
+        "location": "Robbers Area, Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-suspected-armed-robbers-in-ondo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian troops kill 1,597 terrorists, rescue over 1,500 kidnap victims in six months — Official",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-03",
+        "lat": 9.9476,
+        "lng": 5.9579,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/892585-nigerian-troops-kill-1597-terrorists-rescue-over-1500-kidnap-victims-in-six-months-official.html"
+    },
+    {
+        "title": "What police, charges say about Adeyemi as govt lists Gbajabiamila, 10 others as witnesses",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 5.4599,
+        "lng": 7.4644,
+        "location": "Abia State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/892583-what-police-charges-say-about-adeyemi-as-govt-lists-gbajabiamila-10-others-as-witnesses.html"
+    },
+    {
+        "title": "Imo Police Begin Investigation Over Accident, Death Of 2 Policemen",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 5.502,
+        "lng": 7.0623,
+        "location": "Imo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/imo-police-begin-investigation-over-accident-death-of-2-policemen/"
+    },
+    {
+        "title": "NSCDC busts suspected burglary syndicate, recovers weapons in Kwara",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 8.4999,
+        "lng": 4.49,
+        "location": "Weapons Area, Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/nscdc-busts-suspected-burglary-syndicate-recovers-weapons-in-kwara/"
+    },
+    {
+        "title": "3 arrested over alleged vandalisation of power cables in Yobe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 11.9746,
+        "lng": 11.5374,
+        "location": "Cables Area, Yobe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-arrested-over-alleged-vandalisation-of-power-cables-in-yobe/"
+    },
+    {
+        "title": "Protests erupt over APC candidate substitution in Benue",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-03",
+        "lat": 7.3057,
+        "lng": 8.7332,
+        "location": "Substitution Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/protests-erupt-over-apc-candidate-substitution-in-benue/"
+    },
+    {
+        "title": "Court remands 2 suspects for aiding bandits in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-03",
+        "lat": 12.5296,
+        "lng": 7.559,
+        "location": "Bandits Area, Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/court-remands-2-suspects-for-aiding-bandits-in-katsina/"
     }
 ]
