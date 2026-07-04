@@ -1626,5 +1626,16 @@
         "location": "Vehicles Area, Imo State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/04/police-impound-25-vehicles-in-imo-over-covered-number-plates/"
+    },
+    {
+        "title": "Police Arrest 45 Suspects In Edo, Rescue 38 Abducted Victims",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 6.4518,
+        "lng": 6.0089,
+        "location": "Suspects Area, Edo State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/04/police-arrest-45-suspects-in-edo-rescue-38-abducted-victims/"
     }
 ]
