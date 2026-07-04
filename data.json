@@ -1637,5 +1637,16 @@
         "location": "Suspects Area, Edo State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/04/police-arrest-45-suspects-in-edo-rescue-38-abducted-victims/"
+    },
+    {
+        "title": "Gunmen kill female farmer, injure another in fresh Plateau attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 9.5453,
+        "lng": 9.5375,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-kill-female-farmer-injure-another-in-fresh-plateau-attack/"
     }
 ]
