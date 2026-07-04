@@ -1461,5 +1461,27 @@
         "location": "Benue State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/regional/north-central/892840-former-benue-ssg-dies-after-suspected-bandit-attack.html"
+    },
+    {
+        "title": "South Africa rejects Nigeria’s compensation demand over xenophobic attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 10.0166,
+        "lng": 5.9832,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/south-africa-rejects-nigerias-compensation-demand-over-xenophobic-attacks/"
+    },
+    {
+        "title": "Kebbi Hisbah arrests 25 youths in hotel raid over alleged immoral acts",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-04",
+        "lat": 11.5024,
+        "lng": 4.2509,
+        "location": "Kebbi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/kebbi-hisbah-arrests-25-youths-in-hotel-raid-over-alleged-immoral-acts/"
     }
 ]
