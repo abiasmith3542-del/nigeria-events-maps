@@ -1406,5 +1406,38 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-expose-international-online-rape-ring/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2 Soldiers Killed As Troops Repel Terrorist Attack In Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 13.0493,
+        "lng": 5.2591,
+        "location": "Sokoto State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/2-soldiers-killed-as-troops-repel-terrorist-attack-in-sokoto-2/"
+    },
+    {
+        "title": "Plateau varsity ASUU threatens strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-04",
+        "lat": 9.5205,
+        "lng": 9.555,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/plateau-varsity-asuu-threatens-strike/"
+    },
+    {
+        "title": "Akara, Kuli Kuli and Cholera Outbreaks",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-04",
+        "lat": 9.0992,
+        "lng": 7.4874,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/akara-kuli-kuli-and-cholera-outbreaks/"
     }
 ]
