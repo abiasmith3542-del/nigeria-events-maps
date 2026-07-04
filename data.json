@@ -1560,5 +1560,27 @@
         "location": "Kaduna State",
         "source": "Leadership News",
         "url": "https://leadership.ng/abducted-kaduna-girl-died-of-hunger-after-76-days-ex-yakowas-aide-alleges/"
+    },
+    {
+        "title": "UPDATED: Kidnapped Ekiti worshippers regain freedom, one dies in captivity",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 6.5368,
+        "lng": 5.9767,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-abducted-ekiti-worshippers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Igboho’s security network rescues kidnapped Oyo woman, son in Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 8.4512,
+        "lng": 4.5711,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/igbohos-security-network-rescues-kidnapped-oyo-woman-son-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
