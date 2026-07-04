@@ -1593,5 +1593,38 @@
         "location": "Ogun State",
         "source": "Leadership News",
         "url": "https://leadership.ng/ogun-police-arrest-89-drivers-over-number-plate-violations/"
+    },
+    {
+        "title": "Police arrest 89 over number plate violations in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-04",
+        "lat": 7.0474,
+        "lng": 3.5024,
+        "location": "Violations Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-89-over-number-plate-violations-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Doctor Who Assessed Nnamdi Kanu’s Health Arrested In Enugu",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-04",
+        "lat": 6.545,
+        "lng": 7.4627,
+        "location": "Arrested Area, Enugu State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/doctor-who-assessed-nnamdi-kanus-health-arrested-in-enugu/"
+    },
+    {
+        "title": "Police Impound 25 Vehicles In Imo Over Covered Number Plates",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-04",
+        "lat": 5.4907,
+        "lng": 6.9737,
+        "location": "Vehicles Area, Imo State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/04/police-impound-25-vehicles-in-imo-over-covered-number-plates/"
     }
 ]
