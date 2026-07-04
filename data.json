@@ -902,17 +902,6 @@
         "url": "https://leadership.ng/police-link-abuja-security-lockdown-to-planned-protest/"
     },
     {
-        "title": "Military Rescues Eight Kidnap Victims During Forest Raid in Plateau - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-06-26",
-        "lat": 9.5516,
-        "lng": 9.5369,
-        "location": "Raid Area, Plateau State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVcXRiVV9GOFBURkhGSW9wY0NOM2hTT0hjSWZKNG5oU1dVeGpuQmRvWHpDdDhsYUpVU3ZwNzFUTUEwQy1KTjlSWGUwNU9SdU9NbVN0UmZoTURqM2dGX1B0ZUxvdms5S29xVDlwSFNtNnM?oc=5"
-    },
-    {
         "title": "US pulls troops from Nigeria after counterterrorism operation",
         "type": "突发涉安事件",
         "level": "medium",
@@ -1373,5 +1362,49 @@
         "location": "Ablaze Area, Yobe State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/boko-haram-sets-four-vehicles-ablaze-in-yobe/"
+    },
+    {
+        "title": "Delta: Renewed herdsmen attacks in Ughelli North heighten calls for government action",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 5.4832,
+        "lng": 5.9968,
+        "location": "Delta State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/delta-renewed-herdsmen-attacks-in-ughelli-north-heighten-calls-for-government-action/"
+    },
+    {
+        "title": "Families lament govt silence as hundreds remain in terrorists’ captivity",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 8.9621,
+        "lng": 7.5237,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/families-lament-govt-silence-as-hundreds-remain-in-terrorists-captivity/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "British court ignored CCTV evidence, wrongly convicted my son of robbery – Nigerian mother",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-04",
+        "lat": 9.9438,
+        "lng": 6.0252,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/british-court-ignored-cctv-evidence-wrongly-convicted-my-son-of-robbery-nigerian-mother/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police expose international online rape ring",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-04",
+        "lat": 8.9911,
+        "lng": 7.4768,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-expose-international-online-rape-ring/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
