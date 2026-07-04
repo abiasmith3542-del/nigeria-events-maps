@@ -1516,5 +1516,49 @@
         "location": "Oyo State",
         "source": "Leadership News",
         "url": "https://leadership.ng/oyo-police-arrest-11-suspected-cultists-foil-planned-attack-on-lautech/"
+    },
+    {
+        "title": "Kidnapped worshippers rescued in Ekiti — Police",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 7.6319,
+        "lng": 5.2807,
+        "location": "Rescued Area, Ekiti State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/kidnapped-worshippers-rescued-in-ekiti-police/"
+    },
+    {
+        "title": "Police arrest 27-year-old suspected cultist in Lagos, recover firearm",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-04",
+        "lat": 6.5713,
+        "lng": 3.3457,
+        "location": "Cultist Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-27-year-old-suspected-cultist-in-lagos-recover-firearm/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police rescue abducted Ekiti worshippers",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 7.6625,
+        "lng": 5.2833,
+        "location": "Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-abducted-ekiti-worshippers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abducted Kaduna Girl Died Of Hunger After 76 Days, Ex-Yakowa’s Aide Alleges",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 10.4454,
+        "lng": 7.5426,
+        "location": "Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/abducted-kaduna-girl-died-of-hunger-after-76-days-ex-yakowas-aide-alleges/"
     }
 ]
