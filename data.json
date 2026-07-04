@@ -1582,5 +1582,16 @@
         "location": "Kwara State",
         "source": "Punch Metro",
         "url": "https://punchng.com/igbohos-security-network-rescues-kidnapped-oyo-woman-son-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ogun Police Arrest 89 Drivers Over Number Plate Violations",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-04",
+        "lat": 7.041,
+        "lng": 3.4416,
+        "location": "Ogun State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/ogun-police-arrest-89-drivers-over-number-plate-violations/"
     }
 ]
