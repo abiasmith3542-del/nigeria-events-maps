@@ -1791,5 +1791,82 @@
         "location": "Bauchi State",
         "source": "Punch Metro",
         "url": "https://punchng.com/bauchi-gov-mourns-aide-ex-deputy-governors-children-killed-in-car-crash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Industrial unrest looms over threatened FCT workers’ housing scheme",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-05",
+        "lat": 9.0147,
+        "lng": 7.5031,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/industrial-unrest-looms-over-threatened-fct-workers-housing-scheme/"
+    },
+    {
+        "title": "Lagos police raid criminal hideout in Alimosho, arrest suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 5.539,
+        "lng": 7.0333,
+        "location": "Imo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/lagos-police-raid-criminal-hideout-in-alimosho-arrest-suspects/"
+    },
+    {
+        "title": "Report of herdsmen burning Imo student hostel false – Police",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 5.4738,
+        "lng": 6.9748,
+        "location": "Imo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/report-of-herdsmen-burning-imo-student-hostel-false-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police foil bandit attack in Sokoto, kill one, recover AK-47",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 13.0331,
+        "lng": 5.1924,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-foil-bandit-attack-in-sokoto-kill-one-recover-ak-47/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Sam Larry Hospitalized Following Fatal Road Accident in Lagos",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 6.4841,
+        "lng": 3.3328,
+        "location": "Accident Area, Lagos State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/sam-larry-hospitalized-following-fatal-road-accident-in-lagos/"
+    },
+    {
+        "title": "Principal: Terrorists burnt down Niger schools after Warning us to shut Down ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 9.9597,
+        "lng": 6.0055,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/principal-terrorists-burnt-down-niger-schools-after-warning-us-to-shut-down/"
+    },
+    {
+        "title": "Six Killed As Bandits Sack Over 30 Villages in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 13.041,
+        "lng": 5.2615,
+        "location": "Villages Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/six-killed-as-bandits-sack-over-30-villages-in-sokoto/"
     }
 ]
