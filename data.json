@@ -1923,5 +1923,126 @@
         "location": "Cross River State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/farmer-shot-dead-many-injured-in-attack-on-cross-river-community/"
+    },
+    {
+        "title": "Police arrest man for attacking cousin with knife, firewood in Katsina",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 12.4627,
+        "lng": 7.6671,
+        "location": "Firewood Area, Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-for-attacking-cousin-with-knife-firewood-in-katsina/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Why vehicles with valid tinted permits are being impounded in Anambra – Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 6.1401,
+        "lng": 7.0468,
+        "location": "Impounded Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/why-vehicles-with-valid-tinted-permits-are-being-impounded-in-anambra-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest eight suspected armed robbers, internet fraudsters in Gombe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 10.3335,
+        "lng": 11.1334,
+        "location": "Fraudsters Area, Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-eight-suspected-armed-robbers-internet-fraudsters-in-gombe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Enugu NMA demands answers from DSS, police over surgeon arrest",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 6.4605,
+        "lng": 7.5435,
+        "location": "Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/enugu-nma-demands-answers-from-dss-police-over-surgeon-arrest/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Woman found dead in Cross River church toilet",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 5.8046,
+        "lng": 8.5504,
+        "location": "Dead Area, Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/woman-found-dead-in-cross-river-church-toilet/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Man shot dead in Ondo after confronting four-man robbery gang",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 7.252,
+        "lng": 5.1836,
+        "location": "Dead Area, Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/man-shot-dead-in-ondo-after-confronting-four-man-robbery-gang/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "World Cup: Trump reacts as FIFA reverses red card suspension for US striker",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-05",
+        "lat": 8.9827,
+        "lng": 7.5081,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/world-cup-trump-reacts-as-fifa-reverses-red-card-suspension-for-us-striker/"
+    },
+    {
+        "title": "Death toll in Sokoto bandit attacks rises to eight",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 13.0296,
+        "lng": 5.2172,
+        "location": "Toll Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/death-toll-in-sokoto-bandit-attacks-rises-to-eight/"
+    },
+    {
+        "title": "Family Demands Justice as Police Arrest Suspected Killer of Technician in Ondo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 7.2981,
+        "lng": 5.213,
+        "location": "Technician Area, Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/family-demands-justice-as-police-arrest-suspected-killer-of-technician-in-ondo/"
+    },
+    {
+        "title": "Zagazola Makama - One killed, another injured in Fulani Bandits attack as troops arrest suspect in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 9.4879,
+        "lng": 9.5101,
+        "location": "Suspect Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZF9Vay1GalBmYnZSYXIxZE80eGxjQ1M1NS1NRjMwOXkxMlFWemNOVklZbXJSM3ZHSjZrLXV0NEFYcnlwMWs3emtQdmZiMGJFRmZLSXI5RXVDZUFBN2J2YWpYMzYwcWFqS1FQTVRkakNndEk1ZFM2a1IzS0xTOGRTNmFJZ2MxZ1BSYzhjRExscGZCZGxLelVOUkpnWXhYbUV3bWVoQ0YySWJTWWgxVWJZcHIzR01vQ19QeWpMLWNaQTFLM1NCd0VKRVA1dzA?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops Repel Terrorist Attack on Forward Operating Base in Zamfara - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-04",
+        "lat": 12.0855,
+        "lng": 6.238,
+        "location": "Base Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajA5ZVNGamZCaHZrWGIzRWVScDFhOE9FMGVmajBNVUxDazFrQlJla2RKaGowUnpmVkVPSTNnUXFhOGNZVlUwc19aNEdwUkY5eW1JUnNLTlVCLUVES1liVXNhZzRwRTZOdjNhdXNiVHoybmRZdW1BX3hvYjAtR0czOTREM3dneWtvSjlNekFVLXJsdno5Q2xXUE5lOERDcTZlYXFtZVJxcEljSl9seFpOUUZmWQ?oc=5"
     }
 ]
