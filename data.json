@@ -242,28 +242,6 @@
         "url": "https://www.vanguardngr.com/2026/07/police-rescue-two-kidnap-victims-neutralise-suspected-abductor-in-oyo/"
     },
     {
-        "title": "Troops Intercept Terrorists, Rescue 6 Abducted Victims in Sokoto Operation - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-06-27",
-        "lat": 9.943,
-        "lng": 6.0068,
-        "location": "Niger State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQVXNMMGRYRW5SYUcyUVR4SzBIUDl4VkZaT0ppcTBGMnNXRWhqbWhhak9IbEl3UUU0WlhQY2F0eDBzdEFyNEExckZRTWRQVkFSSDB2b3c1ZDREdk5YSHEzSW8zT016ZjJGclp6dTF3?oc=5"
-    },
-    {
-        "title": "Troops Arrest Suspected Gunrunner, Seize 3 Rifles in Plateau - PRNigeria News",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-06-27",
-        "lat": 9.4741,
-        "lng": 9.4763,
-        "location": "Rifles Area, Plateau State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPVVVEQXhCOVRlckZEVlpBU0c4SHdFaWpfZjVZcmpibm5mU3R4eThzbmtaeDZ6ZmFnSGl2Snc3eExOVlZUV0ZIamdackhyRDRCUS1wRlM5VDJBMmZhUXNYUVFJd0o1dkxzMlliZA?oc=5"
-    },
-    {
         "title": "Troops Rescue 4 Women, 2 Children from Terrorists in Katsina - PRNigeria News",
         "type": "恐怖分子/土匪袭击",
         "level": "high",
@@ -328,17 +306,6 @@
         "location": "Kaduna State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaXg3STk4VlRYdlgydExVaUd0cW0zcUh1dGx3bUdZdDNKWlNENl9LUXZLRDZrbTlsVDVienh4Nk05RmVVa2ZkdVJYeHZfdDc1cUIxXzZ4Wmh2eW4zeDBfMkFJd3RBVEdMV2c?oc=5"
-    },
-    {
-        "title": "Again, DSS Releases Kaduna Herder Cleared of Boko Haram Links, Pays N3m Compensation - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-06-27",
-        "lat": 10.5238,
-        "lng": 7.5476,
-        "location": "Kaduna State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5NHozdy1pcDNvbUxnTXZtODZ6VzBYTV9VRnpZVDkzdmNjTWxvUV9hVUJDVUN2VXREM1JmMkNJQS16WlhDS2VJMHlSU0xFRU5MZFR1czFoVVFnX3lZTTdVbGxIT29xSDNsanR3?oc=5"
     },
     {
         "title": "Troops Rescue 10 Abducted NECO Candidates After ISWAP School Attack in Borno - PRNigeria News",
@@ -1648,5 +1615,16 @@
         "location": "Plateau State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/07/gunmen-kill-female-farmer-injure-another-in-fresh-plateau-attack/"
+    },
+    {
+        "title": "My fiancé called off our wedding after I lost my leg in accident — Anambra hairstylist",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-05",
+        "lat": 6.1907,
+        "lng": 6.9943,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/my-fiance-called-off-our-wedding-after-i-lost-my-leg-in-accident-anambra-hairstylist/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
