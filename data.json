@@ -1736,5 +1736,38 @@
         "location": "Anambra State",
         "source": "Punch Metro",
         "url": "https://punchng.com/anambra-agency-destroys-%e2%82%a650m-illicit-drugs-arrests-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Taraba CJ backs Tinubu’s push for state police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 7.9598,
+        "lng": 10.5146,
+        "location": "Taraba State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/taraba-cj-backs-tinubus-push-for-state-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Civilians injured as troops repel terrorist attack on another Zamfara military base",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 12.0947,
+        "lng": 6.1677,
+        "location": "Zamfara State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/civilians-injured-as-troops-repel-terrorist-attack-on-another-zamfara-military-base/"
+    },
+    {
+        "title": "Navy Rescues Survivors from Collapsed Building in Lagos - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-06-29",
+        "lat": 6.5825,
+        "lng": 3.4312,
+        "location": "Building Area, Lagos State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LS1gzNll1V3hTQ2ZneG1nY1JvZ0lxZ3FsaHN1ME9XRkg5X3NJbk9fU1hPR3Zxb0k5eTN1UHpud0lDVlRsSHRVT3pzck03eF9QVnhlbTNIVldQSHBwRHg0MDdQLUR0WFVzaVNz?oc=5"
     }
 ]
