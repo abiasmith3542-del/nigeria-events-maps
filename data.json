@@ -1890,5 +1890,38 @@
         "location": "Ondo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/ondo-apc-supporters-clash-over-replacement-of-candidates/"
+    },
+    {
+        "title": "FIFA clears Balogun for USA-Belgium World Cup clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 7.0208,
+        "lng": 3.5406,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/just-in-fifa-clears-balogun-for-usa-belgium-world-cup-clash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest 202 suspects in Delta criminal hideouts, black spots raid",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 5.4701,
+        "lng": 5.9788,
+        "location": "Suspects Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-202-suspects-in-delta-criminal-hideouts-black-spots-raid/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Farmer Shot Dead, Many Injured in Attack on Cross River Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 5.7013,
+        "lng": 8.4968,
+        "location": "Cross River State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/farmer-shot-dead-many-injured-in-attack-on-cross-river-community/"
     }
 ]
