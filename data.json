@@ -1681,5 +1681,60 @@
         "location": "Kogi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/kogi-recovers-1000-rustled-livestock-in-fresh-offensive-against-bandits/"
+    },
+    {
+        "title": "Police rescue abducted woman, two-year-old son from forest hideout in Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 8.5269,
+        "lng": 4.5931,
+        "location": "Hideout Area, Kwara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-rescue-abducted-woman-two-year-old-son-from-forest-hideout-in-kwara/"
+    },
+    {
+        "title": "Abducted Oyo pupils: Rescue operation ongoing — Army chief",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 8.0302,
+        "lng": 3.9413,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/abducted-oyo-pupils-rescue-operation-ongoing-army-chief/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "England battle Mexico as Brazil face Norway in last-16 clashes",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 8.9768,
+        "lng": 7.4361,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/england-battle-mexico-as-brazil-face-norway-in-last-16-clashes/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police recover stolen vehicle in Oyo, arrest three",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 8.0023,
+        "lng": 4.0568,
+        "location": "Vehicle Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-stolen-vehicle-in-oyo-arrest-three/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Anambra agency destroys ₦50m illicit drugs, arrests suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 6.2588,
+        "lng": 6.984,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/anambra-agency-destroys-%e2%82%a650m-illicit-drugs-arrests-suspects/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
