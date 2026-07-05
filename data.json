@@ -2077,5 +2077,16 @@
         "location": "Katsina State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/katsina-20-year-old-arrested-for-armed-robbery-attempted-murder-of-niece/"
+    },
+    {
+        "title": "Robbers Steal Phones, Empty Victims’ Bank Accounts, Obtain Loans — Gombe Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 10.3205,
+        "lng": 11.2055,
+        "location": "Gombe State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/robbers-steal-phones-empty-victims-bank-accounts-obtain-loans-gombe-police/"
     }
 ]
