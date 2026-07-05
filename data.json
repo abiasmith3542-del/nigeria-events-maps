@@ -1626,5 +1626,60 @@
         "location": "Anambra State",
         "source": "Punch Metro",
         "url": "https://punchng.com/my-fiance-called-off-our-wedding-after-i-lost-my-leg-in-accident-anambra-hairstylist/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "One dies as kidnapped Ekiti worshippers regain freedom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 6.5188,
+        "lng": 5.9446,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/one-dies-as-kidnapped-ekiti-worshippers-regain-freedom/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Number plates: Police impound 120 vehicles in Ogun, Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 5.4838,
+        "lng": 6.0117,
+        "location": "Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/number-plates-police-impound-120-vehicles-in-ogun-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "279,414 traffic offenders arrested nationwide in five months – FRSC",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 9.1558,
+        "lng": 7.47,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/279414-traffic-offenders-arrested-nationwide-in-five-months-frsc/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits want N280m for 18 worshippers despite killing my 14-year-old ‘son’ — Kwara queen",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 8.5331,
+        "lng": 4.514,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bandits-want-n280m-for-18-worshippers-despite-killing-my-14-year-old-son-kwara-queen/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kogi recovers 1,000 rustled livestock in fresh offensive against bandits",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 7.8539,
+        "lng": 6.7509,
+        "location": "Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kogi-recovers-1000-rustled-livestock-in-fresh-offensive-against-bandits/"
     }
 ]
