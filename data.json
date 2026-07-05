@@ -1769,5 +1769,27 @@
         "location": "Building Area, Lagos State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LS1gzNll1V3hTQ2ZneG1nY1JvZ0lxZ3FsaHN1ME9XRkg5X3NJbk9fU1hPR3Zxb0k5eTN1UHpud0lDVlRsSHRVT3pzck03eF9QVnhlbTNIVldQSHBwRHg0MDdQLUR0WFVzaVNz?oc=5"
+    },
+    {
+        "title": "Three vigilantes killed in night attack on Plateau community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 9.4842,
+        "lng": 9.5484,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/three-vigilantes-killed-in-night-attack-on-plateau-community/"
+    },
+    {
+        "title": "Bauchi gov mourns aide, ex-deputy governor’s children killed in car crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 10.5372,
+        "lng": 10.0357,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bauchi-gov-mourns-aide-ex-deputy-governors-children-killed-in-car-crash/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
