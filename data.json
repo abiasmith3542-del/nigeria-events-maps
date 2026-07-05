@@ -1868,5 +1868,27 @@
         "location": "Villages Area, Sokoto State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/six-killed-as-bandits-sack-over-30-villages-in-sokoto/"
+    },
+    {
+        "title": "Man arrested for alleged attempted car theft at Abia Church",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-05",
+        "lat": 5.4128,
+        "lng": 7.5367,
+        "location": "Theft Area, Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/man-arrested-for-alleged-attempted-car-theft-at-abia-church/"
+    },
+    {
+        "title": "Ondo: APC supporters Clash Over replacement of candidates",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-05",
+        "lat": 7.2818,
+        "lng": 5.2082,
+        "location": "Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ondo-apc-supporters-clash-over-replacement-of-candidates/"
     }
 ]
