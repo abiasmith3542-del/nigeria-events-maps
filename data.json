@@ -2858,5 +2858,71 @@
         "location": "Kogi State",
         "source": "Punch Metro",
         "url": "https://punchng.com/32-killed-26-injured-in-three-road-crashes-across-kogi-ogun-kwara-frsc/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen invade Rivers community, kill two",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-06",
+        "lat": 4.7304,
+        "lng": 6.8433,
+        "location": "Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-invade-rivers-community-kill-two-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest 150, recover 100 motorcycles, firearms in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-06",
+        "lat": 6.5797,
+        "lng": 3.3503,
+        "location": "Firearms Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-150-recover-100-motorcycles-firearms-in-lagos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abuja-based journalist ‘arrested, detained by police’",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-06",
+        "lat": 9.0892,
+        "lng": 7.456,
+        "location": "Abuja (FCT)",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/abuja-based-journalist-arrested-detained-by-police/"
+    },
+    {
+        "title": "15 Killed, 17 Injured In Kwara Truck Crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-06",
+        "lat": 8.4451,
+        "lng": 4.6026,
+        "location": "Injured Area, Kwara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/15-killed-17-injured-in-kwara-truck-crash/"
+    },
+    {
+        "title": "Edo Warns Cultists Against 7/7 Celebrations, Arrests 2 Suspects With Firearms",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-06",
+        "lat": 6.4612,
+        "lng": 5.9981,
+        "location": "Edo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/edo-warns-cultists-against-7-7-celebrations-arrests-2-suspects-with-firearms/"
+    },
+    {
+        "title": "Gunmen abduct woman, kill retired Army officer in Nasarawa community - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-04",
+        "lat": 8.5086,
+        "lng": 8.1587,
+        "location": "Officer Area, Nasarawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdE5RTk03MVRuVnRvZzhUMEJ3VXFobzlkTmhtOFRCVl9STXhoR01ZdnVfV1BHaHR3eDFoT21CSm5zREphcW5VWVg5VEtXeXJJT3I1WmFsWk5mbWNkTFlaYVE2U21FazdHVkpIRFJyWWFlZTlGRmhYTlAxM3oyVXZDUGoxMkFfNXBDVmZMb0tkSnA5QnY0VXFlZlhJYUlxeHg0NFRZdU0tdms4RUVpQzV4UUFn?oc=5"
     }
 ]
