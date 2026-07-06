@@ -2649,5 +2649,115 @@
         "location": "Site Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ21NOHJVNGhRbF9CaHJObXRkN0Z5Zjl0ZjVKd0xPY1llUVc2QWI0dVNDdUg5bUtQQTRZS3pvalpfTk9TSGkxU0ZEX1kzY21CQUJsLXBaMVUxY1kwdEdleHhjMVEwUFV2ZVhCd3NnVkJ2d053RjBjcDIteWVZZmhQalMzcGZCU1Q0QXQyLXhYMU8xaDdwVVZkUllMcWtyOEhvb1NqaEhxR2NFWkRObVhJMEZKZ3ZfZnN1S28yNF9XdEhjM2NRTmlpakUwNXgtUQ?oc=5"
+    },
+    {
+        "title": "Kidnapped 300-level UI Law student regains freedom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-06",
+        "lat": 6.5489,
+        "lng": 5.9681,
+        "location": "Edo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/kidnapped-300-level-ui-law-student-regains-freedom/"
+    },
+    {
+        "title": "Troops nab 12 suspected Boko Haram collaborators in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-06",
+        "lat": 11.8535,
+        "lng": 13.1098,
+        "location": "Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/troops-nab-12-suspected-boko-haram-collaborators-in-borno/"
+    },
+    {
+        "title": "Police arrest four suspected burglars in Ekiti",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-06",
+        "lat": 7.6369,
+        "lng": 5.2389,
+        "location": "Burglars Area, Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-suspected-burglars-in-ekiti/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kwankwaso mourns ex-Bauchi dep gov’s children killed in road crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-06",
+        "lat": 10.5497,
+        "lng": 10.0173,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kwankwaso-mourns-ex-bauchi-dep-govs-children-killed-in-road-crash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "7 killed in Kogi auto crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-06",
+        "lat": 7.8561,
+        "lng": 6.6932,
+        "location": "Killed Area, Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/7-killed-in-kogi-auto-crash/"
+    },
+    {
+        "title": "Vandalism: Nasarawa govt bans football matches in schools",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-06",
+        "lat": 8.5439,
+        "lng": 8.1743,
+        "location": "Nasarawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/vandalism-nasarawa-govt-bans-football-matches-in-school/"
+    },
+    {
+        "title": "Kano Police impound 81 vehicles over covered, missing number plates",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-06",
+        "lat": 12.0253,
+        "lng": 8.6325,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kano-police-impound-81-vehicles-over-covered-missing-number-plates/"
+    },
+    {
+        "title": "15 Killed, 17 Injured As Trailer Carrying Passengers Crashes in Kwara",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-06",
+        "lat": 8.5157,
+        "lng": 4.5835,
+        "location": "Crashes Area, Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/15-killed-17-injured-as-trailer-carrying-passengers-crashes-in-kwara/"
+    },
+    {
+        "title": "Police Impound 72 Vehicles In Kano Over Covered Number Plates",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-06",
+        "lat": 12.0248,
+        "lng": 8.6226,
+        "location": "Vehicles Area, Kano State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/06/police-impound-72-vehicles-in-kano-over-covered-number-plates/"
+    },
+    {
+        "title": "Zagazola Makama - Troops Rescue Missing Seven-Year-Old Herder in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-06",
+        "lat": 9.4601,
+        "lng": 9.541,
+        "location": "Herder Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFM4QTAwSThSZUNXbGI0TGVwVTlWM1hueHU2UWE3Wnd6MDRQcF9qNTZ3UnFKanZpeEllRXlyaDZBZE5UX01RZGhxMHlIakF1bHkzQ0V6RzV4YUhyYnNKTGE3allUQ3hTcTNseVI3TWh2clItMi02Zkk0OU45amk4bm1xSHZLNHpweFVxeFBuNWpmeWplb0ZHLXY4dVFKU1c5?oc=5"
     }
 ]
