@@ -2825,5 +2825,38 @@
         "location": "Victims Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmZDYzgwRFFHNDEwbGxSbFR0TU5EcWZTMFFFM0otV3phWjlKZnhPbHpFR0JQWXdEWHZCV3g2d0M2cFFCbi1zQ0UzaDZaOEwwdjlyMk5WMTdPTUdtVkFRMlVSU29HR21pM0xfMUZhT3NKN2R5WXlTUnJRUlBzTzJqdnZLTGhZVk9QZnlhTHJIWVBmY0RNUE45WEo5QW5Zd2RyUVBzNQ?oc=5"
+    },
+    {
+        "title": "Lagos Police arrest 150 suspects, recover 100 motorcycles, firearms in anti-crime raid",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-06",
+        "lat": 6.4915,
+        "lng": 3.338,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/lagos-police-arrest-150-suspects-recover-100-motorcycles-firearms-in-anti-crime-raid/"
+    },
+    {
+        "title": "Police impound 81 vehicles over covered, defaced number plates in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-06",
+        "lat": 11.9449,
+        "lng": 8.5457,
+        "location": "Plates Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-impound-81-vehicles-over-covered-defaced-number-plates-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "32 killed, 26 injured in three road crashes across Kogi, Ogun, Kwara — FRSC",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-06",
+        "lat": 7.8382,
+        "lng": 6.748,
+        "location": "Kogi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/32-killed-26-injured-in-three-road-crashes-across-kogi-ogun-kwara-frsc/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
