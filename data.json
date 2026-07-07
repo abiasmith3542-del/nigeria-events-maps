@@ -3045,5 +3045,126 @@
         "location": "Oyo State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/07/police-arrest-masquerade-over-murder-of-24-year-old-in-oyo/"
+    },
+    {
+        "title": "Police confirm 30 alleged politically motivated killings in Osun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 7.5346,
+        "lng": 4.481,
+        "location": "Killings Area, Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-confirm-30-alleged-politically-motivated-killings-in-osun/"
+    },
+    {
+        "title": "Ebonyi police arrest officers over alleged assault, brutalisation of man, launch investigation",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 6.1937,
+        "lng": 8.0438,
+        "location": "Ebonyi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/ebonyi-police-arrest-officers-over-alleged-assault-brutalisation-of-man-launch-investigation/"
+    },
+    {
+        "title": "Police allay fears over planned destruction of expired explosives in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 4.7573,
+        "lng": 6.8524,
+        "location": "Explosives Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-allay-fears-over-planned-destruction-of-expired-explosives-in-rivers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Army detains senior terrorist leaders after surrender in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-07",
+        "lat": 11.8784,
+        "lng": 13.1034,
+        "location": "Surrender Area, Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/army-detains-senior-terrorist-leaders-after-surrender-in-borno/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police foil kidnap plot, arrest two suspects in Ekiti",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 7.6505,
+        "lng": 5.2933,
+        "location": "Suspects Area, Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-foil-kidnap-plot-arrest-two-suspects-in-ekiti/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Hoodlums tie up couple, steal ₦4m valuables in Bauchi – Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 10.4435,
+        "lng": 9.9783,
+        "location": "Valuables Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/hoodlums-tie-up-couple-steal-%e2%82%a64m-valuables-in-bauchi-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "VIDEO: Lagos to profile, repatriate 396 beggars arrested in sanitation sweep",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 6.4826,
+        "lng": 3.4342,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-lagos-to-profile-repatriate-396-beggars-arrested-in-sanitation-sweep/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police detain officers over assault of civilian in Ebonyi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 6.2804,
+        "lng": 8.0593,
+        "location": "Civilian Area, Ebonyi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-detain-officers-over-assault-of-civilian-in-ebonyi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Arrest Suspected Terrorist Informant, Recover Motorcycle, Cash in Kebbi - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-07",
+        "lat": 11.4668,
+        "lng": 4.1982,
+        "location": "Cash Area, Kebbi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOek9mVnRqSzl2OE9mM0kzWXBSN0xUQ05JX1hBZy1nMnlZZG5aaUhyNTBkS3dOTVRST09YaW4zdGFoZzF1WTNxZmg3Y09DMnJGTHhWYWkzMlZwbUdmZ2ZvS1c2WmJnZmlJU3BsRm5DM3BsQU56T0FTX2NTNTNOVHdYTDRXN3JOV1FsandmSjZZX2RRa0ZxY3VDb0NvQndwX0dTZUNPeDVYN3FvcVNHRzlTd09kb1JueVA1RHBLWEd3?oc=5"
+    },
+    {
+        "title": "Troops Dismantle Illegal Refining Site, Recover Equipment in Rivers Forest - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 4.7389,
+        "lng": 6.8815,
+        "location": "Equipment Area, Rivers State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTcyV296U3RkaW1Oa1NKajlLdGE5VXZSWTZxYVR2SEJ4Y19Zb0R4X29vby1WNVZ6OG41VUo2eXpzRWJWLXl4bDhUbTJCZ0V1dXhNdlZtcjNDY3c4eC1vT0l5UEd0MWZ3Q1RpUmVsRDczQzZCbzNRc0VXSWo0MnBiSTRlODRkY00tTzExLTk1MVpKdTBPUVAyTE5wYjhwUWJWREhTX2ZVLW1UaGZOTXRuNlpsSWhoX0dtNFE?oc=5"
+    },
+    {
+        "title": "Troops Recover Unexploded Ordnance During Patrol in Benue - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 7.3536,
+        "lng": 8.7228,
+        "location": "Patrol Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVzlfdE5pR1A4ZGxZd0FSNkV3UmZETGl0VFkxR1FIVFpYQkRyZ2tvcnoxR09Sal9aakRmam8yR254TjZobGVYdWlCbVo2bnJyQUNQQTJ2aWNzNW9vemtiT25fRnFyMFF4cGhyRm5iUnNldVdCNkl5cnFYcVZvZDBtcXdCaFhWQzdXN3YzZE5hWXYyZlN4U3FfUW9QZlRELWhtX0hFZQ?oc=5"
     }
 ]
