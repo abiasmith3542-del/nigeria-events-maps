@@ -3265,5 +3265,104 @@
         "location": "Osun State",
         "source": "Punch Metro",
         "url": "https://punchng.com/adeleke-warns-of-bandit-influx-into-osun-mining-communities/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Mob lynches two travellers in Kaduna, six arrested",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 10.4622,
+        "lng": 7.5241,
+        "location": "Travellers Area, Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/mob-lynches-two-travellers-in-kaduna-six-arrested/"
+    },
+    {
+        "title": "Seek God’s help over abducted pupils, CAN urges FG, Oyo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-07",
+        "lat": 7.979,
+        "lng": 4.0098,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/seek-gods-help-over-abducted-pupils-can-urges-fg-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kwara: Abducted worshippers regain freedom after 105 days in captivity",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-07",
+        "lat": 6.4932,
+        "lng": 6.0456,
+        "location": "Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kwara-abducted-worshippers-regain-freedom-after-105-days-in-captivity/"
+    },
+    {
+        "title": "Policeman, herder killed in Taraba attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-07",
+        "lat": 7.9705,
+        "lng": 10.512,
+        "location": "Killed Area, Taraba State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/policeman-herder-killed-in-taraba-attacks/"
+    },
+    {
+        "title": "FCT Police Bust Kidnap Ring, Arrest 6 Suspects, Recover ₦8.25 Million Ransom - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 9.0592,
+        "lng": 7.4771,
+        "location": "Abuja (FCT)",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5YlhXUjV1TjdXVEp5WlNzREJDX2tNdEJxU1BwajFQUmlLQXU3TC0zSmI3eGcySUVQRC01RW1PUUpXQjhuMWdzTFRaUXZSTDc1dkd4R2pDUF9HM3BUakUxQl9pTTM4djhHTXZUTGJ3?oc=5"
+    },
+    {
+        "title": "Troops Repel Terrorists Attacks, Eliminate Notorious Commander, Recover Weapons in Zamfara, Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-07",
+        "lat": 12.5642,
+        "lng": 7.6687,
+        "location": "Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52Rkp2OEc2TkRaTl9vVlNzMk02cUJBN1pZQmdFampQZlhfcHdkYmhPdlV3LVJyY0VOc3BGazRvLVl2UFZZR2dwd3V6THhCRmlyWGdueG5SWGVOczBMZlFhcUVkdlFVV01icEZj?oc=5"
+    },
+    {
+        "title": "PSC Dismisses 4 Senior Police Officers, Sanctions 31 Others Over Misconduct - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 10.0094,
+        "lng": 5.9668,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QazJacmZNc2p6aEM3Q19tcFNPaHFzXzRZamJkWDdoMGlmbldfSmV5b3ZERDBzZXlvOFpVTzR3eVlZZ1BmT0I2dXZWN0h1cG4wbzk5Y0I0N3M4NW9QVjdlNno5SjVBU2xhS0ZQQW5IN2w?oc=5"
+    },
+    {
+        "title": "Troops Secure 27 Cattle After Responding to Farmland Destruction Report in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 9.488,
+        "lng": 9.5259,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUmQ5YjMwTGFOZm0wb3BDVWJNQzBjTDJoX2RDRHBUN21WZWlueTRhLVJURWl2TlVkYWNDNnI4Y1Q4ajI0UjhGU2poNWhPMFg0RUkxeVd1d1huU29BdlhyT2ZjbkpFS3R4NURlYXdfZnJZVEdfdU16dy1yd1FXYWZRVTBHUS1sVnlMX3plVWVEYlZKU0ZkdG8xYTExbDAzY3dHY3B2TDBsdlhRQzgzVUEwVUp0T0VINDZhaFFGdGljQjRqTUxGRGc?oc=5"
+    },
+    {
+        "title": "Troops Arrest Senior Corrections Officer Over Alleged Arms Trafficking in Enugu - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 6.553,
+        "lng": 7.5083,
+        "location": "Trafficking Area, Enugu State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3hJZ2ZuUGl2d190bnhfczgtX1dVTWFlR2dIY2FtTjhYMEtfMERXZ3F3d0plSUM5SUhya3ZWV2hHNER3ZDEwMlhCNl91LTI1OFAxcHZkVHc0Y0hxLTJaV0x5YkdTOFd1cjF4LUVxSWZFMXNOX1dBa3FBdlJCWVNORVdRVTQzcXlnTVN1Wk5oUHJmNmFDbFFrajlTQUhFdUgzVFpPM1l6WHl5cWJ2ZEt5aGNzQlk1WXN5VjBCeWVEMFVoQQ?oc=5"
     }
 ]
