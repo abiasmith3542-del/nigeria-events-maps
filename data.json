@@ -3232,5 +3232,38 @@
         "location": "Ransom Area, Abuja (FCT)",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWGhpSWRXNGFrSlBxLVMyRHAxd3VKbFE4MGwyWUJiYWIwQ1hybXFRc3J0Sjl5Uk91V2U1ZnV4NVJHa2xPRVZhRW9Jd0pLX3J5RDlxTkR6RTRUTmV0anFNMFJPNkg0REZLTkEwOHdmYlBzZTR5c1lHLWRQLUJpQlphazhsRFdRN3JJUURmVmo3THBmTDM2RHlZejBkRmN4X0M5Y1JXeFBmNnJXRHpfN1B2WVlZdjdQOWxoOFE?oc=5"
+    },
+    {
+        "title": "Six arrested as mob kills two over false kidnapping allegation in Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 10.525,
+        "lng": 7.4905,
+        "location": "Allegation Area, Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/six-arrested-as-mob-kills-two-over-false-kidnapping-allegation-in-kaduna/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest fake officer, recover uniforms in Akwa Ibom ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-07",
+        "lat": 5.0024,
+        "lng": 7.8222,
+        "location": "Uniforms Area, Akwa Ibom State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-fake-officer-recover-uniforms-in-akwa-ibom/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Adeleke warns of bandit influx into Osun mining communities",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-07",
+        "lat": 7.4848,
+        "lng": 4.5474,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/adeleke-warns-of-bandit-influx-into-osun-mining-communities/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
