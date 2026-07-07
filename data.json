@@ -2968,5 +2968,38 @@
         "location": "Kano State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/kano-police-impound-81-vehicles-over-covered-missing-number-plates-2/"
+    },
+    {
+        "title": "Terrorists block Niger road, kill driver, abduct 3 traders",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-07",
+        "lat": 10.0548,
+        "lng": 6.0394,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/terrorists-block-niger-road-kill-driver-abduct-3-traders/"
+    },
+    {
+        "title": "6 killed in fresh Plateau attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-07",
+        "lat": 9.5564,
+        "lng": 9.5069,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/6-killed-in-fresh-plateau-attacks/"
+    },
+    {
+        "title": "Troops, DSS, Police Arrest Suspect, Recover Firearm in Enugu - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-03",
+        "lat": 6.4814,
+        "lng": 7.5064,
+        "location": "Firearm Area, Enugu State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdnNpazBNNEZBb1Z4VEh6YlRXSXBCOEtMRWt2ajIwN2RiamRpYXczcElEWnE4UGlDQWd1YTc0ZzZWTW5xQVdSNnZwTHBUS0l5YzMtT0taLU1raUgtWmlrVmg3Y1FQSHhKdVJLUHdWemM3UHc3TjF1amw4YkdlQ1UwdFVoU3pCUm9SLVhBUHZNampwN0h1Q3d0cUI0WEctbm1aUVktTA?oc=5"
     }
 ]
