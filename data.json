@@ -3738,5 +3738,71 @@
         "location": "Jos, Plateau State",
         "source": "Leadership News",
         "url": "https://leadership.ng/fury-vs-joshua-heavyweight-clash-could-start-early-hours-at-wembley/"
+    },
+    {
+        "title": "Police arrest 135 suspected cultists in Lagos, recover 26 firearms",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 6.5289,
+        "lng": 3.3449,
+        "location": "Cultists Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-135-suspected-cultists-in-lagos-recover-26-firearms/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Arrest 135 Suspected Cultists During 7/7 Crackdown In Lagos",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 6.4903,
+        "lng": 3.4316,
+        "location": "Crackdown Area, Lagos State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-135-suspected-cultists-during-7-7-crackdown-in-lagos/"
+    },
+    {
+        "title": "Troops Arrest Two Suspected Boko Haram Logistics Suppliers, Seize Construction Materials, Solar Equipment in Borno - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 11.7967,
+        "lng": 13.136,
+        "location": "Equipment Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmF3SjZrYUktdnJSVWVkd0V1Tmk1Q2VPU2E4Mlp2WDBPWTBXSjVJRUhUbEJ2OWd3elhUbEp6cC15cE5KNERoZlFVaEt3bjJjLVNtWEIzOXlzRzNWeVB6Z3p6TWlMa2FYV1VJcnM4QmJ0N21GODVfMktlQ1FCYVEycWNPV1dhN3A1M1A3d3RjZlFTZmwtdjE5cDJMNHFZVWY0djhOOWxzSzVNOFUtU3ZHc1hITzBqR3oycXBZanBQbnBVZk9zeFl3NzB6cl95b2xPa2huQ190bVE2TDFMOHpQeld5Wkc0OG1EOHQtRWJ3?oc=5"
+    },
+    {
+        "title": "Troops Overrun Terrorist Enclaves in Wulgo Axis, Recover Drugs During Offensive in Borno - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 11.8192,
+        "lng": 13.1823,
+        "location": "Offensive Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY0ZtV3hFQmxETjZuY2NTV1kza05sQlBwc1lJVDI2VXQyN24zallrV3REMXRBSm81dDdySVp6eDluTVBCVE5RN2N5RThlX0ZEWEhRcHpXWl9lakZRaFYtdHc5U0J3VHdZakdsWm5ELXVQMDJBMEN1U3ZwMExlQnN5NENhMFpFdE1UN2o1TXFnVlA5LW10aFI5a2NnZTFaZm9qWjQ0XzY1dDVaMkVLb0V2bmxoek9jdDJhaEVQcXQ2Q2dlUHJDYkdycHJySzI?oc=5"
+    },
+    {
+        "title": "Troops Rescue Two Abductees, Recover Suspected N1.2m Ransom in Borno - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 11.846,
+        "lng": 13.1436,
+        "location": "Ransom Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSU50U204d012Sldab2N0aEJpQ21ZX1hnZWxKNThxcHhCMnNkck8weHBOTk5DTzRxZmJOWExHVUlVbUdPM2JXZHZhQXVZNVM2aVhzYmxaZGxSMm5kb1BnU2wwQlZCaFVRQTZaX29yQnR0OGpUcjludDhiT210U1hrd0hTbl9VOHlMc0EtbHpBVUZyTjJOMllYWklNMXU5bHRxUmZoNEJIN05vNV9LMWJXbFBn?oc=5"
+    },
+    {
+        "title": "Troops Arrest Wanted Suspect, Recover AK-47 Rifle in Adamawa - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 9.2981,
+        "lng": 12.4535,
+        "location": "Rifle Area, Adamawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFZhY24yeGJvZmZOSWFQNEJJdVU5eFVLNjRKUGpZb1E0RkliQU55a2lfY3B6T0laVjI0VFlDNjRvb1RhT3NUcXBqTzJGU3ZyRjk2aDFsemQxR1pPSWpLbGVaVE1fTEE0S0RQbDhHMEhXalY4MjJERXB4YTBZdXpjT2tDTUJ3bWwyOW12RGRoeFZ1RjBMY1lMVEZneHh2MWxLRXAteGFmOA?oc=5"
     }
 ]
