@@ -3485,5 +3485,82 @@
         "location": "Kwara State",
         "source": "Punch Metro",
         "url": "https://punchng.com/kwara-community-celebrates-return-of-abducted-worshippers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nasarawa police confirm abduction of three students of fed varsity",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 8.4496,
+        "lng": 8.1991,
+        "location": "Nasarawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/nasarawa-police-confirm-abduction-of-three-students-of-fed-varsity/"
+    },
+    {
+        "title": "Gunmen kill one, abduct four in fresh Bauchi attacks",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 10.4976,
+        "lng": 9.9496,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-kill-one-abduct-four-in-fresh-bauchi-attacks/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police seize 195 vehicles over number plate violations in Enugu",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 6.4526,
+        "lng": 7.484,
+        "location": "Violations Area, Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-seize-195-vehicles-over-number-plate-violations-in-enugu/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Oyo APC members protest over N’Assembly list",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-08",
+        "lat": 7.9755,
+        "lng": 3.9936,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/oyo-apc-members-protest-over-nassembly-list/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Man arrested for defiling neighbour’s eight-year-old daughter in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 10.5385,
+        "lng": 9.9893,
+        "location": "Daughter Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/man-arrested-for-defiling-neighbours-eight-year-old-daughter-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police kill two suspected kidnappers, hunt five others after highway gun battle in Ondo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 7.2996,
+        "lng": 5.1876,
+        "location": "Battle Area, Ondo State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/893742-police-kill-two-suspected-kidnappers-hunt-five-others-after-highway-gun-battle-in-ondo.html"
+    },
+    {
+        "title": "Gunmen Abduct 3 Varsity Students In Nasarawa, Police Rescue 1 ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 8.5384,
+        "lng": 8.1192,
+        "location": "Students Area, Nasarawa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/gunmen-abduct-3-varsity-students-in-nasarawa-police-rescue-one/"
     }
 ]
