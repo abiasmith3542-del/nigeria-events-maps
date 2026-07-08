@@ -3716,5 +3716,27 @@
         "location": "Gombe State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/07/police-bust-eight-man-robbery-cybercrime-syndicate-rescue-abducted-boy-in-gombe/"
+    },
+    {
+        "title": "Oyo confirms four dead, others injured in Ibadan clash, vows justice",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 7.9623,
+        "lng": 4.0248,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/oyo-confirms-four-dead-others-injured-in-ibadan-clash-vows-justice/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Fury vs Joshua Heavyweight Clash Could Start Early Hours At Wembley",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 9.929,
+        "lng": 8.8709,
+        "location": "Jos, Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/fury-vs-joshua-heavyweight-clash-could-start-early-hours-at-wembley/"
     }
 ]
