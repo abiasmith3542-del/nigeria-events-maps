@@ -3386,5 +3386,49 @@
         "location": "Abia State",
         "source": "Punch Metro",
         "url": "https://punchng.com/state-police-tinubu-names-gbajabiamila-agf-to-implementation-committee/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "State Police: Tinubu Inaugurates Panel To Draft National Policing Bill",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 9.1137,
+        "lng": 7.5684,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/state-police-tinubu-inaugurates-panel-to-draft-national-policing-bill/"
+    },
+    {
+        "title": "‘Vandalism threatens Nigeria’s fibre broadband expansion’",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-08",
+        "lat": 9.9788,
+        "lng": 6.051,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/vandalism-threatens-nigerias-fibre-broadband-expansion/"
+    },
+    {
+        "title": "Policeman killed, 13 others injured in Taraba attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 8.0135,
+        "lng": 10.4777,
+        "location": "Injured Area, Taraba State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/policeman-killed-13-others-injured-in-taraba-attacks/"
+    },
+    {
+        "title": "2 ‘top Boko Haram commanders’ surrender in Yobe",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 11.9441,
+        "lng": 11.4731,
+        "location": "Surrender Area, Yobe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/2-top-boko-haram-commanders-surrender-in-yobe/"
     }
 ]
