@@ -3694,5 +3694,27 @@
         "location": "Niger State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/niger-captain-two-soldiers-feared-killed-in-ied-explosion/"
+    },
+    {
+        "title": "135 suspected cultists arrested in Lagos police raids",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 6.4965,
+        "lng": 3.3748,
+        "location": "Arrested Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/135-suspected-cultists-arrested-in-lagos-police-raids/"
+    },
+    {
+        "title": "Police bust eight-man robbery, cybercrime syndicate, rescue abducted boy in Gombe",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 10.3012,
+        "lng": 11.1696,
+        "location": "Gombe State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-bust-eight-man-robbery-cybercrime-syndicate-rescue-abducted-boy-in-gombe/"
     }
 ]
