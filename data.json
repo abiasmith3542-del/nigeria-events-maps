@@ -3562,5 +3562,93 @@
         "location": "Students Area, Nasarawa State",
         "source": "Leadership News",
         "url": "https://leadership.ng/gunmen-abduct-3-varsity-students-in-nasarawa-police-rescue-one/"
+    },
+    {
+        "title": "‎Police arrest three over Kogi teacher’s death",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 7.7893,
+        "lng": 6.7872,
+        "location": "Kogi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-arrest-three-over-kogi-teachers-death/"
+    },
+    {
+        "title": "Police arrest father, son with four firearms in Bayelsa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 4.69,
+        "lng": 6.0106,
+        "location": "Firearms Area, Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-father-son-with-four-firearms-in-bayelsa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest analyst who accused Katsina govt of sponsoring bandit",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 12.5374,
+        "lng": 7.6474,
+        "location": "Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-analyst-who-accused-katsina-govt-of-sponsoring-bandit/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest murder suspect in Oyo-Osun communal clash two years after victim went missing",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 7.505,
+        "lng": 4.5517,
+        "location": "Osun State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/893757-police-arrest-murder-suspect-in-oyo-osun-communal-clash-two-years-after-victim-went-missing.html"
+    },
+    {
+        "title": "Northern Governors, Traditional Rulers Meet in Kaduna Over Security, State Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 10.5121,
+        "lng": 7.5566,
+        "location": "Meet Area, Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/northern-governors-traditional-rulers-meet-in-kaduna-over-security-state-police/"
+    },
+    {
+        "title": "Yoruba, Hausa Groups Clash Over Alleged Killing Of Tricycle Mechanic In Oyo",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 7.9485,
+        "lng": 3.9541,
+        "location": "Mechanic Area, Oyo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/yoruba-hausa-groups-clash-over-alleged-killing-of-tricycle-mechanic-in-oyo/"
+    },
+    {
+        "title": "Bandits kill 6, injure 5 in fresh attack on Sokoto community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 13.0168,
+        "lng": 5.2811,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-6-injure-5-in-fresh-attack-on-sokoto-community/"
+    },
+    {
+        "title": "Army, NDLEA Arrest Three Suspected Drug Suppliers Linked to Terrorists in Katsina - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 12.5272,
+        "lng": 7.5872,
+        "location": "Terrorists Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMTBTVUxPTmpIb1BnN2xNSE9uLUx1bWhLdDBYc3ZJcUk5VGlfRVZVbmI3N2RjZEY3RE5LZU4tMVBveWRYVGxIOXkxNjhPUm5XeS1HTUpGaVM1MUdDY2V1RUZjTlU3S3lYcUNFYjNKdWY3M1RQYTMweTkzNUZpc0NJVXgzMm0taGVYMk9BUmllWFN6ek5kTkFGVmRFbU9VVHp1aWNsYWxDTEJhcDgyTllHVlA1Mlc0SkxqRFFRdDZYaEJrTlE?oc=5"
     }
 ]
