@@ -3430,5 +3430,60 @@
         "location": "Surrender Area, Yobe State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/2-top-boko-haram-commanders-surrender-in-yobe/"
+    },
+    {
+        "title": "Insecurity: Governor Lawal rules out negotiations again, urges bandits to surrender or face death",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 9.0924,
+        "lng": 7.4146,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/insecurity-governor-lawal-rules-out-negotiations-again-urges-bandits-to-surrender-or-face-death/"
+    },
+    {
+        "title": "Police arrest two suspected armed robbers, recover gun in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 8.0014,
+        "lng": 3.9419,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-suspected-armed-robbers-recover-gun-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police kill two kidnappers in Ondo gun battle",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 7.2374,
+        "lng": 5.2361,
+        "location": "Kidnappers Area, Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-kill-two-kidnappers-in-ondo-gun-battle/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Soldiers, NDLEA arrest three suspected terrorist drug suppliers in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 12.5277,
+        "lng": 7.5821,
+        "location": "Suppliers Area, Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-ndlea-arrest-three-suspected-terrorist-drug-suppliers-in-katsina/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kwara community celebrates return of abducted worshippers",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 8.4569,
+        "lng": 4.6013,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kwara-community-celebrates-return-of-abducted-worshippers/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
