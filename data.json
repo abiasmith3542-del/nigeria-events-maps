@@ -3650,5 +3650,49 @@
         "location": "Terrorists Area, Katsina State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMTBTVUxPTmpIb1BnN2xNSE9uLUx1bWhLdDBYc3ZJcUk5VGlfRVZVbmI3N2RjZEY3RE5LZU4tMVBveWRYVGxIOXkxNjhPUm5XeS1HTUpGaVM1MUdDY2V1RUZjTlU3S3lYcUNFYjNKdWY3M1RQYTMweTkzNUZpc0NJVXgzMm0taGVYMk9BUmllWFN6ek5kTkFGVmRFbU9VVHp1aWNsYWxDTEJhcDgyTllHVlA1Mlc0SkxqRFFRdDZYaEJrTlE?oc=5"
+    },
+    {
+        "title": "State Police: Lagos Assembly backs states’ control of police services",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 6.5025,
+        "lng": 3.3659,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/state-police-lagos-assembly-backs-states-control-of-police-services/"
+    },
+    {
+        "title": "Elderly man, son arrested with four guns in Bayelsa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 4.7095,
+        "lng": 6.0395,
+        "location": "Guns Area, Bayelsa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/elderly-man-son-arrested-with-four-guns-in-bayelsa/"
+    },
+    {
+        "title": "VIDEO: Police arrest ‘one chance’ kidnapping syndicate, recover N8.8m ransom in Abuja",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-08",
+        "lat": 9.0106,
+        "lng": 7.461,
+        "location": "Ransom Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-police-arrest-one-chance-kidnapping-syndicate-recover-n8-8m-ransom-in-abuja/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Niger: Captain, two soldiers feared killed in IED explosion",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-08",
+        "lat": 9.9885,
+        "lng": 6.0456,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/niger-captain-two-soldiers-feared-killed-in-ied-explosion/"
     }
 ]
