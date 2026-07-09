@@ -3848,5 +3848,27 @@
         "location": "Informant Area, Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhRWhwem14Y1pSS1Y0ZGVsNWg5Sk5MTkNlUkYtNjFuMVdaQWpkV0E0YjdQMlhlSUpGdXVtRXBhZ2E0czdKY3hOTWVhLWFtc1JzTzJwd0RTaHhUUENhanlNQ0JnTGM3Z2dVSXZFblRsMUY?oc=5"
+    },
+    {
+        "title": "Police arrest driver in Abuja over alleged theft of employer’s car",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-09",
+        "lat": 9.0552,
+        "lng": 7.4819,
+        "location": "Driver Area, Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-arrest-driver-in-abuja-over-alleged-theft-of-employers-car/"
+    },
+    {
+        "title": "How mob killing over alleged robbery sparks deadly reprisal attacks in Oyo",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-09",
+        "lat": 8.0359,
+        "lng": 4.0401,
+        "location": "Attacks Area, Oyo State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/894112-how-mob-killing-over-alleged-robbery-sparks-deadly-reprisal-attacks-in-oyo.html"
     }
 ]
