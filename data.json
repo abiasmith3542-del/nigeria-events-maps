@@ -3683,5 +3683,115 @@
         "location": "Targets Area, Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeTNPZ2xZMHpSNUkyTEZjYkszY1hrWnNzZ2JfVDJDYTVTNTZzUFdFWmh0NDlQUG9RTnNCSGVYYmJIdklTekdyZ1BCLVFZbTY4Wm1jZFNBZWktYkVyYUU2Q3otS0t4SXlnVWtqZk45bkZGaGc2d2VsUnFRX01STFFSNEJSM0J3angxWFgwTjJrSVAxdHRUNzNydzlkMFR5SG1yUlVXSGw3eHBoeDdTNG1NN1RiUV90REN2V3NtT3pPZ281cUNELVNNckV4dk9BNGZQU0E?oc=5"
+    },
+    {
+        "title": "Two killed as truck, bus collide, burst into flames in Ogun",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-09",
+        "lat": 6.9979,
+        "lng": 3.5111,
+        "location": "Flames Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/two-killed-as-truck-bus-collide-burst-into-flames-in-ogun/"
+    },
+    {
+        "title": "Iran says US strikes on civilian infrastructure ‘gross war crime’",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-09",
+        "lat": 9.0775,
+        "lng": 7.4109,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/iran-says-us-strikes-on-civilian-infrastructure-gross-war-crime/"
+    },
+    {
+        "title": "Oyo abduction: Bandits threaten to kill pupils if troops advance — Defence minister",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-09",
+        "lat": 7.9854,
+        "lng": 3.9719,
+        "location": "Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/oyo-abduction-bandits-threaten-to-kill-pupils-if-troops-advance-defence-minister/"
+    },
+    {
+        "title": "Gunmen kill three in fresh Plateau attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-09",
+        "lat": 9.509,
+        "lng": 9.4461,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-kill-three-in-fresh-plateau-attack/"
+    },
+    {
+        "title": "Troops foil Boko Haram/ISWAP invasion into Borno base",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-09",
+        "lat": 11.828,
+        "lng": 13.0989,
+        "location": "Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/troops-foil-boko-haram-iswap-invasion-into-borno-base/"
+    },
+    {
+        "title": "Seven dead, 53 injured in Jigawa windstorm",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-09",
+        "lat": 11.9445,
+        "lng": 9.7331,
+        "location": "Injured Area, Jigawa State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/893944-seven-dead-53-injured-in-jigawa-windstorm.html"
+    },
+    {
+        "title": "Police Arrest 3 Over Death Of Kogi School Worker",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-09",
+        "lat": 7.7661,
+        "lng": 6.7461,
+        "location": "Kogi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-3-over-death-of-kogi-school-worker/"
+    },
+    {
+        "title": "7 killed, 3 students, others abducted in Sokoto, Bauchi, Nasarawa",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-09",
+        "lat": 10.4456,
+        "lng": 10.0558,
+        "location": "Bauchi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/7-killed-3-students-others-abducted-in-sokoto-bauchi-nasarawa/"
+    },
+    {
+        "title": "Troops Ambush Terrorists, Kill 8, Foil Planned Attack in Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-09",
+        "lat": 12.4857,
+        "lng": 7.6378,
+        "location": "Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UVzdDZnNWSkFlY2RHT3Vzd0J2S0VCNURIR3B2LXhkU0JBR1RVSHY2b2tpa19kVGZVVk5Mc0tEUXE2MmQ2OEVKbXcwYVNZVERtRi0zaGlSVHZEOHYxeWNPZXlWVnJ6bmlkVlVrdVl2bmg?oc=5"
+    },
+    {
+        "title": "Troops foil attack on commuters, kill eight terrorists in Katsina - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-09",
+        "lat": 12.5047,
+        "lng": 7.6408,
+        "location": "Terrorists Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemVNSXZScDM0TmhhZ1hCa2hvTW02Tmc2Nml1dzJVTkdza3dBX3U3bUJ4MFMycG54dlNDQU9YeXlMWTQ0QUhYeU9IUUNUQkR5LUw2V0M2ZjVCWWVOejNOdUtlOXFUS2FQSDlfUUc5LVNKRUhaSHczaXZJUXpjeG5kMk5tcGtkNWY5SHE4WXR3T2xfQTNxTUZFSVNRcjFmQzVkS0tFbXRoUWtKaUdvLVE?oc=5"
     }
 ]
