@@ -3705,5 +3705,27 @@
         "location": "Niger State",
         "source": "Google News - Nigeria Security",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUM3VVBEYXdXNVlDMS10VEdJWW02WnVucUo4UExGMFp2alladkQyMlhubGtDalBPTDl1VTRCM1FUbWdnMG5GUXNCUUN4MmVtNzBVLWZFelJPeGd6T1lGYVRXMS1oaTFWSTdaaEdaSmd1OTN4blZMeW0wOHV6R1NraVJOUE1nZXlmWlZ4WnZ5UTBsTTB4VlQxSF9MX1ZoUF9Ea0xueE56cHY4aDBRanV1MV9WTS0xOWZFMmdVdlp3?oc=5"
+    },
+    {
+        "title": "Gombe probes Assembly site collapse that killed one worker",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-10",
+        "lat": 10.304,
+        "lng": 11.1189,
+        "location": "Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gombe-probes-assembly-site-collapse-that-killed-one-worker/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gombe orders probe into collapse of Assembly complex",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-10",
+        "lat": 10.2658,
+        "lng": 11.1236,
+        "location": "Gombe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gombe-orders-probe-into-collapse-of-assembly-complex/"
     }
 ]
