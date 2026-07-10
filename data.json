@@ -3529,5 +3529,49 @@
         "location": "Teacher Area, Bauchi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/how-thugs-killed-islamic-teacher-in-bauchi/"
+    },
+    {
+        "title": "OPHK troops foil multiple terrorist infiltrations in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-10",
+        "lat": 11.8693,
+        "lng": 13.1472,
+        "location": "Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/ophk-troops-foil-multiple-terrorist-infiltrations-in-borno/"
+    },
+    {
+        "title": "Banditry victims recount horror at News Central Katsina town hall",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-10",
+        "lat": 12.5048,
+        "lng": 7.5858,
+        "location": "Katsina State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/banditry-victims-recount-horror-at-news-central-katsina-town-hall/"
+    },
+    {
+        "title": "I Almost Quit Acting Over Rumors I Killed My Mentor, Says Adebayo Salami",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-10",
+        "lat": 9.0794,
+        "lng": 7.4445,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/i-almost-quit-acting-over-rumors-i-killed-my-mentor-says-adebayo-salami/"
+    },
+    {
+        "title": "Police Arrest 2 With Suspected Human Skull In Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-10",
+        "lat": 8.007,
+        "lng": 3.9649,
+        "location": "Skull Area, Oyo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-2-with-suspected-human-skull-in-oyo/"
     }
 ]
