@@ -3727,5 +3727,16 @@
         "location": "Gombe State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/gombe-orders-probe-into-collapse-of-assembly-complex/"
+    },
+    {
+        "title": "Police arrest suspected cultists, vandal in Abia",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-10",
+        "lat": 5.4378,
+        "lng": 7.4918,
+        "location": "Vandal Area, Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-cultists-vandal-in-abia/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
