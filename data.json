@@ -3683,5 +3683,27 @@
         "location": "Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/breaking-kidnapped-oyo-pupils-teachers-regain-freedom/"
+    },
+    {
+        "title": "Gunmen abduct two in Ogun",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-10",
+        "lat": 7.0365,
+        "lng": 3.4994,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-abduct-two-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Jihadist insurgency hampers Nigeria cholera outbreak response - Africa - World - Ahram Online",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-10",
+        "lat": 10.0541,
+        "lng": 5.9665,
+        "location": "Niger State",
+        "source": "Google News - Nigeria Security",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUM3VVBEYXdXNVlDMS10VEdJWW02WnVucUo4UExGMFp2alladkQyMlhubGtDalBPTDl1VTRCM1FUbWdnMG5GUXNCUUN4MmVtNzBVLWZFelJPeGd6T1lGYVRXMS1oaTFWSTdaaEdaSmd1OTN4blZMeW0wOHV6R1NraVJOUE1nZXlmWlZ4WnZ5UTBsTTB4VlQxSF9MX1ZoUF9Ea0xueE56cHY4aDBRanV1MV9WTS0xOWZFMmdVdlp3?oc=5"
     }
 ]
