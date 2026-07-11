@@ -3144,5 +3144,27 @@
         "location": "Raid Area, Borno State",
         "source": "Punch Metro",
         "url": "https://punchng.com/troops-foil-attempted-iswap-raid-in-borno/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police restrict movement over Edo LG election",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-11",
+        "lat": 6.548,
+        "lng": 5.9728,
+        "location": "Edo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-restrict-movement-over-edo-lg-election-2/"
+    },
+    {
+        "title": "Oyo students, teachers rescue: How security agents weakened terrorists",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-11",
+        "lat": 8.0426,
+        "lng": 3.9776,
+        "location": "Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/oyo-students-teachers-rescue-how-security-agents-weakened-terrorists/"
     }
 ]
