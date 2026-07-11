@@ -3166,5 +3166,49 @@
         "location": "Oyo State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/07/oyo-students-teachers-rescue-how-security-agents-weakened-terrorists/"
+    },
+    {
+        "title": "Gombe Assembly Collapse: One dead, seven injured as Yahaya orders investigation",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-11",
+        "lat": 10.2847,
+        "lng": 11.1585,
+        "location": "Gombe State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gombe-assembly-collapse-one-dead-seven-injured-as-yahaya-orders-investigation/"
+    },
+    {
+        "title": "State police will bring security closer to Nigerians – IGP",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-11",
+        "lat": 10.0556,
+        "lng": 5.9578,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/state-police-will-bring-security-closer-to-nigerians-igp/"
+    },
+    {
+        "title": "Mandate hijack: How 16 MDAs got N206bn for constituency projects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-11",
+        "lat": 9.0263,
+        "lng": 7.4383,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/mandate-hijack-how-16-mdas-got-n206bn-for-constituency-projects/"
+    },
+    {
+        "title": "Troops Rescue Four Kidnap Victims in Kogi, Kwara Border Operations - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-11",
+        "lat": 7.8401,
+        "lng": 6.7461,
+        "location": "Victims Area, Kogi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWJOY3VhczhjdUloTTNlSmY4NmcxZ25MZFdIdjlHem9Kb3VwWVNseDg0RElpbk9kSXl0UEhXQW1FdzItYVhzZmttWEc4a0cxb01walhRLUJCQUpjOW1fVlBjTXBIMXlvUlNjQ0s4SDJybmlZc0Z6RUZDRGpnUC1pNVdaSlUyTWk2RUlfZlpnZlVlUUZtVWJRZkNmQVA1U2N1V04wZHlnTG1nbWppcVRB?oc=5"
     }
 ]
