@@ -3298,5 +3298,16 @@
         "location": "Benue State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-arrest-80-yr-old-7-others-over-killing-of-benue-macban-chairman/"
+    },
+    {
+        "title": "Kogi: Bandits abduct corpse, mourners, demand N450 ransom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-11",
+        "lat": 7.7801,
+        "lng": 6.7549,
+        "location": "Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kogi-bandits-abduct-corpse-mourners-demand-n450-ransom/"
     }
 ]
