@@ -3353,5 +3353,27 @@
         "location": "Ondo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/edo-police-arrest-man-for-faking-own-kidnap/"
+    },
+    {
+        "title": "Police arrest 14 suspected drug dealers, seize illicit drugs in Yobe raid",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-11",
+        "lat": 11.9555,
+        "lng": 11.5598,
+        "location": "Drugs Area, Yobe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-14-suspected-drug-dealers-seize-illicit-drugs-in-yobe-raid/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police nab armed robbery suspect in Abia",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-11",
+        "lat": 5.384,
+        "lng": 7.4607,
+        "location": "Suspect Area, Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-armed-robbery-suspect-in-abia/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
