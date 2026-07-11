@@ -3210,5 +3210,38 @@
         "location": "Victims Area, Kogi State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWJOY3VhczhjdUloTTNlSmY4NmcxZ25MZFdIdjlHem9Kb3VwWVNseDg0RElpbk9kSXl0UEhXQW1FdzItYVhzZmttWEc4a0cxb01walhRLUJCQUpjOW1fVlBjTXBIMXlvUlNjQ0s4SDJybmlZc0Z6RUZDRGpnUC1pNVdaSlUyTWk2RUlfZlpnZlVlUUZtVWJRZkNmQVA1U2N1V04wZHlnTG1nbWppcVRB?oc=5"
+    },
+    {
+        "title": "NAF Strikes Terrorists Enclave In Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-11",
+        "lat": 11.8891,
+        "lng": 13.185,
+        "location": "Enclave Area, Borno State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/naf-strikes-terrorists-enclave-in-borno/"
+    },
+    {
+        "title": "Police Arrest Suspect Over N3bn Fraud In Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-11",
+        "lat": 6.5777,
+        "lng": 3.345,
+        "location": "Fraud Area, Lagos State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-suspect-over-n3bn-fraud-in-lagos/"
+    },
+    {
+        "title": "World Cup Quarter-Final Ticket Prices Collapse After US, Portugal Exit",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-11",
+        "lat": 9.0497,
+        "lng": 7.4913,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/world-cup-quarter-final-ticket-prices-collapse-after-us-portugal-exit/"
     }
 ]
