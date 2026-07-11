@@ -3397,5 +3397,27 @@
         "location": "Injured Area, Bauchi State",
         "source": "Leadership News",
         "url": "https://leadership.ng/77-killed-5-injured-in-bauchi-crash-days-after-ex-deputy-governors-family-tragedy/"
+    },
+    {
+        "title": "Police arrest four chiefs, others over MACBAN chairman’s death in Benue",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-11",
+        "lat": 7.295,
+        "lng": 8.7714,
+        "location": "Death Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-arrest-four-chiefs-others-over-macban-chairmans-death-in-benue/"
+    },
+    {
+        "title": "Abducted Benue Pastor Dies After Regaining Freedom From Captivity",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-11",
+        "lat": 7.2891,
+        "lng": 8.7112,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/abducted-benue-pastor-dies-after-regaining-freedom-from-captivity/"
     }
 ]
