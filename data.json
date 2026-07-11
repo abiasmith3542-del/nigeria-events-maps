@@ -3243,5 +3243,27 @@
         "location": "Nigeria (General Area)",
         "source": "Leadership News",
         "url": "https://leadership.ng/world-cup-quarter-final-ticket-prices-collapse-after-us-portugal-exit/"
+    },
+    {
+        "title": "NAF strikes kill scores of terrorists, destroy enclaves in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-11",
+        "lat": 11.8748,
+        "lng": 13.1095,
+        "location": "Enclaves Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/naf-strikes-kill-scores-of-terrorists-destroy-enclaves-in-borno/"
+    },
+    {
+        "title": "Airstrikes Destroy ISWAP Stronghold, Logistics Hub in Borno - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-11",
+        "lat": 11.8879,
+        "lng": 13.1381,
+        "location": "Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDRaWmxrbWxwYm9sSnRmaDdmamFhZFN2dGpVY1NhSE1Pd0JHM0I5Y190QUFnajh1UlQxVlpMemdGWm5GVFYyTjBVMHd4R2NFTWdYdVZCbm5KYzFLQzJsV3hKVmowV1ZEUGdiRU1hSjZhZm5nWVd1M0gyMndSSWlnbHJibWEtY285S1dfamUzdGlydTlQNGQ2Z0pfYlZBbFRGWjljZkZR?oc=5"
     }
 ]
