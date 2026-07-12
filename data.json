@@ -3232,5 +3232,71 @@
         "location": "Niger State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/nine-killed-in-fresh-attacks-on-niger-communities/"
+    },
+    {
+        "title": "Notorious Zamfara bandit kingpin Kachalla Yellow killed in gun duel",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 12.0663,
+        "lng": 6.1746,
+        "location": "Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/notorious-zamfara-bandit-kingpin-kachalla-yellow-killed-in-gun-duel/"
+    },
+    {
+        "title": "Suspected herders kill scores in Benue, weeks after MACBAN chief’s murder",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 7.391,
+        "lng": 8.7701,
+        "location": "Scores Area, Benue State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/894790-suspected-herders-kill-scores-in-benue-weeks-after-macban-chiefs-murder.html"
+    },
+    {
+        "title": "Anambra Police Arrest 3 Women Over Alleged Sale Of 4-Year-Old Boy For ₦2m",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-12",
+        "lat": 6.2513,
+        "lng": 7.0383,
+        "location": "Anambra State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/anambra-police-arrest-3-women-over-alleged-sale-of-4-year-old-boy-for-%e2%82%a62m/"
+    },
+    {
+        "title": "Troops Rescue Two Women Abandoned by Terrorists in Borno - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 11.8651,
+        "lng": 13.0968,
+        "location": "Terrorists Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMkJZODdCTzdtUXhldU5Cdmc0ZHNfYVNvQ0hSeGVqRTZuR0U0Z2R0UGo4RFJJUnNuWGNmUHNQN1Q1cVNlb2Z1QmpIQkpvVWhhdENJZmYzSmZta21pVGV6bHJYZFBjOEZmWWNyZjVtR0hXV0RGMndqdXY4eTVHaTNiS082NG1rUkwwSnJ6VEVULUZLZFQtUFhqT3lpUnMxV2dYZkRV?oc=5"
+    },
+    {
+        "title": "Troops Neutralise Two Terrorists, Recover Motorcycles in Zamfara Patrol - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 12.1599,
+        "lng": 6.1859,
+        "location": "Motorcycles Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUpYTzdtbFEwRFFQUW5aQnhiWGhSV1ZuVzdiWVlOX1FIbVpmNmFXWFhtWk14ekJGNjJ5TG5Jd3RqLV9qeUMxUm9keE1nMDZsSjY3MEVoTlZtU2hTQURBYmE5TGpRdjV5SlVqVllnbXM0V28xNm9QcjlkTmxBNXpBVUdhT0dER2p0cmtBVG9WZ3A3cGd3Zl93blNVeUVZR3p6QVk1SWRkRUE0WkFuMjY5WnBSSlNnUQ?oc=5"
+    },
+    {
+        "title": "Troops Arrest Suspected Drug Trafficker, Seize 149 Packs of Cannabis Along Abuja–Lokoja Highway - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-12",
+        "lat": 9.0362,
+        "lng": 7.5044,
+        "location": "Abuja (FCT)",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSFhCN1RkNVhGTGFLcU9uNHpxVFk0TGVLX0lUSmUyZF9LcEFnRGVoYjVVa3A2Q3JPdWQwMUQyaGo2dEFycG9LVVhWdU1HbU0yMURNRUxGeGhxTlhqclNNMS1oZmNXVDJDQ3BfTHMtaEdSVzNMbzlodEtaUG9zcnRWbHZhRXRfc2xpVy1KYWhPcHZpWVdsdUM0XzJ3dV96SVdRd203MzROaE5zVDhLbkhoYjlGTWVuTVFOcGlTSnZvVXhEeHU5d25TbzBsbWd2Z3JRVGw2Z2lR?oc=5"
     }
 ]
