@@ -3089,5 +3089,49 @@
         "location": "Oyo State",
         "source": "Leadership News",
         "url": "https://leadership.ng/kekemeke-hails-tinubu-security-agencies-over-rescue-of-abducted-oyo-pupils/"
+    },
+    {
+        "title": "Candidates’ List: INEC extends deadline to July 14",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 9.0468,
+        "lng": 7.4563,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/candidates-list-inec-extends-deadline-to-july-14/"
+    },
+    {
+        "title": "US hit around 140 Iranian military targets in latest strikes",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-12",
+        "lat": 9.0288,
+        "lng": 7.5447,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/us-hit-around-140-iranian-military-targets-in-latest-strikes/"
+    },
+    {
+        "title": "State Police: Benue Makes The Case",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-12",
+        "lat": 7.3372,
+        "lng": 8.7363,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/state-police-benue-makes-the-case/"
+    },
+    {
+        "title": "Notorious Bandit Commander Kachalla Sani Yellow Killed in Zamfara as Rival Claims, Security Operation Accounts Emerge - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 12.164,
+        "lng": 6.1814,
+        "location": "Killed Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdFVWbzlHemdYdmFCb3Zsd1lyblF3MEVXTG5iejFPYmJxUXBhR25zSnd2dnQxX0RrWXhOeHo4LUlFSjJBREhiZDBReXk4QTE0OVRhY0ptRjFzZWN5blg0NFcwNndFWmlQZTdNN05mRmFfMXBFdml3RVVRSW5pYUFsTzdLQWIwV2prZy1Jd3lGV2oxeUNudTNBd012cUwzeHJfWlRZQ1M5ejNHNDJmSzgzYXU2TW9JRmZsTXdmZDgzdkhmaXBITnNfdHdzZzVRcmZia0lzSmJFbFEzUXEwUFMtVGx1aENuemJsVXc0MmtiODVJZGpyTlE?oc=5"
     }
 ]
