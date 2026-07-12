@@ -3430,5 +3430,38 @@
         "location": "Borno State",
         "source": "The Cable NG",
         "url": "https://www.thecable.ng/borno-youths-protest-insecurity-demand-release-of-terror-victims/"
+    },
+    {
+        "title": "Man Arrested For Allegedly Beating Wife To Death Over Food In Nasarawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-12",
+        "lat": 8.5342,
+        "lng": 8.2266,
+        "location": "Food Area, Nasarawa State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/12/man-arrested-for-allegedly-beating-wife-to-death-over-food-in-nasarawa/"
+    },
+    {
+        "title": "Seven Killed, Five Injured In Bauchi Road Crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 10.4619,
+        "lng": 10.035,
+        "location": "Injured Area, Bauchi State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/12/seven-killed-five-injured-in-bauchi-road-crash/"
+    },
+    {
+        "title": "Fulani Bandits Attack Leaves at Least 18 Dead in Benue as Youths Protest, Traditional Ruler Orders Herders Out of Otukpo - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 7.3654,
+        "lng": 8.6932,
+        "location": "Dead Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOU0U0dFNTVTlnMVFsdEhGVjRDU0l0Rl9xdnFENE9KTDRXbXlLTDZEc1l6N0IwUzB6WndScXZYc3lBT210TEtCZ3RlcUhfc1lyeU1xZFB6WWNTT09kV1NiWElGdC1pcXZ0SVBUQk41RTVCaXdoRjM5dVotN3gwVWZMUVZhTC05WDRjeEFkR1NXckd2UXdpWGRLVmFVSTBqa19SMVgzM0VtLU5KZDFGdFNheG5mV2o2d3VIdWF4T0hGT0dqSi02UnlZZ29rVGwtclUwRWhiaEltZzV5SWVXamlWQ21FR0hmeUZsRHZGcjhielpfY0hpajZv?oc=5"
     }
 ]
