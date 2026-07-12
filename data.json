@@ -3177,5 +3177,60 @@
         "location": "Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRUlFRnpxd212bzk4RmFXZmlNWnJja1VPYkV4MGppN21RYVF2R0VRbGpNZXBUYWtpX1BJUXhUWm1IMHhXZjl3UTZZSG5XSmg0UnRqSGlZMlJVWjdhODRVc0ZPVHRicGtvNjlLSDV0VzZENnY0TmFYVUpaWmhuZHBkaUVmWnpuLTQzb0w2WW5NMFBXRnRtamNpMUF2Z21jUVE3V1g4ZENCOVZFQW0ydmVCNzhKaEZCSzRwV21ZRGlZMV9oeDI3bFZ0YzdkWmZDV1Q4YWthYTk3bF8wMTZqaXk4UVRXdEdLTjNNd2RGVEw3bVpGUEs1cGpZVg?oc=5"
+    },
+    {
+        "title": " Troops Foil Kidnap Attempt, Rescue 4 Victims In Kebbi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-12",
+        "lat": 11.47,
+        "lng": 4.1616,
+        "location": "Victims Area, Kebbi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-foil-kidnap-attempt-rescue-4-victims-in-kebbi/"
+    },
+    {
+        "title": "Governor Alia Condemns Deadly Benue Attack, Orders Security Agencies To Hunt Killers",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 7.3834,
+        "lng": 8.7849,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/governor-alia-condemns-deadly-benue-attack-orders-security-agencies-to-hunt-killers/"
+    },
+    {
+        "title": "Protest in Benue as Gunmen Kill 10 in Fresh Attacks",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 7.3577,
+        "lng": 8.6932,
+        "location": "Protest Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/protest-in-benue-as-fresh-attacks-claim-10-lives/"
+    },
+    {
+        "title": "Five Hospitalised After Rabid Dog Attack in Yobe",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 12.03,
+        "lng": 11.4802,
+        "location": "Yobe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/five-hospitalised-after-rabid-dog-attack-in-yobe/"
+    },
+    {
+        "title": "Nine Killed in Fresh Attacks on Niger Communities",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-12",
+        "lat": 10.034,
+        "lng": 6.0553,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/nine-killed-in-fresh-attacks-on-niger-communities/"
     }
 ]
