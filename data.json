@@ -3364,5 +3364,49 @@
         "location": "Ogun State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/07/operation-kosaye-ogun-police-arrest-43-suspected-criminals/"
+    },
+    {
+        "title": "Nigeria Strike Gold With 14-Medal Haul At Uganda Para Badminton International",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-12",
+        "lat": 9.9883,
+        "lng": 5.9653,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/nigeria-strike-gold-with-14-medal-haul-at-uganda-para-badminton-international/"
+    },
+    {
+        "title": "Police Launch Manhunt For Bus Driver, Conductor Over Alleged Assault On Officers In Enugu",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-12",
+        "lat": 6.5234,
+        "lng": 7.4675,
+        "location": "Officers Area, Enugu State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/12/police-launch-manhunt-for-bus-driver-conductor-over-alleged-assault-on-officers-in-enugu/"
+    },
+    {
+        "title": "Between Police and Developmental State By Issa Aremu, - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-12",
+        "lat": 10.0216,
+        "lng": 5.9963,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CNVNqMVowWnNVbV9tTjAwSlFuRjZjRmJPR01UOHJ2NmRsVWk4T3hHR0lLNzZQSTc4OGR6QUt6NWFOUzl4NmgzeEdkWU9hWW1Hb0ZrVHBadWFudDZsWktlOE1DQ3A1eE1aZnpB?oc=5"
+    },
+    {
+        "title": "Troops launch search as gunmen rustle 56 cattle belonging to local residents in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-12",
+        "lat": 9.5062,
+        "lng": 9.5238,
+        "location": "Residents Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0w5THZoM2FRY19Lc1dWMklDRm1wNktWUGRoVllqMWhYb2hCbE0wVXp5TWxFclRvTWJ0SGFBN3lIeGZMN29kSzZqMTFIUUVnSk1xWGt0WmNaRDFsdnA5NkpPeGVTa1VHXy1kSlkwT2NTOVZKQy1WckNMWk5XV1pXSFB4bFFFZmotN1YzWUZLRmxrelRwcW5ZOUJiWVcwbUY0UXNBeU9zYldkMktZejEtUHJIaE5zdC1GdDZYUEptYkhaRk9pOFpYbmhCZm0?oc=5"
     }
 ]
