@@ -3287,5 +3287,27 @@
         "location": "Offenders Area, Kano State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/13/kano-police-arrest-123-traffic-offenders-recover-firearm-in-number-plate-crackdown/"
+    },
+    {
+        "title": "Army smashes arms trafficking ring in Kaduna, seizes weapons",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 10.5156,
+        "lng": 7.4458,
+        "location": "Ring Area, Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/army-smashes-arms-trafficking-ring-in-kaduna-seizes-weapons/"
+    },
+    {
+        "title": "Stakeholders Seek Sustained Infrastructure Development, Condemn Vandalism In Bayelsa",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-13",
+        "lat": 4.7137,
+        "lng": 6.0369,
+        "location": "Vandalism Area, Bayelsa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/stakeholders-seek-sustained-infrastructure-development-condemn-vandalism-in-bayelsa/"
     }
 ]
