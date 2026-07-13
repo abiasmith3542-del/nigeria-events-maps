@@ -3265,5 +3265,27 @@
         "location": "Kano State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/13/kano-police-arrest-123-traffic-offenders-recover-firearm-in-number-plate-crackdown/"
+    },
+    {
+        "title": "Police Arraign 2 Children Over Alleged Murder Of Abuja-Based Billionaire Father",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 9.114,
+        "lng": 7.4895,
+        "location": "Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arraign-2-children-over-alleged-murder-of-abuja-based-billionaire-father/"
+    },
+    {
+        "title": "Police Arrest 123 Traffic Offenders In Kano, Recover Firearm In Number Plate Crackdown ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 12.029,
+        "lng": 8.5664,
+        "location": "Offenders Area, Kano State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/13/kano-police-arrest-123-traffic-offenders-recover-firearm-in-number-plate-crackdown/"
     }
 ]
