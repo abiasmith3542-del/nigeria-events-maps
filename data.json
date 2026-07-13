@@ -3309,5 +3309,82 @@
         "location": "Vandalism Area, Bayelsa State",
         "source": "Leadership News",
         "url": "https://leadership.ng/stakeholders-seek-sustained-infrastructure-development-condemn-vandalism-in-bayelsa/"
+    },
+    {
+        "title": "Troops Arrest Terrorists’ Logistics Suppliers, Recover Weapons In Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 10.55,
+        "lng": 7.4583,
+        "location": "Weapons Area, Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-intercept-terrorists-logistics-suppliers-recover-weapons-in-kaduna/"
+    },
+    {
+        "title": "Police Arrest Man Over Alleged Murder Of 20-Year-Old Wife In Nasarawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 8.5372,
+        "lng": 8.1145,
+        "location": "Wife Area, Nasarawa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-man-over-alleged-murder-of-20-year-old-wife-in-nasarawa/"
+    },
+    {
+        "title": "Troops Neutralise Suspected ISWAP Spy Attempting to Infiltrate Military Position in Borno - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 11.8165,
+        "lng": 13.1925,
+        "location": "Position Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUllEakM2ZnY5OGJ4el8xRnB4WmJLNWZHWXJVSE9adXEtTGZ0RGhwa1BFTzN6ZmlmTWR2MW5QWGdmNWUzeTVURzIxZm9DaGJwNDJDS3ZISTBvMnlsSFh2dC1BNkFudzVyRzZNMTBUU0M5aDRVVUpwVW5rRi1OTmFhZkFCcTZVNlJNU2pLOVZGR3hZYU9Ya0FUS1pBUzNoZi11Y3p1dXJHc1VKeW9jQjVPWDZ4ZjlMRl9FSG9VV2hFNndKRlNKQnVwMnh5Rkl3ZFU?oc=5"
+    },
+    {
+        "title": "Troops Rescue Three Kidnap Victims After Gun Battle with Terrorists in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 9.5386,
+        "lng": 9.4656,
+        "location": "Terrorists Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjJoR0hTMkdVZWlyZUdZRDhYTUR3QnI1SGc0NzNpZWRERnJ0S3A5amZ3TGxiRW9FZlUzcUdlOVR1N1Blb1ZXcU9KSWxTQ1Y5TEVuQVR0SXR5YWxwNmFkY1VtZ0d0VWw4dDJIdE1uSHc5TEJObTRkcGNzTUk4WFdzTTBqdlN2MHY2bVVCTG1KbTJSLWhwTnhqbENvZE96U1p5eVZVTXBXZEkzWkhsM1ozQUJGUUNfVjRmcWNLaDRyM3A?oc=5"
+    },
+    {
+        "title": "Troops, Police Arrest 42 Suspected Kidnappers in Nasarawa Crackdown - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 8.5125,
+        "lng": 8.1073,
+        "location": "Kidnappers Area, Nasarawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGs1TGxETmFIWUs3Y3ZvRFZraXp5TzFFYXZlMmItZmRUd0lJWEV4XzR2YjdnRGNWaUdRNmpRZnRuV3ZVczNWd1lkYUFXWmx3QVQ1TTdVZll1MG4tRkt3WmFNSm1jM1g5YlQ4UVdyT0I4bDF3TEJTUllWOEJBWVc0TE9JZ3pES1NMVU53ellMX0hVTjh2Nlo0U0tXZlozOHU3T1YzQjJlcGUwV0hybkItUQ?oc=5"
+    },
+    {
+        "title": "Troops Discover Illegal Refining Site, Recover Stolen Crude in Rivers Forest - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 4.7476,
+        "lng": 6.866,
+        "location": "Crude Area, Rivers State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV91NVowWk1kT1BxTEJkY2wyS2U4TVZUcGttdEpmd01qc1lvVzg3SC03LThIZTN4eUgtTFFTc2RmcEVSRFRJWXhqd3dON2lFaDRjWi1vZXFtbS1nMnUyelA2WWRydmRJbEVMcEw0QklnZ1l3aVdTc0hfWlJOd0VHd00wSW5mcVlhWnVnaWlLR1FZOGNkVlpaMXNqYl95eERMYjFtQUVHQ3Z5LWdnMFd4MzF4Qk1FN3BvZGRkaQ?oc=5"
+    },
+    {
+        "title": "Troops, Vigilantes Arrest 27 Suspected Drug Peddlers in Jos Raid - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 9.853,
+        "lng": 8.8275,
+        "location": "Peddlers Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMDNoNFFjT29wbi1MUzI5TWRLTW5sdjdmR2FIVEtROWtoalhrNDcxakxTY2FvTzJrMFdpZ3NMbUZhWV9ENGNsLVRBeXFQaWNjUDhnX0lONGkyeU9UQ3RfZmpIQ3ZRT1ZCMGZwZXZTRzgwcGNhdlp6YWJwdFpmMEZEdjE2cWNGa2stSjFWTFRMOEVGa2h6a1NyV2JRWHluNjk2X1NzVE8zbV9HajFw?oc=5"
     }
 ]
