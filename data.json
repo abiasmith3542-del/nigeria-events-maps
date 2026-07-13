@@ -3067,5 +3067,49 @@
         "location": "Fears Area, Oyo State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/894912-fresh-fears-in-oyo-as-gunmen-kidnap-school-headmaster.html"
+    },
+    {
+        "title": "Police confirm abduction of headmaster in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 8.0463,
+        "lng": 3.9931,
+        "location": "Headmaster Area, Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-confirm-abduction-of-headmaster-in-oyo/"
+    },
+    {
+        "title": "Tinubu orders NIMC to enrol all Nigerians, sets 2026 deadline",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 9.9794,
+        "lng": 6.0395,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/tinubu-orders-nimc-to-enrol-all-nigerians-sets-2026-deadline/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Enugu bus driver, conductor snatch police AK-47, knock down officer",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 6.5328,
+        "lng": 7.4562,
+        "location": "Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/enugu-bus-driver-conductor-snatch-police-ak-47-knock-down-officer/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill 18 in Benue communities",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 7.3868,
+        "lng": 8.7566,
+        "location": "Benue State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/gunmen-kill-18-in-benue-communities/"
     }
 ]
