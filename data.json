@@ -3111,5 +3111,82 @@
         "location": "Benue State",
         "source": "The Cable NG",
         "url": "https://www.thecable.ng/gunmen-kill-18-in-benue-communities/"
+    },
+    {
+        "title": "Anambra Patriots says no party’s growing popularity unsettles group",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-13",
+        "lat": 6.2071,
+        "lng": 6.9547,
+        "location": "Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/anambra-patriots-says-no-partys-growing-popularity-unsettles-group/"
+    },
+    {
+        "title": "Police arrest 123 over fake number plates in Kano, recover pistol",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 12.0497,
+        "lng": 8.6157,
+        "location": "Plates Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-123-over-fake-number-plates-in-kano-recover-pistol/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest suspect, recover pistol, illicit drugs in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 8.0184,
+        "lng": 3.977,
+        "location": "Drugs Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspect-recover-pistol-illicit-drugs-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abuja court remands two siblings over father’s fatal stabbing",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 9.0061,
+        "lng": 7.4483,
+        "location": "Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/abuja-court-remands-two-siblings-over-fathers-fatal-stabbing/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police recover pistol, stolen car, intercept 123 vehicles in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 11.9745,
+        "lng": 8.6256,
+        "location": "Vehicles Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-recover-pistol-stolen-car-intercept-123-vehicles-in-kano/"
+    },
+    {
+        "title": "Troops Intercept Suspected Arms Traffickers in Kaduna, Recover Seven Illegal Firearms intended to be supplied to bandits from Jos - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 9.849,
+        "lng": 8.885,
+        "location": "Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbGxzLXA5Y3hQVGZnbXBIalloU2xnMTI1OE43LVVXMHZfYllkb00wQjBvUC1ZSTlId2ZUOVFZRDd6aldZVllGSDZrV3ZQM0M2UHp5di03U2VyMFJ3ME9STDM0SDNCeU1qeUhRRldNaWhPekk1c25rS3laZjhmTXpwMGxIck9uTWtPYUZzYXBJVnNLMnltYnRzZDcyeEV2LUE3a2JUbWV3U3ZoRXNFRW11MkVBaDBpU0lpZFc5dDNCaHE4SGtFNUZjR3htd1phXzNEaGNqSV9nUVpGeHV2eHdIcU1pX0UxdzVaUExfY1VEdTBjdnJjeUtDbUhNNEZ5b0w2WDlj?oc=5"
+    },
+    {
+        "title": "Special Report: The Information Pandemic Paralysing Academic Stability in Nigerian Basic Schools - factcheckafrica.net",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-13",
+        "lat": 10.0367,
+        "lng": 5.9468,
+        "location": "Stability Area, Niger State",
+        "source": "Google News - Nigeria Local",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcXktY0F1UVo0WjZKYnA0bnVKS19QZ3FJbnVtR3h5RGtjR2lYQU1nd2FVS3VfYndmbVBoLXBpUjZnR2h2THJpLWlUaHpVcC1CMDV1bW9rUUtTRV84MGpMamlTc1JVSjV2cHVxc2dtdG9KNUU2TzFkd2VnSlpiYW5OWThURkJzVDkxbFhpRzcwbXRJTDlZZkt1ODNkdEV1Z2s1bGlhMi0wVUJ0aFJWZWJOYlVubVRIdlkxRlhsaU9pYlpMUQ?oc=5"
     }
 ]
