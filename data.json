@@ -2913,5 +2913,60 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/30-malian-troops-killed-while-retaking-town-from-terrorists-says-army/"
+    },
+    {
+        "title": "Rabies In Yobe: 5 People Undergo Treatment After Dog Attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 11.9562,
+        "lng": 11.4657,
+        "location": "Rabies Area, Yobe State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/rabies-in-yobe-5-people-undergo-treatment-after-dog-attack/"
+    },
+    {
+        "title": "CNG Hails Rescue Of Oyo Schoolchildren, Demands Action To Free Abducted Borno Pupils",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 11.8149,
+        "lng": 13.1272,
+        "location": "Borno State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/cng-hails-rescue-of-oyo-schoolchildren-demands-action-to-free-abducted-borno-pupils-2/"
+    },
+    {
+        "title": "‘He was our hope’: Father mourns 28-yr-old lieutenant killed in Oyo rescue operation",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 8.0033,
+        "lng": 3.9563,
+        "location": "Killed Area, Oyo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/he-was-our-hope-father-mourns-28-yr-old-lieutenant-killed-in-oyo-rescue-operation/"
+    },
+    {
+        "title": "Police comb Kogi forests for abducted FRSC officials, mourners",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 7.7671,
+        "lng": 6.7671,
+        "location": "Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-comb-kogi-forests-for-abducted-frsc-officials-mourners/"
+    },
+    {
+        "title": "9 family members, 27 others killed in Plateau, Benue, Niger",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 9.4559,
+        "lng": 9.4664,
+        "location": "Killed Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/9-family-members-27-others-killed-in-plateau-benue-niger/"
     }
 ]
