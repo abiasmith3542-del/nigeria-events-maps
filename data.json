@@ -3397,5 +3397,104 @@
         "location": "Osun State",
         "source": "Punch Metro",
         "url": "https://punchng.com/breaking-police-confirm-arrest-of-fake-agency-dg-adeyemi-in-osun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kano police arrest suspected ammunition supplier to bandits, recover arms",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 12.0586,
+        "lng": 8.5766,
+        "location": "Kano State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/kano-police-arrest-suspected-ammunition-supplier-to-bandits-recover-arms/"
+    },
+    {
+        "title": "Kano building collapse: Fire Service rescues 6 alive at Whitefield rice mill",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-14",
+        "lat": 11.9713,
+        "lng": 8.5624,
+        "location": "Kano State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/kano-building-collapse-fire-service-rescues-6-alive-at-whitefield-rice-mill/"
+    },
+    {
+        "title": "Police arrest 10 suspected cultists over deadly Bayelsa attack",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 4.762,
+        "lng": 5.9514,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-10-suspected-cultists-over-deadly-bayelsa-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest suspected bandit, recover ammunition in Kano",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 12.0283,
+        "lng": 8.5422,
+        "location": "Ammunition Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-bandit-recover-ammunition-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops, Vigilantes Arrest Three Suspected Terrorists in Bauchi Forest - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 10.5448,
+        "lng": 9.9956,
+        "location": "Terrorists Area, Bauchi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTMzSHptSTZFN1JJSFlDZFA1YlVFVVBxWmtGYXBrTzB3REhhR1IwbW9maUM2VVJnaV9pSXlnbWppeHpYMlBkc1RqaU5ncUNhT3pzWXhJeTE3b0lhU0ctRWhKSjZYSDR4V3hNNWctR2o3dUtYVEswbFUyYlZaNEEtRmF0ZTNlVURuUWJpVGM1c2IyZmluX0VwcXppMVBVY0lMZnhYaUFSc3l3Qmh1TTV1RE5kVQ?oc=5"
+    },
+    {
+        "title": "Troops Engage Terrorists, Recover Motorcycle During Fighting Patrol in Zamfara - ZAgazola",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 12.18,
+        "lng": 6.2153,
+        "location": "Patrol Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZjdSM2hsUXRMZEZRMEtvaGJ5UHRPSmtqR2xfamhWQ3A5eXlrUEU1UU8tVmpJUEhoSGM4M1dlVkpSd0FtZW1KdDcybzROd1ZtbENNelB0VFh0d2tpaVFHM25ZS1FsaUNERnRsYWI5YVBqd2x6b0xLS0pLQ1BYZXlIajFhUENVUHlGZHUtZTVDVlBiZ013Y1JQNHEtZjdEN2RwVWFMOXYxaUxxVDdLVVVNSzlzZDRrT1hLOEJ3QW9kaw?oc=5"
+    },
+    {
+        "title": "Troops Arrest Two Suspected Human Organ Traffickers in Benue - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 7.3017,
+        "lng": 8.7076,
+        "location": "Traffickers Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakRRREgxY0VoeHlKYVFRZlZuaWZqb1pDY1hlV0w5SGZWOEdOWjdxdnVLQTZycXJ6LWdZN3dMbFNlWTI5a3N4cEpmRjdMckZTOHV4NkRQRGktdWtBbldYc0tzZHgwMVJIc2p0Qlh4aXd2akpySE1JclZBc2JkVmF6Yk9OYmdiRlZDdFJhYTJJUTNab0RycnVKTG0xNlRIWHZLb3JQN25GZWw?oc=5"
+    },
+    {
+        "title": "Troops Foil Kidnap Attempt, Rescue Seven Victims in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 9.529,
+        "lng": 9.5192,
+        "location": "Victims Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXIwaW9xZEsxdWItRFMwTEl2LWxQeDB1UlA0b2VxYmFCTS02NUt5ZjJKOUNMRHFyRWJ3OUFIRlJCaXZiQ0FWVUZvaVA0d2NVUVR6dF90LTNHdXZ5RVc1WHJCRHZCQWZ3STlBNUR1TENLbmtBNHo0UXdPMDE4d2pfdVJJV0I5ZXpKSHFlbTJkc2dLRDFGZDZFM19jdlRiSU1CV19hTWR3?oc=5"
+    },
+    {
+        "title": "Troops Arrest Two Suspected Drug Peddlers, Recover Cannabis, Tramadol in Sokoto - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 13.0391,
+        "lng": 5.2903,
+        "location": "Tramadol Area, Sokoto State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYjZydEtLVnIxZVJqOXVHOF9SSGNPclpFaC13WDFwMlpaWjM4UHdIdmVWSXMyNi1GWFhWVF9idkRsOGk3Tzl0WnlIZ29abEN4cFQ3TkY2aHpNaENINkJsazY2TGx5WkFXbFgyX2lDelVtdDVORFl5d2oySFVGazFfbnFKNGlsdUxEQlRfOExTMUZNelJUTlQ2NTR5aTF4V3ZoNUkzLWI3c3h4enJsQTdCQlBYS0pXX0ZvNW41aDVscw?oc=5"
     }
 ]
