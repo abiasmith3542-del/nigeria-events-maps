@@ -3265,5 +3265,60 @@
         "location": "Benue State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/regional/north-central/895184-suspected-herders-attack-benue-community-48-hours-after-otukpo-killings.html"
+    },
+    {
+        "title": "Abducted Oyo headmaster regains freedom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 6.4579,
+        "lng": 6.0187,
+        "location": "Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/abducted-oyo-headmaster-regains-freedom/"
+    },
+    {
+        "title": "Beheaded woman’s corpse found in Ondo",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 7.281,
+        "lng": 5.2413,
+        "location": "Found Area, Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/beheaded-womans-corpse-found-in-ondo/"
+    },
+    {
+        "title": "Troops Neutralise Suspected ISWAP Spy in Borno, Rescue 3 Hostages in Plateau - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 9.4653,
+        "lng": 9.5291,
+        "location": "Hostages Area, Plateau State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zRmtab3l4d0FTd1VScWtSNjVWcm5QTnBYcEU3WHlIRHRHLThwLThBUjJiRlpfYzc3cUR2ZDB1cnBVckh4NVpGbnktNDlRUERyRE42WVl0RXdRTW11d2lyTkpBTzBpNUt3ZUVZRVJGYUs?oc=5"
+    },
+    {
+        "title": "Troops, Police Arrest 42 Suspected Kidnappers in Nasarawa - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 8.5366,
+        "lng": 8.1333,
+        "location": "Kidnappers Area, Nasarawa State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03R0NFNndwQ1VtX3V4dHR5UmY4UEpKSGctaWZ3V1JYdkt6RzIzektCeU9uWmhxbkhvUjZjbEQwRE9ZeWpkTWgzVVN0RnY1d2Rrb2VaMEV5MGJQQWtaWlRZWTN4bXA?oc=5"
+    },
+    {
+        "title": "Troops Nab Foreign ISIS Fighter in Borno Operation - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 11.86,
+        "lng": 13.0986,
+        "location": "Fighter Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nc1R6SjAwODVfUWZHTUxIRzNzYjNTU08wUmJNYlQxMWZqNzgtMWtWNURQMzFoVUZVdF91Wmx3WkxMUlRGRTVweHRqTWFVMEdJNGEwamdwZUJRaHprOFpIM3BNeWV5UXNC?oc=5"
     }
 ]
