@@ -3320,5 +3320,49 @@
         "location": "Fighter Area, Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nc1R6SjAwODVfUWZHTUxIRzNzYjNTU08wUmJNYlQxMWZqNzgtMWtWNURQMzFoVUZVdF91Wmx3WkxMUlRGRTVweHRqTWFVMEdJNGEwamdwZUJRaHprOFpIM3BNeWV5UXNC?oc=5"
+    },
+    {
+        "title": "Gbajabiamila, Delta Assembly speaker back state police, power devolution",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 5.3722,
+        "lng": 7.5086,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gbajabiamila-delta-assembly-speaker-back-state-police-power-devolution/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police foil kidnap attempt, arrest 66-year-old suspect in Anambra",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 6.2409,
+        "lng": 7.0163,
+        "location": "Suspect Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-foil-kidnap-attempt-arrest-66-year-old-suspect-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill Lagos NURTW organising secretary",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 6.5411,
+        "lng": 3.3455,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-kill-lagos-nurtw-organising-secretary/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police confirm death of Kwara farmer, begin probe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 8.5434,
+        "lng": 4.5343,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-confirm-death-of-kwara-farmer-begin-probe/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
