@@ -2891,5 +2891,126 @@
         "location": "Benue State",
         "source": "Punch Metro",
         "url": "https://punchng.com/kogi-police-confirm-abduction-of-benue-bound-corpse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Experts demand audit of collapsed Gombe Assembly building",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-14",
+        "lat": 10.2252,
+        "lng": 11.213,
+        "location": "Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/experts-demand-audit-of-collapsed-gombe-assembly-building/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Bust Arms Trafficking Ring, Recover Weapons In Kaduna",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 10.4713,
+        "lng": 7.555,
+        "location": "Weapons Area, Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-bust-arms-trafficking-ring-recover-weapons-in-kaduna/"
+    },
+    {
+        "title": "Council chair urges calm as man dies in farmers, herders clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 9.0598,
+        "lng": 7.5575,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/council-chair-urges-calm-as-man-dies-in-farmers-herders-clash/"
+    },
+    {
+        "title": "63 suspects nabbed over alleged illicit drug in Yobe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 12.0036,
+        "lng": 11.4672,
+        "location": "Drug Area, Yobe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/63-suspects-nabbed-over-alleged-illicit-drug-in-yobe/"
+    },
+    {
+        "title": "Police arrest man for allegedly faking own kidnap",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 9.0689,
+        "lng": 7.5746,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-man-for-allegedly-faking-own-kidnap/"
+    },
+    {
+        "title": "Police arraign community leader, 2 others in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 5.4453,
+        "lng": 6.0078,
+        "location": "Others Area, Delta State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arraign-community-leader-2-others-in-delta/"
+    },
+    {
+        "title": "… Recover pistol, suspected stolen car in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 11.9901,
+        "lng": 8.5865,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/recover-pistol-suspected-stolen-car-in-kano/"
+    },
+    {
+        "title": "Troops Arrest Two Key Terrorist Collaborators, Recover Motorcycle in Zamfara - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 12.1362,
+        "lng": 6.2415,
+        "location": "Motorcycle Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVTZrdkFnQjB2RENpdG5yRVlLR1N6amxQWEoya0FOaUc1cEdseEJLdksySEtRTUM5QU1aMkNCWTUzcTNqbEpuTExhemJmZWpXdFNXcGJEbHg0cjk4YXc2SlpiTzNtcXNOTldMUDlpWE1VQnkxY1hlY2xiZHplWGNpZ3picTQyTFlkLXBqOXE0OF9sQWVZdFRqM2FuemE5aVdhd2JHOEZRYlBudE0wWlpiYzJIcTM2dHlra3lGOA?oc=5"
+    },
+    {
+        "title": "Troops Investigate as Plateau Locals Poisoned Cows in Plateau Community - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 9.5468,
+        "lng": 9.4667,
+        "location": "Cows Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOEdrRm15TzZFeGVsUk5oTE5DNkI2SEpNWS15elV1OVphRmU4WDZxcXU4ZUh5TmpjWUNCaDdJQzNNYktOMWJUWlEwbEN0VVlCMkthb2taSEt6dUlOdVhEUW1tYmwyOTh3TmtNNFdaMWtxTzZ6UGhJQmRrVjdUYTllYW9HMjNXaFc5eUN5TmQ1NXZZcXJoR0hMWFRvRzl0Y0UweDBGbWRSM3c2emtsd19wQ0hrY1h1VlE?oc=5"
+    },
+    {
+        "title": "Farmer Hospitalised After Alleged Assault by Herders in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-13",
+        "lat": 9.4598,
+        "lng": 9.5537,
+        "location": "Herders Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1B3eEduRVBQOVpHczViMG55ZF9lMmIycklEQUdUN3BIVHc2c1JIa3BfUUZGdS1BSTd0UWM0dEtxc3Jnb0lEQ0hwZm9zOTE0SVViVktqMEdmdFJWeTk3cnBnWXlVYVE1eDBJckJYQ0w5M0F3S1J2bXlPZzdmMVRERENhQk1fNnl2cTA2UWVOVzNySEllaEoxdWhUQ29VcEVJSFUyTTJUUWJuOXVx?oc=5"
+    },
+    {
+        "title": "Troops Arrest Two Suspected Fraudsters Over Fake Bank Alert Scam in Jos - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-13",
+        "lat": 9.9031,
+        "lng": 8.8832,
+        "location": "Scam Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaEdZNlBGOGJVckJmdjBDMTNXSXlfNHRxZGZjNWdXVXlTRHdhclFMU3dYaFc5cnM0cE5PWDg4SFlkb3VXSGs5TFAzUHhXbHJyVFdnU2pBSUlBRTdacjVJdTFnaVg0andZcG1QN2Zwa3UxaVhWQ1RfMFNtZjlsS252UTVTUXFuWnlWSjZaS3RUQk04ZHB0bjlzd1AxMENmY09rdGdvZkJ5ZVJSS2VZZHRvbHVBMjYyVVE?oc=5"
     }
 ]
