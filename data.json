@@ -3496,5 +3496,27 @@
         "location": "Tramadol Area, Sokoto State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYjZydEtLVnIxZVJqOXVHOF9SSGNPclpFaC13WDFwMlpaWjM4UHdIdmVWSXMyNi1GWFhWVF9idkRsOGk3Tzl0WnlIZ29abEN4cFQ3TkY2aHpNaENINkJsazY2TGx5WkFXbFgyX2lDelVtdDVORFl5d2oySFVGazFfbnFKNGlsdUxEQlRfOExTMUZNelJUTlQ2NTR5aTF4V3ZoNUkzLWI3c3h4enJsQTdCQlBYS0pXX0ZvNW41aDVscw?oc=5"
+    },
+    {
+        "title": "Troops rescue Policeman, 6 passengers kidnapped in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 9.5209,
+        "lng": 9.5088,
+        "location": "Kidnapped Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-rescue-policeman-6-passengers-kidnapped-in-plateau/"
+    },
+    {
+        "title": "Police Foil Suspected Robbery In Imo, Recover Pistol",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 5.4761,
+        "lng": 7.0061,
+        "location": "Robbery Area, Imo State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/14/police-foil-suspected-robbery-in-imo-recover-pistol/"
     }
 ]
