@@ -3210,5 +3210,60 @@
         "location": "Nasarawa State",
         "source": "Google News - Nigeria Local",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQWdaSVJjUTBlNmQ0bm5vUzlwWlg0SFZXeUQ5WXU3ZERXeV9wRkFGNUlTSF85Z09tZC1ZeTZRcFBKdHlPYUE4Z2ZQVG9iSktJdkZzTHFobHQxVktDYzZQSlZsbUFoNVRsTjdpYnNjc1B4SWgyQ1VtRHdzbEZTZG81VGVZT1FVVTlhMGt6Ym1GQm1wZHJxTVBB?oc=5"
+    },
+    {
+        "title": "Panic as beheaded man’s body is discovered inside UNIJOS",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 9.8849,
+        "lng": 8.9099,
+        "location": "Jos, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/panic-as-beheaded-mans-body-is-discovered-inside-unijos/"
+    },
+    {
+        "title": "Police probe Bayelsa tricycle rider’s death as FRSC denies involvement",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 4.7856,
+        "lng": 5.9906,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-probe-bayelsa-tricycle-riders-death-as-frsc-denies-involvement/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Missing Kwara farmer found dead in bush, family demands justice",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 8.4695,
+        "lng": 4.5634,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/missing-kwara-farmer-found-dead-in-bush-family-demands-justice/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Security operatives free seven abducted travellers in Plateau ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 9.5412,
+        "lng": 9.5497,
+        "location": "Travellers Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/security-operatives-free-seven-abducted-travellers-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Suspected herders attack Benue community 48 hours after Otukpo killings",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 7.3666,
+        "lng": 8.8057,
+        "location": "Benue State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/895184-suspected-herders-attack-benue-community-48-hours-after-otukpo-killings.html"
     }
 ]
