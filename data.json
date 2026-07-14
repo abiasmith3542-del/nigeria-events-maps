@@ -3364,5 +3364,38 @@
         "location": "Kwara State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-confirm-death-of-kwara-farmer-begin-probe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NSCDC apprehends two suspects for vandalism in Kwara",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 8.4676,
+        "lng": 4.5773,
+        "location": "Vandalism Area, Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nscdc-apprehends-two-suspects-for-vandalism-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Senate identifies soldiers, policeman killed, injured in Oyo rescue operation",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-14",
+        "lat": 7.9874,
+        "lng": 4.0503,
+        "location": "Injured Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/senate-identifies-soldiers-policeman-killed-injured-in-oyo-rescue-operation/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "BREAKING: Police confirm arrest of ‘fake’ agency DG Adeyemi, in Osun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-14",
+        "lat": 7.4996,
+        "lng": 4.4529,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/breaking-police-confirm-arrest-of-fake-agency-dg-adeyemi-in-osun/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
