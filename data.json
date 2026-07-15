@@ -3584,5 +3584,38 @@
         "location": "Exams Area, Kogi State",
         "source": "Punch Metro",
         "url": "https://punchng.com/gunmen-abduct-principal-four-students-sitting-for-neco-exams-in-kogi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Senate approves N50m to families of teachers, soldiers killed in Oyo abduction",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-15",
+        "lat": 7.9484,
+        "lng": 3.9477,
+        "location": "Killed Area, Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/senate-approves-n50m-to-families-of-teachers-soldiers-killed-in-oyo-abduction/"
+    },
+    {
+        "title": "Troops Overrun Terrorists’ Camp in Zamfara, Rescue Five Kidnap Victims - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-15",
+        "lat": 10.0133,
+        "lng": 5.9496,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EVWpKcmhPeGtmbWFnbWFucFhWNWR2VDdDMWpaQlFDWDI3Ukt5eDhQcTR3Tm5oMkUweW4xdUJXLTF0eFYwWHhtcXRZeTlkQWxCUm1MNFpSbTBYME1JSHpmZE1FQ21nTnkyVkl3?oc=5"
+    },
+    {
+        "title": "Troops Overrun Terrorists’ Camp in Zamfara, Rescue Five Kidnap Victims - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-15",
+        "lat": 12.1587,
+        "lng": 6.1741,
+        "location": "Camp Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3lyWWFQTEhJZE9sZzN6UTBtV2pULWtpcmFRQ3pDNDBtOURIS0hPSmZfRGpvaDJleXZ3RF9HY3lnZDRaWTVzZGZKRVVuYUUxamlmazAwQzluY0RSZkJWbEZpMXFQMjJVZG05OWpsaTdySXVUcUpaU0c4ZDJjdzllLTZYUmdTMm9hYV9rWmM3MW5JaU9EU0x6NXRVNE1kVlpRWWo5Ni1MLVZxdWpPSUJ1MUZvQQ?oc=5"
     }
 ]
