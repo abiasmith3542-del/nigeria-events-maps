@@ -3540,5 +3540,49 @@
         "location": "Sentry Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ3NvQVJIdmVVOGE4bzFDMnRhekxYbjhxU0x0bzFfQ0M0aWs5VDRMV05LUlo3UHRPc08wMVUyU1hqaGdGa2hOOEhXUjFBSjJSMWc1LWJicFhPVXF6dUN6RkhCOHRoeDc4ODY1TWF5bzBldURKRVp1eUpSTWF2R19aQ0o1ckZ1M25xNGo0ajNsU043d3Flb0Z3V0V1LTRzTFJwSW1oRkFIa25Cc05XUmc0anVR?oc=5"
+    },
+    {
+        "title": "Gombe police arrest robbery suspects, recover stolen vehicle, master keys",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-15",
+        "lat": 10.2774,
+        "lng": 11.2015,
+        "location": "Gombe State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gombe-police-arrest-robbery-suspects-recover-stolen-vehicle-master-keys/"
+    },
+    {
+        "title": "Police arrest robbery suspect, recover stolen car, others in Gombe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-15",
+        "lat": 10.2446,
+        "lng": 11.123,
+        "location": "Others Area, Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-robbery-suspect-recover-stolen-car-others-in-gombe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest suspected cultist in Kwara, recover locally made pistol",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-15",
+        "lat": 8.4982,
+        "lng": 4.4996,
+        "location": "Cultist Area, Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-cultist-in-kwara-recover-locally-made-pistol/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen abduct principal, four students sitting for NECO exams in Kogi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-15",
+        "lat": 7.8507,
+        "lng": 6.7298,
+        "location": "Exams Area, Kogi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-abduct-principal-four-students-sitting-for-neco-exams-in-kogi/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
