@@ -3661,5 +3661,38 @@
         "location": "Victims Area, Edo State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mN0FuU3lFMzF0MjZVcEhXNm5vQTF4cldZZjJzUlIzdlB6U3hER2xsZ3FoMEtQVU1iMi1KUzVQcTU2ZGJ0OWU0a1pMaUU4YVpMNTVaNDBzcElJNTM2dFByVjZha0htQQ?oc=5"
+    },
+    {
+        "title": "Police arrest 22-year-old, recover firearms, suspected Indian hemp in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-15",
+        "lat": 6.5613,
+        "lng": 3.3455,
+        "location": "Hemp Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-arrest-22-year-old-recover-firearms-suspected-indian-hemp-in-lagos-2/"
+    },
+    {
+        "title": "Police rescue kidnap victim in Osun, foil ransom exchange",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-15",
+        "lat": 7.4665,
+        "lng": 4.4661,
+        "location": "Victim Area, Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-rescue-kidnap-victim-in-osun-foil-ransom-exchange/"
+    },
+    {
+        "title": "Police arrest content creator over rape, death of 20-year-old in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-15",
+        "lat": 5.519,
+        "lng": 5.9636,
+        "location": "Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-content-creator-over-rape-death-of-20-year-old-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
