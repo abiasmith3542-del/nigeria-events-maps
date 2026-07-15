@@ -3705,5 +3705,27 @@
         "location": "Suspects Area, Oyo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-rescue-five-year-old-kidnap-victim-arrest-two-suspects-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Arrest Suspected Cultist, Recover Revolver In Taraba School",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-15",
+        "lat": 7.9953,
+        "lng": 10.5274,
+        "location": "Revolver Area, Taraba State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-suspected-cultist-recover-revolver-in-taraba-school/"
+    },
+    {
+        "title": "Troops intercept suspected ISWAP logistics suppliers, recover food, veterinary supplies in Borno - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-15",
+        "lat": 11.8732,
+        "lng": 13.1778,
+        "location": "Supplies Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVzFCSHNOaVVMd3B6MWJjVkp3MEpsTnI4UnFuMzRMcmYyWF9IMzB3Y1JHTTdGUEZ3VVNpTjVmRVF6T0lpbnVKMnVKZE1qLWZqUjdhSEVrd1N4enBpd3U2em9xWnh2R0hYa1pjNzJiYVMzNE4tTE5UX0ZTSm5sdUtaU256N21HUmJ2OEFOTjBYMTN6YmlsOGdFcFlPTDhzcFJWS1RrVUQ3TXRFcjlROVRGREF5MDdmUF82YUhkUkRFMHZYUkd6Vlh3Q3FPd1NEM2loMjVUZzFB?oc=5"
     }
 ]
