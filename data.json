@@ -3276,5 +3276,38 @@
         "location": "Niger State",
         "source": "Punch Metro",
         "url": "https://punchng.com/us-presses-nigeria-on-christian-attacks-idp-resettlement/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "PSC unveils 50,000 successful police constable recruits",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-16",
+        "lat": 9.1577,
+        "lng": 7.546,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/psc-unveils-50000-successful-police-constable-recruits/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "13 rescued in foiled Zamfara terrorists’ operations",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 12.1804,
+        "lng": 6.1962,
+        "location": "Zamfara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/13-rescued-in-foiled-zamfara-terrorists-operations/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "FULL LIST: Oyo honours teachers, civilians, soldiers killed during school kidnap, rescue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 7.9582,
+        "lng": 3.9879,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/full-list-oyo-honours-teachers-civilians-soldiers-killed-during-school-kidnap-rescue/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
