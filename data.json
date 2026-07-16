@@ -3716,5 +3716,38 @@
         "location": "Found Area, Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/another-beheaded-body-found-in-plateau/"
+    },
+    {
+        "title": "Two Togolese in Kwara Police net over foiled kidnap attempt",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-16",
+        "lat": 8.5209,
+        "lng": 4.5177,
+        "location": "Togolese Area, Kwara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/two-togolese-in-kwara-police-net-over-foiled-kidnap-attempt/"
+    },
+    {
+        "title": "LG chair donates buses, motorcycles to police, Edo security outfit",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-16",
+        "lat": 6.4467,
+        "lng": 5.9848,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/lg-chair-donates-buses-motorcycles-to-police-edo-security-outfit/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bauchi Police Arrest 7 Over Alleged Armed Robbery Attack On SAZU Students",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 10.5077,
+        "lng": 10.0306,
+        "location": "Bauchi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bauchi-police-arrest-7-over-alleged-armed-robbery-attack-on-sazu-students/"
     }
 ]
