@@ -3694,5 +3694,27 @@
         "location": "Victims Area, Sokoto State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-arrest-36-suspects-rescue-kidnap-victims-in-sokoto/"
+    },
+    {
+        "title": "Osun violence: Two killed, six injured as thugs attack APC members",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 7.5353,
+        "lng": 4.5069,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/osun-violence-two-killed-six-injured-as-thugs-attack-apc-members/"
+    },
+    {
+        "title": "Another beheaded body found in Plateau",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 9.459,
+        "lng": 9.5504,
+        "location": "Found Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/another-beheaded-body-found-in-plateau/"
     }
 ]
