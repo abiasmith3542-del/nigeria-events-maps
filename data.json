@@ -3353,5 +3353,71 @@
         "location": "Abducted Area, Kogi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/neco-candidates-official-principal-abducted-in-kogi/"
+    },
+    {
+        "title": "US approves nearly $2bn in weapons sales to Saudi Arabia",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-16",
+        "lat": 5.4002,
+        "lng": 7.5236,
+        "location": "Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/us-approves-nearly-2bn-in-weapons-sales-to-saudi-arabia/"
+    },
+    {
+        "title": "Navy foils pipeline vandalism network, recovers stolen pipelines in Imo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-16",
+        "lat": 5.479,
+        "lng": 7.0726,
+        "location": "Pipelines Area, Imo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/navy-foils-pipeline-vandalism-network-recovers-stolen-pipelines-in-imo/"
+    },
+    {
+        "title": "Army Urges Nigerians to Support Troops, Reject Negative Social Media Narratives - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-16",
+        "lat": 9.9658,
+        "lng": 6.0534,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZZXFNdTVqSG1kX052VTdSSkxFc3Nib2gzWHVDTEpfSk9fdUF2U0hoXy1ORlJFOEkteVJkSGtFYktyMU1EUm5RQk9lWmFwTWk4bXhrMEV6bnpwVUFnWVZoLWM5a3BDWWtFcFp6a2pCNA?oc=5"
+    },
+    {
+        "title": "Troops Intercept ISWAP Food Supply, Arrest Suspected Logistics Supplier in Borno - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-15",
+        "lat": 11.8551,
+        "lng": 13.1659,
+        "location": "Supplier Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WVWI0LUdra0VHa2c5RXNjN0x5dm8wNm1Xd2VpMDdvQmdKem40TEVLU2VuRmNqTmFiclhtYWRYTF9VeUxNOTBrTjFiN3FuSjBsLURzUUE2VUgwQ3d6TF9vRzVhWFh4Q3VnT3Mzc2Z3?oc=5"
+    },
+    {
+        "title": "Troops respond to gunfire in Plateau, rescue man shot during dispute among suspected illegal miners - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 9.4726,
+        "lng": 9.5042,
+        "location": "Gunfire Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlhNMGpUUHNnWTdsTjYxZTFNNklaa2ZFbjRVQlY2SVVMaDFQenVCUm5KbkkybS1GX2lXUWg3QlY2amthaWkxdmxmcElWdmpCNmp5c2lGNHJFdG96YWtTQTE5d1lmTWVLQS1PN3JhUEdVaURwcjRGdDh6YURLc0o1VkR3U1pqcnpRTXdTTHQ4MWdOZDhqU3YzRFY1bjlHUVVYeVkwSE9QWl9wdi1yMENQQmc4V2x4MHM3clYzS05NMzJJSHBHRVV5bU5IRGlxS0lsQ3hzeV9KZ182OGM?oc=5"
+    },
+    {
+        "title": "WHO Backs Nigeria’s National Drug Strategy as Substance Abuse Epidemic Hits 14.4 Percent - streamlinefeed.co.ke",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-16",
+        "lat": 9.9496,
+        "lng": 6.0524,
+        "location": "Niger State",
+        "source": "Google News - Nigeria Local",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeS1qUXVwVjMydkxYc0gxUU4ycjN0ZFEydkNLNDY4alg5aGpmYkd2UFdhcU43RnpIR1I5SmxKZ3ZOVjVKU2hDQjFLczNudUhpZy1xMGQ2Wjgtb21ZZ1FKemtKb1RVT05mM1B4MlhhNElTdlFVVG9ZWmpqRmo4TjJFTno1bm5SYlFsZmtnS0ZraHJLLW93c2w1b2diOHpmMnhB?oc=5"
     }
 ]
