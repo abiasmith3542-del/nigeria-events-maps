@@ -3309,5 +3309,49 @@
         "location": "Oyo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/full-list-oyo-honours-teachers-civilians-soldiers-killed-during-school-kidnap-rescue/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen raid Kogi school, abduct principal, NECO official, students",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-16",
+        "lat": 7.7646,
+        "lng": 6.788,
+        "location": "Kogi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-raid-kogi-school-abduct-principal-neco-official-students/"
+    },
+    {
+        "title": "EFCC seeks stronger partnership to curb terrorist financing, protect CSOs",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 9.1569,
+        "lng": 7.5754,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/efcc-seeks-stronger-partnership-to-curb-terrorist-financing-protect-csos/"
+    },
+    {
+        "title": "Security Agencies Intensify Efforts To Rescue Abducted Kogi Principal, NECO Official, Students",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 7.7659,
+        "lng": 6.7134,
+        "location": "Kogi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/security-agencies-intensify-efforts-to-rescue-abducted-kogi-principal-neco-official-students/"
+    },
+    {
+        "title": "NECO candidates, official, principal abducted in Kogi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 7.8545,
+        "lng": 6.7021,
+        "location": "Abducted Area, Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/neco-candidates-official-principal-abducted-in-kogi/"
     }
 ]
