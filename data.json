@@ -3749,5 +3749,38 @@
         "location": "Bauchi State",
         "source": "Leadership News",
         "url": "https://leadership.ng/bauchi-police-arrest-7-over-alleged-armed-robbery-attack-on-sazu-students/"
+    },
+    {
+        "title": "Police arrest father in Ondo for burning daughter’s private part",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-16",
+        "lat": 7.1923,
+        "lng": 5.2574,
+        "location": "Father Area, Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-father-in-ondo-for-burning-daughters-private-part/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits kill vigilante leader in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 12.4762,
+        "lng": 7.6655,
+        "location": "Leader Area, Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bandits-kill-vigilante-leader-in-katsina/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Military Foils Bandit Attack, Recovers 147 Rustled Livestock, Nabs Two Suspects in Kano - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 11.9867,
+        "lng": 8.5838,
+        "location": "Suspects Area, Kano State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92YlVtQ20wd1dSVGRvZ05DNTZ4RXhVWXlhMGF4aXBlbG8xa2doYWc5U3d0UEU5S3poMTF2WFE3OWViT0hiNGl2alZ0bmRIc0lHTl9WWnhudTF1aHE4SnZBTjFMRHpfUFFBWlN6UVAwZw?oc=5"
     }
 ]
