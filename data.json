@@ -3661,5 +3661,38 @@
         "location": "Nationals Area, Lagos State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XVlZYWVduaElUemR2VnNLa0kzSEJKLVZXR0NubXdYdXN2Y0FJRGs4LUs1cXZRU1NicGNhRVlJVlM2Q1phTVdGaVFzMXFtaExvUDFuSEJOeTRCRGZSc2hQSXlxdEZBYldYNWJ4clBORUk?oc=5"
+    },
+    {
+        "title": "Again, armed herders invade Benue community, shoot resident, loot shops",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 7.2924,
+        "lng": 8.7675,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/again-armed-herders-invade-benue-community-shoot-resident-loot-shops/"
+    },
+    {
+        "title": "Two Togolese arrested over alleged kidnap plot in Kwara ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-16",
+        "lat": 8.5428,
+        "lng": 4.5988,
+        "location": "Plot Area, Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/two-togolese-arrested-over-alleged-kidnap-plot-in-kwara/"
+    },
+    {
+        "title": "Police arrest 36 suspects, rescue kidnap victims in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-16",
+        "lat": 13.0701,
+        "lng": 5.2589,
+        "location": "Victims Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-36-suspects-rescue-kidnap-victims-in-sokoto/"
     }
 ]
