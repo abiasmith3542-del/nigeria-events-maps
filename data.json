@@ -3782,5 +3782,27 @@
         "location": "Suspects Area, Kano State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92YlVtQ20wd1dSVGRvZ05DNTZ4RXhVWXlhMGF4aXBlbG8xa2doYWc5U3d0UEU5S3poMTF2WFE3OWViT0hiNGl2alZ0bmRIc0lHTl9WWnhudTF1aHE4SnZBTjFMRHpfUFFBWlN6UVAwZw?oc=5"
+    },
+    {
+        "title": "Panic in Benue communities as residents report influx of suspected armed herdsmen",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 7.2935,
+        "lng": 8.8048,
+        "location": "Panic Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/panic-in-benue-communities-as-residents-report-influx-of-suspected-armed-herdsmen/"
+    },
+    {
+        "title": "BREAKING: 4 Abducted In Kogi NECO Centre Attack Regain Freedom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-16",
+        "lat": 6.5389,
+        "lng": 5.9462,
+        "location": "Edo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/breaking-4-abducted-in-kogi-neco-centre-attack-regain-freedom/"
     }
 ]
