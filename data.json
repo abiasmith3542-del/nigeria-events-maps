@@ -3870,5 +3870,38 @@
         "location": "Suppliers Area, Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBreXpkN0d1cTBTczAwWmx3cGc4UENXSWtGVl80dW5vVkNNT1RSNVhzTnJUaGNOajg5aFdiNEdCZVk3RzdjTVJQTWdaOGZ0SGVHbUZjNFZSWmVrTThkTDhlX25LbGE2SUgwaWNF?oc=5"
+    },
+    {
+        "title": "Police secure conviction of 16 for vandalising govt property in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-17",
+        "lat": 5.5085,
+        "lng": 6.0329,
+        "location": "Property Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-secure-conviction-of-16-for-vandalising-govt-property-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits kill 13 in fresh attacks on Sokoto communities",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 13.0732,
+        "lng": 5.2336,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-13-in-fresh-sokoto-attacks/"
+    },
+    {
+        "title": "DSS Rescues Abducted Nasarawa University Dean, Arrests Two Suspects - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 8.5139,
+        "lng": 8.1191,
+        "location": "Nasarawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2pVVVp5eWpuMzA2ZHlGMFc2dkRZV0NTXzAxVGFRVkZUVng2bXpQQXFoVUFUN04yMklRSFhPQ0lfdEpCU3pHdllpZ0lKTVh3X2xvNkkyaEJOd1JFZ2xVeWlOZGZvZlIxaTAwR29YYkZYZkpsVE1YWmhQY3pVejhUSG1WcWtYZnFIVUpUNUZoXzdsZG9zR1h1MklIaHludUFyaWk4SVlreHBJU3ZyWi1SNQ?oc=5"
     }
 ]
