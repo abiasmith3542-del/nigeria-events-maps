@@ -3661,5 +3661,27 @@
         "location": "Terrorist Area, Katsina State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2kzR0JHTmRNeG5fa2c4aTlCaVVoaFlxdEhBaEVMMVRwYUMtZ3BPWHY0SUFLS2UyWjZGWlJGWXk4Y0ZRUWdpTWQwNlF3bmtQakZtcjBTU1g1TXBfMWtCellNTlo3Wk9nRTJzZ0pxSXZodmdzMEhQYlhyZVoxdUZYV0pOVjIzdjA3d1l0UEpsRml0MVNpUjJHc0w5VmdFRmtWRFF5Zkc2eWVCck9OT0Q4?oc=5"
+    },
+    {
+        "title": "DSS, Forest Guards rescue two abducted children in Kwara, kill two suspected kidnappers",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 8.4449,
+        "lng": 4.5869,
+        "location": "Children Area, Kwara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/dss-forest-guards-rescue-two-abducted-children-in-kwara-kill-two-suspected-kidnappers/"
+    },
+    {
+        "title": "NSCDC foils pipeline vandalism attempt, recovers equipment in Edo",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-17",
+        "lat": 6.4604,
+        "lng": 6.0426,
+        "location": "Equipment Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nscdc-foils-pipeline-vandalism-attempt-recovers-equipment-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
