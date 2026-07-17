@@ -3826,5 +3826,49 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TN0FvVGo0NXJSbHlIS2RKb0xDVmVUY3E4cmV2Q0VzM2JQZWZEYlY1OVBYNUtwZk8xUW55ekhwVTZ6dXc0d3BlMk1lSV9vbVhSN2dFYU83QmlGb2NZRWxJWnRmcWNtR3loZVh2UXVn?oc=5"
+    },
+    {
+        "title": "Police hunt teacher over death of 12-year-old student in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-17",
+        "lat": 6.1657,
+        "lng": 7.0545,
+        "location": "Student Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-hunt-teacher-over-death-of-12-year-old-student-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "JCI Partners Police, Insurance Stakeholders To Tackle One-Chance Threat In FCT",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-17",
+        "lat": 9.0312,
+        "lng": 7.5016,
+        "location": "Threat Area, Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/jci-partners-police-insurance-stakeholders-to-tackle-one-chance-threat-in-fct/"
+    },
+    {
+        "title": "Airstrike Hits ISWAP Convoy in Borno, Scores Eliminated - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 11.8202,
+        "lng": 13.1253,
+        "location": "Convoy Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nYUF5UWYwbHQ1REZoa0dDd2lDeVI4MWIzN1BoVmdDYXVPVGhHQXJsVktlNmNSQ3p4NkJaa1BVWExSMW9jUnFhM3BVb3JwTEhibG45Q0UzY0lGdm5qSG5RMlJFY2tEMUhITnlFMmln?oc=5"
+    },
+    {
+        "title": "Military Nabs Suspected Terrorist Logistics Suppliers in Borno, Katsina Operations - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 11.8042,
+        "lng": 13.1602,
+        "location": "Suppliers Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBreXpkN0d1cTBTczAwWmx3cGc4UENXSWtGVl80dW5vVkNNT1RSNVhzTnJUaGNOajg5aFdiNEdCZVk3RzdjTVJQTWdaOGZ0SGVHbUZjNFZSWmVrTThkTDhlX25LbGE2SUgwaWNF?oc=5"
     }
 ]
