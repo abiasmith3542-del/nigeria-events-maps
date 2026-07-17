@@ -3496,5 +3496,27 @@
         "location": "Anambra State",
         "source": "Punch Metro",
         "url": "https://punchng.com/unidentified-man-found-unconscious-on-anambra-road-police-seek-family/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kogi announces successful rescue of kidnapped victims in Dekina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 7.8421,
+        "lng": 6.7361,
+        "location": "Kogi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/kogi-announces-successful-rescue-of-kidnapped-victims-in-dekina/"
+    },
+    {
+        "title": "Niger Communal Clash: Gov Gives Affected Families N1m Each",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 9.9494,
+        "lng": 5.997,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/niger-communal-clash-gov-gives-affected-families-n1m-each/"
     }
 ]
