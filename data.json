@@ -3518,5 +3518,93 @@
         "location": "Niger State",
         "source": "Leadership News",
         "url": "https://leadership.ng/niger-communal-clash-gov-gives-affected-families-n1m-each/"
+    },
+    {
+        "title": "Uganda drops case against women arrested for kissing in public",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-17",
+        "lat": 8.9657,
+        "lng": 7.4057,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/uganda-drops-case-against-women-arrested-for-kissing-in-public/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "World Cup Final: UNICEF revives iconic Messi-Yamal photo ahead of Argentina-Spain clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 9.0127,
+        "lng": 7.5435,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/sports/football/896068-world-cup-final-unicef-revives-iconic-messi-yamal-photo-ahead-of-argentina-spain-clash.html"
+    },
+    {
+        "title": "Troops Foil Kidnap Attempt, Rescue Two Victims in Niger State - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-17",
+        "lat": 9.9821,
+        "lng": 6.051,
+        "location": "Victims Area, Niger State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFBpWHN6bGNJR05teEhqYjR5Ri00aU1YQWN6NlFiTEZmemZuMkVrclZjeFRXaThFMzBQUHUwY3JJZ3FpbzVXZTZEekVBUDhoNER5cXRVTElCUUJGNG9lZEdsLVJxZHQ2NDNubkNhRzlKZXdaYVVXWjg2eTJtV21IRlFYX1BXd1dkc3BkdlIwNlZkTTYyQS1IQWp4eXRHX25vaFlZaVJKYlg?oc=5"
+    },
+    {
+        "title": "Troops Recover 56 Rustled Livestock After Foiling Terrorists’ Attack in Katsina - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 12.4859,
+        "lng": 7.5832,
+        "location": "Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1BLcFI1bkpoVDRoRXdfN0ZvT0xZaVBjR1NIbm1vV3BIdDhTZzRRa0ltOU52cl91TFpJWDV1M2xmaEl1QnRzaVhzLWVGdWcxc2JENnJ5OVBVSklzVWRsSlNoNFpSLW1mamk5RnlyNVoxRU1MVEV3TzVoZkJzNUlzNFI4bWpQNm4tYXhQWEdvdkcxSjM1UVVwaGp1TEo1WGhiaGYyWUNMQUxZTGZrcldsNVFZSndnUmFQQ2pMd09SeFc?oc=5"
+    },
+    {
+        "title": "Troops Arrest Suspected Bandit in Katsina, Recover Phones, Motorcycle - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 12.4913,
+        "lng": 7.5733,
+        "location": "Bandit Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTW9mUDdPWkR6RDJtSlQ1Tkg3djgwc01CT1lzRF95a01Lc0xZYlRUSjJHUnRRSGtFd1RieDMtU09VNWQyVTl4cF91a0pnYi1valVya1MxTHB3c1VoRTJJSzNrXzRCVU4wb0QxRGFUcURLNHhPbE92QWVISk5xYnFqZGJGWnVYdHN5R2xQeWhkU0FDNjZOaG55VG5zOFZibkpTcDA4SG1DZXdRWlMtaS10V29R?oc=5"
+    },
+    {
+        "title": "Soldier Killed as Troops Repel Terrorist Ambush in Sokoto - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 13.0741,
+        "lng": 5.2843,
+        "location": "Ambush Area, Sokoto State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVUFwaFlVck9sc1BmV1lmUnBsX3M1UV9HWFJVVERzRzhIZzNSVnZXaGR5RUQ2dmZXeUhRbHV6ZUVnYWFlRnE1cG04dDRzX3VmYnhDVXRFWDFxOFNNakl6d0lROFRkU3VHUkctcVRHVzU0alFaU0E2NUNjcnJhb0dCVGNjWVl1bzdBVkdwWXJtaEpPVlR3ZUlabFBXVjhXa01tMDFQeA?oc=5"
+    },
+    {
+        "title": "Troops Dismantle Illegal Refining Site, Recover 555 Litres of Suspected Diesel in Rivers - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-17",
+        "lat": 4.7199,
+        "lng": 6.8548,
+        "location": "Diesel Area, Rivers State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMmNPcXZjcmpFd0xia0ZXc1hQUnZIZy1hUHRINjY2T3R3MG5HMWRvdnBXMWtaS0g2VkxPVVNOSVhxOTM2YVJ6STJybUpjcU9VSWh2N0YtTUhjOGZ0N2E4WmJXTkc2NVM5Zm1ZX0N2bmsxdkNzUGFCZkgtTGc1UTd1UnpOWWtjNDVhaFBzSzR2MHNjWFlIeFFxOEFqZVFOMUdvUUZGallxSFNoWDVZUFpiMlBCQTVrZXRFdWpBTUZ0WmRJQW8wVDFkeG9xYkI?oc=5"
+    },
+    {
+        "title": "Troops Foil Kidnap Attempt, Rescue Victim in Zamfara - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-17",
+        "lat": 12.1061,
+        "lng": 6.1818,
+        "location": "Victim Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmYyd0tONEl4STZhWE0zU05zTU56YmVzVVlfQkxvZmE4ck5FM1Z4SDJZc0dLaVVlY2hhWVg3Y2xtQmw5c0xIVGxRcmUybmJubk1NcHpvQTY2SkxmeVpiTVhtTUxDaE1RNzBTTXFDZEdVa2hERjdJbWY1SzNybF90TEFkdlJZdVNPUUZOOVQ5Wk01TlZWd3c1N1BBdmg?oc=5"
     }
 ]
