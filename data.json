@@ -3914,5 +3914,71 @@
         "location": "Victims Area, Benue State",
         "source": "Punch Metro",
         "url": "https://punchng.com/soldiers-kill-two-terrorists-rescue-three-kidnap-victims-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest four over mob killing in Akwa Ibom",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-17",
+        "lat": 5.0078,
+        "lng": 7.8421,
+        "location": "Killing Area, Akwa Ibom State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-over-mob-killing-in-akwa-ibom/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Arrest Suspected ISWAP Spy, Logistics Supplier During Night Patrol in Borno - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 11.8104,
+        "lng": 13.1796,
+        "location": "Patrol Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObm1QMzFlVjBQUVRxekRsVXZWT2t3Sk5VWUtSYjhEaHhISE1WbXpHNGRlRVVLMUdjUDdwVk50aldGa2FDYkctOE00ODVURXBQam9RYzdMTWxFbmtHYUNkYjVMZDk2LU91S2RVZGZnbGcxWTdydGJieU9HaGV4Y1ZUSGx2OTlVY2VDTjR1RW9FUWZzb3pNWWstYkQ4dG44SjlwUDR5azhkUkpBQ0lNQURrcXk2S0t3OGZwTE1MTUp5cDJJNmtG?oc=5"
+    },
+    {
+        "title": "Troops Arrest Three Suspected Cattle Rustlers in Gombe, Recover Weapons, Cash - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-17",
+        "lat": 10.3433,
+        "lng": 11.2155,
+        "location": "Rustlers Area, Gombe State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZFBNMWRJOWU2MkdEQWNGMUlYTklGZi1qT2FEYnVzdnJQLUNZOE5KdmpjX2p4b2RfeHYya1Jzdlo0eVk4dUJpUnZYTjZHYk5qUjgwejJNNUZZR2V5a3NraUlCei01U2RZZXhPV0Z4ek4ySXc4M0JEMGdfNDVKSGRBdXpDZHZ6dUFJQWZWOHh6ZUFOT05LaXhvbVBtTk1ZbkgyTXZKM0JiQW1lSjJ4UWU4a2tQbW1XODQwSHZVSw?oc=5"
+    },
+    {
+        "title": "Fulani Herder Shot in Suspected Ambush By Berom Militia in Plateau as Tension Rises in Riyom - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 9.4568,
+        "lng": 9.4518,
+        "location": "Militia Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbnBReWcyZWEzRHJLN1FYb0ZyN0lGb1QtaTJmZ2RvZk03RDJkS3hrdDhfd0d5N3ItcFVxaEZPWnZLaGZIemF1MzRWU09zdFJIU3J5UXQ2QkwwR0t1T3YxZGYyekkzdlF1VkhRaEpqcE5XRDNqOGxPRkdHLXJBZ2NncnBuTXRVSFVhN0E0cEtiUG9BcEVNVks2YS1fbVhXdTRubzJ0c3V4T2lFSGpmUWk4UUtLcVg5QnRLWGdQdURVMjJKbXVRbVNaak5oc0htMjlMUmJz?oc=5"
+    },
+    {
+        "title": "Suspected Berom Militia Shoot Eight Cattle in Attack on Herdsman in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-17",
+        "lat": 9.4896,
+        "lng": 9.4736,
+        "location": "Herdsman Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnllSXVTV1RJMWNjeXJNXzFLSVdjTXJoUmhzbjVtUmxJVTdSbGVhTjdBTkdRNk9HU3c3SUV0Z2k0Q2xzTzlESlFJdEFiMzlsRDBmSzBTVnhZOFBncTdMcDUwa01OOTh1OU5FOWx1Q0g4cHNGLS0tMFlBa0FNM2RuUjJrTkVVSjY4dVFiX3BFWUZLZDA5OXh5bEtfVVUxRHBlVVJiaGJaamY4VjZJTnE0SnZiY2RqTUhLdUdCWQ?oc=5"
+    },
+    {
+        "title": "Troops Arrest Suspected Kidnapper Terrorising Jos–Makurdi Road in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-17",
+        "lat": 9.5455,
+        "lng": 9.5232,
+        "location": "Road Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZEI5SUtiNWQtX3duMUhiUkJCOV96TkJraHFDLU9COTlqTDRsZUhKX2paSllIRnBOa2ZiR2d5RU9HT2lVUTVld0ZhOE9PX3hZa2FPZVFPNjNrcUdUMWNPek45QlpGc044TXVWTDMzek9vbTZwNllINmEzT3ZDRHJFdXRwMGotWTJGZXpoN0ZBQm5LMXl4TGMwdERBa1haSTBxS2xGTm1BRnBLVEtrV3VWOFJocFlGWWo5bGc?oc=5"
     }
 ]
