@@ -4046,5 +4046,16 @@
         "location": "Accident Area, Anambra State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/07/three-die-four-injured-in-lone-truck-accident-in-anambra-frsc/"
+    },
+    {
+        "title": "Police Nab Fake Pastor, Accomplice Over Abduction Of 4-Week-Old Baby In Niger",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 10.0277,
+        "lng": 5.9627,
+        "location": "Baby Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-nab-fake-pastor-accomplice-over-abduction-of-4-week-old-baby-in-niger/"
     }
 ]
