@@ -3903,5 +3903,49 @@
         "location": "Lagos State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/lagos-suspected-cultist-arrested-for-opening-fire-on-police-officers/"
+    },
+    {
+        "title": "Police nab eight suspected cultists over assault on NDU student in Bayelsa",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 4.7755,
+        "lng": 6.0372,
+        "location": "Student Area, Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-eight-suspected-cultists-over-assault-on-ndu-student-in-bayelsa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Borno commissioner shares 15-second video of kidnapped students at summit",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-18",
+        "lat": 11.8328,
+        "lng": 13.098,
+        "location": "Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/borno-commissioner-shares-15-second-video-of-kidnapped-students-at-summit/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Anambra teacher accused of flogging 12-year-old boy to death surrenders to police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 6.2016,
+        "lng": 7.0116,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/anambra-teacher-accused-of-flogging-12-year-old-boy-to-death-surrenders-to-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Rescue Abducted Cattle Dealer in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-18",
+        "lat": 6.5034,
+        "lng": 6.0052,
+        "location": "Dealer Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-rescue-abducted-cattle-dealer-in-edo/"
     }
 ]
