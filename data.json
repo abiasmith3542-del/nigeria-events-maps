@@ -4013,5 +4013,27 @@
         "location": "Suspect Area, Oyo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-arrest-robbery-suspect-in-oyo-recover-stolen-bike/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits raid Sokoto village, shoot 3, rustle livestock, cart away phones",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-18",
+        "lat": 13.09,
+        "lng": 5.2788,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-raid-sokoto-village-shoot-3-rustle-livestock-cart-away-phones/"
+    },
+    {
+        "title": "Banditry: Kwara Community Writes Tinubu For Intervention",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-18",
+        "lat": 8.4514,
+        "lng": 4.5185,
+        "location": "Kwara State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/18/banditry-kwara-community-writes-tinubu-for-intervention/"
     }
 ]
