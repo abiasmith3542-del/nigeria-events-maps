@@ -3804,5 +3804,38 @@
         "location": "Niger State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/07/nigeria-ghana-agree-to-tackle-afrophobic-protests-across-africa/"
+    },
+    {
+        "title": "Gombe police officers urged to uphold professionalism, human rights",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 10.3358,
+        "lng": 11.1664,
+        "location": "Gombe State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gombe-police-officers-urged-to-uphold-professionalism-human-rights/"
+    },
+    {
+        "title": "Police launch manhunt of teacher for allegedly flogging student to death in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 6.2292,
+        "lng": 6.9819,
+        "location": "Death Area, Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-launch-manhunt-of-teacher-for-allegedly-flogging-student-to-death-in-anambra/"
+    },
+    {
+        "title": "Substation explosion plunges parts of Enugu into blackout",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-18",
+        "lat": 6.5579,
+        "lng": 7.5563,
+        "location": "Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/substation-explosion-plunges-parts-of-enugu-into-blackout/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
