@@ -1,258 +1,5 @@
 [
     {
-        "title": "Mayhem as NPA, tank farm owners, police, LASTMA lock down Oshodi-Apapa Expressway",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-10",
-        "lat": 9.0449,
-        "lng": 7.4649,
-        "location": "Nigeria (General Area)",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/mayhem-as-npa-tank-farm-owners-police-lastma-lock-down-oshodi-apapa-expressway/"
-    },
-    {
-        "title": "Wife of officer crushed by police convoy in Enugu recounts last words of husband",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-10",
-        "lat": 6.4655,
-        "lng": 7.5436,
-        "location": "Convoy Area, Enugu State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/wife-of-officer-crushed-by-police-convoy-in-enugu-recounts-last-words-of-husband/"
-    },
-    {
-        "title": "Maritime Trade Faces Disruption After Fresh US-Iran Strikes",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-07-10",
-        "lat": 9.0917,
-        "lng": 7.5778,
-        "location": "Nigeria (General Area)",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/maritime-trade-faces-disruption-after-fresh-us-iran-strikes/"
-    },
-    {
-        "title": "How thugs killed Islamic teacher in Bauchi",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 10.5202,
-        "lng": 10.0538,
-        "location": "Teacher Area, Bauchi State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/how-thugs-killed-islamic-teacher-in-bauchi/"
-    },
-    {
-        "title": "OPHK troops foil multiple terrorist infiltrations in Borno",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 11.8693,
-        "lng": 13.1472,
-        "location": "Borno State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/ophk-troops-foil-multiple-terrorist-infiltrations-in-borno/"
-    },
-    {
-        "title": "Banditry victims recount horror at News Central Katsina town hall",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 12.5048,
-        "lng": 7.5858,
-        "location": "Katsina State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/banditry-victims-recount-horror-at-news-central-katsina-town-hall/"
-    },
-    {
-        "title": "I Almost Quit Acting Over Rumors I Killed My Mentor, Says Adebayo Salami",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 9.0794,
-        "lng": 7.4445,
-        "location": "Nigeria (General Area)",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/i-almost-quit-acting-over-rumors-i-killed-my-mentor-says-adebayo-salami/"
-    },
-    {
-        "title": "Police Arrest 2 With Suspected Human Skull In Oyo",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-10",
-        "lat": 8.007,
-        "lng": 3.9649,
-        "location": "Skull Area, Oyo State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/police-arrest-2-with-suspected-human-skull-in-oyo/"
-    },
-    {
-        "title": "Police restrict movement over Edo LG election",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-10",
-        "lat": 6.5307,
-        "lng": 5.9995,
-        "location": "Edo State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/police-restrict-movement-over-edo-lg-election/"
-    },
-    {
-        "title": "1 Dead, 4 Injured As Building Under Construction Collapses In Kano",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 12.0173,
-        "lng": 8.5548,
-        "location": "Collapses Area, Kano State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/1-dead-4-injured-as-building-under-construction-collapses-in-kano/"
-    },
-    {
-        "title": "Four trapped, three rescued as building collapses in Kano",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-07-10",
-        "lat": 12.0541,
-        "lng": 8.5459,
-        "location": "Collapses Area, Kano State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/four-trapped-three-rescued-as-building-collapses-in-kano/"
-    },
-    {
-        "title": "Troops Arrest Chadian Woman, Intercept Drugs, Alcohol Bound for Terrorists in Lake Chad Region - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 9.958,
-        "lng": 6.0227,
-        "location": "Niger State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wU2JEdkRXSV9WbXdLcWp4STRTTWZJX2JWdGF6aVhkV0dlbVdlVU9FSU9uN1hpY3cxNU00WVhuLVpXRHlHbVhDaTBzak5nUUljMV80cGljVG9mMy1Ib3o4ODRGSTQyUmw4SjdWVDh3?oc=5"
-    },
-    {
-        "title": "Police rescue 4 kidnap victims after gun duel in Abuja",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-07-10",
-        "lat": 9.0364,
-        "lng": 7.4579,
-        "location": "Duel Area, Abuja (FCT)",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/police-rescue-4-kidnap-victims-after-gun-duel-in-abuja/"
-    },
-    {
-        "title": "Police rescue abducted Oyo couple after gun battle with kidnappers",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 7.9679,
-        "lng": 4.0028,
-        "location": "Oyo State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/police-rescue-abducted-oyo-couple-after-gun-battle-with-kidnappers/"
-    },
-    {
-        "title": "Police Rescue Abducted INEC Staff, Recover Rustled Cattle in Zamfara",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 12.1772,
-        "lng": 6.1665,
-        "location": "Cattle Area, Zamfara State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/police-rescue-abducted-inec-staff-recover-rustled-cattle-in-zamfara/"
-    },
-    {
-        "title": "PSC Debunks Fake Police Recruitment Screening Notice - PRNigeria News",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-10",
-        "lat": 10.0336,
-        "lng": 5.9548,
-        "location": "Niger State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoeVh5b2FTcDgzV2RYeHkzVEN0aUZEV2MwbHBoZE05WW5mT0poYkNmUWllVVh0aEFKd1dYUVZzT2hGOUQ3YVRWX2ZRb2tEUkI4WFoxNmNja1V2bEY5S0Vzdm5IcnJ1Y1hC?oc=5"
-    },
-    {
-        "title": "Troops foil suspected terrorist supply chain, arrest Chadian woman with drugs in Borno - ZAgazola",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 11.8737,
-        "lng": 13.1447,
-        "location": "Drugs Area, Borno State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMnJ5TG9KRVoxRi1xZVlxS255UGt5UEdVaS1EOVF5VkhBNGluME4wVl9YTThTMEROcW5XWDZ5Z0dBYWpNZnNkdE13dGZTeHNTOWJUOUFmdXYzRE1USUwyaWFPN3FLVVhZQUR5QTV3WUd6VmNCdTE1QXdqTXhsZTZQeDliZzFaZy1JWVczQVM3cjQ0bS1WbUY3dmc0R0kwU1VnVWJZbklFUzBJUnoyMEZhNjU0SThXR3JENzJQN0xORVZMMG1CMm1RWktURk8?oc=5"
-    },
-    {
-        "title": "BREAKING: Kidnapped Oyo pupils, teachers regain freedom",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 6.4649,
-        "lng": 6.0542,
-        "location": "Edo State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/breaking-kidnapped-oyo-pupils-teachers-regain-freedom/"
-    },
-    {
-        "title": "Gunmen abduct two in Ogun",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-07-10",
-        "lat": 7.0365,
-        "lng": 3.4994,
-        "location": "Ogun State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/gunmen-abduct-two-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Jihadist insurgency hampers Nigeria cholera outbreak response - Africa - World - Ahram Online",
-        "type": "突发公共卫生疫情",
-        "level": "low",
-        "date": "2026-07-10",
-        "lat": 10.0541,
-        "lng": 5.9665,
-        "location": "Niger State",
-        "source": "Google News - Nigeria Security",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcUM3VVBEYXdXNVlDMS10VEdJWW02WnVucUo4UExGMFp2alladkQyMlhubGtDalBPTDl1VTRCM1FUbWdnMG5GUXNCUUN4MmVtNzBVLWZFelJPeGd6T1lGYVRXMS1oaTFWSTdaaEdaSmd1OTN4blZMeW0wOHV6R1NraVJOUE1nZXlmWlZ4WnZ5UTBsTTB4VlQxSF9MX1ZoUF9Ea0xueE56cHY4aDBRanV1MV9WTS0xOWZFMmdVdlp3?oc=5"
-    },
-    {
-        "title": "Gombe probes Assembly site collapse that killed one worker",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-10",
-        "lat": 10.304,
-        "lng": 11.1189,
-        "location": "Gombe State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/gombe-probes-assembly-site-collapse-that-killed-one-worker/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Gombe orders probe into collapse of Assembly complex",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-07-10",
-        "lat": 10.2658,
-        "lng": 11.1236,
-        "location": "Gombe State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/gombe-orders-probe-into-collapse-of-assembly-complex/"
-    },
-    {
-        "title": "Police arrest suspected cultists, vandal in Abia",
-        "type": "族群冲突/武装对抗",
-        "level": "medium",
-        "date": "2026-07-10",
-        "lat": 5.4378,
-        "lng": 7.4918,
-        "location": "Vandal Area, Abia State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-suspected-cultists-vandal-in-abia/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
         "title": "Gombe orders probe as Assembly project collapse kills worker",
         "type": "突发涉安事件",
         "level": "low",
@@ -3991,5 +3738,38 @@
         "location": "Camps Area, Benue State",
         "source": "Leadership News",
         "url": "https://leadership.ng/attacks-we-ii-dismantle-all-bandits-camps-in-benue-says-cp-nwadiogbu/"
+    },
+    {
+        "title": "Five rights you have when arrested by police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 8.9996,
+        "lng": 7.4291,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/five-rights-you-have-when-arrested-by-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian arrested over cyber fraud in India",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 9.9694,
+        "lng": 5.9699,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nigerian-arrested-over-cyber-fraud-in-india/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops recover 56 rustled livestock in Katsina",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 12.4587,
+        "lng": 7.5809,
+        "location": "Livestock Area, Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/troops-recover-56-rustled-livestock-in-katsina/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
