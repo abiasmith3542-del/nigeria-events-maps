@@ -3947,5 +3947,49 @@
         "location": "Dealer Area, Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-rescue-abducted-cattle-dealer-in-edo/"
+    },
+    {
+        "title": "Gunmen kidnap three mourning siblings, seize mother’s corpse in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 7.3237,
+        "lng": 8.712,
+        "location": "Corpse Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-kidnap-three-mourning-siblings-seize-mothers-corpse-in-benue/"
+    },
+    {
+        "title": "Soldiers kill two suspected terrorists, rescue kidnap victims in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-18",
+        "lat": 7.3904,
+        "lng": 8.7223,
+        "location": "Victims Area, Benue State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/896343-soldiers-kill-two-suspected-terrorists-rescue-kidnap-victims-in-benue.html"
+    },
+    {
+        "title": "Chinese Nationals Arrested Over Illegal Mining in Nasarawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 8.5015,
+        "lng": 8.1664,
+        "location": "Mining Area, Nasarawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/chinese-nationals-arrested-over-illegal-mining-in-nasarawa/"
+    },
+    {
+        "title": "Benue: Gunmen abduct 3 siblings conveying mother’s corpse home",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 7.279,
+        "lng": 8.7072,
+        "location": "Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/benue-gunmen-abduct-3-siblings-conveying-mothers-corpse-home/"
     }
 ]
