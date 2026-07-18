@@ -3881,5 +3881,27 @@
         "location": "Zamfara State",
         "source": "Leadership News",
         "url": "https://leadership.ng/violence-against-children-zamfara-government-police-unicef-strengthen-partnership/"
+    },
+    {
+        "title": "Police Nab 8 Suspected Cultists in Bayelsa ",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 4.7016,
+        "lng": 6.0533,
+        "location": "Cultists Area, Bayelsa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-nab-8-suspected-cultists-in-bayelsa/"
+    },
+    {
+        "title": "Lagos: Suspected Cultist Arrested for Opening Fire on Police Officers",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 6.5204,
+        "lng": 3.4121,
+        "location": "Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/lagos-suspected-cultist-arrested-for-opening-fire-on-police-officers/"
     }
 ]
