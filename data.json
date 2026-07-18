@@ -4057,5 +4057,38 @@
         "location": "Baby Area, Niger State",
         "source": "Leadership News",
         "url": "https://leadership.ng/police-nab-fake-pastor-accomplice-over-abduction-of-4-week-old-baby-in-niger/"
+    },
+    {
+        "title": "Police arrest more suspects over killing of Benue professor, brother, say attack was assassination",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-18",
+        "lat": 7.2961,
+        "lng": 8.7239,
+        "location": "Benue State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/police-arrest-more-suspects-over-killing-of-benue-professor-brother-say-attack-was-assassination/"
+    },
+    {
+        "title": "Theft Of Govt Property: Delta Police Command Secures Conviction Of 16 Suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 5.4441,
+        "lng": 5.951,
+        "location": "Delta State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/theft-of-govt-property-delta-police-command-secures-conviction-of-16-suspects/"
+    },
+    {
+        "title": "Military Establishes FOB in Katsina Community to Tackle Bandits Incursion - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-18",
+        "lat": 12.4863,
+        "lng": 7.5937,
+        "location": "Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tV2xoamNacVJZZmJSY1FyRHc5OXBoa1dQdE5kWU9QVXVLT0RBOVE1dU5PUVE0S3NSOWF0X2UtLUdwVUZ3T29wdk9CTjlkTnp5TzFIWlhiM3NRM0JubUtUZTRHZGxTblYxd0E?oc=5"
     }
 ]
