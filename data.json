@@ -3991,5 +3991,16 @@
         "location": "Benue State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/benue-gunmen-abduct-3-siblings-conveying-mothers-corpse-home/"
+    },
+    {
+        "title": "Police arrest suspected robber, recover stolen motorcycle in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 7.9998,
+        "lng": 4.0549,
+        "location": "Motorcycle Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-robber-recover-stolen-motorcycle-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
