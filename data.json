@@ -3837,5 +3837,49 @@
         "location": "Enugu State",
         "source": "Punch Metro",
         "url": "https://punchng.com/substation-explosion-plunges-parts-of-enugu-into-blackout/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Viral photograph of female kidnappers in Rivers is AI-generated – Police",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 4.7263,
+        "lng": 6.8567,
+        "location": "Kidnappers Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/viral-photograph-of-female-kidnappers-in-rivers-is-ai-generated-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest three Bayelsa workers for stealing N500m govt equipment",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 4.8049,
+        "lng": 5.9487,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-bayelsa-workers-for-stealing-n500m-govt-equipment/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Cross River: Akparabong Women Protest Drug Peddling, Demand NDLEA Action",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-18",
+        "lat": 5.7482,
+        "lng": 8.5197,
+        "location": "Cross River State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/cross-river-akparabong-women-protest-drug-peddling-demand-ndlea-action/"
+    },
+    {
+        "title": "Violence Against Children: Zamfara Government, Police, UNICEF Strengthen Partnership",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-18",
+        "lat": 12.1617,
+        "lng": 6.2775,
+        "location": "Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/violence-against-children-zamfara-government-police-unicef-strengthen-partnership/"
     }
 ]
