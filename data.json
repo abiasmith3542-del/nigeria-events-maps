@@ -3771,5 +3771,27 @@
         "location": "Livestock Area, Katsina State",
         "source": "Punch Metro",
         "url": "https://punchng.com/troops-recover-56-rustled-livestock-in-katsina/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Indian activist moved to hospital after 20-day hunger strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-18",
+        "lat": 9.113,
+        "lng": 7.5335,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/indian-activist-moved-to-hospital-after-20-day-hunger-strike/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Russia says Ukrainian drone attack kills seven, at logistics centre",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-18",
+        "lat": 8.9932,
+        "lng": 7.492,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/russia-says-ukrainian-drone-attack-kills-seven-at-logistics-centre/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
