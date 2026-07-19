@@ -4013,5 +4013,60 @@
         "location": "Petrol Area, Adamawa State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3NaOWR1NFl4MjEybnd3YzFXOXdkcGRmQjF6T01zQmtqU0JHYzlYaDZqMTdWWHN0ZWVVOTJSU25WTGtWcXN1ZUFvb1JKUFc0RGdiX1NmTXJQVHFCejIyam1ZNzNNUjZqakhya3ZpVzlVOEZiTDVPS1NORWdpdk9Vay1uMU01YWdIYmxNU1FmS1pFQ3ZtUkFkYV9ULTY2dUYtMEtQV1FBNkh6ejVPbnlPN0ViNkdhY0hrUVl2T2hR?oc=5"
+    },
+    {
+        "title": "Kano fire service saves man trapped after wall collapse in Kano",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-19",
+        "lat": 12.017,
+        "lng": 8.5844,
+        "location": "Collapse Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kano-fire-service-saves-man-trapped-after-wall-collapse-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Banditry: ‘95% of our people have fled,’ Kwara community cries to Tinubu",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 8.5439,
+        "lng": 4.4987,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/banditry-95-of-our-people-have-fled-kwara-community-cries-to-tinubu/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ondo community protests over  deplorable road, seeks Aiyedatiwa’s intervention",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-19",
+        "lat": 7.2499,
+        "lng": 5.2502,
+        "location": "Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ondo-community-protests-over-deplorable-road-seeks-aiyedatiwas-intervention/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops foil suspected terrorist IED attack on Borno highway",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 11.8304,
+        "lng": 13.1242,
+        "location": "Borno State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/troops-foil-suspected-terrorist-ied-attack-on-borno-highway/"
+    },
+    {
+        "title": "Worker Rescued Alive As Wall Collapses During Demolition In Kano",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-19",
+        "lat": 12.0236,
+        "lng": 8.6475,
+        "location": "Demolition Area, Kano State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/worker-rescued-alive-as-wall-collapses-during-demolition-in-kano/"
     }
 ]
