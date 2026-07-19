@@ -3936,5 +3936,27 @@
         "location": "Kano State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/ndlea-intercepts-kano-bound-1-6m-tramadol-pills-arrests-suspects/"
+    },
+    {
+        "title": "Gunmen kill 30-year-old ,an in Plateau community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-19",
+        "lat": 9.5287,
+        "lng": 9.476,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-kill-30-year-old-an-in-plateau-community/"
+    },
+    {
+        "title": "Bandits kill 2, abduct 5 in fresh Sokoto attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 13.1166,
+        "lng": 5.2032,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-2-abduct-5-in-fresh-sokoto-attack/"
     }
 ]
