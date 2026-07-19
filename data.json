@@ -3892,5 +3892,49 @@
         "location": "Secretariats Area, Imo State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/07/thugs-attack-opposition-party-secretariats-in-imo-destroy-billboards/"
+    },
+    {
+        "title": "Police Arrest Fake Pastor, Accomplice For Stealing Newborn In Niger",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-19",
+        "lat": 9.9967,
+        "lng": 6.0387,
+        "location": "Newborn Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-fake-pastor-accomplice-for-stealing-newborn-in-niger/"
+    },
+    {
+        "title": "Troops kill 2 bandits, rescue 3 kidnap victims in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 7.3268,
+        "lng": 8.7272,
+        "location": "Victims Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-kill-2-bandits-rescue-3-kidnap-victims-in-benue/"
+    },
+    {
+        "title": "Police arrest 12 suspected cultists in Benue",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-19",
+        "lat": 7.3901,
+        "lng": 8.7461,
+        "location": "Cultists Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-12-suspected-cultists-in-benue/"
+    },
+    {
+        "title": "NDLEA intercepts Kano-bound 1.6m tramadol pills, arrests suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-19",
+        "lat": 12.0588,
+        "lng": 8.6251,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ndlea-intercepts-kano-bound-1-6m-tramadol-pills-arrests-suspects/"
     }
 ]
