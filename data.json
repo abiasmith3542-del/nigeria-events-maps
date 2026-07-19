@@ -3958,5 +3958,27 @@
         "location": "Sokoto State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/bandits-kill-2-abduct-5-in-fresh-sokoto-attack/"
+    },
+    {
+        "title": "Gunmen abduct Pastor’s wife, three children in Borno LGA",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-19",
+        "lat": 11.7751,
+        "lng": 13.1223,
+        "location": "Children Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-abduct-pastors-wife-three-children-in-borno-lga/"
+    },
+    {
+        "title": "Troops destroy ISWAP hideout, recover weapon in Borno clearance operation - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 11.8526,
+        "lng": 13.1981,
+        "location": "Weapon Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLUw4R2NGZHNjRWxBNnRGYUlyTlAtb3BzblJpOUFCZDQtalNnV2g1NFplaTRQcVpWa3ItUkJ6U0lvNWR6aU1nZ3FXdnJlRVQ0SE1rVExJZ2l1X3dQRVJEdEtOWE1JWjVlTldQWGtWbVE1VHdzQk9kNTZNVW1QYVFKUHNmOU9PZDN4TmlMRVJ1TjYwd0lBb29WUTFzNUVSZ1lJUkFhSk5PZ1BhdXFCb092TDd3R25vdUxJ?oc=5"
     }
 ]
