@@ -3771,5 +3771,38 @@
         "location": "Abducted Area, Benue State",
         "source": "Punch Metro",
         "url": "https://punchng.com/three-siblings-travelling-with-mothers-corpse-abducted-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "After Orire, Kogi operation: 529 kidnapped schoolchildren, worshipers, farmers, others remain in captivity",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 7.7911,
+        "lng": 6.746,
+        "location": "Kogi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/after-orire-kogi-operation-529-kidnapped-schoolchildren-worshipers-farmers-others-remain-in-captivity/"
+    },
+    {
+        "title": "Gunmen kidnap three mourning siblings, seize mother’s corpse in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-19",
+        "lat": 7.2881,
+        "lng": 8.7951,
+        "location": "Corpse Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-kidnap-three-mourning-siblings-seize-mothers-corpse-in-benue/"
+    },
+    {
+        "title": "Timi Dakolo, promoter clash over alleged £4,106 debt",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 9.0623,
+        "lng": 7.5634,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/timi-dakolo-promoter-clash-over-alleged-4106-debt/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
