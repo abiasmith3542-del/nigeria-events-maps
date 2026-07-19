@@ -4068,5 +4068,16 @@
         "location": "Demolition Area, Kano State",
         "source": "Leadership News",
         "url": "https://leadership.ng/worker-rescued-alive-as-wall-collapses-during-demolition-in-kano/"
+    },
+    {
+        "title": "Torres Strikes In Extra Time As Spain Edge Argentina To Lift World Cup",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-19",
+        "lat": 9.081,
+        "lng": 7.4782,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/world-cup-final-heads-to-extra-time-after-spain-argentina-stalemate/"
     }
 ]
