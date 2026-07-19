@@ -3881,5 +3881,16 @@
         "location": "Students Area, Borno State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/breaking-troops-foil-abduction-of-female-students-in-borno-school/"
+    },
+    {
+        "title": "Thugs attack opposition party secretariats in Imo, destroy billboards",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 5.5385,
+        "lng": 6.9946,
+        "location": "Secretariats Area, Imo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/thugs-attack-opposition-party-secretariats-in-imo-destroy-billboards/"
     }
 ]
