@@ -3826,5 +3826,38 @@
         "location": "Gombe State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-recover-pistol-stolen-car-in-separate-gombe-operations/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops bust kidnap syndicate, recover suspected ransom money, vehicle in Imo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-19",
+        "lat": 5.4501,
+        "lng": 7.0807,
+        "location": "Vehicle Area, Imo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/troops-bust-kidnap-syndicate-recover-suspected-ransom-money-vehicle-in-imo/"
+    },
+    {
+        "title": "Sokoto lawmaker mourns nine Yabo youths killed in road accident while travelling to Lagos",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 6.4724,
+        "lng": 3.3245,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/sokoto-lawmaker-mourns-nine-yabo-youths-killed-in-road-accident-while-travelling-to-lagos/"
+    },
+    {
+        "title": "Lagos commuters stranded as overturned trailer causes gridlock inward Berger",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-19",
+        "lat": 6.4658,
+        "lng": 3.382,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/lagos-commuters-stranded-as-overturned-trailer-causes-gridlock-inward-berger/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
