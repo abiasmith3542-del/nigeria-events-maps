@@ -1,324 +1,5 @@
 [
     {
-        "title": "Gombe orders probe as Assembly project collapse kills worker",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-07-11",
-        "lat": 10.2875,
-        "lng": 11.1628,
-        "location": "Gombe State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/gombe-orders-probe-as-assembly-project-collapse-kills-worker/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "2027: Tinubu retains Shettima as parties race to meet INEC deadline",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 8.9726,
-        "lng": 7.5318,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/2027-tinubu-retains-shettima-as-parties-race-to-meet-inec-deadline/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police rescue four Abuja kidnap victims",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 9.0002,
-        "lng": 7.5111,
-        "location": "Abuja (FCT)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-rescue-four-abuja-kidnap-victims/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Troops foil attempted ISWAP raid in Borno",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 11.8344,
-        "lng": 13.1105,
-        "location": "Raid Area, Borno State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/troops-foil-attempted-iswap-raid-in-borno/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police restrict movement over Edo LG election",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 6.548,
-        "lng": 5.9728,
-        "location": "Edo State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/police-restrict-movement-over-edo-lg-election-2/"
-    },
-    {
-        "title": "Oyo students, teachers rescue: How security agents weakened terrorists",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 8.0426,
-        "lng": 3.9776,
-        "location": "Oyo State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/oyo-students-teachers-rescue-how-security-agents-weakened-terrorists/"
-    },
-    {
-        "title": "Gombe Assembly Collapse: One dead, seven injured as Yahaya orders investigation",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 10.2847,
-        "lng": 11.1585,
-        "location": "Gombe State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/gombe-assembly-collapse-one-dead-seven-injured-as-yahaya-orders-investigation/"
-    },
-    {
-        "title": "State police will bring security closer to Nigerians – IGP",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 10.0556,
-        "lng": 5.9578,
-        "location": "Niger State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/state-police-will-bring-security-closer-to-nigerians-igp/"
-    },
-    {
-        "title": "Mandate hijack: How 16 MDAs got N206bn for constituency projects",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 9.0263,
-        "lng": 7.4383,
-        "location": "Nigeria (General Area)",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/mandate-hijack-how-16-mdas-got-n206bn-for-constituency-projects/"
-    },
-    {
-        "title": "Troops Rescue Four Kidnap Victims in Kogi, Kwara Border Operations - ZAgazola",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 7.8401,
-        "lng": 6.7461,
-        "location": "Victims Area, Kogi State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTWJOY3VhczhjdUloTTNlSmY4NmcxZ25MZFdIdjlHem9Kb3VwWVNseDg0RElpbk9kSXl0UEhXQW1FdzItYVhzZmttWEc4a0cxb01walhRLUJCQUpjOW1fVlBjTXBIMXlvUlNjQ0s4SDJybmlZc0Z6RUZDRGpnUC1pNVdaSlUyTWk2RUlfZlpnZlVlUUZtVWJRZkNmQVA1U2N1V04wZHlnTG1nbWppcVRB?oc=5"
-    },
-    {
-        "title": "NAF Strikes Terrorists Enclave In Borno",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 11.8891,
-        "lng": 13.185,
-        "location": "Enclave Area, Borno State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/naf-strikes-terrorists-enclave-in-borno/"
-    },
-    {
-        "title": "Police Arrest Suspect Over N3bn Fraud In Lagos",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 6.5777,
-        "lng": 3.345,
-        "location": "Fraud Area, Lagos State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/police-arrest-suspect-over-n3bn-fraud-in-lagos/"
-    },
-    {
-        "title": "World Cup Quarter-Final Ticket Prices Collapse After US, Portugal Exit",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-07-11",
-        "lat": 9.0497,
-        "lng": 7.4913,
-        "location": "Nigeria (General Area)",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/world-cup-quarter-final-ticket-prices-collapse-after-us-portugal-exit/"
-    },
-    {
-        "title": "NAF strikes kill scores of terrorists, destroy enclaves in Borno",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 11.8748,
-        "lng": 13.1095,
-        "location": "Enclaves Area, Borno State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/naf-strikes-kill-scores-of-terrorists-destroy-enclaves-in-borno/"
-    },
-    {
-        "title": "Airstrikes Destroy ISWAP Stronghold, Logistics Hub in Borno - ZAgazola",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 11.8879,
-        "lng": 13.1381,
-        "location": "Borno State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDRaWmxrbWxwYm9sSnRmaDdmamFhZFN2dGpVY1NhSE1Pd0JHM0I5Y190QUFnajh1UlQxVlpMemdGWm5GVFYyTjBVMHd4R2NFTWdYdVZCbm5KYzFLQzJsV3hKVmowV1ZEUGdiRU1hSjZhZm5nWVd1M0gyMndSSWlnbHJibWEtY285S1dfamUzdGlydTlQNGQ2Z0pfYlZBbFRGWjljZkZR?oc=5"
-    },
-    {
-        "title": "DHQ: Publishing Classified Military Information Aids Terrorists - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 9.9611,
-        "lng": 5.9463,
-        "location": "Niger State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uTS16YUFfdTJZS3NYUHZJLXlPTE84dHpyeHhnUjNUdU5GQ29haGtPTmVMa05XeG45TjJ3Vy14bnR6YXdrR0VZczNFMmRxSFJRaDdwMHlHQkdsazFJZ3NPWjd3XzRnY25zWGw0?oc=5"
-    },
-    {
-        "title": "Troops Arrest Suspected ISWAP Logistics Supplier with Assorted Drugs in Borno - ZAgazola",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 11.774,
-        "lng": 13.1336,
-        "location": "Drugs Area, Borno State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVpweFhUMnlEQTJjd09Cai1WS1p1SFp6MWlZSXhydmc5cXJ1aHFjY1BCUVFVTnk3d01OODZjRGJUd1Q2eFRWWi03bldaWDlWQkZwM1htUEpGQVJqVm5VdzNnM2pFVklwQ2x4cTlHMEhaS09CZUt3TFpMbnhkOURJUmY4REp4TEpxRXM3M3dwYklvRU82dm1KNTgyel96UFNoZk1GLUp6dFlHQ1NSTDl4cTF1b0RJQXNUVFFzdHZMWQ?oc=5"
-    },
-    {
-        "title": "Police Arrest 80-yr-old, 7 Others Over Killing Of Benue MACBAN Chairman",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 7.3478,
-        "lng": 8.7494,
-        "location": "Benue State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/police-arrest-80-yr-old-7-others-over-killing-of-benue-macban-chairman/"
-    },
-    {
-        "title": "Kogi: Bandits abduct corpse, mourners, demand N450 ransom",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 7.7801,
-        "lng": 6.7549,
-        "location": "Kogi State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/kogi-bandits-abduct-corpse-mourners-demand-n450-ransom/"
-    },
-    {
-        "title": "‎Ondo varsity lecturers begin indefinite strike over unpaid salaries",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-07-11",
-        "lat": 7.2362,
-        "lng": 5.2074,
-        "location": "Ondo State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/ondo-varsity-lecturers-begin-indefinite-strike-over-unpaid-salaries/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police arrest five suspected cultists in Lagos",
-        "type": "族群冲突/武装对抗",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 6.51,
-        "lng": 3.4301,
-        "location": "Cultists Area, Lagos State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-five-suspected-cultists-in-lagos/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Fight bandits, not critics, coalition tells Katsina gov’t",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 12.5064,
-        "lng": 7.5625,
-        "location": "Katsina State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/fight-bandits-not-critics-northern-coalition-tells-katsina-govt/"
-    },
-    {
-        "title": "Ondo: Police Arrest Man For Faking Own Kidnap",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 7.2757,
-        "lng": 5.1961,
-        "location": "Ondo State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/edo-police-arrest-man-for-faking-own-kidnap/"
-    },
-    {
-        "title": "Police arrest 14 suspected drug dealers, seize illicit drugs in Yobe raid",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 11.9555,
-        "lng": 11.5598,
-        "location": "Drugs Area, Yobe State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-14-suspected-drug-dealers-seize-illicit-drugs-in-yobe-raid/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police nab armed robbery suspect in Abia",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 5.384,
-        "lng": 7.4607,
-        "location": "Suspect Area, Abia State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-nab-armed-robbery-suspect-in-abia/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Army troops capture suspected ISWAP logistics supplier in Borno - Daily Post Nigeria",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 11.8274,
-        "lng": 13.1308,
-        "location": "Supplier Area, Borno State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSnFzU3JkR3pYRjRyY0x2dkdkeFRjNngyR3VjLUlNODJ0VzNLM3hNMXFwVEE3WG5WdUp6ZzlXVzNVVk1WbUlGenk3N0hLamNBVlZYSUVhZy1Ba3pYdkJRSXZpaklXTGdGTFdVTTl6NlhKQm5BbmVPM0pMc05EWEk0Vk1aZDZCUWdYNlpTdUN2UTRyOEdyVjAyb2llYkc?oc=5"
-    },
-    {
-        "title": "7 Killed, 5 Injured In Bauchi Crash Days After Ex-Deputy Governor’s Family Tragedy",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 10.5467,
-        "lng": 10.0267,
-        "location": "Injured Area, Bauchi State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/77-killed-5-injured-in-bauchi-crash-days-after-ex-deputy-governors-family-tragedy/"
-    },
-    {
-        "title": "Police arrest four chiefs, others over MACBAN chairman’s death in Benue",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-07-11",
-        "lat": 7.295,
-        "lng": 8.7714,
-        "location": "Death Area, Benue State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/07/police-arrest-four-chiefs-others-over-macban-chairmans-death-in-benue/"
-    },
-    {
-        "title": "Abducted Benue Pastor Dies After Regaining Freedom From Captivity",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 7.2891,
-        "lng": 8.7112,
-        "location": "Benue State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/abducted-benue-pastor-dies-after-regaining-freedom-from-captivity/"
-    },
-    {
         "title": "Police arrest four chiefs, others over MACBAN chairman’s death in Benue",
         "type": "突发涉安事件",
         "level": "medium",
@@ -559,17 +240,6 @@
         "location": "Baby Area, Plateau State",
         "source": "Leadership News",
         "url": "https://leadership.ng/gunmen-kill-9-family-members-2-month-old-baby-in-plateau-communities/"
-    },
-    {
-        "title": "Again, NAF Airstrikes Cripple Terrorist Camp in Borno, Several Fighters Neutralised - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 11.7889,
-        "lng": 13.1138,
-        "location": "Camp Area, Borno State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaMThtMUJ4VndQajdTSVBUcEZFeVoycUVib3RDc3I5WE9KbGVJTlJSVEJGRml1VzZEcHZZUk5aMzdvQW93aWdTcUJsN0w0a0dodXVjQTZDbllXY2F3M3VFN2JpUjVsVWpraDJn?oc=5"
     },
     {
         "title": "Police raid criminal hideouts, arrest 43 suspects in Ogun",
@@ -3388,17 +3058,6 @@
         "url": "https://dailytrust.com/abducted-principal-neco-official-2-candidates-rescued-in-kogi/"
     },
     {
-        "title": "Troops Overpower Terrorists, Free 4 Kidnap Victims in Kebbi-Sokoto Border Operation - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-07-11",
-        "lat": 11.4518,
-        "lng": 4.2141,
-        "location": "Victims Area, Kebbi State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wOHJRamJKS0FLMWxuY2pITnRkQWV0aUY5c0ZTbVY4NEN4UF95bGNiSEJrNnl4c1MzYnowc2ZteWtGSENVOElXbGkwQWdIZG1DWkcxenlmU1hoMlEtQ0Z0dEVmSHl0anNWTWttazlR?oc=5"
-    },
-    {
         "title": "Brigade Commander’s Convoy Arrests Suspected Terrorist in Katsina - ZAgazola",
         "type": "恐怖分子/土匪袭击",
         "level": "high",
@@ -4090,5 +3749,27 @@
         "location": "Katsina State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tV2xoamNacVJZZmJSY1FyRHc5OXBoa1dQdE5kWU9QVXVLT0RBOVE1dU5PUVE0S3NSOWF0X2UtLUdwVUZ3T29wdk9CTjlkTnp5TzFIWlhiM3NRM0JubUtUZTRHZGxTblYxd0E?oc=5"
+    },
+    {
+        "title": "Fake agency: Inside police, DSS operation behind Adeyemi’s arrest",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-19",
+        "lat": 9.0211,
+        "lng": 7.3993,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/fake-agency-inside-police-dss-operation-behind-adeyemis-arrest/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Three siblings travelling with mother’s corpse abducted in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 7.3473,
+        "lng": 8.8083,
+        "location": "Abducted Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/three-siblings-travelling-with-mothers-corpse-abducted-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
