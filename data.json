@@ -3804,5 +3804,27 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/timi-dakolo-promoter-clash-over-alleged-4106-debt/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "VIDEO: Terrorists released us before soldiers took us home – Rescued Oyo teacher",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-19",
+        "lat": 7.9622,
+        "lng": 3.9448,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-terrorists-released-us-before-soldiers-took-us-home-rescued-oyo-teacher/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police recover pistol, stolen car in separate Gombe operations",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-19",
+        "lat": 10.2364,
+        "lng": 11.1123,
+        "location": "Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-pistol-stolen-car-in-separate-gombe-operations/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
