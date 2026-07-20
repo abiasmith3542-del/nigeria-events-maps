@@ -3837,5 +3837,71 @@
         "location": "Victims Area, Benue State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXpuNmV2Z1Njd084aUFfQzFtXzNGZFpldThGU3NiRW8xcjVBNm95UGRMWGo3ZTJlRVRFanE0WURWZXFuOFo3Z09WZ0cyRy00cC0zMUdUcThLQmx6bE1ndkFKYS11S0xuM24yNFl2X3VKUEhudHVOc1FxMU9DTEVLc2szY0k2Qk0zWG51dk90X3lzMXRYbzF6SmoweXRIamp1bEJndVV1OWJQX2wxZkJFcG1mYnE1cUU5Qm5qMzB2aG8?oc=5"
+    },
+    {
+        "title": "Police foil kidnap, cattle rustling attempts, rescue victim in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 12.4808,
+        "lng": 7.645,
+        "location": "Victim Area, Katsina State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-foil-kidnap-cattle-rustling-attempts-rescue-victim-in-katsina/"
+    },
+    {
+        "title": "Kwara orders demolition of unsafe two-storey building over collapse fears",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-20",
+        "lat": 8.5371,
+        "lng": 4.6052,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kwara-orders-demolition-of-unsafe-two-storey-building-over-collapse-fears/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "US sanctions Sudan for chemical weapons",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 8.9889,
+        "lng": 7.4753,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/us-sanctions-sudan-for-chemical-weapons/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police rescue nine children, arrest suspected traffickers in Niger",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 10.0442,
+        "lng": 5.961,
+        "location": "Traffickers Area, Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/896673-police-rescue-nine-children-arrest-suspected-traffickers-in-niger.html"
+    },
+    {
+        "title": "‎Police Launch Manhunt As Gunmen Attack Female Motorist In Ondo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 7.2772,
+        "lng": 5.1695,
+        "location": "Motorist Area, Ondo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-launch-manhunt-as-gunmen-attack-female-motorist-in-ondo/"
+    },
+    {
+        "title": "One killed, many missing as boat capsizes in Jigawa",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 12.0323,
+        "lng": 9.7239,
+        "location": "Capsizes Area, Jigawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/one-killed-many-missing-as-boat-capsizes-in-jigawa/"
     }
 ]
