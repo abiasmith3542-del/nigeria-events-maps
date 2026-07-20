@@ -4321,5 +4321,93 @@
         "location": "Bandits Area, Katsina State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMkh5RERlQkR6X05Mb0RjeDk5N0RWZUozMlBWNk14QlI0NHJVYUxhaUFPUG1GYTBTdTZ6WjBtY0ZKNW1nbjgzV0pDeXhTNThCeXU3MmNvYkRRNmJybXZ0a0U2ZVpxRWNNOFZjRVVycE5EUlZ4WHNPOXdMSjR2X2tEVUNCTjJMV0ZxeDIzSnJFTlhlVkxtQnpOOEJfSkl3eEtRdnBpNEFpaE9WRlFQZ1ZkM1RaMTZCRk5FaGdRTmR6OF9wTTEt?oc=5"
+    },
+    {
+        "title": "Ondo Labour Unions threaten indefinite strike at FUTATH over IPPIS, workers’ rights dispute",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-20",
+        "lat": 7.2491,
+        "lng": 5.2268,
+        "location": "Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/ondo-labour-unions-threaten-indefinite-strike-at-futath-over-ippis-workers-rights-dispute/"
+    },
+    {
+        "title": "Police restore calm after NURTW factions clash in Osun",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 7.4778,
+        "lng": 4.4808,
+        "location": "Clash Area, Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-restore-calm-after-nurtw-factions-clash-in-osun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police bust vehicle theft syndicate in Abuja, arrest four suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 9.1015,
+        "lng": 7.4667,
+        "location": "Syndicate Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-bust-vehicle-theft-syndicate-in-abuja-arrest-four-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police begin 14-day health assessment for officers in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 4.7776,
+        "lng": 6.8576,
+        "location": "Officers Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-begin-14-day-health-assessment-for-officers-in-rivers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police detain, investigate four personnel for extorting N53,000 from ICPC chair at Abuja checkpoint",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 9.0441,
+        "lng": 7.5113,
+        "location": "Chair Area, Abuja (FCT)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/896783-police-detain-investigate-four-personnel-for-extorting-n53000-from-icpc-chair-at-abuja-checkpoint.html"
+    },
+    {
+        "title": "3 herders killed, 2 injured in fresh Plateau attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 9.5343,
+        "lng": 9.5253,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-herders-killed-2-injured-in-fresh-plateau-attack/"
+    },
+    {
+        "title": "Police Impound 115 Vehicles In Niger State Amid Crackdown On Unregistered Cars, Defaced Plates",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 9.9916,
+        "lng": 6.0137,
+        "location": "Vehicles Area, Niger State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/20/police-impound-115-vehicles-in-niger-state-amid-crackdown-on-unregistered-cars-defaced-plates/"
+    },
+    {
+        "title": "Katsina Police Foil Two Bandit Attacks, Rescue Kidnap Victim, Recover 15 Rustled Cattle",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 12.4906,
+        "lng": 7.636,
+        "location": "Katsina State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/20/katsina-police-foil-two-bandit-attacks-rescue-kidnap-victim-recover-15-rustled-cattle/"
     }
 ]
