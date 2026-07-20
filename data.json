@@ -4486,5 +4486,27 @@
         "location": "Miners Area, Nasarawa State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGN6TW02QmxVYVpEMXlxb2dCcTZYUkpjVDZ5OFlldnRWZF8zX3dUT1lVcnczX3E2R3ZXbDdPOXJsYzZnU1RRQ0pHQ1FnaVlndVNwVnI2N2NaTFQ5WHY3SUR6NDVtY2hIZERNb1hQaExpTC1IQy1GanFiUWxaMFpLMnByLU82M3k0eWhleGFYQzQ4WXZlQ0FDRlZ2WDJsMjZieXJxRlFpWkpvVFZzNWhka2I5VjBEaUFueE1ZUG9hcw?oc=5"
+    },
+    {
+        "title": "Yemen’s Houthis declare maritime blockade of Saudi Arabia",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-20",
+        "lat": 5.4082,
+        "lng": 7.4576,
+        "location": "Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/yemens-houthis-declare-maritime-blockade-of-saudi-arabia/"
+    },
+    {
+        "title": "Gunmen ambush, kill two farmers in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 9.4682,
+        "lng": 9.4708,
+        "location": "Farmers Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-ambush-kill-two-farmers-in-plateau/"
     }
 ]
