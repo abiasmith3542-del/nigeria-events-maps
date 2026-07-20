@@ -4508,5 +4508,16 @@
         "location": "Farmers Area, Plateau State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/07/gunmen-ambush-kill-two-farmers-in-plateau/"
+    },
+    {
+        "title": "Troops repel terrorist attack on military base in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 12.1758,
+        "lng": 6.2714,
+        "location": "Base Area, Zamfara State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/troops-repel-terrorist-attack-on-military-base-in-zamfara-2/"
     }
 ]
