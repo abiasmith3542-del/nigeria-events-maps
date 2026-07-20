@@ -3760,5 +3760,82 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/nba-elects-badejo-okusanya-president-amid-technical-glitches-protests/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "UPDATED: Another American soldier killed as US, Iran continue strikes",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 9.0986,
+        "lng": 7.4312,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/896628-another-american-soldier-killed-as-us-iran-continue-strikes.html"
+    },
+    {
+        "title": "Troops arrest two suspected ISWAP logistics suppliers on farm protection patrol in Borno - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 11.8443,
+        "lng": 13.0905,
+        "location": "Patrol Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcXFrNmlBYnlmUXVsNlUzTVhwTTdsQTQyUGZXVGk1UHBybEo5d3ZlcHNBYnNFR3dwX2tyaHZITjlOOUl3S0d0a3k0SUtIdXBKX3FYSDFuV09oMUNhcTUtSlVqbFR0THVtQzZ2TmJzVzJhRmV0TER1bEljckVxQ3dZXy1LbllqckhMR1AtOVBzYnVvdkM4OFBvcGw4NkZSS1NENEptNnFKV3V3UGZkRGNRb3psdUw2SV9wd1Z3ZlAxTVZEQTN1UmcyRFowVWNOQQ?oc=5"
+    },
+    {
+        "title": "Troops arrest six suspected terrorist logistics suppliers, seize Starlink kit, chemicals and farm supplies in Borno - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 11.8439,
+        "lng": 13.1476,
+        "location": "Supplies Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSXpwOFJXQ1lKZXdfbkZsVDlpLTVIQVF4cVNGdWVaeW9ZZnZIcU52N0Q1dzFWTTMydWN5UjgtMWI2cXpOZXdZOEdsZ3N2ck9PdktBUkV2MUpSLWp2VTBvYkhNN3pXNEZlY3JKTHlBcE9YMVZ0UGRCLWxwdEludkR2WVFjaEF1VE9FOVJqbGhwRWpQVDZsMHZzdnloOUVsQjdPTUxleTFMcGI1ZHh3aE5TcnBBb1R1MzRlcjRXY0NGR2EyZy11WVZpRkljU3hCWFFPQ2J3TjhpbUpab290WWs1SEdLLVMxZ29SOXhPTUFOMA?oc=5"
+    },
+    {
+        "title": "Troops dismantle illegal refining site in Rivers, destroy equipment - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 4.7665,
+        "lng": 6.805,
+        "location": "Site Area, Rivers State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakJGTTVaN3VQenRCQ1lJRXk4Q1BXc1VxSURZaHVVWUdacnN6VmVjVWNEZEUxNzVJVzN6bTFKajctOHBHdVp6clFLYkJqUVVXOFhXZnB1SlotUTNpRV9udzVveTFTTnd1TkhfVDVqbDlsQmE0NEMtVVAtZlQtdGhYTWwtbTd0S2xFdHNtTU15dlhXUDZzbjY4YWFkS0R6akFEWTRsUDZrLTFVMk5reDZzNA?oc=5"
+    },
+    {
+        "title": "Troops rescue herder from drowning in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 9.4953,
+        "lng": 9.4441,
+        "location": "Drowning Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0pUY1c0RDBHWHY5Q2RnNm90QzF2SzBGcWlpMkx3cmhBYm9meGdTeUY1NG9LZTNOUXpwdjJaNy1HRllGc1ZzWWVEUFl0OHcwcDRnRnVuVHduTlpGNWlPaWh4SjItWU9aNVE3N09mc2xCT0hJSEZTdWUtQW9HNE5jeEx4RVJjX1VZN1N5Zy1rbHhHanNT?oc=5"
+    },
+    {
+        "title": "Troops, hunters rescue kidnapped victim on Benue–Nasarawa border - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-20",
+        "lat": 7.3316,
+        "lng": 8.7486,
+        "location": "Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVY0Vk5sUkNBRjBoUHp5YkZNUWU0U040Q0ZLVjM2QnRRRFljUGZKSE40SE5MbG51NVdvVlJDc2pEekFDTTNHY3I3U2U4WU5OVGZycEp6aGtMOEtKdWR2UW95MlQ2R0JUZnFnVGc2MTNGTmRSUG5LOERoUV9DNGJuUm1vSWNxY2RWbTZBSVI4LTEtN2hYZl9HbVZFZXlGbWJBNkg4cXRnSkNrVVQy?oc=5"
+    },
+    {
+        "title": "Troops kill two kidnappers, rescue three victims in Benue, recover cache of arms - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 7.2824,
+        "lng": 8.8089,
+        "location": "Victims Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWXpuNmV2Z1Njd084aUFfQzFtXzNGZFpldThGU3NiRW8xcjVBNm95UGRMWGo3ZTJlRVRFanE0WURWZXFuOFo3Z09WZ0cyRy00cC0zMUdUcThLQmx6bE1ndkFKYS11S0xuM24yNFl2X3VKUEhudHVOc1FxMU9DTEVLc2szY0k2Qk0zWG51dk90X3lzMXRYbzF6SmoweXRIamp1bEJndVV1OWJQX2wxZkJFcG1mYnE1cUU5Qm5qMzB2aG8?oc=5"
     }
 ]
