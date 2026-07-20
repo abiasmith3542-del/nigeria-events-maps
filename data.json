@@ -4409,5 +4409,82 @@
         "location": "Katsina State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/20/katsina-police-foil-two-bandit-attacks-rescue-kidnap-victim-recover-15-rustled-cattle/"
+    },
+    {
+        "title": "Police arrest 10 suspected criminals in Ondo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 7.2176,
+        "lng": 5.1577,
+        "location": "Criminals Area, Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-10-suspected-criminals-in-ondo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police nab two suspects over ₦39m bank account theft in Borno",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 11.7863,
+        "lng": 13.1731,
+        "location": "Theft Area, Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-two-suspects-over-%e2%82%a639m-bank-account-theft-in-borno/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest four suspects for robbing e-hailing drivers in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 9.102,
+        "lng": 7.5268,
+        "location": "Drivers Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-suspects-for-robbing-e-hailing-drivers-in-abuja/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest 147 suspects, recover 250 cartridges, machetes in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 6.5253,
+        "lng": 3.3633,
+        "location": "Machetes Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-147-suspects-recover-250-cartridges-machetes-in-lagos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Raid Criminal Hideouts, Arrest 147 Suspects in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 6.4866,
+        "lng": 3.351,
+        "location": "Suspects Area, Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-raid-criminal-hideouts-arrest-147-suspects-in-lagos/"
+    },
+    {
+        "title": "NCDC Backs Niger State As Suspected Diphtheria Outbreak Claims One Child",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-20",
+        "lat": 9.9926,
+        "lng": 5.9476,
+        "location": "Niger State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/20/ncdc-backs-niger-state-as-suspected-diphtheria-outbreak-claims-one-child/"
+    },
+    {
+        "title": "Troops arrest fake military impostors accused of extorting miners in Nasarawa - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-20",
+        "lat": 8.4456,
+        "lng": 8.1625,
+        "location": "Miners Area, Nasarawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGN6TW02QmxVYVpEMXlxb2dCcTZYUkpjVDZ5OFlldnRWZF8zX3dUT1lVcnczX3E2R3ZXbDdPOXJsYzZnU1RRQ0pHQ1FnaVlndVNwVnI2N2NaTFQ5WHY3SUR6NDVtY2hIZERNb1hQaExpTC1IQy1GanFiUWxaMFpLMnByLU82M3k0eWhleGFYQzQ4WXZlQ0FDRlZ2WDJsMjZieXJxRlFpWkpvVFZzNWhka2I5VjBEaUFueE1ZUG9hcw?oc=5"
     }
 ]
