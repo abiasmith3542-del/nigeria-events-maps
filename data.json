@@ -4057,5 +4057,71 @@
         "location": "Stopped Area, Niger State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/nigeria-daily-how-can-police-extortion-be-stopped-in-nigeria/"
+    },
+    {
+        "title": "Police exhume body of man beaten to death, arrest four in Akwa Ibom",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-21",
+        "lat": 4.9958,
+        "lng": 7.7785,
+        "location": "Four Area, Akwa Ibom State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-exhume-body-of-man-beaten-to-death-arrest-four-in-akwa-ibom/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Fresh fatal crash claims two lives in Ogun",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-21",
+        "lat": 6.996,
+        "lng": 3.4814,
+        "location": "Lives Area, Ogun State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/896972-fresh-fatal-crash-claims-two-lives-in-ogun.html"
+    },
+    {
+        "title": "Trump Says Netanyahu Will Not Be Arrested During Any Visit To US",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-21",
+        "lat": 9.1061,
+        "lng": 7.5864,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/trump-says-netanyahu-will-not-be-arrested-during-any-visit-to-us/"
+    },
+    {
+        "title": "Troops Arrest 6 ISWAP Logistics Suppliers In Borno",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-21",
+        "lat": 11.8198,
+        "lng": 13.1042,
+        "location": "Suppliers Area, Borno State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-arrest-6-iswap-logistics-suppliers-in-borno-2/"
+    },
+    {
+        "title": "Thunderstorm Strikes Six Dead In Adamawa State – Police",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-21",
+        "lat": 9.2992,
+        "lng": 12.55,
+        "location": "Dead Area, Adamawa State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/21/thunderstorm-strikes-six-dead-in-adamawa-state-police/"
+    },
+    {
+        "title": "Edo Assembly Moves Against Vandalism By Scavengers, Urges Security Agencies to Act",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-21",
+        "lat": 6.4756,
+        "lng": 5.9576,
+        "location": "Edo State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/21/edo-assembly-moves-against-vandalism-by-scavengers-urges-security-agencies-to-act/"
     }
 ]
