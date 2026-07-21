@@ -4167,5 +4167,16 @@
         "location": "Murder Area, Bauchi State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-arrest-man-over-murder-in-bauchi-recover-gun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Woman killed in Akwa Ibom apartment fire",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-21",
+        "lat": 4.9741,
+        "lng": 7.8917,
+        "location": "Killed Area, Akwa Ibom State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/896996-woman-killed-in-akwa-ibom-apartment-fire.html"
     }
 ]
