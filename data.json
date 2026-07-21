@@ -4123,5 +4123,49 @@
         "location": "Edo State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/21/edo-assembly-moves-against-vandalism-by-scavengers-urges-security-agencies-to-act/"
+    },
+    {
+        "title": "Police arrest three over motorcycle theft, recover seven bikes in Ekiti",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-21",
+        "lat": 7.7206,
+        "lng": 5.229,
+        "location": "Bikes Area, Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-over-motorcycle-theft-recover-seven-bikes-in-ekiti/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "PFIPC scandal: Gbajabiamila invited, not arrested – ICPC",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-21",
+        "lat": 5.4092,
+        "lng": 7.4695,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/pfipc-scandal-gbajabiamila-invited-not-arrested-icpc/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Soldiers kill Boko Haram fighter, foil levy collection in Yobe",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-21",
+        "lat": 11.9664,
+        "lng": 11.4935,
+        "location": "Collection Area, Yobe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-kill-boko-haram-fighter-foil-levy-collection-in-yobe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man over murder in Bauchi, recover gun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-21",
+        "lat": 10.5312,
+        "lng": 10.0559,
+        "location": "Murder Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-over-murder-in-bauchi-recover-gun/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
