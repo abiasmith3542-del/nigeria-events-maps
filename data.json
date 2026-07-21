@@ -4178,5 +4178,49 @@
         "location": "Killed Area, Akwa Ibom State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/896996-woman-killed-in-akwa-ibom-apartment-fire.html"
+    },
+    {
+        "title": "Police nab cleaner for stealing NYSC doctor’s ₦18m car in Adamawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-21",
+        "lat": 9.31,
+        "lng": 12.4446,
+        "location": "Adamawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-cleaner-for-stealing-nysc-doctors-%e2%82%a618m-car-in-adamawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Foils Abduction, Rescue Kidnap Victims In Zamfara, Katsina Operations",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-21",
+        "lat": 12.4704,
+        "lng": 7.6642,
+        "location": "Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-foils-abduction-rescue-kidnap-victims-in-zamfara-katsina-operations/"
+    },
+    {
+        "title": "Gov Bago Sets Up Peace Committee After Communal Clashes In Niger",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-21",
+        "lat": 9.9978,
+        "lng": 5.9609,
+        "location": "Clashes Area, Niger State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/21/gov-bago-sets-up-peace-committee-after-borgu-communal-clashes-in-niger/"
+    },
+    {
+        "title": "Troops Foil ISWAP Revenue Drive in Yobe, Neutralise Scores, Recover Arms - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-21",
+        "lat": 10.0207,
+        "lng": 6.0263,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUHBZSmhlNm9VVlBlWkhiT2dMQVdpbWZHTmtmUXV0cTNXbnZWbEdudUthTEdTclJrdkhxNU02dEoxd1VIRlBjMWZMTnhJZUZCOEdkM2lFaDRhdWoxN3JZYWZmQWRaQmpkc3ZJ?oc=5"
     }
 ]
