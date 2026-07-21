@@ -4222,5 +4222,49 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDUHBZSmhlNm9VVlBlWkhiT2dMQVdpbWZHTmtmUXV0cTNXbnZWbEdudUthTEdTclJrdkhxNU02dEoxd1VIRlBjMWZMTnhJZUZCOEdkM2lFaDRhdWoxN3JZYWZmQWRaQmpkc3ZJ?oc=5"
+    },
+    {
+        "title": "Troops rescue 27 kidnap victims, foil abduction attempts in Sokoto, Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-21",
+        "lat": 13.0616,
+        "lng": 5.2728,
+        "location": "Attempts Area, Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/troops-rescue-27-kidnap-victims-foil-abduction-attempts-in-sokoto-zamfara/"
+    },
+    {
+        "title": "Fresh attack on Plateau community leaves two dead",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-21",
+        "lat": 9.4631,
+        "lng": 9.4969,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/fresh-attack-on-plateau-community-leaves-two-dead/"
+    },
+    {
+        "title": "IGP Disu, NPTF, POWA Launch Skills Acquisition Programme for Spouses of Junior Police Officers - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-21",
+        "lat": 9.9559,
+        "lng": 6.0375,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZYUZGOTQzcmRsTjN2aHlBdElYLTRWWWhUWm9QcEs0TmNPLXVCVnV5YWM5aFNIMlk4OU9UbWhFY0wyMFdrWHZoTjM1MkFONHM0UEpBN1hNa0lNclNETmFmWFB4TnZqcmRrVW1j?oc=5"
+    },
+    {
+        "title": "Tinubu Approves Army Battalion for Kwara to Bolster Fight Against Banditry, Kidnapping - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-21",
+        "lat": 8.4858,
+        "lng": 4.5236,
+        "location": "Kwara State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hX2pwOVcxMC1ad19Nc2w4YjZ3OTBXVUlvNTExb0hUdHQzVnFqbWlRTHVLMFFyeFdacENWSTZhUkZadTc4VUlRQS10RlhIV2lnVnZYNlktMDVuVUlxckU2dWVEaUV0Z2lFVFgxS0t4cEQxQQ?oc=5"
     }
 ]
