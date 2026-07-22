@@ -3793,5 +3793,60 @@
         "location": "Benue State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVG93amkxMmR3S1Jlb1YwUTh2OXc2WV9HODYxaVBFRndjWnJwUVVDbjZtNGNRUG5yUHRVMXM3ZjIzLXd5NHg0ZHhLajg4WEg1c2drcDJDa3FKT3ZPUE1aRmFDWlpnTVZycld3UlBJSmdzdUJqS1B1eEtIYlJfeTJTME5scE1SYmtZUVZOSWtfZ090aGtIYTBEZmRIZVhKQ0dqM3ZNSmRFU1huR1Rzejh0MHlYOXpvQm8?oc=5"
+    },
+    {
+        "title": "Police probe death of 60-year-old man in Jigawa hotel with young woman",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 11.9591,
+        "lng": 9.724,
+        "location": "Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-probe-death-of-60-year-old-man-in-jigawa-hotel-with-young-woman/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Foil Kidnap Attempt, Rescue 4 Victims In Nasarawa",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 8.5535,
+        "lng": 8.204,
+        "location": "Victims Area, Nasarawa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-foil-kidnap-attempt-rescue-4-victims-in-nasarawa/"
+    },
+    {
+        "title": "Ondo: Gunmen abduct two farmers, demand N10m ransom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 7.2338,
+        "lng": 5.1406,
+        "location": "Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ondo-gunmen-abduct-two-farmers-demand-n10m-ransom/"
+    },
+    {
+        "title": "Troops rescue 27 kidnap victims in Sokoto, Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 13.1135,
+        "lng": 5.2203,
+        "location": "Victims Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-rescue-27-kidnap-victims-in-sokoto-zamfara/"
+    },
+    {
+        "title": "60-year-old man found dead in Jigawa hotel",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-22",
+        "lat": 11.9744,
+        "lng": 9.6933,
+        "location": "Dead Area, Jigawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/60-year-old-man-found-dead-in-jigawa-hotel/"
     }
 ]
