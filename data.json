@@ -3749,5 +3749,49 @@
         "location": "Girl Area, Yobe State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/man-arrested-over-alleged-rape-of-seven-year-old-girl-in-yobe/"
+    },
+    {
+        "title": "Gunmen abduct two farmers in Ondo, demand N10m ransom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 7.1914,
+        "lng": 5.2368,
+        "location": "Farmers Area, Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-abduct-two-farmers-in-ondo-demand-n10m-ransom/"
+    },
+    {
+        "title": "Police arrest fake doctor over N500,000 job scam in Cross River",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 5.732,
+        "lng": 8.4562,
+        "location": "Scam Area, Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-fake-doctor-over-n500000-job-scam-in-cross-river/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ganduje: Obi-Kwankwaso ticket ‘dead on arrival’ in Kano",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-21",
+        "lat": 11.9768,
+        "lng": 8.5916,
+        "location": "Kano State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/ganduje-obi-kwankwaso-ticket-dead-on-arrival-in-kano/"
+    },
+    {
+        "title": "Gunmen Kill Teen Herder, Rustle Hundreds of Cattle in Fresh Benue Attack - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-22",
+        "lat": 7.3689,
+        "lng": 8.6973,
+        "location": "Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVG93amkxMmR3S1Jlb1YwUTh2OXc2WV9HODYxaVBFRndjWnJwUVVDbjZtNGNRUG5yUHRVMXM3ZjIzLXd5NHg0ZHhLajg4WEg1c2drcDJDa3FKT3ZPUE1aRmFDWlpnTVZycld3UlBJSmdzdUJqS1B1eEtIYlJfeTJTME5scE1SYmtZUVZOSWtfZ090aGtIYTBEZmRIZVhKQ0dqM3ZNSmRFU1huR1Rzejh0MHlYOXpvQm8?oc=5"
     }
 ]
