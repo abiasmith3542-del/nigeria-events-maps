@@ -3936,5 +3936,60 @@
         "location": "Kano State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSE94clZKT0wtZGlkNHJnay1rR1kwbzN5TmF2Zmd4cUZCZHp2T19nWFZuY1RUX2RHd3ZlNFdjQjRRSXJaTGduMy1scWI2MDRkOWxUUmd5Q0M2SWdMZ3Z6UC14RUNIY1hvSk0yNFRkS2dOLUpaLVNEdDB6V3pNYThnaTBSTzVyVkdGX0dMR2JlQlBITHlpTmo1NVVR?oc=5"
+    },
+    {
+        "title": "Police rescue four kidnapped victims in Nasarawa, launch manhunt for suspects",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-22",
+        "lat": 8.4788,
+        "lng": 8.1907,
+        "location": "Victims Area, Nasarawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-rescue-four-kidnapped-victims-in-nasarawa-launch-manhunt-for-suspects/"
+    },
+    {
+        "title": "Gunmen kill Rivers vigilante leader, three women in Omoku",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 4.7337,
+        "lng": 6.8042,
+        "location": "Rivers State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-kill-rivers-vigilante-leader-three-women-in-omoku/"
+    },
+    {
+        "title": "Police impound 21 vehicles over traffic violations in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 5.4473,
+        "lng": 6.0501,
+        "location": "Violations Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-impound-21-vehicles-over-traffic-violations-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Mary Habila’s Death: Ebonyi Community Declares Curfew, Announces Spiritual Cleansing",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 6.193,
+        "lng": 8.0363,
+        "location": "Ebonyi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/mary-habilas-death-ebonyi-community-declares-curfew-announces-spiritual-cleansing/"
+    },
+    {
+        "title": "Troops Arrest 5 Suspected Terrorist Logistics Suppliers, Seize Medical Supplies in Borno - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-22",
+        "lat": 11.8884,
+        "lng": 13.2027,
+        "location": "Supplies Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pRTIwemdNdGNHTjhUYTR6VmdBdElLWElJS1VrSTFLdEhkcU11LThTeWhPSHExdU8zeUVTOVBWelgySlE1dEdZaDVzbEdLZUxRNHFQcG81SjBVT1pnMDRuNmRqeXhUdnR4Y3Nxaw?oc=5"
     }
 ]
