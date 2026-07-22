@@ -4145,5 +4145,49 @@
         "location": "Kogi State",
         "source": "Leadership News",
         "url": "https://leadership.ng/senate-seeks-statutory-compensation-scheme-after-kogi-mine-collapse-kills-20/"
+    },
+    {
+        "title": "Anambra excludes murder, kidnapping, GBV suspects from plea bargain initiative",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 6.2518,
+        "lng": 7.014,
+        "location": "Anambra State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/897466-anambra-excludes-murder-kidnapping-gbv-suspects-from-plea-bargain-initiative.html"
+    },
+    {
+        "title": "Army: Troops killed 79 bandits, rescued 290 kidnap victims in Katsina in first half of 2026 ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-22",
+        "lat": 12.5023,
+        "lng": 7.6271,
+        "location": "Victims Area, Katsina State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/army-troops-killed-79-bandits-rescued-290-kidnap-victims-in-katsina-in-first-half-of-2026/"
+    },
+    {
+        "title": "Borno Cholera Outbreak Overwhelms Health Facilities As Cases Exceed 35,500",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-22",
+        "lat": 11.8915,
+        "lng": 13.1283,
+        "location": "Borno State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/borno-cholera-outbreak-overwhelms-health-facilities-as-cases-exceed-35500/"
+    },
+    {
+        "title": "Bandits abduct over 50, impose levy on Sokoto Deputy Gov community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-22",
+        "lat": 13.0548,
+        "lng": 5.2015,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-abduct-over-50-impose-levy-on-sokoto-deputy-gov-community/"
     }
 ]
