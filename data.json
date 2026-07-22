@@ -3848,5 +3848,38 @@
         "location": "Dead Area, Jigawa State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/60-year-old-man-found-dead-in-jigawa-hotel/"
+    },
+    {
+        "title": "Police arrest 2 suspected robbers with toy guns in Niger",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 10.006,
+        "lng": 5.977,
+        "location": "Guns Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-arrest-2-suspected-robbers-with-toy-guns-in-niger/"
+    },
+    {
+        "title": "Accident causes traffic gridlock on Lagos-Ibadan Expressway",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-22",
+        "lat": 6.5713,
+        "lng": 3.3834,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/accident-causes-traffic-gridlock-on-lagos-ibadan-expressway/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill vigilante commander, 3 women in Rivers",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 4.7979,
+        "lng": 6.8483,
+        "location": "Women Area, Rivers State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-vigilante-commander-3-women-in-rivers/"
     }
 ]
