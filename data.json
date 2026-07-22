@@ -4101,5 +4101,49 @@
         "location": "Team Area, Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XZnpBQVhFLUV1S3B1akhxamZCOWFRbWRlRGFrNHl5QTRGWkdWcV9DdG40aWJPcV9qQmpHamNicUZ3ZEtjd0JaTmYzcmdpZ0szSXRSWjFibjdCcDZTNlRQRGYwbC13ZGZrYzB0aFZYVQ?oc=5"
+    },
+    {
+        "title": "NSCDC cracks down on illegal petroleum trade, nabs two suspects in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 6.2582,
+        "lng": 6.9664,
+        "location": "Suspects Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nscdc-cracks-down-on-illegal-petroleum-trade-nabs-two-suspects-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Judge visists, conducts hard drugs suspects’ trial at vast methamphetamine laboratory site in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 7.0546,
+        "lng": 3.4875,
+        "location": "Site Area, Ogun State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/897432-judge-visists-conducts-hard-drugs-suspects-trial-at-vast-methamphetamine-laboratory-site-in-ogun.html"
+    },
+    {
+        "title": "Cholera outbreak in Borno overwhelms health facilities as suspected cases exceed 35,000",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-22",
+        "lat": 11.8839,
+        "lng": 13.191,
+        "location": "Outbreak Area, Borno State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/health/health-news/897430-cholera-outbreak-in-borno-overwhelms-health-facilities-as-suspected-cases-exceed-35000.html"
+    },
+    {
+        "title": "Senate Seeks Statutory Compensation Scheme After Kogi Mine Collapse Kills 20",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-22",
+        "lat": 7.7667,
+        "lng": 6.7741,
+        "location": "Kogi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/senate-seeks-statutory-compensation-scheme-after-kogi-mine-collapse-kills-20/"
     }
 ]
