@@ -4024,5 +4024,82 @@
         "location": "Abuja (FCT)",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/22/nesrea-investigates-suspected-chemical-spill-after-truck-accident-on-kaduna-abuja-expressway/"
+    },
+    {
+        "title": "ASUU suspends 52-day MOAUM strike after pact with Benue govt, management",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-22",
+        "lat": 7.3842,
+        "lng": 8.8047,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/asuu-suspends-52-day-moaum-strike-after-pact-with-benue-govt-management/"
+    },
+    {
+        "title": "Senate steps down Nigeria coast guard bill report over possible clash with navy",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-22",
+        "lat": 9.9957,
+        "lng": 6.0582,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/senate-steps-down-nigeria-coast-guard-bill-report-over-possible-clash-with-navy/"
+    },
+    {
+        "title": "Police arraign man over alleged N9m fraud in Ekiti",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 7.721,
+        "lng": 5.2179,
+        "location": "Fraud Area, Ekiti State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-arraign-man-over-alleged-n9m-fraud-in-ekiti/"
+    },
+    {
+        "title": "Kano declares readiness for state police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 11.9918,
+        "lng": 8.6139,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kano-declares-readiness-for-state-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Intercept 10 Motorcycles Bound for Terrorist Kingpin, Arrest 4 Logistics Suppliers in Kebbi - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-22",
+        "lat": 11.4347,
+        "lng": 4.2312,
+        "location": "Suppliers Area, Kebbi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wTjYweFpUaEJSVEhFZllDNE1YcWdTZFlLZlBTTlNLc2gwNU9xVTRWcUVxbkdyNExjdUtyNGpQaEl2TEs5cFN6dHM0Q2g4Y0dVU3BkR2kwNFpXYmJ3LVdkZVdkY2FHQ1duRWJmcFN2OA?oc=5"
+    },
+    {
+        "title": "Military Foils Terrorist Attacks, Rescue Six Kidnap Victims, Recovers Arms in Kaduna, Sokoto - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-22",
+        "lat": 10.5436,
+        "lng": 7.5536,
+        "location": "Arms Area, Kaduna State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OVjZfa3ltMzkweWZaVTR1U0NzOEpTZVRiTzhwWi1wbnV6UkVIZUQtSDVGR0YteC1RR0tJQzBhTjhSeGxQYl83amg1Zmowb2l1MWg4c2NIaVhWQUtKMlhTRmFDQkE4YlhCbHNnWg?oc=5"
+    },
+    {
+        "title": "Troops Eliminate ISWAP Chief Photographer, Media Team in Borno Operation - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-22",
+        "lat": 11.8162,
+        "lng": 13.2043,
+        "location": "Team Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XZnpBQVhFLUV1S3B1akhxamZCOWFRbWRlRGFrNHl5QTRGWkdWcV9DdG40aWJPcV9qQmpHamNicUZ3ZEtjd0JaTmYzcmdpZ0szSXRSWjFibjdCcDZTNlRQRGYwbC13ZGZrYzB0aFZYVQ?oc=5"
     }
 ]
