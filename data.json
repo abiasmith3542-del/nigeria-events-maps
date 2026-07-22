@@ -3991,5 +3991,38 @@
         "location": "Supplies Area, Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pRTIwemdNdGNHTjhUYTR6VmdBdElLWElJS1VrSTFLdEhkcU11LThTeWhPSHExdU8zeUVTOVBWelgySlE1dEdZaDVzbEdLZUxRNHFQcG81SjBVT1pnMDRuNmRqeXhUdnR4Y3Nxaw?oc=5"
+    },
+    {
+        "title": "Adamawa: Supporters protest against plans to replace ADC governorship candidate",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-22",
+        "lat": 9.3348,
+        "lng": 12.4777,
+        "location": "Adamawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/adamawa-supporters-protest-against-plans-to-replace-adc-governorship-candidate/"
+    },
+    {
+        "title": "Police arrest two suspected car thieves in Plateau, recover vehicle",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-22",
+        "lat": 9.525,
+        "lng": 9.5174,
+        "location": "Thieves Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-suspected-car-thieves-in-plateau-recover-vehicle/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NESREA Investigates Suspected Chemical Spill After Truck Accident On Kaduna–Abuja Expressway",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-22",
+        "lat": 9.0244,
+        "lng": 7.463,
+        "location": "Abuja (FCT)",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/22/nesrea-investigates-suspected-chemical-spill-after-truck-accident-on-kaduna-abuja-expressway/"
     }
 ]
