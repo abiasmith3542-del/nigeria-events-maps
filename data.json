@@ -3683,5 +3683,49 @@
         "location": "Businessman Area, Kwara State",
         "source": "Punch Metro",
         "url": "https://punchng.com/security-forces-kill-three-bandits-rescue-businessman-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Four killed as gunmen ambush Rivers vigilante",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-23",
+        "lat": 4.7949,
+        "lng": 6.8034,
+        "location": "Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/four-killed-as-gunmen-ambush-rivers-vigilante/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "‘Police tried to bury my daughter’s  rape case with N200,000’",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-23",
+        "lat": 8.9596,
+        "lng": 7.4917,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-tried-to-bury-my-daughters-rape-case-with-n200000/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police probe man’s death in Jigawa hotel",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-23",
+        "lat": 11.9662,
+        "lng": 9.7364,
+        "location": "Death Area, Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-probe-mans-death-in-jigawa-hotel/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Terrorists kill one, abduct over 40 in Zamfara, Kwara communities - The Guardian Nigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-23",
+        "lat": 8.446,
+        "lng": 4.5588,
+        "location": "Kwara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdzJ1MzNxSWttT01oMnRTdDJpV0tjNlU3NzM5UVE2OEtZTnR3MVVRMm9YTGlTcEZNeVJWTjJ5UER1OHZuLVp1NHlOUzhUWm10TWVnRmE2MUo1d2c5ZTVQcGhQbGl4cVM0VzI1V1VFdkpzTXF0X2ducFBtR3d4c1hWaFpBcWtYX2d5WGozRkZmWlBEZ2M?oc=5"
     }
 ]
