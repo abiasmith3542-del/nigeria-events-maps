@@ -3903,5 +3903,60 @@
         "location": "Concern Area, Ondo State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/07/police-silence-on-arrested-kidnap-suspects-raises-concern-in-ondo-community/"
+    },
+    {
+        "title": "Police confirm death of five family members in Abia community",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-23",
+        "lat": 5.4177,
+        "lng": 7.4602,
+        "location": "Members Area, Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-confirm-death-of-five-family-members-in-abia-community/"
+    },
+    {
+        "title": "Oyo APC, Makinde’s govt clash over EFCC probe as court ruling sparks accountability row",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-23",
+        "lat": 7.9703,
+        "lng": 3.947,
+        "location": "Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/oyo-apc-makindes-govt-clash-over-efcc-probe-as-court-ruling-sparks-accountability-row/"
+    },
+    {
+        "title": "FG sues for peaceful coexistence over murder of four herders in Anambra",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-23",
+        "lat": 6.1887,
+        "lng": 7.0217,
+        "location": "Herders Area, Anambra State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/897689-fg-sues-for-peaceful-coexistence-over-murder-of-four-herders-in-anambra.html"
+    },
+    {
+        "title": "Police Recover Stolen Vehicle, Arrest Two Suspects With Toy Guns, ATM Cards In Niger State",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-23",
+        "lat": 9.9929,
+        "lng": 6.0095,
+        "location": "Cards Area, Niger State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/23/police-recover-stolen-vehicle-arrest-two-suspects-with-toy-guns-atm-cards-in-niger/"
+    },
+    {
+        "title": "IGP Announces 14-Day Clearance Operation To Flush Out Bandits In Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-23",
+        "lat": 7.3911,
+        "lng": 8.7935,
+        "location": "Bandits Area, Benue State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/23/igp-announces-14-day-clearance-operation-to-flush-out-bandits-in-benue1043721/"
     }
 ]
