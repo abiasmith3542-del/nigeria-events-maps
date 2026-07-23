@@ -3991,5 +3991,49 @@
         "location": "Plateau State",
         "source": "Punch Metro",
         "url": "https://punchng.com/attacks-plateau-lg-bans-unauthorised-herders-settlements/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police recover N32m diverted goods in Oyo, arrest two suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-23",
+        "lat": 7.9907,
+        "lng": 3.9913,
+        "location": "Goods Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-n32m-diverted-goods-in-oyo-arrest-two-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Death Toll Rises To 23 After Daylight Bandit Attack On Farmlands In Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-23",
+        "lat": 12.0763,
+        "lng": 6.2683,
+        "location": "Farmlands Area, Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/death-toll-rises-to-23-after-daylight-bandit-attack-on-farmlands-in-zamfara/"
+    },
+    {
+        "title": "FCT Police Foil Car Theft Attempt, Arrest Suspect With Fabricated Master Key",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-23",
+        "lat": 9.0823,
+        "lng": 7.536,
+        "location": "Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/fct-police-foil-car-theft-attempt-arrest-suspect-with-fabricated-master-key/"
+    },
+    {
+        "title": "Borno Cholera Cases hit 35,000 – MSF",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-23",
+        "lat": 11.8367,
+        "lng": 13.0963,
+        "location": "Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/borno-cholera-cases-hit-35000-msf/"
     }
 ]
