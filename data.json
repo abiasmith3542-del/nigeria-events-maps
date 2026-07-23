@@ -3958,5 +3958,38 @@
         "location": "Bandits Area, Benue State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/23/igp-announces-14-day-clearance-operation-to-flush-out-bandits-in-benue1043721/"
+    },
+    {
+        "title": "Benue recorded one Lassa fever case in one month – Commissioner",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-23",
+        "lat": 7.3456,
+        "lng": 8.693,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/benue-recorded-one-lassa-fever-case-in-one-month-commissioner/"
+    },
+    {
+        "title": "Only defeat or injury can stop Joshua-Fury clash — Hearn",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-23",
+        "lat": 9.9277,
+        "lng": 8.8841,
+        "location": "Jos, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/only-defeat-or-injury-can-stop-joshua-fury-clash-hearn/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Attacks: Plateau LG bans unauthorised herders’ settlements",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-23",
+        "lat": 9.5062,
+        "lng": 9.5161,
+        "location": "Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/attacks-plateau-lg-bans-unauthorised-herders-settlements/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
