@@ -3859,5 +3859,38 @@
         "location": "Oyo State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/23/just-in-fg-arraigns-three-suspects-over-abduction-of-oyo-students-and-teachers/"
+    },
+    {
+        "title": "We thought we would die, Jigawa canoe accident survivors recount ordeal",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-23",
+        "lat": 11.992,
+        "lng": 9.7625,
+        "location": "Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/we-thought-we-would-die-jigawa-canoe-accident-survivors-recount-ordeal/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits kill 23 farmers in fresh Zamfara attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-23",
+        "lat": 12.1501,
+        "lng": 6.199,
+        "location": "Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-23-farmers-in-fresh-zamfara-attack/"
+    },
+    {
+        "title": "ASUU Threatens Fresh Strike At Niger Delta University Over Unfulfilled Agreements",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-23",
+        "lat": 5.5526,
+        "lng": 5.9781,
+        "location": "Delta State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/23/asuu-threatens-fresh-strike-at-niger-delta-university-over-unfulfilled-agreements/"
     }
 ]
