@@ -3573,5 +3573,49 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/govs-adopt-tool-to-track-disease-outbreak-readiness/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Morning recap: Reps approve state police bill, US imposes 12.5% tariff on Nigerian imports, other top stories",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 10.047,
+        "lng": 6.0548,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/morning-recap-reps-approve-state-police-bill-us-imposes-12-5-tariff-on-nigerian-imports-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Multiple crashes cause gridlock on Lagos-Ibadan expressway, motorists stranded",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-24",
+        "lat": 6.5202,
+        "lng": 3.3354,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/multiple-crashes-cause-gridlock-on-lagos-ibadan-expressway-motorists-stranded/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "7 Killed In Yobe Rainstorm – SEMA",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-24",
+        "lat": 11.9798,
+        "lng": 11.4864,
+        "location": "Killed Area, Yobe State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/7-killed-in-yobe-rainstorm-sema/"
+    },
+    {
+        "title": "Another Nigerian killed in South Africa",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-24",
+        "lat": 9.9979,
+        "lng": 5.9677,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/another-nigerian-killed-in-south-africa-2/"
     }
 ]
