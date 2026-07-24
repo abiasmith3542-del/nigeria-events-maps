@@ -4024,5 +4024,38 @@
         "location": "Ondo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/ondo-four-police-officers-arrested-over-ethnic-comment-in-viral-video/"
+    },
+    {
+        "title": "Military air strikes kill ’15 ISWAP fighters’ in Borno",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-24",
+        "lat": 11.873,
+        "lng": 13.1223,
+        "location": "Borno State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/military-air-strikes-kill-15-iswap-fighters-in-borno/"
+    },
+    {
+        "title": "In Katsina, Troops Neutralise 79 Terrorists, Rescues 290 Hostages in Q2 - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-24",
+        "lat": 12.5723,
+        "lng": 7.6405,
+        "location": "Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MZEFyRG5PbTEwTFJ3YUZVaHZPQkFqRkR1eTNpdFU2NnJFSHpmUnFDMXNjSzdrdERtZHF1b1FIcnJJYzg1YWZSU1JvWjBqYURYcmhWZHpod0w0Njk3aDRBeXdhS0FCYVdTbVlr?oc=5"
+    },
+    {
+        "title": "Troops Foil ISWAP Attack in Yobe, Kill Scores, Lose 2 Soldiers, Arrest Suspect with Starlink Device in Borno - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-24",
+        "lat": 11.8249,
+        "lng": 13.166,
+        "location": "Device Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBS2p5b2hTdTdtdEFGN1dOaEpHRkpvRktzNWZiMHBXOTlnN3F6dm1tZEljX2NlaUVoa21BRE1LWGtLT0J6LWJqQ0tqWDNhU0lrVEZHQTJSV0xUc19HaTFScVhBVEwxM1U3dkwtem1Fank?oc=5"
     }
 ]
