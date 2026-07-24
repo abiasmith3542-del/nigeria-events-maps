@@ -3617,5 +3617,27 @@
         "location": "Niger State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/another-nigerian-killed-in-south-africa-2/"
+    },
+    {
+        "title": "Anambra offers plea bargain to criminal suspects, excludes murder, kidnapping cases",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 6.2019,
+        "lng": 6.9517,
+        "location": "Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/anambra-offers-plea-bargain-to-criminal-suspects-excludes-murder-kidnapping-cases/"
+    },
+    {
+        "title": "Police nab 4 suspects who allegedly rob drivers in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 9.0248,
+        "lng": 7.4824,
+        "location": "Drivers Area, Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-nab-4-suspects-who-allegedly-rob-drivers-in-abuja/"
     }
 ]
