@@ -3991,5 +3991,38 @@
         "location": "Equipment Area, Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR05RNk4tTWNyM09MTi10UllUaS1qOUhDeUU5WFlhOGpSTGladWI3TmdNcU9DcGVhZG5GNGtCTkJnd1VoWnZDNm9kVl9kT2M5c3ljUS03VVlpc2tUamh1NTVxTnA0R0FubEVTVmpmQlVyZTNuTTYtbkVLcWI0eTllNTZCdHRxQk83elZVUC04X1VSbmNITGlRMldmaXIyMkt5WTE0ZFNuZ05BOEp3T3Q1WS13VTlzaXNXZ29TZmFvU1k5Q0VrMXhlU1hfbVMwMXRM?oc=5"
+    },
+    {
+        "title": "Crackdown: Lagos taskforce arrests 46, recovers drugs, weapon",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 6.5831,
+        "lng": 3.3328,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/crackdown-lagos-taskforce-arrests-46-recovers-drugs-weapon/"
+    },
+    {
+        "title": "NUT plans protest over alleged move to divide union in Delta",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-24",
+        "lat": 5.4737,
+        "lng": 5.9657,
+        "location": "Union Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nut-plans-protest-over-alleged-move-to-divide-union-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ondo: Four Police Officers Arrested Over Alleged Ethnic Comment in Viral Video",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 7.2737,
+        "lng": 5.2361,
+        "location": "Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ondo-four-police-officers-arrested-over-ethnic-comment-in-viral-video/"
     }
 ]
