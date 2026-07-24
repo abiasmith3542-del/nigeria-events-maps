@@ -3639,5 +3639,126 @@
         "location": "Drivers Area, Abuja (FCT)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-nab-4-suspects-who-allegedly-rob-drivers-in-abuja/"
+    },
+    {
+        "title": "Troops kill four kidnap suspects, rescue three victims in Kwara, Kogi operations",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 7.7638,
+        "lng": 6.7772,
+        "location": "Kogi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/troops-kill-four-kidnap-suspects-rescue-three-victims-in-kwara-kogi-operations/"
+    },
+    {
+        "title": "Troops nab 5 suspected kidnappers in Yobe",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 12.0159,
+        "lng": 11.4707,
+        "location": "Kidnappers Area, Yobe State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/troops-nab-5-suspected-kidnappers-in-yobe/"
+    },
+    {
+        "title": "Residents Decry Incessant Accidents, Trailer Gridlocks On Kwara Road",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-24",
+        "lat": 8.5368,
+        "lng": 4.5686,
+        "location": "Kwara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/residents-decry-incessant-accidents-trailer-gridlocks-on-kwara-road/"
+    },
+    {
+        "title": "Troops, Navy Arrest Three Suspected Lakurawa Terrorist Informants in Kebbi - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-24",
+        "lat": 11.4498,
+        "lng": 4.1709,
+        "location": "Informants Area, Kebbi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2U3QlU2MmRyX3JwTWZsZ0xMWkhhbjhzRTB5LUZzUS10aFZnRnRMMmk1TS1vcDd1SWhybVFNWi1Tdm5EZmh3dlBIb1JIU2thQmhuWURBNko4M1RyRUNRa24telh1VTU5RXNaTVJqMFlvTzlUOXVHNjR4a3VfZVRveC1oVkU1TnVtdDlnT0dEOG5aV2dleFdxS2FFRGd5QlFkdnFON1MxM0gyOTBpaXJ1RGRQZDBRbmI4OGc?oc=5"
+    },
+    {
+        "title": "Soldier Wounded as Troops Repel Terrorist Attack Along Akwanga–Jos Road in Nasarawa - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-24",
+        "lat": 9.8786,
+        "lng": 8.8111,
+        "location": "Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0tlYmV4akRyMXl6SDdORWJQVXhHTm9YVVdlUDBYTEZWck5QR1ZTTUstM21ISjhWUUhLY3U2a2I3cVpDdDdZaDVrbll3M2xscGgxeWJleGEtVGczbVNLdFVVRlIzdnpHaDlXQkZ0dFd0OWNpN3Z2aXZrTV90N0ZpU1Z6OUFUU1lZemNJTXpfamt5Wk00YUJIMUNwSkZEZFlGMzRma1ltRUtGakhaSDM2MU9HeFFBV2JvdGdMd215bGUxcVdIYlJB?oc=5"
+    },
+    {
+        "title": "Troops Rescue Two Kidnap Victims in Kogi - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 7.7419,
+        "lng": 6.6744,
+        "location": "Victims Area, Kogi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGlKZG83aEdldjhXVzdUb21wUGJBcEgtZzc4VjNvU2VNVmhoeEJObFFvaHBXdWZfQlJ4NFg5MDZjcTJXQjhzeHhtVnhjR3BUUDQ4bjRkanJGekM2Rk00ODRpc1hteVFwVXE3Q3NIMXZNWk84eWdKZFAyYWdJRnA2MnYxLTlETGtUdUJNbWlxeWs?oc=5"
+    },
+    {
+        "title": "Troops Arrest Terrorist Informant, Three Suspects and Logistics Couriers in Kogi - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-24",
+        "lat": 7.857,
+        "lng": 6.7853,
+        "location": "Couriers Area, Kogi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ01uNDNYVlB6MmZpVDNLd2UwQURfTm5qN0NhWURmX3BpNWxZOVNkRi1BNHV4eXVUNXJaeWZOd0FXUTlxckk1dTlkUE9Ea2htdGI5Ni04QzhHWDROWFhQdUFmZEU2c0N2S3V6ajllQUtLVHZwaG5zbnczaWhaY2NnSVRRaVZsa3lvYzQybmpyRVRlVlhORmNKY2RDZThxTXpPSExtQm9yVWlTdHFKR3RBWGlxRHNMdTZDTzRmcktJcC03dw?oc=5"
+    },
+    {
+        "title": "Troops Intercept Stray Cattle Destroying Farmland in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 9.4887,
+        "lng": 9.5512,
+        "location": "Farmland Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObjczMUFaY1FiSloyeDlQcURjWlc2dlVoS0Z4N1cyOTA5b0U3R0lTQ3RYUE90bnJncjR3VkZWTGk4WXVadzhuSGYyZkstYi1ULTN0T2E2am93MmRPc3VxUExGSW9UREdISXAzTnVyZmdKWUotZ3dMYWxoMnc2TWN1WnRETUQxQVBqTjFkbmFBaEU2dm8wd1h1X09RMm04S3F4bHJKUFl6LTI?oc=5"
+    },
+    {
+        "title": "Troops Foil Highway Robbery Attempt in Plateau, Criminals Flee - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 9.4706,
+        "lng": 9.4829,
+        "location": "Attempt Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenFZRkc1QjUtSGxmVUN5OTFGMjdCTE03YXlSWW5lOWVWRnpVY2VVYy1wbVlPY1psTG5UdjYzQkdpWnpYb1ZRclhQTEVJOFl1bVhZNzF0akJlZzNvWmRnQ3FKOFY0a2pTbElhRko1NmhxNFFVV3QwVUxqX2YySDQ4bjdyMng3czV2SFlNSjJ0SzhHMUhmUktHcWVXRjhELVNCVmV0TFk5QlJZZw?oc=5"
+    },
+    {
+        "title": "Troops Neutralise Four Kidnappers, Rescue Victim in Kwara Ambush Operation - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-24",
+        "lat": 8.4618,
+        "lng": 4.5045,
+        "location": "Victim Area, Kwara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQakp1blBJcGFsUU9TbktDMXduNmlGR3FfX2RKZ3drUldkelE5bExTYWdmQVpJU2JZVVcwY3RqMmhCSnc1UjVKZ1BZc3dfNy1aN1hodGpZX1pHdkp6czctd1RyMU5kdDNUNkx2X2VybHlxT0ZaLVNiU1RLeHlxdVo1OXFqM1JxUmFLNGpGcEd0RmtLYjFCbzNGM3NaTml2bUhid3ZuZUNGeTVnV0xpTGVoLWhaVm1mT2xiZEE?oc=5"
+    },
+    {
+        "title": "Troops, Hunters Arrest Five Suspected Kidnappers, Recover Firearms in Yobe - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 12.0551,
+        "lng": 11.5543,
+        "location": "Firearms Area, Yobe State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGpMUldYVGJzRzVtRUdkend0THAtSnYyT3lHUUtRdi15MVdYRzRKMkV3TTQ3SDd0ZmhQLWN2RWdTSEt0YWVzb0tjbEszd3psa054T3BScnFYMGFlX1YtN2hOcURUSE9DOHdoM0s1cGVUeDVUY2ROWmFlRHFlUk9ubmtqdkZ5ZnlWaWRjLXdQcVYxN1o4Szk5Z3V1NzM0SzBudUNPcFBvcy0wMWhoMGVwaXBEdmZQd19N?oc=5"
     }
 ]
