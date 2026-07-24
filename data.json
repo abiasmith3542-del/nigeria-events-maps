@@ -3540,5 +3540,38 @@
         "location": "Toll Area, Zamfara State",
         "source": "Punch Metro",
         "url": "https://punchng.com/death-toll-in-zamfara-farmers-attack-rises-to-23/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police confirm mysterious death of five Abia family members",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-24",
+        "lat": 5.4575,
+        "lng": 7.5173,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-confirm-mysterious-death-of-five-abia-family-members/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Attacks: Plateau LG bans unauthorised herders’ settlements",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-24",
+        "lat": 9.4954,
+        "lng": 9.5173,
+        "location": "Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/attacks-plateau-lg-bans-unauthorised-herders-settlements-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Govs adopt tool to track disease outbreak readiness",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-24",
+        "lat": 8.9943,
+        "lng": 7.4308,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/govs-adopt-tool-to-track-disease-outbreak-readiness/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
