@@ -3804,5 +3804,60 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aaFZJRnpCZ2U0cG5vY0h2MG1RWGFpZi1NLVlIUjhhVHJCNDdkLW4yM1F2MUZpR2ZrU2JUMWxXM0ZNbmFtelVuUmJNWXNobWNHSEJHdkctbzNDM3g3c3N5TTUyUFk4SXdmVjkyUFhR?oc=5"
+    },
+    {
+        "title": "Fresh attacks rock Benue’s Sankera axis; one killed",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-25",
+        "lat": 7.3356,
+        "lng": 8.7759,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/fresh-attacks-rock-benues-sankera-axis-one-killed/"
+    },
+    {
+        "title": "Police confirm killing of Neighbourhood Watch operative in Ebonyi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 6.26,
+        "lng": 8.0574,
+        "location": "Operative Area, Ebonyi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-confirm-killing-of-neighbourhood-watch-operative-in-ebonyi/"
+    },
+    {
+        "title": "Police arrest 81, recover illicit drugs in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 5.467,
+        "lng": 5.9661,
+        "location": "Drugs Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-81-recover-illicit-drugs-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kwara Residents Stage Peaceful Protest, Demand Release Of 176 Woro Abductees",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-25",
+        "lat": 8.4617,
+        "lng": 4.5999,
+        "location": "Kwara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/kwara-residents-stage-peaceful-protest-demand-release-of-176-woro-abductees/"
+    },
+    {
+        "title": "47 Arrested over Environmental Sanitation Violation in Nasarawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 8.4492,
+        "lng": 8.2137,
+        "location": "Violation Area, Nasarawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/47-arrested-over-environmental-sanitation-violation-in-nasarawa/"
     }
 ]
