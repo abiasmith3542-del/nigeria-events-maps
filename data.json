@@ -3749,5 +3749,38 @@
         "location": "Robbers Area, Rivers State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-nab-2-suspected-one-chance-robbers-in-rivers/"
+    },
+    {
+        "title": "Kebbi dismisses claims of abandoning communities to bandits",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-25",
+        "lat": 11.489,
+        "lng": 4.1541,
+        "location": "Kebbi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kebbi-dismisses-claims-of-abandoning-communities-to-bandits/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police track stolen phone, nab four suspects for burglary in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 7.0464,
+        "lng": 3.4419,
+        "location": "Burglary Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-track-stolen-phone-nab-four-suspects-for-burglary-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Worshippers Shocked As Pastor Commits Suicide In Akwa Ibom , Police Launch Probe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 4.9751,
+        "lng": 7.8216,
+        "location": "Suicide Area, Akwa Ibom State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/worshippers-shock-as-pastor-commits-suicide-in-akwa-ibom-police-launch-probe/"
     }
 ]
