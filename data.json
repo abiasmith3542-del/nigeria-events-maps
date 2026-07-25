@@ -3782,5 +3782,27 @@
         "location": "Suicide Area, Akwa Ibom State",
         "source": "Leadership News",
         "url": "https://leadership.ng/worshippers-shock-as-pastor-commits-suicide-in-akwa-ibom-police-launch-probe/"
+    },
+    {
+        "title": "Ogun Police Arrest 16 Suspects For Vandalism, Illegal Petroleum Dealings, Others Offences",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 7.0056,
+        "lng": 3.4432,
+        "location": "Ogun State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/25/ogun-police-arrest-16-suspects-for-vandalism-illegal-petroleum-dealings-others-offences/"
+    },
+    {
+        "title": "PHOTO: Troops Rescue Bungudu LG Chairman's Family, Intensify Search for Abducted Chairman in Zamfara - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-25",
+        "lat": 10.0362,
+        "lng": 6.0306,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aaFZJRnpCZ2U0cG5vY0h2MG1RWGFpZi1NLVlIUjhhVHJCNDdkLW4yM1F2MUZpR2ZrU2JUMWxXM0ZNbmFtelVuUmJNWXNobWNHSEJHdkctbzNDM3g3c3N5TTUyUFk4SXdmVjkyUFhR?oc=5"
     }
 ]
