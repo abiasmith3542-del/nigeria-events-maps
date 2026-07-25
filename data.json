@@ -3870,5 +3870,49 @@
         "location": "Spots Area, Delta State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-raid-black-spots-in-delta-arrest-81-suspects/"
+    },
+    {
+        "title": "Mpox: Benue investigates suspected cases in Konshisha LG",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-25",
+        "lat": 7.275,
+        "lng": 8.7257,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/mpox-benue-investigates-suspected-cases-in-konshisha-lg/"
+    },
+    {
+        "title": "Why Can’t FG Engage Terrorists Like Jonathan, Osinbajo Did With Niger Delta Militants? -Gumi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-25",
+        "lat": 5.5335,
+        "lng": 5.9989,
+        "location": "Delta State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/why-cant-fg-engage-boko-haram-bandits-like-jonathan-osinbajo-did-with-niger-delta-militants-gumi/"
+    },
+    {
+        "title": "North West Troops Meet Mayanchi Association In Zamfara Over Insecurity",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 12.1316,
+        "lng": 6.2058,
+        "location": "Association Area, Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/north-west-troops-meet-mayanchi-association-in-zamfara-over-insecurity/"
+    },
+    {
+        "title": "Police Probe Death Of Pastor In Akwa Ibom",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 5.0524,
+        "lng": 7.8238,
+        "location": "Pastor Area, Akwa Ibom State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/25/police-probe-death-of-pastor-in-akwa-ibom/"
     }
 ]
