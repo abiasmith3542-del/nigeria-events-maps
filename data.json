@@ -3595,5 +3595,27 @@
         "location": "Gombe State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-probe-gombe-students-death/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Inside story of  Plateau’s female vigilantes",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 9.5199,
+        "lng": 9.5241,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/inside-story-of-plateaus-female-vigilantes/"
+    },
+    {
+        "title": "Troops arrest 5 suspected kidnappers, recover arms in Yobe",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 12.026,
+        "lng": 11.4706,
+        "location": "Arms Area, Yobe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-arrest-5-suspected-kidnappers-recover-arms-in-yobe/"
     }
 ]
