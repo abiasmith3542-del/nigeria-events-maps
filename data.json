@@ -3639,5 +3639,38 @@
         "location": "Stolen Area, Rivers State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-return-car-stolen-in-rivers-to-owner-after-five-years/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Houthis claim missile attack on Saudi Arabia as conflict deepens",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-25",
+        "lat": 5.4233,
+        "lng": 7.5285,
+        "location": "Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/houthis-claim-missile-attack-on-saudi-arabia-as-conflict-deepens/"
+    },
+    {
+        "title": "Police nab 16 suspects for bunkering, defilement, vandalism in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 6.9908,
+        "lng": 3.4675,
+        "location": "Vandalism Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-16-suspects-for-bunkering-defilement-vandalism-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "BREAKING: Bandits abduct LG Chairman in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-25",
+        "lat": 12.0809,
+        "lng": 6.166,
+        "location": "Chairman Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/breaking-bandits-abduct-lg-chairman-in-zamfara/"
     }
 ]
