@@ -3914,5 +3914,16 @@
         "location": "Pastor Area, Akwa Ibom State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/25/police-probe-death-of-pastor-in-akwa-ibom/"
+    },
+    {
+        "title": "Gunmen abduct Zamfara LGA chairman, kill four security operatives",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 12.0871,
+        "lng": 6.1982,
+        "location": "Zamfara State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/gunmen-abduct-bungudu-lga-chairman-kill-4-security-operatives-in-zamfara/"
     }
 ]
