@@ -3617,5 +3617,27 @@
         "location": "Arms Area, Yobe State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/troops-arrest-5-suspected-kidnappers-recover-arms-in-yobe/"
+    },
+    {
+        "title": "Lassa fever death toll hits 229 as fresh infections rise",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-25",
+        "lat": 9.1352,
+        "lng": 7.5519,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/lassa-fever-death-toll-hits-229-as-fresh-infections-rise/"
+    },
+    {
+        "title": "Police return car stolen in Rivers to owner after five years",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 4.7725,
+        "lng": 6.8918,
+        "location": "Stolen Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-return-car-stolen-in-rivers-to-owner-after-five-years/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
