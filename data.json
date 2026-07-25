@@ -3859,5 +3859,16 @@
         "location": "Violation Area, Nasarawa State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/47-arrested-over-environmental-sanitation-violation-in-nasarawa/"
+    },
+    {
+        "title": "Police Raid Black Spots in Delta, Arrest 81 Suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-25",
+        "lat": 5.5342,
+        "lng": 5.946,
+        "location": "Spots Area, Delta State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-raid-black-spots-in-delta-arrest-81-suspects/"
     }
 ]
