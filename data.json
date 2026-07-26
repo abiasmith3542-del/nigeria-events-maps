@@ -4002,5 +4002,82 @@
         "location": "Ondo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/ondo-varsity-students-threaten-protest-over-asuu-strike/"
+    },
+    {
+        "title": "Troops arrest two suspected terrorist informants, cattle rustlers, in Yobe market",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-26",
+        "lat": 12.0123,
+        "lng": 11.4707,
+        "location": "Yobe State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/troops-arrest-two-suspected-terrorist-informants-cattle-rustlers-in-yobe-market/"
+    },
+    {
+        "title": "Osun Accord party candidates accuse police of intimidation, seek Tinubu’s intervention",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-26",
+        "lat": 7.5027,
+        "lng": 4.4693,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/osun-accord-party-candidates-accuse-police-of-intimidation-seek-tinubus-intervention/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Wanted soldier arrested in Borno while fleeing to Cameroon",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-26",
+        "lat": 11.8669,
+        "lng": 13.1752,
+        "location": "Arrested Area, Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/wanted-soldier-arrested-in-borno-while-fleeing-to-cameroon/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits abduct high court judge in Kebbi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-26",
+        "lat": 11.4493,
+        "lng": 4.1467,
+        "location": "Judge Area, Kebbi State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/898319-bandits-abduct-high-court-judge-in-kebbi.html"
+    },
+    {
+        "title": "Troops recover 50 rustled cattle in Plateau after foiling rustling operation - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-26",
+        "lat": 9.5276,
+        "lng": 9.4979,
+        "location": "Cattle Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmk4RS1aWk0yU3VJbWU3R0ZlX2dCQWVURUpDMk9jbUN5dVV3RjRWRE9zUGc0YlZIak5kUTRhVHJLbHdISk9MMWtWa0ZjZV9BcENvVnhQdFYyVl9aeUZwLWZPVkhXVWtSdzV3MDN2am4yY29pR1VtWmYwZjVxcEwxSlFRdnkyMmVZN1piTW41dG9SN3plRk5qQ21DNlR6RU5VVFVNVzI3TEdnTW5vVzNyQzEtVVhwRzhyNHF5S2Nn?oc=5"
+    },
+    {
+        "title": "Troops uncover 3,200 litres of illegally refined petroleum products in Rivers - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-26",
+        "lat": 4.7328,
+        "lng": 6.8315,
+        "location": "Products Area, Rivers State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1dja0FyQzN4Q2pXeUxEdVd5WlpmejRZcFV2LWJWbV9IVkYyR3dDSFdxa0h4Mzl5NFZ4T2F3TXBjTkxmdHo0YTdhZWozei00U0JmUVpvekN5VU1iZXhIMXBpZzRXSkRFSVlpeDRMaWVQdVhTcGRlRlFsME0tdEF3THM3QVlYQ0FFV2ZtVUExTXl6N2VOdzhseXA5UXppell3c3A3bnlWWkFGRDkxSzl4ZlBQZ1BZa21jODl6eUpzVQ?oc=5"
+    },
+    {
+        "title": "Troops rescue 48 kidnap victims as terrorists flee after gun battle in Zamfara - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-26",
+        "lat": 12.0764,
+        "lng": 6.1947,
+        "location": "Battle Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2xpR1VZN0dFUmJ1a2NNQzRGT0xfbjYzUFZiRk1ZLWkwZUxJMVlpVDlsbWtRcVN2OGt3WlhmeVV0MjZhM1dZaHc5MkpqLVRkNE91STdneXZiOXp1cFVJUVotVFFvb0tXbTFHVFVHcVEtTmVJN0MzQ0wwSVJLZGViVXJWYUw4ZUh0NnVjWll2WFhJbkpBZEpKRU83b3NEY1QtOXdIS2ZTVmV5NWtwUUlNOG5ZX0p0dVZOMklLV05jZEE?oc=5"
     }
 ]
