@@ -4090,5 +4090,38 @@
         "location": "Rezaq Area, Lagos State",
         "source": "The Cable NG",
         "url": "https://www.thecable.ng/ex-dss-director-how-we-helped-fbi-arrest-egyptair-hijacker-omar-rezaq-in-lagos/"
+    },
+    {
+        "title": "Police Arrest 9 Over Illegal Roadblocks, Extortion In Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-26",
+        "lat": 5.4584,
+        "lng": 6.0123,
+        "location": "Extortion Area, Delta State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-9-over-illegal-roadblocks-extortion-in-delta/"
+    },
+    {
+        "title": "Suspected terrorists’ informants, cattle rustlers arrested at Yobe market",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-26",
+        "lat": 11.9659,
+        "lng": 11.5441,
+        "location": "Arrested Area, Yobe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/suspected-terrorists-informants-cattle-rustlers-arrested-in-yobe-market/"
+    },
+    {
+        "title": "Four Civilian JTF Killed Repelling Bandit Attack on Katsina Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-26",
+        "lat": 12.5058,
+        "lng": 7.6593,
+        "location": "Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/four-civilian-jtf-killed-repelling-bandit-attack-on-katsina-community/"
     }
 ]
