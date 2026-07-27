@@ -3859,5 +3859,38 @@
         "location": "Kebbi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/how-gunmen-abducted-kebbi-high-court-judge/"
+    },
+    {
+        "title": "Many feared trapped as three-storey student hostel collapses in Anambra",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-27",
+        "lat": 6.2243,
+        "lng": 6.9832,
+        "location": "Collapses Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/many-feared-trapped-as-three-storey-student-hostel-collapses-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Iran halts retaliatory strikes",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-27",
+        "lat": 8.9993,
+        "lng": 7.4286,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/898386-iran-halts-retaliatory-strikes.html"
+    },
+    {
+        "title": "UNICEF Commends Yobe’s Cholera Prevention Efforts",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-27",
+        "lat": 11.9882,
+        "lng": 11.5136,
+        "location": "Yobe State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/unicef-commends-yobes-cholera-prevention-efforts/"
     }
 ]
