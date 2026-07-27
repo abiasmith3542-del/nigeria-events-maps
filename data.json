@@ -3892,5 +3892,137 @@
         "location": "Yobe State",
         "source": "Leadership News",
         "url": "https://leadership.ng/unicef-commends-yobes-cholera-prevention-efforts/"
+    },
+    {
+        "title": "Many feared dead, others trapped as three-storey students’ hostel collapses in Anambra",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-27",
+        "lat": 6.2152,
+        "lng": 7.0467,
+        "location": "Collapses Area, Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/many-feared-dead-others-trapped-as-three-storey-students-hostel-collapses-in-anambra/"
+    },
+    {
+        "title": "Police arrest fleeing driver, four others over stolen truck in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-27",
+        "lat": 6.9742,
+        "lng": 3.4785,
+        "location": "Truck Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-arrest-fleeing-driver-four-others-over-stolen-truck-in-ogun/"
+    },
+    {
+        "title": "Atiku condemns southern Kaduna massacre, says Tinubu culpable",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-27",
+        "lat": 10.496,
+        "lng": 7.4561,
+        "location": "Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/atiku-condemns-southern-kaduna-massacre-says-tinubu-culpable/"
+    },
+    {
+        "title": "Troops foil terrorist infiltration, evacuate students after intelligence alert in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-27",
+        "lat": 11.828,
+        "lng": 13.1288,
+        "location": "Alert Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/troops-foil-terrorist-infiltration-evacuate-students-after-intelligence-alert-in-borno/"
+    },
+    {
+        "title": "Osun Violence: Police declare five suspects wanted",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-27",
+        "lat": 7.495,
+        "lng": 4.4497,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/osun-violence-police-declare-five-suspects-wanted/"
+    },
+    {
+        "title": "Why I blocked terrorists when my wife was abducted – Oyo principal’s husband",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-27",
+        "lat": 7.995,
+        "lng": 4.0206,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/why-i-blocked-terrorists-when-my-wife-was-abducted-oyo-principals-husband/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "VIDEO: Three students rescued in Anambra hostel collapse",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-27",
+        "lat": 6.2005,
+        "lng": 6.9689,
+        "location": "Rescued Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-three-students-rescued-in-anambra-hostel-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kwara lawyers begin indefinite strike over unpaid allowances",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-27",
+        "lat": 8.4442,
+        "lng": 4.5081,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kwara-lawyers-begin-indefinite-strike-over-unpaid-allowances/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill ex-Rivers LG CSO",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-27",
+        "lat": 4.7293,
+        "lng": 6.8292,
+        "location": "Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-kill-ex-rivers-lg-cso/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Truck driver, four others arrested for theft in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-27",
+        "lat": 6.9787,
+        "lng": 3.557,
+        "location": "Theft Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/truck-driver-four-others-arrested-for-theft-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "4 killed as bandits in military uniform attack Sokoto community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-27",
+        "lat": 13.0536,
+        "lng": 5.2834,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/4-killed-as-bandits-in-military-uniform-attack-sokoto-community/"
+    },
+    {
+        "title": "NAF Set to Receive Initial Sophisticated M‑346 Fighter‑Attack Aircraft from Italy - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-27",
+        "lat": 10.0373,
+        "lng": 6.0524,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oX1lHYXI2THNYbmRST3JGRDFzRzBUcU9lN3lZQkk2TkJJV193VFhKWDFUcUJtdlJvRktJekt6aHh6WGM5YXVwcGNiZ2NSaWJYOTV0YkVLM29oZU81T1FNSlhDNzRRdU1q?oc=5"
     }
 ]
