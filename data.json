@@ -4167,5 +4167,49 @@
         "location": "Ondo State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/27/ondo-police-arrest-four-cops-for-misconduct-at-checkpoint/"
+    },
+    {
+        "title": "Nigeria, South Africa hold tense meeting over xenophobic protests",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-27",
+        "lat": 10.0577,
+        "lng": 5.9759,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/nigeria-south-africa-hold-tense-meeting-over-xenophobic-protests/"
+    },
+    {
+        "title": "Police rescue 10 passengers after highway bandit attack in Kano",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-27",
+        "lat": 12.023,
+        "lng": 8.6424,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-10-passengers-after-highway-bandit-attack-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Arrest Four Cops In Ondo For Alleged Misconduct At Checkpoint",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-27",
+        "lat": 7.2302,
+        "lng": 5.2381,
+        "location": "Cops Area, Ondo State",
+        "source": "Channels TV Local",
+        "url": "https://www.channelstv.com/2026/07/27/ondo-police-arrest-four-cops-for-misconduct-at-checkpoint/"
+    },
+    {
+        "title": "Troops recover machine gun after terrorists attack Zamfara highway, soldier wounded - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-27",
+        "lat": 12.1611,
+        "lng": 6.2635,
+        "location": "Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGhNNzVqMFc2a1dCZTlUM3FRNHVadVVjRlg2YTF1cnlRaEtZS3RHalB0dXJWdUg3YW5teVdhUElJSjZoZExqY2RFWEd5YVRjUUZNeWI2a3JNLWRoOHJDeWlFcXVteUZaUktOdndpS3FTbzhjTmx6djh1TGNxWEZuSTdNSXI5N0lmd1V4d0V3TlF4U1J1MmduNXZFX2NWV0FCLVp5bGdWdFRjZ3N4bFFCd0hZcGItc0UxRXUxOHowQk9iYXBDREE?oc=5"
     }
 ]
