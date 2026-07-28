@@ -4167,5 +4167,49 @@
         "location": "Nasarawa State",
         "source": "Punch Metro",
         "url": "https://punchng.com/gunmen-abduct-three-nasarawa-federal-varsity-students/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian Army colonel shot dead while resisting kidnappers in Abuja – Report",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-28",
+        "lat": 9.1156,
+        "lng": 7.5184,
+        "location": "Kidnappers Area, Abuja (FCT)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/898946-nigerian-army-colonel-shot-dead-while-resisting-kidnappers-in-abuja-report.html"
+    },
+    {
+        "title": "Gunmen Kill Army Colonel, Shoot Wife in Abuja",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-28",
+        "lat": 9.059,
+        "lng": 7.4824,
+        "location": "Wife Area, Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-army-colonel-shoot-wife-in-abuja/"
+    },
+    {
+        "title": "Zamfara: Bandits attack rector’s residence, kill guard, abduct others",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-28",
+        "lat": 12.1696,
+        "lng": 6.2065,
+        "location": "Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/zamfara-bandits-attack-rectors-residence-kill-guard-abduct-others/"
+    },
+    {
+        "title": "Troops survive IED blast during civilian escort operation in Borno - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-28",
+        "lat": 11.8836,
+        "lng": 13.1288,
+        "location": "Operation Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWnQ2WDlGYjltSkNkQUNmZy1say0wbERWcGFfd1VYcEtWdjdWa3pfeGdoanBnYTBEVk5nenp2M0M1UmFIYXZiSmxtUjgyNFhiXzNRN1JZZ29TUkctZWNDLTc2bFVtUXBfM01tNmpsLUZfamFiS0JWVHBxbjI5X1NSWXdITi1velBORi15TTk5ZjAwSkhaMGk1MDA4Q0hZRnVHc0J5cDlCRTZVd1dBZmtBVw?oc=5"
     }
 ]
