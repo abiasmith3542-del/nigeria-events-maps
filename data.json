@@ -4156,5 +4156,16 @@
         "location": "Cannabis Area, Edo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/ndlea-nabs-two-suspects-with-1359kg-cannabis-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen abduct three Nasarawa federal varsity students",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-28",
+        "lat": 8.498,
+        "lng": 8.1574,
+        "location": "Nasarawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-abduct-three-nasarawa-federal-varsity-students/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
