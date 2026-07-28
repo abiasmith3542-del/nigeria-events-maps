@@ -4079,5 +4079,49 @@
         "location": "Family Area, Abuja (FCT)",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3dUM5akNETnRUdzJTSmZIQ2Vub01mWHZfcXRPZS1WTzR6a2xPY21YM0hQMVZRMjNzcnp1N00tOUNSZjR5b18xU0dHeFdNQTlhb3BnWDJWY3FXWk52TGQ1bV9GdXAwZHVWLVgyOW5ZTTQ?oc=5"
+    },
+    {
+        "title": "Two sons of South-East MACBAN chairman killed in reported attack on Enugu cattle camp",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-28",
+        "lat": 6.4614,
+        "lng": 7.5362,
+        "location": "Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/two-sons-of-south-east-macban-chairman-killed-in-reported-attack-on-enugu-cattle-camp/"
+    },
+    {
+        "title": "Security forces foil bandit operation in Sokoto, rescue 32 victims",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-28",
+        "lat": 13.0979,
+        "lng": 5.1828,
+        "location": "Operation Area, Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/security-forces-foil-bandit-operation-in-sokoto-rescue-32-victims/"
+    },
+    {
+        "title": "19-year-old UK-based Nigerian student jailed for robbery, blackmail",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-28",
+        "lat": 10.0031,
+        "lng": 6.0598,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/19-year-old-uk-based-nigerian-student-jailed-for-robbery-blackmail/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Osun PVC centre attack won’t disrupt election — INEC",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-28",
+        "lat": 7.5248,
+        "lng": 4.5097,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/osun-pvc-centre-attack-wont-disrupt-election-inec/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
