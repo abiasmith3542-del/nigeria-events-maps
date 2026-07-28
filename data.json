@@ -4013,5 +4013,71 @@
         "location": "Anambra State",
         "source": "Channels TV Local",
         "url": "https://www.channelstv.com/2026/07/28/anambra-seals-site-of-collapsed-building-orders-integrity-tests-on-nearby-structures/"
+    },
+    {
+        "title": "Abiodun orders probe into Ogun building collapse",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-28",
+        "lat": 7.0188,
+        "lng": 3.4606,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/abiodun-orders-probe-into-ogun-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police rescue 32 kidnap victims in Sokoto, foil bandit operation",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-28",
+        "lat": 13.0589,
+        "lng": 5.2449,
+        "location": "Victims Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-32-kidnap-victims-in-sokoto-foil-bandit-operation/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gridlock as students block Lagos–Abeokuta Expressway over colleague’s killing",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-28",
+        "lat": 6.4982,
+        "lng": 3.3319,
+        "location": "Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gridlock-as-students-block-lagos-abeokuta-expressway-over-colleagues-killing/"
+    },
+    {
+        "title": "Zamfara: Police arrest 2 suspects with 55 rounds of AK-47 ammunition ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-28",
+        "lat": 12.1541,
+        "lng": 6.205,
+        "location": "Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/zamfara-police-arrest-2-suspects-with-55-rounds-of-ak-47-ammunition/"
+    },
+    {
+        "title": "15 killed in fresh attack on Benue communities",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-28",
+        "lat": 7.3848,
+        "lng": 8.7567,
+        "location": "Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/15-killed-in-fresh-attack-on-benue-communities/"
+    },
+    {
+        "title": "Military Intelligence Officer Slain After Resisting Gunmen to Shield His Family in Abuja - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-28",
+        "lat": 9.0403,
+        "lng": 7.5129,
+        "location": "Family Area, Abuja (FCT)",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3dUM5akNETnRUdzJTSmZIQ2Vub01mWHZfcXRPZS1WTzR6a2xPY21YM0hQMVZRMjNzcnp1N00tOUNSZjR5b18xU0dHeFdNQTlhb3BnWDJWY3FXWk52TGQ1bV9GdXAwZHVWLVgyOW5ZTTQ?oc=5"
     }
 ]
