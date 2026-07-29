@@ -3969,5 +3969,115 @@
         "location": "Abuja (FCT)",
         "source": "Leadership News",
         "url": "https://leadership.ng/army-colonel-killed-in-nasarawa-not-abuja-fct-police/"
+    },
+    {
+        "title": "Troops rescue abducted soldier, civilian in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 12.0792,
+        "lng": 6.2035,
+        "location": "Civilian Area, Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/troops-rescue-abducted-soldier-civilian-in-zamfara/"
+    },
+    {
+        "title": "Cross River LG workers protest 11 months of unpaid salaries",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-29",
+        "lat": 5.7592,
+        "lng": 8.5433,
+        "location": "Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/cross-river-lg-workers-protest-11-months-of-unpaid-salaries/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Delta orders arrest of suspects over attack on gov’s aide",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 5.4888,
+        "lng": 6.0458,
+        "location": "Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/delta-orders-arrest-of-suspects-over-attack-on-govs-aide/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Group demands probe into deadly Kaduna illegal miners’ clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 10.463,
+        "lng": 7.4616,
+        "location": "Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/group-demands-probe-into-deadly-kaduna-illegal-miners-clash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Sokoto: Bandits gun down worshippers inside mosque, abduct residents",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 13.0573,
+        "lng": 5.2616,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/sokoto-bandits-gun-down-worshippers-inside-mosque-abduct-residents/"
+    },
+    {
+        "title": "Troops Arrest Suspected B’Haram Logistics Supplier, Wanted Spy in Borno - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-29",
+        "lat": 11.8401,
+        "lng": 13.1098,
+        "location": "Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vbVZsQUt0MXl5RlNKNmxFRkw3aGhYT05hUkthajRsTlBMODk0QWNReTJZc0hWclQtTE45Zkl6S1hFQnFldV9oUko4ckhnOVBxMk12Q1VFcjBQU3VkeUs2OVdoRzhRMW14VHYzemI0UjA?oc=5"
+    },
+    {
+        "title": "Police, Troops Rescue 32 Hostages After Fierce Gun Battle with Bandits in Sokoto - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 9.9754,
+        "lng": 5.945,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yU05zVmZ6aFdkNTl4amR1Umphbm9oUkFBbklFX3dtaWlkOWR0VEt1RnV0ZWhyRGhqSmItWDQ5cmdKVmFHMUlWZlFOM0M4ZmJIOWVxSU9Hamo1aXZXeS13Yk5HUTlNc3FSY09UbEFLTDE?oc=5"
+    },
+    {
+        "title": "Troops Arrest 2 Suspected ISWAP Collaborators in Borno - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 11.7877,
+        "lng": 13.1859,
+        "location": "Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JSEMySDZiLWlkMjRsc0dsY19jNnh1NjdtSHpTVjVucUlVVDBEWGJBYVdaa0dZeF9pd0o4NFMyNjNjUWluT0ZBT1hEdnZSRzVQcmZqVmYzaXduRWR4Sk5KYV9qWGRlV1ZWaW12X2VzZng4QXc?oc=5"
+    },
+    {
+        "title": "Army Dismantles Illegal Bunkering Site in Lagos, Arrests 6 Suspects - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-29",
+        "lat": 6.4947,
+        "lng": 3.3895,
+        "location": "Site Area, Lagos State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXRWJmekxWTDlRNDlkaUZGM21VQkx0Rm1TWjgwTzhQNVlNeDlWeGIwVVMzb2JNaTRnakNsNHg4RXZyY0hEcTZlUHBHdkw4Q0ItMzQ3UmJmc2wzRUJaNWQwMjJQWTEzeERU?oc=5"
+    },
+    {
+        "title": "Plateau records 14 cholera deaths, 441 suspected cases - The Nation Newspaper",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-07-28",
+        "lat": 9.548,
+        "lng": 9.4888,
+        "location": "Plateau State",
+        "source": "Google News - Nigeria Security",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEs0WXFSUFZCeFB2b2lrMjE3NDR6WFlHR2hOWkdmYlV6M2JpYU5mM2Q3eGdWeXJCeU1UQXNhUGtXZ3FfZzZObktuM0VZRUlRR2dlZmp4RzRUc1dkREd3WVU5ZkF4OHpUYzQ3bFhxbmloSlFsWEVSejEwV2Z1X3RocDNwWU82NjFLTzljeNIBkgFBVV95cUxNSmN2T0RzSEkxZHV1SzJDYUlTNnlnZVljd0t0MHpCZXduWHBGZ18zS0pRa1o0aW15U2ZmNFhCT2htLXJ6VDJpM1dSdnpFc3VkWXNlQnNtbFJPU3FFQ3Z3RmdqanJFV2FHX2lJV0RDb183Ymx2SDl0RWRhWVNyUWJGSGZPVWM3NmJ5R0Q0TTlTMFRnUQ?oc=5"
     }
 ]
