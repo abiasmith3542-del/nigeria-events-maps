@@ -4255,5 +4255,49 @@
         "location": "Lagos State",
         "source": "The Cable NG",
         "url": "https://www.thecable.ng/driver-arrested-for-deliberately-killing-passenger-during-onitsha-lagos-trip/"
+    },
+    {
+        "title": "Atiku condemns attack on Tinubu supporter in Delta",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 5.4738,
+        "lng": 5.9623,
+        "location": "Supporter Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/atiku-condemns-attack-on-tinubu-supporter-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest four over vandalism, theft in Sokoto",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-29",
+        "lat": 13.0122,
+        "lng": 5.1762,
+        "location": "Theft Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-over-vandalism-theft-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Fresh Killings: Terrorists Must Not Derail Peace in Kaduna — HURIWA",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 10.5074,
+        "lng": 7.4576,
+        "location": "Peace Area, Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/fresh-killings-terrorists-must-not-derail-peace-in-kaduna-huriwa/"
+    },
+    {
+        "title": "4 killed, soldier missing as bandits attack Kebbi community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 11.4336,
+        "lng": 4.2144,
+        "location": "Kebbi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/4-killed-soldier-missing-as-bandits-attack-kebbi-community/"
     }
 ]
