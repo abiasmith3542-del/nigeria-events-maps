@@ -4145,5 +4145,38 @@
         "location": "Battle Area, Sokoto State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1dQUzNIcWdlOWRKZDhBeGgtalJJSDJBY3VES0ZaNlBlOGliNHhaemRTMGZsekVmME91Z1U5S09JdXIzM1Vla1I0aWRPcGFpYndMNlBpTzBfOXRYdUVPeUFIVWR3ZUFiclE2UXF6cTdZWExKcmRNanlvYU9LdFJ5bll6ZFdjTzY4SVlXb0JDM2tMUHFzNEl0SWtWc3RJRWZyNjJheWRxTGFxUktvNFQtYk5IZ1NwWFlPMlpTNkVwMDJkTEk?oc=5"
+    },
+    {
+        "title": "Police recover two stolen vehicles in Kano, arrest suspect",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-29",
+        "lat": 12.0034,
+        "lng": 8.6407,
+        "location": "Vehicles Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-two-stolen-vehicles-in-kano-arrest-suspect/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops arrest suspected bandits’ informant in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 12.1269,
+        "lng": 6.2249,
+        "location": "Informant Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-arrest-suspected-bandits-informant-in-zamfara/"
+    },
+    {
+        "title": "Kwara: 3 killed as DSS, forest guards engage bandits in gun battle",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 8.478,
+        "lng": 4.516,
+        "location": "Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kwara-3-killed-as-dss-forest-guards-engage-bandits-in-gun-battle/"
     }
 ]
