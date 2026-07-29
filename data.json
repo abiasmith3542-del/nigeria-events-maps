@@ -4222,5 +4222,38 @@
         "location": "Bandits Area, Katsina State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDZIM1h5YnFSdy1qcmpnaElJTWNVVHhMT3pIYjZic2N4dzZyOWNPVXBOdFptYXZ4dFVpUzRyeTBONlExQ1oydTRYOVhadUVDNHlZTEpFZW4xc2xFVmdHNkJLdmhGTy0xY3dpcm15QXU5eXVuOHpINC13UW8zRmcxWVJvOGpqeXlSbzZkM0d3VmhkYjdzeElIdFQwZ2g4NkN1b1N3MnliMTNoeDlHX2w5YXgtUTdaOWR0NmFrR2tfZw?oc=5"
+    },
+    {
+        "title": "Police arrest suspected armed robber, recover pistol, charms in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-29",
+        "lat": 6.5248,
+        "lng": 3.3716,
+        "location": "Charms Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-arrest-suspected-armed-robber-recover-pistol-charms-in-lagos/"
+    },
+    {
+        "title": "Police arrest suspected robber in Lagos, recover pistol",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-29",
+        "lat": 6.4845,
+        "lng": 3.4057,
+        "location": "Robber Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-robber-in-lagos-recover-pistol/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Driver arrested for ‘causing crash that killed passenger’ during Onitsha-Lagos trip",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 6.5166,
+        "lng": 3.3988,
+        "location": "Lagos State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/driver-arrested-for-deliberately-killing-passenger-during-onitsha-lagos-trip/"
     }
 ]
