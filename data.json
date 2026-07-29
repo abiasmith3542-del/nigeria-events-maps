@@ -3804,5 +3804,93 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/best-weapon-against-banditry-is-paycheck-not-another-security-equipment/"
+    },
+    {
+        "title": "Customs agents threaten protest over alleged manifest manipulation by shipping firms",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-29",
+        "lat": 9.15,
+        "lng": 7.5588,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/customs-agents-threaten-protest-over-alleged-manifest-manipulation-by-shipping-firms/"
+    },
+    {
+        "title": "3 die in Ogun building collapse",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-29",
+        "lat": 7.0006,
+        "lng": 3.5231,
+        "location": "Ogun State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-die-in-ogun-building-collapse/"
+    },
+    {
+        "title": "Troops seize two cattle during operation against illegal grazing in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-29",
+        "lat": 9.444,
+        "lng": 9.5576,
+        "location": "Grazing Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGJROUlEUFI3TW5iZkw3X0dsMERwUUdZdXRXQXNEX2RUNFA2ZEpVRk5sQ0FiTk5fMkY3ZnB1WlZqWmdTV2NSa0JKTThvQ0djdnlxaHRIWl80QkZTd0pubk5kQkNjS0pya3Z0aVhDTExNU0d5SW1kN1p2bUVlQldXTVFXRndFdEJYS3hxN2w5Y0ZvSHJUZ1BVSEt3THY0akJXQnRCQzdzM1JIcFFZajN3YTZFVnhLVy1ZVGFJTQ?oc=5"
+    },
+    {
+        "title": "Troops arrest four suspected terrorists during cordon-and-search operation in Sokoto - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 13.1118,
+        "lng": 5.2009,
+        "location": "Operation Area, Sokoto State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMWJsUUZDd2RfOWQzMU1Uc2hFMGF4SF9oVTRuSy1tTHFDRjVFelBFaDVzcDFxYnREUTBjSFdjbFoxc0hUb2c0LWd6Mkc0S2M4ZTVFS2k2d19RZWt6aE9SNkRPcjJwT2lySW9LbjhsWHNJOWMxREJvWEJReDBxYmhxeHV1cG52dzc3Q1E1V1RRWFR5XzdaMElGRjZwbGx0bEJUMW5mai1pc01LakdUWWN0bjVLOHNYclBMdkcyM1lBM2hHVVJkNndRZA?oc=5"
+    },
+    {
+        "title": "Troops rescue injured farmer after attack by armed herders in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 9.4964,
+        "lng": 9.4501,
+        "location": "Herders Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb1Y4T2o1T0hhVlVVZFJOZU5YZldFSzNUaHhwdEd5dkM5ajhOYTVha0ZuVTFpSC1oRHlrSWlGb1V3amVDMlNISzJPRmNPa0lreTFnenlxRV9KaEd1bVphNXItLTNYRGN0Nll2NHIwbFJBaDdJazM0eDU1UW9HU1g2b3IyZjFrU0RqWk9ZNzNFT19LMEgwUU5GZEZoT1JRajRQSjd5d0FZOEgzUTFEUFlxaWlabzc?oc=5"
+    },
+    {
+        "title": "Troops foil reprisal attack on Fulani settlement, arrest two suspects in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-29",
+        "lat": 9.4681,
+        "lng": 9.5422,
+        "location": "Suspects Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSTdRdHpCSVF1SkhlbWx2d3AzdmlRREJJbXJORWJYLTYzckxyZjg1SEZNSWJpMWJaTllDVTU3cjA2MjVqRm56R2JUc1VPbGJpQjR4ajlRejFvRXc3YU1MeXhOMzFTUGxTd3NaTE8zNXk2dHFJMlJSZ1dIUndGZC1lR3BlWURUeXU1Q0ViUU9oeTBJOFN5WjlWeGlTMmgyRzFkN0RXRmRkeVNtUExHZ2o2MS1kNHVSVVVOVlczMmtKbmVqUQ?oc=5"
+    },
+    {
+        "title": "Troops recover 41 rustled cattle, foil rustling operation in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-29",
+        "lat": 9.5269,
+        "lng": 9.4852,
+        "location": "Operation Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlg0NlVvT0VkOUtqUDlMc0lMVFFuRF9Jel9DM2F4QkM0eExvSDRyWHR5X2hNV1cxamFEdTZNdV90UldOeGFqTFFvRFpPTGs5LWdlRXNGS1FCTzI2NHBnZWNCN0FXZlpZNmNIdzc1VmhyR2hxWVEtT3BwN1g2U0djUW81QmFRWU9YSThlZGdaNXUzckI2U1dTWEJ3VkhDZkY3bzVMQ0Y5S0ZMVEhaRy1ISmtn?oc=5"
+    },
+    {
+        "title": "Troops Rescue Federal Polytechnic Rector, Foil Multiple Kidnap Attempts in Zamfara - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-29",
+        "lat": 12.1501,
+        "lng": 6.2519,
+        "location": "Attempts Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1FOMDVNNWh0eEZrRnhLTTZvYUN1SU5aaldfdUF0cFFIQ0VfNk5yYVRlaDFsVlJPc1piNFFrWUx0bmlud3pBUzA0SHpUMUgyQjhpY2N5SW1sYml3OW5MVkE1TUVQQnpjT0hHUWdjOXBZSWdoWElBYlRxcnZ0MGZ0WHhjMjBiVFBaN3BzVnRKRHR2WkpDVFRJYldTWjRjb1VVZkRyV3VRQ0g0T2VrYmdOSC05TmFvbTdlcWwycmU1cHBVdmNZ?oc=5"
     }
 ]
