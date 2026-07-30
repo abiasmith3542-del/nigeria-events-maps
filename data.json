@@ -3991,5 +3991,38 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/how-to-apply-for-police-character-certificate-tinted-glass-permit/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police probe conflicting accounts over dispatch rider’s death in Lagos",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-07-30",
+        "lat": 6.5039,
+        "lng": 3.4019,
+        "location": "Death Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/police-probe-conflicting-accounts-over-dispatch-riders-death-in-lagos/"
+    },
+    {
+        "title": "JUST IN: Ex-Nigerian high commissioner to UK, Abubakar Alhaji, is dead",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 9.949,
+        "lng": 6.0498,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/just-in-ex-nigerian-high-commissioner-to-uk-abubakar-alhaji-is-dead/"
+    },
+    {
+        "title": "Bandits attack court in Katsina, forces judge to escape through window - The Guardian Nigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 12.5643,
+        "lng": 7.6234,
+        "location": "Court Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeEw5RVl6WmdLMGU5Ym5ZRGdQVm5WMmg1OENLb1B0aWllQUVNM2lHSHJPY3BqeFUxaWM5QnJVN190YjNERzBsZUdBTVN3Q2xmcGhaMUtFckZwMmdOa000Y0haY0tlZmx1SEdFWFpVU0VkeW5TQjNBZ1dBT3g5OUVaUWZWajkyOGpNdE5zdTNVdXJZNzhVRHNxSHUwcmh4QUUzSXctYVNn?oc=5"
     }
 ]
