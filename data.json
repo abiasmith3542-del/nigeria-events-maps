@@ -4145,5 +4145,16 @@
         "location": "Students Area, Ogun State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/suspected-bandits-abduct-five-students-in-ogun/"
+    },
+    {
+        "title": "DSS, Forest Guards Rescue 9 Hostages, Kill 3 Bandits in Kwara - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 8.4789,
+        "lng": 4.6081,
+        "location": "Bandits Area, Kwara State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYYjQweE9JaE9EQ2YxQXFoOWdUSkVGLWQ1NmpWeHNuWlFzVkhkZXpidi1hWTBwMEhoa3hhMVRjMEQxdjJ5VU8ycDIwaFZObS1JY3dkbVhjY0lScWRXR3M3YjBFSkVGQ2xpbGc?oc=5"
     }
 ]
