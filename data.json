@@ -4024,5 +4024,38 @@
         "location": "Court Area, Katsina State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeEw5RVl6WmdLMGU5Ym5ZRGdQVm5WMmg1OENLb1B0aWllQUVNM2lHSHJPY3BqeFUxaWM5QnJVN190YjNERzBsZUdBTVN3Q2xmcGhaMUtFckZwMmdOa000Y0haY0tlZmx1SEdFWFpVU0VkeW5TQjNBZ1dBT3g5OUVaUWZWajkyOGpNdE5zdTNVdXJZNzhVRHNxSHUwcmh4QUUzSXctYVNn?oc=5"
+    },
+    {
+        "title": "DSS, forest guards kill bandits, rescue nine victims in Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 8.4974,
+        "lng": 4.515,
+        "location": "Victims Area, Kwara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/dss-forest-guards-kill-bandits-rescue-nine-victims-in-kwara/"
+    },
+    {
+        "title": "2027 Hajj : Kwara pilgrims board sets deadline for payments",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 8.495,
+        "lng": 4.5095,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2027-hajj-kwara-pilgrims-board-sets-deadline-for-payments/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Two women arrested for allegedly staging fake kidnap in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-30",
+        "lat": 7.3082,
+        "lng": 8.7735,
+        "location": "Kidnap Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/two-women-arrested-for-allegedly-staging-fake-kidnap-in-benue/"
     }
 ]
