@@ -4167,5 +4167,49 @@
         "location": "Abuja (FCT)",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/07/adeleke-accuses-police-of-transferring-over-60-accord-leaders-to-abuja-prisons/"
+    },
+    {
+        "title": "Gunmen kill three miners in fresh Plateau attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 9.5155,
+        "lng": 9.4684,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-kill-three-miners-in-fresh-plateau-attack/"
+    },
+    {
+        "title": "Ogun Poly: Police begin rescue operations as five students kidnapped",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 6.9733,
+        "lng": 3.4556,
+        "location": "Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/ogun-poly-police-begin-rescue-operations-as-five-students-kidnapped/"
+    },
+    {
+        "title": "Penpushing Media planning committee member, daughter die in Ogun building collapse",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-30",
+        "lat": 7.0222,
+        "lng": 3.4503,
+        "location": "Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/penpushing-media-planning-committee-member-daughter-die-in-ogun-building-collapse/"
+    },
+    {
+        "title": "Leaked DSS memo warns of planned Boko Haram attacks in Adamawa, Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 9.286,
+        "lng": 12.4995,
+        "location": "Attacks Area, Adamawa State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/leaked-dss-memo-warns-of-planned-boko-haram-attacks-in-adamawa-borno/"
     }
 ]
