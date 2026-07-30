@@ -4211,5 +4211,27 @@
         "location": "Attacks Area, Adamawa State",
         "source": "The Cable NG",
         "url": "https://www.thecable.ng/leaked-dss-memo-warns-of-planned-boko-haram-attacks-in-adamawa-borno/"
+    },
+    {
+        "title": "Gunmen abduct poly students in Ogun",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-30",
+        "lat": 6.945,
+        "lng": 3.5223,
+        "location": "Students Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-abduct-poly-students-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Benue Police Arrest Suspected Supplier Of Arms, Ammunition To Terrorists",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 7.2759,
+        "lng": 8.6977,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/benue-police-arrest-suspected-supplier-of-arms-ammunition-to-terrorists/"
     }
 ]
