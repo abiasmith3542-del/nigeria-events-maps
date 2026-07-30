@@ -3958,5 +3958,38 @@
         "location": "Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/abducted-children-regain-freedom-after-49-days-in-captivity/"
+    },
+    {
+        "title": "Troops foil kidnap attempts, rescue Zamfara polytechnic rector",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-30",
+        "lat": 12.132,
+        "lng": 6.2048,
+        "location": "Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/troops-foil-kidnap-attempts-rescue-zamfara-polytechnic-rector/"
+    },
+    {
+        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-07-30",
+        "lat": 5.3814,
+        "lng": 7.5191,
+        "location": "Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/saudi-arabia-joins-us-in-strikes-on-iran-backed-militias-in-iraq/"
+    },
+    {
+        "title": "How to apply for police character certificate, tinted glass permit",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-30",
+        "lat": 9.1483,
+        "lng": 7.5123,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/how-to-apply-for-police-character-certificate-tinted-glass-permit/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
