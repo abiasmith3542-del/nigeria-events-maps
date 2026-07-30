@@ -4123,5 +4123,27 @@
         "location": "Katsina State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/katsina-father-arrested-for-allegedly-killing-daughter-who-resisted-forced-marriage/"
+    },
+    {
+        "title": "Govt confirms five killed in Kano rainstorm",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 11.978,
+        "lng": 8.5382,
+        "location": "Killed Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/govt-confirms-five-killed-in-kano-rainstorm/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Suspected bandits abduct five students in Ogun",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-30",
+        "lat": 6.9902,
+        "lng": 3.5024,
+        "location": "Students Area, Ogun State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/suspected-bandits-abduct-five-students-in-ogun/"
     }
 ]
