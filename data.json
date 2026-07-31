@@ -4123,5 +4123,27 @@
         "location": "Abuja (FCT)",
         "source": "Leadership News",
         "url": "https://leadership.ng/just-in-police-operatives-in-niger-arrest-suspected-kidnappers-terrorising-parts-of-fct/"
+    },
+    {
+        "title": "Gunmen attack Benue bishop’s residence, abduct seminarian",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 7.3218,
+        "lng": 8.7897,
+        "location": "Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-attack-benue-bishops-residence-abduct-seminarian/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "5 arrested for stealing manhole covers, solar street lights, cables in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 9.0722,
+        "lng": 7.5272,
+        "location": "Cables Area, Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/5-arrested-for-stealing-manhole-covers-solar-street-lights-cables-in-abuja/"
     }
 ]
