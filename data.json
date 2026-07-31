@@ -4068,5 +4068,60 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tdW1yank4TlM1RU11UUoydjFtRmpKWTYxcmhtbjk1TEtyUklQSUF4WFJWWEdwc0l2NFpKWUtZRVpDb2ZoeWliMkRGM1FYbUg1eDg3YWNiWUVzVHRkRWxqdkRUMWR4c2dD?oc=5"
+    },
+    {
+        "title": "‎Catholic Priest Killed in Kogi",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 7.8082,
+        "lng": 6.7237,
+        "location": "Killed Area, Kogi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/catholic-priest-killed-in-kogi/"
+    },
+    {
+        "title": "Police uncover fake diplomatic govt number plate network in FCT",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 9.0469,
+        "lng": 7.457,
+        "location": "Network Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-uncover-fake-diplomatic-govt-number-plate-network-in-fct/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police to arraign 13 for stealing building materials at Lagos airport",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 6.5057,
+        "lng": 3.3927,
+        "location": "Materials Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-to-arraign-13-for-stealing-building-materials-at-lagos-airport/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NDLEA arrests 49 suspects in Edo, promotes 73 personnel",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 6.5065,
+        "lng": 6.0006,
+        "location": "Suspects Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ndlea-arrests-49-suspects-in-edo-promotes-73-personnel/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "JUST-IN: Police Operatives In Niger Arrest Suspected Kidnappers Terrorising Parts Of FCT",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 9.0148,
+        "lng": 7.5072,
+        "location": "Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/just-in-police-operatives-in-niger-arrest-suspected-kidnappers-terrorising-parts-of-fct/"
     }
 ]
