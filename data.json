@@ -3903,5 +3903,60 @@
         "location": "Borno State",
         "source": "Leadership News",
         "url": "https://leadership.ng/borno-communities-seek-more-interventions-as-cholera-cases-decline/"
+    },
+    {
+        "title": "Gunmen kill three miners in fresh Plateau attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 9.5201,
+        "lng": 9.5382,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/gunmen-kill-three-miners-in-fresh-plateau-attack/"
+    },
+    {
+        "title": "Bauchi police arrest four over two separate homicide cases",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 10.4469,
+        "lng": 9.9447,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bauchi-police-arrest-four-over-two-separate-homicide-cases/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Judge Escapes Through Window As Bandits Attack Katsina Court",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 12.47,
+        "lng": 7.6178,
+        "location": "Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/judge-escapes-through-window-as-bandits-attack-katsina-court/"
+    },
+    {
+        "title": "Families lament as terrorists reject N155m ransom for 176 Kwara abductees",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 8.4869,
+        "lng": 4.6087,
+        "location": "Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/families-lament-as-terrorists-reject-n155m-ransom-for-176-kwara-abductees/"
+    },
+    {
+        "title": "Osun CP redeployed as police effect fresh posting",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 7.5494,
+        "lng": 4.4872,
+        "location": "Osun State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/osun-cp-redeployed-as-police-effect-fresh-posting/"
     }
 ]
