@@ -4365,5 +4365,16 @@
         "location": "Minor Area, Kwara State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/pos-operator-arrested-for-repeatedly-raping-minor-in-kwara/"
+    },
+    {
+        "title": "Troops rescue 20-year-old woman held by Boko Haram for five years in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 11.8422,
+        "lng": 13.1377,
+        "location": "Years Area, Borno State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/troops-rescue-20-year-old-woman-held-by-boko-haram-for-five-years-in-borno/"
     }
 ]
