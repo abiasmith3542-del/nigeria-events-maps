@@ -4024,5 +4024,49 @@
         "location": "Abuja (FCT)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/herder-collapses-as-42-cows-die-in-fct-community/"
+    },
+    {
+        "title": "Nigerian newspapers review: FG, Labour clash over use of fuel subsidy removal savings",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 10.023,
+        "lng": 5.9621,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/07/nigerian-newspapers-review-fg-labour-clash-over-use-of-fuel-subsidy-removal-savings/"
+    },
+    {
+        "title": "CP Honours 35 Kogi Police Personnel For Outstanding Service",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 7.8508,
+        "lng": 6.7005,
+        "location": "Kogi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/cp-honours-35-kogi-police-personnel-for-outstanding-service/"
+    },
+    {
+        "title": "ActionAid Demands Justice For UNIJOS Student Allegedly Killed Over Missing Phone",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 9.8981,
+        "lng": 8.8995,
+        "location": "Jos, Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/actionaid-demands-justice-for-unijos-student-allegedly-killed-over-missing-phone/"
+    },
+    {
+        "title": "2027: DHQ Trains Troops for Professional Election Security Duties - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 10.0398,
+        "lng": 5.9706,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tdW1yank4TlM1RU11UUoydjFtRmpKWTYxcmhtbjk1TEtyUklQSUF4WFJWWEdwc0l2NFpKWUtZRVpDb2ZoeWliMkRGM1FYbUg1eDg3YWNiWUVzVHRkRWxqdkRUMWR4c2dD?oc=5"
     }
 ]
