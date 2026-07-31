@@ -4244,5 +4244,49 @@
         "location": "Sheep Area, Sokoto State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-foil-bandits-attack-recover-43-rustled-sheep-in-sokoto/"
+    },
+    {
+        "title": "Soldiers rescue 14 kidnapped victims in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 6.553,
+        "lng": 6.0426,
+        "location": "Victims Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-rescue-14-kidnapped-victims-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police foil bandit attack in Sokoto, recover 43 rustled sheep",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 13.0644,
+        "lng": 5.2353,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-foil-bandit-attack-in-sokoto-recover-43-rustled-sheep/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest woman over killing of three-year-old in Kwara",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 8.4746,
+        "lng": 4.5339,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-woman-over-killing-of-three-year-old-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Rescue 14 Kidnap Victims Along Lagos–Benin Highway in Edo - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 6.5499,
+        "lng": 5.9656,
+        "location": "Highway Area, Edo State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SVkd4Q0dWWkMzRHZFU2k5bTRJdXBTWDJYbWh0cFcyZHVuTmlBV1ZHdjlvcFlxSHRVM0JlNXlxV0F3NUlzQm1xOEMxcWNLMk8wMXVqa2t2TzVJalp1eHkxNG5RWWw4WmFYR2MyNVdyNWtxdHc?oc=5"
     }
 ]
