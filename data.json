@@ -4211,5 +4211,38 @@
         "location": "Kogi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/kogi-catholic-priest-found-dead-with-machete-wound/"
+    },
+    {
+        "title": "Police probe killing of woman accused of witchcraft in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 10.4812,
+        "lng": 10.0197,
+        "location": "Witchcraft Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-probe-killing-of-woman-accused-of-witchcraft-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kano ‎police rescue 9-year-old boy 4 weeks after abduction",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 12.0241,
+        "lng": 8.634,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kano-police-rescue-9-year-old-boy-4-weeks-after-abduction/"
+    },
+    {
+        "title": "Police foil bandits’ attack, recover 43 rustled sheep in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 13.0035,
+        "lng": 5.2832,
+        "location": "Sheep Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-foil-bandits-attack-recover-43-rustled-sheep-in-sokoto/"
     }
 ]
