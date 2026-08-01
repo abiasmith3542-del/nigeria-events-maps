@@ -4068,5 +4068,49 @@
         "location": "Victims Area, Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/army-rescues-14-kidnapped-victims-in-edo/"
+    },
+    {
+        "title": "One dead as earlier morning inferno razes buildings in Delta community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-01",
+        "lat": 5.4716,
+        "lng": 6.0533,
+        "location": "Buildings Area, Delta State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/one-dead-as-earlier-morning-inferno-razes-buildings-in-delta-community/"
+    },
+    {
+        "title": "Police reject claims of 176 residents abducted in Kwara attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-01",
+        "lat": 8.493,
+        "lng": 4.5211,
+        "location": "Abducted Area, Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-reject-claims-of-176-residents-abducted-in-kwara-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Launch Probe Into Death Of Catholic Priest In Kogi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-01",
+        "lat": 7.7428,
+        "lng": 6.7636,
+        "location": "Priest Area, Kogi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-launch-probe-into-death-of-catholic-priest-in-kogi/"
+    },
+    {
+        "title": "Seeking Redemption, Spurring Terror: The Curious Lives of Former Boko Haram Fighters in Nigeria - HumAngle",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-01",
+        "lat": 10.0104,
+        "lng": 5.9993,
+        "location": "Fighters Area, Niger State",
+        "source": "HumAngle Media",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlV0b2V1U3QzTHcyUU9ZX2pMenRySW5vLURjd0Y1a0J5WGFLWTZ0XzQtQ1FKMHpQaFphVHp4WHpJTGNpd2MyMGpsN0d0T2ludHkwY2dQamIxX0treFpObWVkTlBWRW1sS01GeHd5U0wxNHpVQTdxbGJMdDRMZ29ZMy1ac2hIaGU3VnhVMk9Lbzd2ZE9taWhEbldyOTE4T09Od01fdE04cEltSnc5TVNKSUxWdkdmOWRtRGFn?oc=5"
     }
 ]
