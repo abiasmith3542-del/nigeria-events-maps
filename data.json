@@ -3848,5 +3848,126 @@
         "location": "Lagos State",
         "source": "Punch Metro",
         "url": "https://punchng.com/epidemic-fears-loom-as-refuse-mounds-overrun-lagos-streets-markets/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police rescue kidnap victim, arrest suspect in Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-01",
+        "lat": 8.509,
+        "lng": 4.5718,
+        "location": "Suspect Area, Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-kidnap-victim-arrest-suspect-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Russian strikes on Kyiv kill nine, injure 28",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-01",
+        "lat": 9.1072,
+        "lng": 7.4772,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/russian-strikes-on-kyiv-kill-nine-injure-28/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "DEADLY: Military Kills 102 Terrorists, Arrests 345, Rescues 393 In July - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-01",
+        "lat": 9.9522,
+        "lng": 6.0577,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NeXBCclpObHVhYVM2SkxvTG80SV9oeG95YXVKLTRTZjNFWUowUzdtVVNKMGh4OXBkZG5oQm9YNEZ4VHBSWV9EV3VwSjExUjdDRzdsT1AzZkxHUkFSYVFDRzBrYmRCZnN5U1pvRkVB?oc=5"
+    },
+    {
+        "title": "Troops Foil Terrorist Abduction, Rescue 31 Civilians in Borno - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-01",
+        "lat": 11.8048,
+        "lng": 13.1291,
+        "location": "Civilians Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jQmJzTkdfTllaSnY0WkNPcHdmbGtzZ2duTkdiQVV0SXhrb3dHREYwajRxaDZSNHRQazBSazVSc09hOVVVRzg4Zm0tQlZIT2NuSHhOWTVsdHBxVnRpcllpMTdTVExPZw?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops arrest 10 suspected terrorist logistics suppliers transporting cattle in Borno - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 11.8714,
+        "lng": 13.1797,
+        "location": "Cattle Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHR0OV9JQ2E1ODF4YUItbW9RbXdrNUtXbWIwcWlWUWxuTXBPYmt2akJSaXhhaG9nNDVoTm5tR0lQX0xsYm1sc2FBSVlaWjMtS2ZXUjdHam0xQ29VbV9kWVJuc3kzVXVHdE9YR1dfNnotS1pOYi05QTBjT2pzbWdGdDFRbnlORnFSTGpJdTJWNF84YlJyOHZRTWJyVWJTdnhiMWhUTGdxOElYZm8zNG9qN3I4d2w2YXhYQ2lMQWFXdkVMSHFZZDhjczBB?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Soldier injured as troops repel terrorist attack on duty post in Benue - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 7.3043,
+        "lng": 8.707,
+        "location": "Post Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdlBQWnlLX3RzYWp2WWVyYzA0eHE5aGlxM3FvaElaUTFrbjFmbnMtTEdNdUJySUhJM2s5Y0ZFTzVSN3RpVFhHZ3R3LWRLQ0xCcTdCZUhNY09tRkVvRldGRHdrM3NRZzU2TnhkVldzRkZGZXZoY0hHb0tDOGk3eERoRF9HWmFmZTN2NGxhLWt3aEtxeHQ0Y0dMUE9pZ0hLVTZXazBpVHJQV05hYlVpRHlUNEh1YVJ1X1Vs?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops arrest two suspected pipeline vandals in Rivers - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 4.7031,
+        "lng": 6.835,
+        "location": "Vandals Area, Rivers State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2FWZnhuNHlLN3JoVHM5cEtKcXBkQS1MYnZBTGNVbmJzT0xMRDVCZnlQZHctRUtsTFBxRVFJZXFPTDNzYXRnU3hKeV80T3Y1c2JZVURRSDRRalBHVGhLbUJrTE16aklibWlKZ2liR25VWmY3M3hnWnZzVmFmM1o4SVBvd2hNSTFidk9zeFY4WFpPOHFDWkQ3cWxrUXhYNG44?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Wife, son of surrendered ISWAP finance chief surrender to troops in Borno - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 11.7798,
+        "lng": 13.1505,
+        "location": "Troops Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUdXa2NiMTBlY1E4VUo2U0ZrbGEwdmc1MkpMRS1FZDEwc0t6N2pXaU85NDZKRk1VbnhDTzYzWlg4TFl2cXpGTFZBcGU1SUkyWXlIZHpBRWFlUlhRZXdWQnRmczJZN016dVl6enpyMmdseG5FUkRkVDRLbGlEN3pzSTc5UGVMU2J2VzNwN1hmT3Y3MEFjUXhKaWM2bWtNRTI0MWpLVVduNUpBVWx3SHFycDd5SGJiYVdQ?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops dismantle illegal refining site, recover 6,500 litres of stolen crude in Rivers - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 4.8023,
+        "lng": 6.8764,
+        "location": "Crude Area, Rivers State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdzlBMC1hZ1F5UDVpYnA1dUxtdzR5cXBuUlJQUjA1cXhMZklWeS1BaVhqbUF6bjFzQ2VyLVVrUXB2NDdMVUJUM2RQRUQ5d3dIbWFrZ285WmFSQUdpZmd1WHhyME9XXzc1NlczNXpjWk5pdHAzT2ZBc3I1SU5BaGhrUUlrMExvSTNQTWtSMERkc2J4bTRDVnBVMFdPSjREYkJQY1MxV1ktWkZtZFFHZ2VNRF9vZGNNamlQX3J5Vlk4Yjk4bkotalVHUi1B?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops arrest 14 suspected terrorists, recover ammunition in Benue clearance operation - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 7.3076,
+        "lng": 8.7478,
+        "location": "Ammunition Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYTNILW0yVGxjSE1NbEhDUFFDYTc2THB0YWdGdlkydkxyX211eHlwNjR6a1VhNUdtc2ktbWx1S1N2aVdHMVVXM0NuY1pmTVZ4M2RlZXJCYXFaVWFqMlUzbUxfRFN3N0dtam5ya1hxd0gwQ1BOVHd6S2IySkF2RkROaUd5NXBTRVVaYW5kY1dPaTlCTHpZYjQzTHVFUEJSN2NJc3RiZEo3ZEhwZWtNSnF5NzVTRTFJMEpxUjF3SkdQeUJFXzhQTmU5cjFn?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops arrest two suspected gunrunners, recover motorcycles and cash in Benue - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-07-31",
+        "lat": 7.2838,
+        "lng": 8.7039,
+        "location": "Cash Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRXBKTkl0eWtSVXJHblFXNXZIX2ExZXNlVjVod09JMFR6U0l0Z2l4N2QwMm5xZDVNaVhCeUtKMXBQanZOTGZyUllwX3ZoZzIwZUthRDdMZEJlclNScDZjV0UzMVZwd0x4ZXZTS0hTQjJiWXExbEluZnFlRlJUN2lDMnpqTUJuWmhMMEdKTno1ZXFwNnBhU29oVHhTV08taGtFZkhtZktyUXkzUWVRZms4aWVZZVhWMmFPeEk2QTFR?oc=5"
     }
 ]
