@@ -4013,5 +4013,60 @@
         "location": "Zamfara State",
         "source": "Leadership News",
         "url": "https://leadership.ng/zamfara-police-joint-forces-repel-bandits-on-major-highway/"
+    },
+    {
+        "title": "Police nab alleged kingpin behind N1bn luxury car scam in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-01",
+        "lat": 6.5416,
+        "lng": 3.3737,
+        "location": "Scam Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-nab-alleged-kingpin-behind-n1bn-exotic-car-scam-in-lagos/"
+    },
+    {
+        "title": "Edo probes worker’s death after factory unrest",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-01",
+        "lat": 6.4421,
+        "lng": 6.001,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/edo-probes-workers-death-after-factory-unrest/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Court awards journalist N12 million damages against police for illegal arrest, detention",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-01",
+        "lat": 9.1134,
+        "lng": 7.4592,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/900002-court-awards-journalist-n12-million-damages-against-police-for-illegal-arrest-detention.html"
+    },
+    {
+        "title": "Two Arrested Over Alleged Illegal Revenue Collection in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-01",
+        "lat": 6.5269,
+        "lng": 5.9906,
+        "location": "Collection Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/two-arrested-over-alleged-illegal-revenue-collection-in-edo/"
+    },
+    {
+        "title": "Army rescues 14 kidnapped victims in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-01",
+        "lat": 6.5574,
+        "lng": 6.0266,
+        "location": "Victims Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/army-rescues-14-kidnapped-victims-in-edo/"
     }
 ]
