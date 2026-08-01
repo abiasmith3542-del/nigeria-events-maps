@@ -4222,5 +4222,60 @@
         "location": "Thief Area, Enugu State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-arraign-suspected-vehicle-battery-thief-in-enugu/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police probe video of officers attacking gold seller in Lagos",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-01",
+        "lat": 6.4704,
+        "lng": 3.4321,
+        "location": "Seller Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-probe-video-of-officers-attacking-gold-seller-in-lagos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2027: Be Wary Of Political Hijackers, Kwara APC Chieftains Tell Youths",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-01",
+        "lat": 8.5569,
+        "lng": 4.5829,
+        "location": "Kwara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/2027-be-wary-of-political-hijackers-kwara-apc-chieftains-tell-youths/"
+    },
+    {
+        "title": "Police gun down suspected bandit, recover AK-47, motorcycle in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-01",
+        "lat": 12.5666,
+        "lng": 7.6144,
+        "location": "Motorcycle Area, Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-gun-down-suspected-bandit-recover-ak-47-motorcycle-in-katsina/"
+    },
+    {
+        "title": "Police recover solar inverters worth ₦59.2m in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-01",
+        "lat": 12.056,
+        "lng": 8.643,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-recover-solar-inverters-worth-%e2%82%a659-2m-in-kano/"
+    },
+    {
+        "title": "Zagazola Makama - Troops rescue two kidnapped victims in Zamfara - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 12.1059,
+        "lng": 6.1767,
+        "location": "Victims Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDBHSGctMV85N1FSakdYcExhWlhGZlNuRmZNTVpaejlUVmU0Zl9NVzgtOUJLUW5oUmRtdzNxUE5VLWJHOWhuLVlmSFhvOWVUaC1zT2pNUWNMeTg4S01oMEtkb0pScTZnbmJQMUlYcVg0QmFrM1Q3RzNOZ1dPbkhvR2hiZVhlNEpBY2FZOXJwaXkyZS13bVE?oc=5"
     }
 ]
