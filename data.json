@@ -4200,5 +4200,27 @@
         "location": "Gombe State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ybXZ2bnBZMzc3RVFSc3cyeUdRS2dqQU0ySVFDLVBfZThPeFlNdF9wMkRrblNMY1JOVTJablhOUW5zdlFULU9pbnY1eGJWQmVQTVlmcllkRG9jNnkydFBJampyYnNzY04zdXF3?oc=5"
+    },
+    {
+        "title": "Police arrest two suspected kidnappers in Anambra",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-01",
+        "lat": 6.1864,
+        "lng": 7.0544,
+        "location": "Kidnappers Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-suspected-kidnappers-in-anambra-3/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arraign suspected vehicle battery thief in Enugu",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-01",
+        "lat": 6.5206,
+        "lng": 7.4863,
+        "location": "Thief Area, Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arraign-suspected-vehicle-battery-thief-in-enugu/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
