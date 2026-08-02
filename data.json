@@ -4112,5 +4112,49 @@
         "location": "Operation Area, Enugu State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VekU0XzVQdjBzWndzS0E2X0ptdUJfVHNnTkFCVm5uTlIwRlhFRU1sQUh6dF9pM000Y1NrSXl5QzJYaDQzYjF4dmNTeGs5MnEwSnNneHBvb2xXUTBXWTQ3QWQ4U1Z3MUZVaTRlMA?oc=5"
+    },
+    {
+        "title": "Gunmen attack Enugu church as security operatives intensify rescue of abducted victims",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 6.4625,
+        "lng": 7.5147,
+        "location": "Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/gunmen-attack-enugu-church-as-security-operatives-intensify-rescue-of-abducted-victims/"
+    },
+    {
+        "title": "Southern Kaduna Massacre: ‘We Failed to Protect Them,’ Bishop laments as 27 victims buried",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 10.5239,
+        "lng": 7.4875,
+        "location": "Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/southern-kaduna-massacre-we-failed-to-protect-them-bishop-laments-as-27-victims-buried/"
+    },
+    {
+        "title": "Bandit kingpin Idi Abasu Aiki, 60 others killed in Katsina raid",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 12.5057,
+        "lng": 7.6215,
+        "location": "Killed Area, Katsina State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/bandit-kingpin-idi-abasu-aiki-60-others-killed-in-katsina-raid/"
+    },
+    {
+        "title": "INVESTIGATION: Civilian Deaths, Injuries and other Untold Stories of the Shiroro Airstrike - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-02",
+        "lat": 9.9593,
+        "lng": 6.0448,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4SndOSGYyWnhBUndYSERhTDgxUzRzUFNlUVQyZGd0OUIxdWdFRjk5SXZRV1d5VWZfVERkU0N0aE1CV2VtN051aWdWSzNQV1pCdW83TW9QS250cS0zVC1jdUR3RWpySHUzMV9lY3ZqWHg?oc=5"
     }
 ]
