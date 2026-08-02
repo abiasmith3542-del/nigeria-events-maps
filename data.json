@@ -4090,5 +4090,27 @@
         "location": "Osun State",
         "source": "Punch Metro",
         "url": "https://punchng.com/osun-poll-deal-with-troublemakers-ex-lawmaker-tells-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Lagos CP probes viral video of police officers assaulting gold seller",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-02",
+        "lat": 6.5553,
+        "lng": 3.4129,
+        "location": "Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/lagos-cp-probes-viral-video-of-police-officers-assaulting-gold-seller/"
+    },
+    {
+        "title": "Army Rescues Abducted Army Officer, Civilian After 10-Day Search Operation in Enugu - prnigeria.com",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 6.5178,
+        "lng": 7.4814,
+        "location": "Operation Area, Enugu State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VekU0XzVQdjBzWndzS0E2X0ptdUJfVHNnTkFCVm5uTlIwRlhFRU1sQUh6dF9pM000Y1NrSXl5QzJYaDQzYjF4dmNTeGs5MnEwSnNneHBvb2xXUTBXWTQ3QWQ4U1Z3MUZVaTRlMA?oc=5"
     }
 ]
