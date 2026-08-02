@@ -4156,5 +4156,49 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4SndOSGYyWnhBUndYSERhTDgxUzRzUFNlUVQyZGd0OUIxdWdFRjk5SXZRV1d5VWZfVERkU0N0aE1CV2VtN051aWdWSzNQV1pCdW83TW9QS250cS0zVC1jdUR3RWpySHUzMV9lY3ZqWHg?oc=5"
+    },
+    {
+        "title": "Suspected Lakurawa Bandits Kill 12, Burn 6 Alive In Sokoto Attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 13.0917,
+        "lng": 5.2683,
+        "location": "Alive Area, Sokoto State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/suspected-lakurawa-bandits-kill-12-burn-6-alive-in-sokoto-attack/"
+    },
+    {
+        "title": "Army, Vigilantes Rescue 4 Abducted Kogi Residents",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 7.8153,
+        "lng": 6.6841,
+        "location": "Kogi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/army-vigilantes-rescue-4-abducted-kogi-residents/"
+    },
+    {
+        "title": "Bandits Abduct Over 70, Kill Security Operatives In Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 12.0904,
+        "lng": 6.2575,
+        "location": "Operatives Area, Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bandits-abduct-over-70-kill-security-operatives-in-zamfara/"
+    },
+    {
+        "title": "Fulani Herders Allege Extortion, Illegal Seizure Of Livestock By Oyo Enforcement Agency",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 7.9873,
+        "lng": 3.9537,
+        "location": "Oyo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/fulani-herders-allege-extortion-illegal-seizure-of-livestock-by-oyo-enforcement-agency/"
     }
 ]
