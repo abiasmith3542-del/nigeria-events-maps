@@ -3980,5 +3980,60 @@
         "location": "Zamfara State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/6-soldiers-killed-75-residents-abducted-as-bandits-attack-zamfara-community/"
+    },
+    {
+        "title": "Anambra security outfit dislodges gunmen’s camps, recovers rocket launchers",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-02",
+        "lat": 6.2127,
+        "lng": 6.9524,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/anambra-security-outfit-dislodges-gunmens-camps-recovers-rocket-launchers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Otti, police celebrate ex-Abia CP’s promotion",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-02",
+        "lat": 5.4006,
+        "lng": 7.5214,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/otti-police-celebrate-ex-abia-cps-promotion/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "One killed, 31 abducted in fresh bandit attack on Katsina Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 12.5363,
+        "lng": 7.6295,
+        "location": "Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/one-killed-31-abducted-in-fresh-bandit-attack-on-katsina-community/"
+    },
+    {
+        "title": "Father, sons Burnt Alive as Bandits Attack Sokoto Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 13.0405,
+        "lng": 5.2214,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/father-sons-burnt-alive-as-bandits-attack-sokoto-community/"
+    },
+    {
+        "title": "166 Drug Suspects Arrested as Edo NDLEA Recovers 5.7 Tonnes of Narcotics",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-02",
+        "lat": 6.4666,
+        "lng": 6.051,
+        "location": "Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/166-drug-suspects-arrested-as-edo-ndlea-recovers-5-7-tonnes-of-narcotics/"
     }
 ]
