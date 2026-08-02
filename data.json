@@ -3947,5 +3947,27 @@
         "location": "Kwara State",
         "source": "The Cable NG",
         "url": "https://www.thecable.ng/newspaper-headlines-families-recount-ordeal-as-bandits-raid-kwara-community/"
+    },
+    {
+        "title": "Probe alleged ₦6.79bn police funds scandal, recover missing firearms’, SERAP tells Tinubu",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-02",
+        "lat": 9.0711,
+        "lng": 7.4675,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/probe-alleged-%e2%82%a66-79bn-police-funds-scandal-recover-missing-firearms-serap-tells-tinubu/"
+    },
+    {
+        "title": "Police hold shooting drill in Jigawa, urge calm",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-02",
+        "lat": 11.9873,
+        "lng": 9.7569,
+        "location": "Drill Area, Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-hold-shooting-drill-in-jigawa-urge-calm/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
