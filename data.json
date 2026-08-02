@@ -3969,5 +3969,16 @@
         "location": "Drill Area, Jigawa State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-hold-shooting-drill-in-jigawa-urge-calm/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "6 soldiers killed, 75 residents abducted as bandits attack Zamfara community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 12.0836,
+        "lng": 6.1781,
+        "location": "Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/6-soldiers-killed-75-residents-abducted-as-bandits-attack-zamfara-community/"
     }
 ]
