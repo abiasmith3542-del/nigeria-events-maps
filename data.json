@@ -4035,5 +4035,49 @@
         "location": "Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/166-drug-suspects-arrested-as-edo-ndlea-recovers-5-7-tonnes-of-narcotics/"
+    },
+    {
+        "title": "ASUU branch gives Kebbi Govt, university board two weeks strike notice",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-02",
+        "lat": 11.4662,
+        "lng": 4.2304,
+        "location": "Kebbi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/asuu-branch-gives-kebbi-govt-university-board-two-weeks-strike-notice/"
+    },
+    {
+        "title": "Soldier, police officer killed as army rescues nine abductees in Zamfara",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 12.1081,
+        "lng": 6.23,
+        "location": "Abductees Area, Zamfara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldier-police-officer-killed-as-army-rescues-nine-abductees-in-zamfara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "New Jersey Police Officer Dresses as Shrub to Catch Texting Drivers, 74 Ticketed in Six Hours",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-02",
+        "lat": 4.7646,
+        "lng": 6.8028,
+        "location": "Rivers State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/new-jersey-police-officer-dresses-as-shrub-to-catch-texting-drivers-74-ticketed-in-six-hours/"
+    },
+    {
+        "title": "Military Foils Terrorist Attack on Zamfara Base, Rescues 9 Abductees, Loses Officer - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 10.0466,
+        "lng": 6.0139,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnR3RtbzR6eThES3dhaXJoNXR3Y1BGY29XenJwc1pKRGtPM0FYYVliSHNUUnlQSG1tVk9YeGptT2dnbmowMmI3NlFWSzZXZzdIOTdnNzhJZzJnZ1JnMndKN3lDcTQwWXM2NDBUTw?oc=5"
     }
 ]
