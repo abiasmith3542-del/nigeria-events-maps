@@ -3914,5 +3914,38 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/who-declares-dr-congos-ebola-outbreak-worst-on-record/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Suspected political thugs attack journalists in Ebonyi",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 6.2983,
+        "lng": 7.9794,
+        "location": "Journalists Area, Ebonyi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/suspected-political-thugs-attack-journalists-in-ebonyi/"
+    },
+    {
+        "title": "Nigeria deploys troops to Guinea-Bissau for ECOWAS peace mission ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-02",
+        "lat": 9.9804,
+        "lng": 5.9588,
+        "location": "Niger State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/nigeria-deploys-troops-to-guinea-bissau-for-ecowas-peace-mission/"
+    },
+    {
+        "title": "Newspaper Headlines:  Families recount ordeal as bandits raid Kwara community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-02",
+        "lat": 8.5019,
+        "lng": 4.4936,
+        "location": "Kwara State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/newspaper-headlines-families-recount-ordeal-as-bandits-raid-kwara-community/"
     }
 ]
