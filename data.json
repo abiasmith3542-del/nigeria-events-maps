@@ -3848,5 +3848,27 @@
         "location": "Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/gunmen-kill-former-plateau-councillor/"
+    },
+    {
+        "title": "Police arrest three robbery suspects in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 7.941,
+        "lng": 3.9609,
+        "location": "Suspects Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-robbery-suspects-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police warn officers in Ebonyi against extortion, unlawful phone searches",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 6.2181,
+        "lng": 7.9661,
+        "location": "Officers Area, Ebonyi State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/900431-police-warn-officers-in-ebonyi-against-extortion-unlawful-phone-searches.html"
     }
 ]
