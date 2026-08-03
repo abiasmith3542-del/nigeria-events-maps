@@ -3705,5 +3705,27 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/army-trains-bomb-disposal-experts-to-tackle-ied-threat-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "DSS, community vigilantes neutralize bandit kingpin Idi Abasu Aiki, 60 others in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-03",
+        "lat": 12.4653,
+        "lng": 7.5833,
+        "location": "Others Area, Katsina State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/dss-community-vigilantes-neutralize-bandit-kingpin-idi-abasu-aiki-60-others-in-katsina/"
+    },
+    {
+        "title": "Bandits kill security operatives in Zamfara, abduct 70 residents - The Guardian Nigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-03",
+        "lat": 9.9485,
+        "lng": 5.9971,
+        "location": "Niger State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdERmam9wYVBaSXJTMUZSb0xRRDhsN05SUkh2SFFvTTFLTUZ6S1hWcUkzUHpSdjA1NjFpbk1DTUh1UWVlX0pZWlpKLVFxQl9rNkstSDlZTXRxVElKelp5dTF2ckZXMURXc2FuLXIzZTZxeEdzRHlwYWtKa1BoMFQwMFNOLXkzLTV0SXE2czhMWUNOUlk?oc=5"
     }
 ]
