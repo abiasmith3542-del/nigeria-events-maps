@@ -3793,5 +3793,60 @@
         "location": "Operatives Area, Zamfara State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdERmam9wYVBaSXJTMUZSb0xRRDhsN05SUkh2SFFvTTFLTUZ6S1hWcUkzUHpSdjA1NjFpbk1DTUh1UWVlX0pZWlpKLVFxQl9rNkstSDlZTXRxVElKelp5dTF2ckZXMURXc2FuLXIzZTZxeEdzRHlwYWtKa1BoMFQwMFNOLXkzLTV0SXE2czhMWUNOUlk?oc=5"
+    },
+    {
+        "title": "Troops exhume remains of slain Imo community leader from shallow grave",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 5.4455,
+        "lng": 6.9781,
+        "location": "Imo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-exhume-remains-of-slain-imo-community-leader-from-shallow-grave/"
+    },
+    {
+        "title": "It’s armed robbery, Frank Edoho decries soaring Lagos real estate prices",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 6.5419,
+        "lng": 5.965,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/its-armed-robbery-frank-edoho-decries-soaring-lagos-real-estate-prices/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "VIDEO: Police rescue man from mob over one chance robbery allegations in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 4.8054,
+        "lng": 6.7816,
+        "location": "Allegations Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2206272-2video-police-rescue-man-from-mob-over-one-chance-robbery-allegations-in-rivers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill ex-councillor in Plateau community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 9.5501,
+        "lng": 9.4788,
+        "location": "Councillor Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-kill-ex-councillor-in-plateau-community/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill former Plateau councillor",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 9.5345,
+        "lng": 9.4729,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-former-plateau-councillor/"
     }
 ]
