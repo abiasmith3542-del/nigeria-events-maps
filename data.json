@@ -3914,5 +3914,38 @@
         "location": "Enclave Area, Benue State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90Ym5RS2VnSEJqQWRjWFh6REpITmpkM0huazMyZ05CR1B4VzY3c3o3ZWI3Z3JtTnZ3NVRWbHNmRGllNzhGdkJ6aEdsYmVrZzZobERkczh6dDZjQTFWdlBKSFZCOFpqdF80QXhyT2hn?oc=5"
+    },
+    {
+        "title": "Troops begin surveillance as IMN holds annual procession in Kaduna",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 10.4468,
+        "lng": 7.4979,
+        "location": "Procession Area, Kaduna State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/troops-begin-surveillance-as-imn-holds-annual-procession-in-kaduna/"
+    },
+    {
+        "title": "Delta: Police Rescue Trafficking Victim From Côte d’Ivoire, Arrest Suspect",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 5.4653,
+        "lng": 6.0516,
+        "location": "Delta State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/delta-police-rescue-trafficking-victim-from-cote-divoire-arrest-suspect/"
+    },
+    {
+        "title": "Gridlock as Cattle-Laden Trailer Overturns in Gombe",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-03",
+        "lat": 10.2578,
+        "lng": 11.2088,
+        "location": "Overturns Area, Gombe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gridlock-as-cattle-laden-trailer-overturns-in-gombe/"
     }
 ]
