@@ -3683,5 +3683,27 @@
         "location": "Blackout Area, Ogun State",
         "source": "Punch Metro",
         "url": "https://punchng.com/residents-turn-vigilantes-over-11-month-blackout-in-ogun-communities/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Speeding driver killed in Lagos road crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-03",
+        "lat": 6.5719,
+        "lng": 3.401,
+        "location": "Killed Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/speeding-driver-killed-in-lagos-road-crash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Army trains bomb disposal experts to tackle IED threat",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-03",
+        "lat": 9.0609,
+        "lng": 7.5117,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/army-trains-bomb-disposal-experts-to-tackle-ied-threat-2/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
