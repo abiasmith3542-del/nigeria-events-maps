@@ -3771,5 +3771,27 @@
         "location": "Sokoto State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/900362-16-feared-killed-in-weekend-attacks-on-sokoto-communities.html"
+    },
+    {
+        "title": "Bandits kill one, abduct 31 in latest attack on Katsina communities",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-03",
+        "lat": 12.554,
+        "lng": 7.6561,
+        "location": "Katsina State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/900385-bandits-kill-one-abduct-31-in-latest-attack-on-katsina-communities.html"
+    },
+    {
+        "title": "Bandits kill security operatives in Zamfara, abduct 70 residents - guardian.ng",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-03",
+        "lat": 12.1715,
+        "lng": 6.171,
+        "location": "Operatives Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdERmam9wYVBaSXJTMUZSb0xRRDhsN05SUkh2SFFvTTFLTUZ6S1hWcUkzUHpSdjA1NjFpbk1DTUh1UWVlX0pZWlpKLVFxQl9rNkstSDlZTXRxVElKelp5dTF2ckZXMURXc2FuLXIzZTZxeEdzRHlwYWtKa1BoMFQwMFNOLXkzLTV0SXE2czhMWUNOUlk?oc=5"
     }
 ]
