@@ -3947,5 +3947,27 @@
         "location": "Overturns Area, Gombe State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/gridlock-as-cattle-laden-trailer-overturns-in-gombe/"
+    },
+    {
+        "title": "Nigerian troops uncover shallow grave, exhume remains of late community leader",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 9.9413,
+        "lng": 5.9693,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/900505-nigerian-troops-uncover-shallow-grave-exhume-remains-of-late-community-leader.html"
+    },
+    {
+        "title": "Cholera Outbreak Reportedly Kills 6 Bandits In Zamfara Hideout",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-03",
+        "lat": 12.1275,
+        "lng": 6.2718,
+        "location": "Bandits Area, Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/cholera-outbreak-reportedly-kills-6-bandits-in-zamfara-hideout/"
     }
 ]
