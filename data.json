@@ -3870,5 +3870,49 @@
         "location": "Officers Area, Ebonyi State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/900431-police-warn-officers-in-ebonyi-against-extortion-unlawful-phone-searches.html"
+    },
+    {
+        "title": "Osun poll: Uzodimma sets Thursday deadline for APC subcommittee resolutions",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-03",
+        "lat": 7.4951,
+        "lng": 4.4467,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/osun-poll-uzodimma-sets-thursday-deadline-for-apc-subcommittee-resolutions/"
+    },
+    {
+        "title": "Police arrest six suspects, recover stolen items in Sokoto",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 13.0078,
+        "lng": 5.1954,
+        "location": "Items Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-six-suspects-recover-stolen-items-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "State police bill ready for Tinubu’s review Sept 3 — Gbajabiamila",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 5.4605,
+        "lng": 7.4926,
+        "location": "Abia State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/state-police-bill-ready-for-tinubus-review-sept-3-gbajabiamila/"
+    },
+    {
+        "title": "Military Destroys Terrorist Enclave in Benue, Arrest Six Suspects in Joint Operations - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-03",
+        "lat": 7.3199,
+        "lng": 8.7943,
+        "location": "Enclave Area, Benue State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90Ym5RS2VnSEJqQWRjWFh6REpITmpkM0huazMyZ05CR1B4VzY3c3o3ZWI3Z3JtTnZ3NVRWbHNmRGllNzhGdkJ6aEdsYmVrZzZobERkczh6dDZjQTFWdlBKSFZCOFpqdF80QXhyT2hn?oc=5"
     }
 ]
