@@ -3397,5 +3397,49 @@
         "location": "Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzUxR0FiZHdNV2lQck1fNW5KaFlOWGNnOGVGdkx3UzEzcE4xYXUySk9ieklZbWpaNEdzZk9GeWFVbEZQRnFPeWZPOEFWVnQ4M29ZSDFKVzJCbHBtSE1FLTN2TDdfWVZwaXFTZHlaSWNOczRTbjFOa0RIa0lqTHNROU5vRTlVTTdranp3RnZkR1JKYzVobWhGRGJPOEpXcnM?oc=5"
+    },
+    {
+        "title": "Police officer, two others die as bandits raid Sokoto village",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 13.0212,
+        "lng": 5.2204,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-officer-two-others-die-as-bandits-raid-sokoto-village/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police probe military shooting of Adamawa businessman",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 9.3315,
+        "lng": 12.5079,
+        "location": "Adamawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-probe-military-shooting-of-adamawa-businessman/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Tinubu to receive draft state police bill on 3 September – Gbajabiamila says",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 5.3655,
+        "lng": 7.5506,
+        "location": "Abia State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/900595-tinubu-to-receive-draft-state-police-bill-on-3-september-gbajabiamila-says.html"
+    },
+    {
+        "title": "State Police: Nigerian govt announces roadmap, calls for public contribution",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 9.9481,
+        "lng": 5.9669,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/900569-state-police-nigerian-govt-announces-roadmap-calls-for-public-contribution.html"
     }
 ]
