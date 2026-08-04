@@ -3441,5 +3441,49 @@
         "location": "Niger State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/headlines/900569-state-police-nigerian-govt-announces-roadmap-calls-for-public-contribution.html"
+    },
+    {
+        "title": "Hajj 2027: Kano pilgrims board sets deadline for passport submission",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 11.9527,
+        "lng": 8.5742,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/hajj-2027-kano-pilgrims-board-sets-deadline-for-passport-submission/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest five over burglary, cannabis possession in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 10.5328,
+        "lng": 9.9617,
+        "location": "Possession Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-five-over-burglary-cannabis-possession-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abducted LG chairman’s brother dies from gunshot wounds in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 12.1159,
+        "lng": 6.1705,
+        "location": "Wounds Area, Zamfara State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/900600-abducted-lg-chairmans-brother-dies-from-gunshot-wounds-in-zamfara.html"
+    },
+    {
+        "title": "JUST- IN:Suspected Armed Herdsmen Kill 3, Injure Several In Fresh Benue Attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 7.3277,
+        "lng": 8.7961,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/just-insuspected-armed-herdsmen-kill-3-injure-several-in-fresh-benue-attack/"
     }
 ]
