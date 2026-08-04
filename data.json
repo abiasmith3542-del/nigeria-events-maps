@@ -3485,5 +3485,71 @@
         "location": "Benue State",
         "source": "Leadership News",
         "url": "https://leadership.ng/just-insuspected-armed-herdsmen-kill-3-injure-several-in-fresh-benue-attack/"
+    },
+    {
+        "title": "Security agencies probe murder, robbery of poly students in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 7.0543,
+        "lng": 3.5523,
+        "location": "Students Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/security-agencies-probe-murder-robbery-of-poly-students-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Army arrests four Boko Haram logistics suppliers in Borno ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 11.8863,
+        "lng": 13.1172,
+        "location": "Suppliers Area, Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/army-arrests-four-boko-haram-logistics-suppliers-in-borno/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest two suspected robbers in Lagos, recover gun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 6.5043,
+        "lng": 3.3583,
+        "location": "Robbers Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-suspected-robbers-in-lagos-recover-gun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Two deaths recorded as US battles Cyclosporiasis outbreak",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-04",
+        "lat": 8.9889,
+        "lng": 7.488,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/health/health-news/900614-two-deaths-recorded-as-us-battles-cyclosporiasis-outbreak.html"
+    },
+    {
+        "title": "Troops Arrest Four B'Haram, ISWAP Collaborators, Intercept 20 JAS Family Members in Borno, Yobe - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 11.8789,
+        "lng": 13.2007,
+        "location": "Members Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OWXhGb0RYZTl4NU5UcmRodHFhV3lRSTJ5VzRnR3d3ZDUxUkFoSWVMajJHWnpGM0JBNVVUOHBLeThTbzNwb1RwUVdoSlFfZm1EVG0zSWktdmp3aXNkei1rTklfdnB0VF9XbXc?oc=5"
+    },
+    {
+        "title": "PHOTO: Gunmen Ambush Security Patrol, Kill Police Inspector, NAF Personnel in Plateau - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 9.5039,
+        "lng": 9.5374,
+        "location": "Personnel Area, Plateau State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10dnNKUnFTdnhVZm5fUEh6d0VoVHg5Qjc2RksteXpjSHZBelEwWk1uTkUtOFh0UTNhUVUzUERJQ0NNZnh4c2w2VF9VeEl3T0xXLWZFSGV4VEZRSHFEM1FESnVnUXBWajJLOGFMNksxSQ?oc=5"
     }
 ]
