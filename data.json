@@ -3551,5 +3551,82 @@
         "location": "Personnel Area, Plateau State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10dnNKUnFTdnhVZm5fUEh6d0VoVHg5Qjc2RksteXpjSHZBelEwWk1uTkUtOFh0UTNhUVUzUERJQ0NNZnh4c2w2VF9VeEl3T0xXLWZFSGV4VEZRSHFEM1FESnVnUXBWajJLOGFMNksxSQ?oc=5"
+    },
+    {
+        "title": "Explosion kills ISWAP bombmakers, medical officer, Arab IED experts in Borno",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 11.832,
+        "lng": 13.1575,
+        "location": "Experts Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/explosion-kills-iswap-bomb-experts-medical-officer-arab-ied-experts-in-borno/"
+    },
+    {
+        "title": "Gunmen ambush joint security patrol in Plateau, kill two operatives",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 9.4939,
+        "lng": 9.5057,
+        "location": "Patrol Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/gunmen-ambush-joint-security-patrol-in-plateau-kill-two-operatives/"
+    },
+    {
+        "title": "Police nab three over murder of two cops in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 4.7312,
+        "lng": 6.7894,
+        "location": "Cops Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-three-over-murder-of-two-cops-in-rivers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police kill kidnappers, arrest suspects, recover fake dollars in Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 10.4941,
+        "lng": 7.5446,
+        "location": "Dollars Area, Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-kill-kidnappers-arrest-suspects-recover-fake-dollars-in-kaduna/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen ambush, kill two security operatives in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 9.4639,
+        "lng": 9.5012,
+        "location": "Operatives Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-ambush-kill-two-security-operatives-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Suspected armed herders kill four in Benue attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 7.2956,
+        "lng": 8.699,
+        "location": "Four Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/suspected-armed-herders-kill-four-in-benue-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "‎Ondo Amotekun rescues two Fulani herders",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 7.2847,
+        "lng": 5.1684,
+        "location": "Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ondo-amotekun-rescues-two-fulani-herders/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
