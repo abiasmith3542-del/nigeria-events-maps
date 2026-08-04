@@ -3727,5 +3727,49 @@
         "location": "Kebbi State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-arrest-two-in-kebbi-over-abduction-of-military-recruits/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nine killed, eight injured in Bauchi highway crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 10.4581,
+        "lng": 10.012,
+        "location": "Injured Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nine-killed-eight-injured-in-bauchi-highway-crash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Five suspected ISWAP fighters killed in Borno explosion",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 11.8256,
+        "lng": 13.124,
+        "location": "Killed Area, Borno State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/five-suspected-iswap-fighters-killed-in-borno-explosion/"
+    },
+    {
+        "title": "Zamfara Police, Joint Security Team Arrest 48 Suspects In Gusau Raids",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 12.1131,
+        "lng": 6.2406,
+        "location": "Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/zamfara-police-joint-security-team-arrest-48-suspects-in-gusau-raids/"
+    },
+    {
+        "title": "Zagazola Makama - Troops Arrest Suspected Boko Haram Fighter Linked to May Attack on Military School in Yobe - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 11.9854,
+        "lng": 11.5028,
+        "location": "School Area, Yobe State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUGpPR01CaDRPR1NfTG12R0RnaF9Ld0Raa0Z6QlQzUlZzbHNtQ2JKYjUxZHZmdFctUlA0dk5hUlZKZXM5ekVEX0FnV1lvdUJVSlgwcS13VlZnZE9BUWJhSDlVOE9VdWNCSllNTFc3UXRHUWhuS1ZtXzdHM2VhUU84T2tUX0xfd3pXT18yNXY5VFRxTENzaDVkS0hBTXlLMkRHUm9vajdaWEdWZG9qYnBWU3Jsb1RtaUo4Zkh3OGJpVHlVYVpyWGdDaGgzbkEyaXBV?oc=5"
     }
 ]
