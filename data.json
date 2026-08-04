@@ -3628,5 +3628,93 @@
         "location": "Ondo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/ondo-amotekun-rescues-two-fulani-herders/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NIS arrests 12 suspects over alleged QNET-linked fraud network",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 9.0605,
+        "lng": 7.4462,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/nis-arrests-12-suspects-over-alleged-qnet-linked-fraud-network/"
+    },
+    {
+        "title": "Troops foil terrorists’ infiltration of Zamfara base, rescue nine abductees",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 12.169,
+        "lng": 6.1765,
+        "location": "Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-foil-terrorists-infiltration-of-zamfara-base-rescue-nine-abductees/"
+    },
+    {
+        "title": "Police arrest three suspects over killing of two officers in Rivers, recover stolen rifles",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 4.8018,
+        "lng": 6.8373,
+        "location": "Officers Area, Rivers State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-three-suspects-over-killing-of-two-officers-in-rivers-recover-stolen-rifles/"
+    },
+    {
+        "title": "Resident doctors set to suspend planned strike after talks with Gbajabiamila",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-04",
+        "lat": 5.3891,
+        "lng": 7.4678,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/resident-doctors-set-to-suspend-planned-strike-after-talks-with-gbajabiamila/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abiodun hails IG for deploying police aircraft to Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 7.0453,
+        "lng": 3.4584,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/abiodun-hails-ig-for-deploying-police-aircraft-to-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Neutralise Kidnappers, Arrest 16 Suspects In Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 10.4844,
+        "lng": 7.4438,
+        "location": "Suspects Area, Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-neutralise-kidnappers-arrest-16-suspects-in-kaduna/"
+    },
+    {
+        "title": "Bandits kill ASP, set two patrol vehicles ablaze in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 13.0894,
+        "lng": 5.1734,
+        "location": "Ablaze Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-asp-set-two-patrol-vehicles-ablaze-in-sokoto/"
+    },
+    {
+        "title": "Police Invite VeryDarkMan Over Allegations Against AIG Moshood Jimoh - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-04",
+        "lat": 5.4906,
+        "lng": 7.0538,
+        "location": "Imo State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JRTdaS1VJTjl0cEtfWVY5SWVjZGZaTjIzRTE4NG1waXhQWUd6Y0xXdkJtbVBhR0JHNjJzNzhvSkxRVjNkbGJ2WF9GbkdSNDBzN1R0c1dFQm5DMG82UkJ1OGlMZmpOWE5NSDVXQVlXVTNodw?oc=5"
     }
 ]
