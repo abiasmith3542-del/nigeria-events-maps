@@ -3375,5 +3375,27 @@
         "location": "Oyo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/pension-row-oyo-retirees-threaten-protest-against-varsity-teaching-hospital/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "B/Haram: Borno truckers lament attacks on trucks, trailers",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 11.8824,
+        "lng": 13.1209,
+        "location": "Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/b-haram-borno-truckers-lament-attacks-on-trucks-trailers/"
+    },
+    {
+        "title": "Bandits kidnap 31 in fresh Katsina attack, kill former Plateau legislator - The Guardian Nigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 9.4645,
+        "lng": 9.5215,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzUxR0FiZHdNV2lQck1fNW5KaFlOWGNnOGVGdkx3UzEzcE4xYXUySk9ieklZbWpaNEdzZk9GeWFVbEZQRnFPeWZPOEFWVnQ4M29ZSDFKVzJCbHBtSE1FLTN2TDdfWVZwaXFTZHlaSWNOczRTbjFOa0RIa0lqTHNROU5vRTlVTTdranp3RnZkR1JKYzVobWhGRGJPOEpXcnM?oc=5"
     }
 ]
