@@ -3353,5 +3353,27 @@
         "location": "Benue State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-say-investigating-alleged-abduction-of-benue-catholic-seminarian/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "114 attacks leave 1,932 dead in N’East – Report",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-04",
+        "lat": 9.0322,
+        "lng": 7.5113,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/114-attacks-leave-1932-dead-in-neast-report/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Pension row: Oyo retirees threaten protest against varsity, teaching hospital",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-04",
+        "lat": 8.0491,
+        "lng": 3.9923,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/pension-row-oyo-retirees-threaten-protest-against-varsity-teaching-hospital/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
