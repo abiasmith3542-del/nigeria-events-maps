@@ -3551,5 +3551,170 @@
         "location": "Watch Area, Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/gunmen-kill-3-brothers-on-community-watch-in-plateau/"
+    },
+    {
+        "title": "Just In: 176 victims abducted in Kwara released – State govt",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-05",
+        "lat": 8.4998,
+        "lng": 4.5302,
+        "location": "Abducted Area, Kwara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/just-in-176-victims-abducted-in-kwara-released-state-govt/"
+    },
+    {
+        "title": "Kano police arrest five over alleged unauthorised distribution of local medicine",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-05",
+        "lat": 11.9758,
+        "lng": 8.6084,
+        "location": "Kano State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/kano-police-arrest-five-over-alleged-unauthorised-distribution-of-local-medicine/"
+    },
+    {
+        "title": "Police arrest another suspect over killing of UNIJOS graduate Ibrahim Mbaya",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-05",
+        "lat": 9.8655,
+        "lng": 8.8691,
+        "location": "Jos, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-another-suspect-over-killing-of-unijos-graduate-ibrahim-mbaya/"
+    },
+    {
+        "title": "Osun election: Police deploy 15,000 personnel DIG, AIGs, CPs for August 15 poll",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-05",
+        "lat": 7.558,
+        "lng": 4.4689,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/osun-election-police-deploy-15000-personnel-dig-aigs-cps-for-august-15-poll/"
+    },
+    {
+        "title": "BREAKING: 176 victims abducted in Kwara regain freedom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-05",
+        "lat": 6.4499,
+        "lng": 6.0475,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/breaking-176-victims-abducted-in-kwara-regain-freedom/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police foil kidnap plot in Delta community, arrest suspects",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-05",
+        "lat": 5.551,
+        "lng": 5.9539,
+        "location": "Plot Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-foil-kidnap-plot-in-delta-community-arrest-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "COREN Okays Debris Evacuation At Collapsed Gombe Assembly, Continues Probe",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-05",
+        "lat": 10.269,
+        "lng": 11.1628,
+        "location": "Gombe State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/coren-okays-debris-evacuation-at-collapsed-gombe-assembly-continues-probe/"
+    },
+    {
+        "title": "Zagazola Makama - Troops Foil Terrorist Infiltration Along Gujba–Buni Yadi Road in Yobe - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-05",
+        "lat": 12.0029,
+        "lng": 11.5228,
+        "location": "Road Area, Yobe State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYV9qbENSUlVMWFNXdllmTDkxS3NoNTF3TGg5aE5qdmx0Q0lQUWh1bVAxM3hjdlB4bVZJNDJReU82a25hbXdGQWZZNWc2RHdBSlYyNms0UkREbXNDX01qdXMySE1nQjdYU09LM2JfZHh4TkFHOWphakVOa0tWZ1BCODR4R1BhQi1jZ09YRGRKaWFkU3VXQ1NCaUJJTzdGOV9UcEViOUpyTjdoRFVtXzUtMkswdUk?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops Destroy Terrorist Hideout, Arrest Five Suspects in Benue - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-03",
+        "lat": 7.3064,
+        "lng": 8.7853,
+        "location": "Suspects Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObXB6RXVWeWhyakZ1Wk0zYUpyVmM0eU5ld0pZSXRMVDhlZ3k2QmhwMXUtS3lBR1pibmV1dEo5NzhfYVNFOHJfenBUZTBaeW55VGhrUVhyN0QwdlhiSzNqZGVqSnJ1UWxiZmcyS3RxLWllMUd2Y0VFUnNJU2gwekJ1NjJEeEx6WXRidDVNbTZGWHRtR0tjSFUtelg3NmRzU2xoR09JbUpVSTdBaGs?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops Foil Cattle Rustling, Recover 22 Cattle in Kaduna - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 10.5293,
+        "lng": 7.5506,
+        "location": "Cattle Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDZyTDJuQnlwbnotMzZmRlVFeGtZbVNlRE0wRnVfRlE5bUpUdzA4ZTRMdzBFNERaUERNSm1HN3h3NEFRNnlscHdwQjJJenJseHAtTmdUd2M0bEZzRThrcXR5RlFVSUY5Z2RyRVZJWUhZXzdxVjJlZTVGY3dhNlFzcUhsS1dwaDZ5ZzhNYXRsaUpZRTV1YnhCWWpQSGk1Q2N2b0E?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Vigilante Arrested with Illegal Ammunition in Nasarawa - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 8.5286,
+        "lng": 8.1148,
+        "location": "Ammunition Area, Nasarawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjZObmNLMVYtSGlOaGR6dXFnVVkyMERyaHBBREdxS3pUN05KbHdBcFlLZUtES3IwZTBxV3czVFBvMUdjNjhqMEdxUFlWUFhEVFY3TFJRWl9qTGUzNWlYdnlUYkd5b1RITUhkQ2t0cFpkeE9pTkdxZTM1NHRDNkp0TWhpbkM3a3o4N3Ztclg2Z3liN0VBUTMtdkZfNTBjYURZ?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops Monitor IMN Annual Procession Along Kano–Zaria Highway - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-03",
+        "lat": 11.9512,
+        "lng": 8.6266,
+        "location": "Kano State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1BaQW1DM1laclV0T25nQXl1MV9yanJQMHdJaTRfMURJcXhLRUgwSmtkd19yaUxWYmtTV2w3R2JxcnZzVHpYRGhTU2RUeUtEMTV6S3JvYkZxRjhLWDFzYVUyVzU2bllJLXZ2dHo1c2FGT3pYdzhfSk9DMW5zU0ZFTjl5UnRySzk4ZFJMQU1OTThwWTAzeTBZTDN0TTlJMzRlSk1xSWJFVHhXUQ?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops rescue woman, child who lost their way in Adamawa - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-02",
+        "lat": 9.2925,
+        "lng": 12.5021,
+        "location": "Adamawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYUJpbm96SzVpVXlSMlFOZU5WMFBscXJseXp5R2p0SllvVEJPekh3cjRvWUxlbW5MXzJjQVk4MXdDbFVNMFg0UXpLLWJ0WEoxdkkwUlJuZDhXSHk5TG9NOGJheFhzcmp1RkFXTEtwRTVqLUVmM1dzYU55cS1IVlBqT3N1aWdOcUxtdEJtSjVoYnJMVmlUX0h4czhuMjUtRkdvQVE?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Bandits Kill Farmer, Abduct Another, Rustle Cattle in Sokoto - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-03",
+        "lat": 13.0135,
+        "lng": 5.2618,
+        "location": "Cattle Area, Sokoto State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOGhFNnhnQlBFaGNiaWNIcUFZd1prS2xrRjJSNFJkUmxtWGUtcUtmTGhYQnlYdFZaelA4d05PQ21YM1lITU9Fd3c5WGppSnZuanZUUzZENC1Ta0pPc1AzLVNjNGhJYllOMDV4VFRNOVo2YVBuYUd6aEdCeXloTUtTVlpfWlNHTW9VSjk2YlkxZlZTRWJyOU1zaElHUkJJLVc3SkVWeVNR?oc=5"
+    },
+    {
+        "title": "Zagazola Makama - Troops recover motorcycles, illicit drugs as ISWAP fighters flee clearance operation in Borno - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-07-31",
+        "lat": 11.7868,
+        "lng": 13.0947,
+        "location": "Operation Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWmU5N05NaUFvRGlYVW85bjE4MzAtdXY5Qmh4WEhLTjBSNno5dXVzaE5pSWl1WTVSWHFqV2tjVzNjVDJjYVRfTXJGUi1MdDhmeEtsUXlsSUJGYXB2dm5UMm5BdkE5cnNzZHJYQmxRQzdkb091ZTdLNll4M2pmQW1CMXVuNkVPWHFsaWRVRGFoQ3JsQk00OGQ0RmhJRnFQcnpORGVjcWU4anNsT3JnSzFJaTJIQUlSbE56VnN2Sjl5ZUtJMWlQNzd2cXVOWkVwUW50TDY3RDJ3?oc=5"
     }
 ]
