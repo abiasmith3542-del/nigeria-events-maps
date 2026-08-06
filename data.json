@@ -3573,5 +3573,60 @@
         "location": "Dead Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVEd1UW1IM2dtRlJxWDEyVDFpZndtUElqS2pUVTVCVzhtZi1DNUVicThhMVNOUWVIdVVWOFRKOWMzZVlfM3p5TUZ0N3daOWVKVFR4MEIzUVBDd200RDlOazNNQkRvV1c1LVVMd0FlMkRSd2VzcXQ4ZGhNN3JpQnBpd0h3Q2lyTXBzM0xRWm8teTNhR3lFV3BaR3FoUENuX1loUkQxbWtjRzYtX1g2RlFUX05laUo0dnEzM0hBS05SSXJHdEg2Vmc?oc=5"
+    },
+    {
+        "title": "Troops foil bandit attack, prevent livestock rustling in Sokoto community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-06",
+        "lat": 13.0458,
+        "lng": 5.2236,
+        "location": "Rustling Area, Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-foil-bandit-attack-prevent-livestock-rustling-in-sokoto-community/"
+    },
+    {
+        "title": "Police bust kidnapping syndicate in Rivers, arrest five suspects",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-06",
+        "lat": 4.7899,
+        "lng": 6.8693,
+        "location": "Syndicate Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-bust-kidnapping-syndicate-in-rivers-arrest-five-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Mob attacks Kano traffic officials following highway crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-06",
+        "lat": 11.9492,
+        "lng": 8.6236,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/mob-attacks-kano-traffic-officials-following-highway-crash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police probe killing of cocoa farm worker in Cross River",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-06",
+        "lat": 5.7059,
+        "lng": 8.503,
+        "location": "Worker Area, Cross River State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/901020-police-probe-killing-of-cocoa-farm-worker-in-cross-river.html"
+    },
+    {
+        "title": "Experts begin second wave of polio outbreak response assessment in Nigeria. - WHO | Regional Office for Africa",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-05",
+        "lat": 9.966,
+        "lng": 5.9485,
+        "location": "Assessment Area, Niger State",
+        "source": "WHO Africa Outbreaks",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5RTVGRUFmWWdyemZqWWFVek14VTNQSUFocl90RnlOakZuMUhKMFlrSUZTVnZweXdQSHhsT1RzbkhwZVB1bk15eHBYdDRBZU1Sa3VFUkluenJaSkJVVENmWExTVXA?oc=5"
     }
 ]
