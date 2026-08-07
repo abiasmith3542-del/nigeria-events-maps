@@ -3584,5 +3584,82 @@
         "location": "Kogi State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/regional/north-central/901252-kogi-govt-vows-justice-for-victims-after-deadly-reprisal-attack.html"
+    },
+    {
+        "title": "Five killed in Kogi reprisal attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 7.7761,
+        "lng": 6.724,
+        "location": "Killed Area, Kogi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/five-killed-in-kogi-reprisal-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Jessica Oji Strikes Gold, Ends Nigeria’s 24-Year Wait At World U-20 Championships",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-07",
+        "lat": 10.0104,
+        "lng": 6.0449,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/jessica-oji-strikes-gold-ends-nigerias-24-year-wait-at-world-u-20-championships/"
+    },
+    {
+        "title": "Troops Neutralise Terrorist, Recover Weapon and Motorcycle in Benue Offensive - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 7.3161,
+        "lng": 8.8047,
+        "location": "Motorcycle Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZXgyekFRbFl4OUtoSVdRbEFpd2hWcjVUdzlkOVBFS1d2LWF3QXNzV25EMVJWNjVNenR3UTNSZnZabmYxS1o2SURsbDhuTnRaUTdBUWNjbzFaNk1zcjBnMzl3UHdZWl9PUjRMdGhiY1hmTVRUOEhUWHFPc0xQQkhoZm1OaTNzOUtMcHhycDNfRHhMaVAzN01WYU0wbkhrTXU5TU11a0RwZzBrZ01KRUlSNEJVX2E5bFAtTG1wREhn?oc=5"
+    },
+    {
+        "title": "Troops Ambush Boko Haram Tax Collectors in Borno, Recover AK-47, Pistol - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 11.862,
+        "lng": 13.2012,
+        "location": "Collectors Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2c4SVdlcXB5WmthbllwVlVScmY2TXY3dkxnOUd4WUFxNHZqV2ZldEpaNmRjQmpDVGUxRmVvdGx4Q0dySmwxdVVsc0pFMW1RUlIzOGdSSk5SZml3M0IwV3NNT0NrNU42cFpyMnUtd05rOG56TGQyS2VqbzltMGNadk96b2VwemdHQm9DaWxCN0lQc09RTTNubHdDazlDelNjb3ZvWHloYVV2QmZDTEtkeUVDTHo?oc=5"
+    },
+    {
+        "title": "Troops Rescue two Young Herder From Mob Attack in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 9.4573,
+        "lng": 9.5411,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVlFVWlplNDJfZndOc2hWQ0p1R0tjcVJSSlVZNTZvZVpGZ3BNeUIxM29HSFpScy1oNWd1OHBrVkhRTzN6b2Ntc1BpVkg5Y3V4ek5pamk1NGpQcE9EN2drdlZ6YWZqU2RiejladmRJakZRRmZseVprTjZCVHIzSDZoVmgwenFodUFpcnJCMk92Zm5pYnVYNUI4N2VrS0xkQ0JDMlBBYw?oc=5"
+    },
+    {
+        "title": "Troops Rescue Injured Farmer After Attack by Suspected Herders in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 9.4923,
+        "lng": 9.4432,
+        "location": "Herders Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZEw2OWdKUHZOejNYWDRFc25MalQ1V2tmSjBoclQ1cjdTTGp4dzI2cHhEOVg3SDhFOHJVV2VuZnVMTXB1MGpjdThkNjc3NWhBT2M3czYzWUZNcHFlYTM2cXQxUWJzRXlGZFJmaTZHRjE5cFMzM2ZIUGFPWmNVM2t1RG1QMkNPRklaU3lURlotY0tobktieE4xS2lKbmh3ZkctZTlKZlJHZEx3UlVMYW1ydWZaQ184akxRX2c?oc=5"
+    },
+    {
+        "title": "Troops Foil Deadly Clash Between Rival Fulani and Mwaghavul Militias in Plateau - ZAgazola",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 9.4774,
+        "lng": 9.5251,
+        "location": "Militias Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLTMwMnkxTGp4U0NIVlFLX2wxbHIwNEtJNWh0Nk9XT3VVZzZadGNJMC1vLWxhamRYTzZiQVZ0enMzUFNzMzNUQ3lsMTIyMDBJekJGaGNTNUFUTF8yOHdQclpGUktXQ0NMa0VYbDJZa0RDUkJIaUVrckhQX2xma19Ca1VuY0EwQU5LVTBMV0tMd1VaS1FmaEtwQlVYbld0SnNuV1RySXZmR0NxcnFzTXlUbThCNGotWUplOWtKY3FmNDdoUQ?oc=5"
     }
 ]
