@@ -3826,5 +3826,49 @@
         "location": "Destruction Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFJSamE0N0RVNlZKTVRHakF6OTRVVG1PNVl2Ml9kQUhHZThVbUViOW5SZ01vSm0zQnhYUVJFWWJxcmNIOUJOSUl2U0dweEw3b3h4aFNVbWJ2TTFnT2NOSnFiNlVIZXMxNWUzTWNEV1lKREhnWXo2dmpCekl0dWUyMGtZSU5xTEJqckhXRi1qWW5xWHFXcWd0ektsR1lYRzBrR2hmS2pzUGFGeTEyZTlpY1FuQkw2RlFVVF84?oc=5"
+    },
+    {
+        "title": "Man Whose Wife, 6 Children Were Killed Remarries In Kano",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 12.0433,
+        "lng": 8.5341,
+        "location": "Remarries Area, Kano State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/man-whose-wife-6-children-were-killed-remarries-in-kano/"
+    },
+    {
+        "title": "Nigerian Navy Recovers 105,000 Litres Of Stolen Crude In Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 5.5337,
+        "lng": 6.0386,
+        "location": "Crude Area, Delta State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/nigerian-navy-recovers-105000-litres-of-stolen-crude-in-delta/"
+    },
+    {
+        "title": "Bandits Kill Mother, Son During Fresh Attack On Katsina Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 12.4897,
+        "lng": 7.6511,
+        "location": "Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bandits-kill-mother-son-during-fresh-attack-on-katsina-community/"
+    },
+    {
+        "title": "30-year-old arrested for allegedly killing father in Adamawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 9.3032,
+        "lng": 12.4587,
+        "location": "Father Area, Adamawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/30-year-old-arrested-for-allegedly-killing-father-in-adamawa/"
     }
 ]
