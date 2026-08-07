@@ -3925,5 +3925,38 @@
         "location": "Collection Area, Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NTXctT293Rk51bl81ZTdjMzk5MUFVbEJJMzFqbDBYT3ZuZURoaW9reHhjaTlBd1R6RTZrbEkwZTk5YlJVbENqcENScDN0cHRxTkpTVVZXLVdfWUtLUEktTTI1UG9Jd1E?oc=5"
+    },
+    {
+        "title": "Police have no political interest in Osun election, says IGP",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 7.5252,
+        "lng": 4.4502,
+        "location": "Interest Area, Osun State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/police-have-no-political-interest-in-osun-election-says-igp/"
+    },
+    {
+        "title": "Police Rescue 6 Abducted Children, Arrest Suspected Trafficker In Abia",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 5.4578,
+        "lng": 7.5226,
+        "location": "Trafficker Area, Abia State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-rescue-6-abducted-children-arrest-suspected-trafficker-in-abia/"
+    },
+    {
+        "title": "COAS Sends Reinforcements To Combat Bandits In Kebbi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 11.4513,
+        "lng": 4.2326,
+        "location": "Bandits Area, Kebbi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/coas-sends-reinforcements-to-combat-bandits-in-kebbi/"
     }
 ]
