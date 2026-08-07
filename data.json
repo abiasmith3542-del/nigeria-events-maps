@@ -3892,5 +3892,16 @@
         "location": "Victims Area, Edo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-rescue-four-kidnapped-victims-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Herder, 11 cows killed in Rivers road crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 4.7576,
+        "lng": 6.8634,
+        "location": "Killed Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/herder-11-cows-killed-in-rivers-road-crash/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
