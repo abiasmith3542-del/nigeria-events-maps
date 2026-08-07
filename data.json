@@ -3562,5 +3562,27 @@
         "location": "Arrested Area, Lagos State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/human-trafficking-12-foreigners-arrested-in-lagos/"
+    },
+    {
+        "title": "Orutugu is a gift to Nigeria, Soludo hails retiring Anambra police chief",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 6.2517,
+        "lng": 6.9402,
+        "location": "Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/orutugu-is-a-gift-to-nigeria-soludo-hails-retiring-anambra-police-chief/"
+    },
+    {
+        "title": "Kogi govt vows justice for victims after deadly reprisal attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 7.7491,
+        "lng": 6.7498,
+        "location": "Kogi State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/901252-kogi-govt-vows-justice-for-victims-after-deadly-reprisal-attack.html"
     }
 ]
