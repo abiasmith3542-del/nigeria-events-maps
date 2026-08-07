@@ -3958,5 +3958,16 @@
         "location": "Bandits Area, Kebbi State",
         "source": "Leadership News",
         "url": "https://leadership.ng/coas-sends-reinforcements-to-combat-bandits-in-kebbi/"
+    },
+    {
+        "title": "Benue Police Arrest 5 Pakistanis, Recover 35 Mobile Phones",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 7.3391,
+        "lng": 8.7492,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/benue-police-arrest-5-pakistanis-recover-35-mobile-phones/"
     }
 ]
