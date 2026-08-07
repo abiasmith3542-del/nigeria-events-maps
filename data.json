@@ -3870,5 +3870,27 @@
         "location": "Father Area, Adamawa State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/30-year-old-arrested-for-allegedly-killing-father-in-adamawa/"
+    },
+    {
+        "title": "Navy recovers 105,000 litres of suspected stolen crude, uncovers illegal storage facilities in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 5.4414,
+        "lng": 6.0177,
+        "location": "Facilities Area, Delta State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/navy-recovers-105000-litres-of-suspected-stolen-crude-uncovers-illegal-storage-facilities-in-delta/"
+    },
+    {
+        "title": "Police rescue four kidnapped victims in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 6.5184,
+        "lng": 6.0071,
+        "location": "Victims Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-four-kidnapped-victims-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
