@@ -3683,5 +3683,16 @@
         "location": "Osun State",
         "source": "Leadership News",
         "url": "https://leadership.ng/osun-election-igp-assures-voters-of-police-protection-says-no-election-worth-losing-a-life/"
+    },
+    {
+        "title": "Troops Arrest 4 Suspected Lakurawa Terrorists, Recover Rustled Cattle In Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 13.0441,
+        "lng": 5.222,
+        "location": "Cattle Area, Sokoto State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-arrest-4-suspected-lakurawa-terrorists-recover-rustled-cattle-in-sokoto/"
     }
 ]
