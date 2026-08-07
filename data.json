@@ -3903,5 +3903,27 @@
         "location": "Killed Area, Rivers State",
         "source": "Punch Metro",
         "url": "https://punchng.com/herder-11-cows-killed-in-rivers-road-crash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Infrastructure vandalism: Scavengers threaten Lagos bridge, 27 arrested",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 6.5818,
+        "lng": 3.3881,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/infrastructure-vandalism-scavengers-threaten-lagos-bridge-27-arrested/"
+    },
+    {
+        "title": "Troops Foil B’Haram Levy Collection in Borno, Recover Firearms - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 11.8876,
+        "lng": 13.1184,
+        "location": "Collection Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NTXctT293Rk51bl81ZTdjMzk5MUFVbEJJMzFqbDBYT3ZuZURoaW9reHhjaTlBd1R6RTZrbEkwZTk5YlJVbENqcENScDN0cHRxTkpTVVZXLVdfWUtLUEktTTI1UG9Jd1E?oc=5"
     }
 ]
