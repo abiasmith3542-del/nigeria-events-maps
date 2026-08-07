@@ -3727,5 +3727,104 @@
         "location": "Lagos State",
         "source": "Punch Metro",
         "url": "https://punchng.com/lagos-arrests-27-over-bridge-vandalism/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kidnap two farmers in Ondo, demand N100m ransom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 7.2662,
+        "lng": 5.1878,
+        "location": "Farmers Area, Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/gunmen-kidnap-two-farmers-in-ondo-demand-n100m-ransom/"
+    },
+    {
+        "title": "Kwara-Woro freed victims arrive Ilorin; children already enlisted in bandits army, says lawmaker",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 8.5108,
+        "lng": 4.53,
+        "location": "Kwara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/kwara-woro-freed-victims-arrive-ilorin-children-already-enlisted-in-bandits-army-says-lawmaker/"
+    },
+    {
+        "title": "Nigerian man jailed 13 months after high-speed police chase, multiple crashes in UK",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 9.9485,
+        "lng": 5.9862,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/nigerian-man-jailed-13-months-after-high-speed-police-chase-multiple-crashes-in-uk/"
+    },
+    {
+        "title": "Police to deploy four officers per polling unit in Osun – IG",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 7.5286,
+        "lng": 4.4922,
+        "location": "Unit Area, Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-to-deploy-four-officers-per-polling-unit-in-osun-ig/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Residents Fear Epidemic As Oil Pollution Ravages Akwa Ibom Communities",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-07",
+        "lat": 5.0324,
+        "lng": 7.8684,
+        "location": "Akwa Ibom State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/residents-fear-epidemic-as-oil-pollution-ravages-akwa-ibom-communities/"
+    },
+    {
+        "title": "Gunmen invade Kogi communities, kill residents",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 7.7615,
+        "lng": 6.7121,
+        "location": "Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-invade-kogi-communities-kill-residents/"
+    },
+    {
+        "title": "Police Rescue 4 Kidnap Victims in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 6.5488,
+        "lng": 5.965,
+        "location": "Victims Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-rescue-4-kidnapped-victims-in-edo/"
+    },
+    {
+        "title": "ISWAP Seizes Key JAS Enclave After Bloody Battle Sparked by ₦40 Million Cash Raid in Borno - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-07",
+        "lat": 11.8563,
+        "lng": 13.128,
+        "location": "Raid Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQldYZEZDZTRtQmUxbjJ6ZU9xT0NEQTdsVUU2QUdveW1CQWpPYUJSWXpnaXBJOTRTRXJ6R3dRN1czSG5tTW55M3l5ZlpzN003OEJHSWtISDMxYTNUNXlzdjVKbFotLWtLODRyN2MzN1Y0NkJEWFgwYVpkaWZQdUV3RndpYmNuNm4zaml2WnU1RTZMNGV5bjBaUmFlYldxSXRVM1lTOUxUQ0k4MHFLMUREclBFOUd3OXNYOVBrZ2M2MlBBdWxvdnBlOFRnVFhUZTA?oc=5"
+    },
+    {
+        "title": "Troops Intercept 52 Cattle After Farmland Destruction in Plateau Community - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-07",
+        "lat": 9.4716,
+        "lng": 9.4863,
+        "location": "Destruction Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFJSamE0N0RVNlZKTVRHakF6OTRVVG1PNVl2Ml9kQUhHZThVbUViOW5SZ01vSm0zQnhYUVJFWWJxcmNIOUJOSUl2U0dweEw3b3h4aFNVbWJ2TTFnT2NOSnFiNlVIZXMxNWUzTWNEV1lKREhnWXo2dmpCekl0dWUyMGtZSU5xTEJqckhXRi1qWW5xWHFXcWd0ektsR1lYRzBrR2hmS2pzUGFGeTEyZTlpY1FuQkw2RlFVVF84?oc=5"
     }
 ]
