@@ -3914,5 +3914,27 @@
         "location": "Kano State",
         "source": "Leadership News",
         "url": "https://leadership.ng/16-rescued-3-found-unconscious-after-kano-building-collapse/"
+    },
+    {
+        "title": "13 Residents Killed In Benue By Suspected Herdsmen Receive Mass Burial",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-08",
+        "lat": 7.3038,
+        "lng": 8.7875,
+        "location": "Killed Area, Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/13-residents-killed-in-benue-by-suspected-herdsmen-receive-mass-burial/"
+    },
+    {
+        "title": "Ondo: Gunmen kidnap farmers, demand N100m ransom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-08",
+        "lat": 7.2617,
+        "lng": 5.17,
+        "location": "Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ondo-gunmen-kidnap-farmers-demand-n100m-ransom/"
     }
 ]
