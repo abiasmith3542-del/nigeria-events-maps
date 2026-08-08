@@ -3496,5 +3496,27 @@
         "location": "Imo State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/imo-monarchs-murder-5-suspects-arrested-gang-kingpin-killed-in-shootout/"
+    },
+    {
+        "title": "Police Arrest 5 Pakistanis Over Suspicious Movements in Benue",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-08",
+        "lat": 7.2892,
+        "lng": 8.7681,
+        "location": "Movements Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-5-pakistanis-over-suspicious-movements-in-benue/"
+    },
+    {
+        "title": "85-Year-Old Community Leader Shot Dead in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-08",
+        "lat": 6.5221,
+        "lng": 6.0497,
+        "location": "Dead Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/85-year-old-community-leader-shot-dead-in-edo/"
     }
 ]
