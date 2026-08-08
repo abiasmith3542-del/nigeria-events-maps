@@ -3375,5 +3375,60 @@
         "location": "Nasarawa State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/dss-arrests-more-suspects-over-kidnap-of-nasarawa-prof/"
+    },
+    {
+        "title": "Military rescues 363 victims, kills 69 terrorists in one week – DHQ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-08",
+        "lat": 9.0614,
+        "lng": 7.5582,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/military-rescues-363-victims-kills-69-terrorists-in-one-week-dhq/"
+    },
+    {
+        "title": "Morning Recap: Planned police deployment for Osun poll, PFIPC scandal, Basketball age controversy, other top stories",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-08",
+        "lat": 7.4579,
+        "lng": 4.507,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/morning-recap-planned-police-deployment-for-osun-poll-pfipc-scandal-basketball-age-controversy-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Cholera Claims 16 Lives In Bauchi As Govt Seeks Support",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-08",
+        "lat": 10.4874,
+        "lng": 10.0414,
+        "location": "Lives Area, Bauchi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/cholera-claims-16-lives-in-bauchi-as-govt-seeks-support/"
+    },
+    {
+        "title": "Oyo Reads Riot Act To Waste Management Consultants",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-08",
+        "lat": 7.9907,
+        "lng": 4.0551,
+        "location": "Oyo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/oyo-reads-riot-act-to-waste-management-consultants/"
+    },
+    {
+        "title": "Troops Destroy Terrorist Hideout, Arrest Five Suspects in Benue - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-08",
+        "lat": 7.3548,
+        "lng": 8.7046,
+        "location": "Suspects Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWEx2OWpTNzNMaWFOY3ZFUHRoRVZpU2FlQ01ueTQ4VGdtU3VZcmJRWGNtMGcxODhYdnFQWVlGbEtJQUdjN1UwUUctdlBzMkMxa0ptcXpVRFlZUTFrOTBHYUFGYnVHYlBidTJGWDI2dzJueVNOSUNvWUZuSWdtMlkyT29HN2tsbmxjcTdockNfR0ZKY2RlVTRzcGp6cnhuN1lPNFpBTGpmczVCUW9ITFBNdGtLUQ?oc=5"
     }
 ]
