@@ -3529,5 +3529,27 @@
         "location": "Cattle Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOekE3X3ZyNVIycVd3MC10Y3BDWTJqc3h5amtqQ0dTNE5XNzFWTnlyZjNZRHdKanpvYjQ1SHdfZVk3V0Z4RTBBVUNibXhZU25pOFBLeWZoMWhxX0tPSzJXQm5DbWdiRFZ0VThmSUVWRVlOOEdQTGxNMVoxb3BuWk9tcFpRTnZGTGJMMGY5WThHU1FsMHk4?oc=5"
+    },
+    {
+        "title": "Osun poll: Accord, APC clash over election hacking allegations",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-08",
+        "lat": 7.5447,
+        "lng": 4.4855,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/osun-poll-accord-apc-clash-over-election-hacking-allegations/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian military rescues 363 victims, arrests scores of terrorists – DHQ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-08",
+        "lat": 9.9634,
+        "lng": 5.9649,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/901488-nigerian-military-rescues-363-victims-arrests-scores-of-terrorists-dhq.html"
     }
 ]
