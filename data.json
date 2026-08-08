@@ -3364,5 +3364,16 @@
         "location": "Kebbi State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/25-children-from-kebbi-kwara-niger-died-in-terrorists-captivity-lawmaker/"
+    },
+    {
+        "title": "DSS Arrests More Suspects over Kidnap of Nasarawa Prof",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-08",
+        "lat": 8.4818,
+        "lng": 8.1278,
+        "location": "Nasarawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/dss-arrests-more-suspects-over-kidnap-of-nasarawa-prof/"
     }
 ]
