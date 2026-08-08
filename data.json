@@ -3353,5 +3353,16 @@
         "location": "Adamawa State",
         "source": "Punch Metro",
         "url": "https://punchng.com/30-year-old-killed-adamawa-father-dumped-corpse-in-well-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "25 children from Kebbi, Kwara, Niger died in terrorists’ captivity — Lawmaker",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-08",
+        "lat": 11.4043,
+        "lng": 4.1713,
+        "location": "Kebbi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/25-children-from-kebbi-kwara-niger-died-in-terrorists-captivity-lawmaker/"
     }
 ]
