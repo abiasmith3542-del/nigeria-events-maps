@@ -3672,5 +3672,38 @@
         "location": "Supplier Area, Adamawa State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV01tZjQ5UXd2WEtpbzREUzhQMVQtd1YtM21Xd2VHS1liSHVJdWozU051aHVsN3ptQkloUmVwTDUtTHlKbUF0Vm1GWDBFUDRobzF0RGVmenVnM0w4Vl9VOGtodTB6SUR0WUdEUUNYTlFkNFFTNkJuakRhZFRqZUdqVi1iNGlXZVFJSTViTzJxaEtVWXZPRHpzSGx1bUR1V3VMMndwVEY5eC0wdVdL?oc=5"
+    },
+    {
+        "title": "Police arrest five Pakistanis in Benue, recover 35 phones",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-08",
+        "lat": 7.3495,
+        "lng": 8.7546,
+        "location": "Pakistanis Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-five-pakistanis-in-benue-recover-35-phones/"
+    },
+    {
+        "title": "Borno CAN Declares 3-Day Fasting, Prayers For Abducted Schoolchildren",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-08",
+        "lat": 11.8649,
+        "lng": 13.1875,
+        "location": "Borno State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/borno-can-declares-3-day-fasting-prayers-for-abducted-schoolchildren/"
+    },
+    {
+        "title": "Police Confirm Killing Of 11 Cows, I Herder In Rivers ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-08",
+        "lat": 4.715,
+        "lng": 6.8701,
+        "location": "Herder Area, Rivers State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-confirm-killing-of-11-cows-i-herder-in-rivers/"
     }
 ]
