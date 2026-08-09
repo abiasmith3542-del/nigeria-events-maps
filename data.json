@@ -3661,5 +3661,38 @@
         "location": "Nigeria (General Area)",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/five-dead-in-new-russia-ukraine-strikes/"
+    },
+    {
+        "title": "16 Rescued, Three Unconscious As Building Collapses In Kano",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-09",
+        "lat": 12.0108,
+        "lng": 8.6099,
+        "location": "Collapses Area, Kano State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/16-rescued-three-unconscious-as-building-collapses-in-kano/"
+    },
+    {
+        "title": "Plateau: Troops Arrest 4 Armed Militias, 2 Vandals, Recover Two Pistols - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-09",
+        "lat": 9.4863,
+        "lng": 9.533,
+        "location": "Plateau State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zZjdyckhNZmQwcXZKbVFFaEE2dDQxZlJTamhHNTB1Znlva0plTXEwY0dGWTdweXBCSzRrNHVFOVg2djh1djB5VWN2eHowdkVlYmtNVzFrOFhiQW93MHctampkdGdJUHUwenc2TENR?oc=5"
+    },
+    {
+        "title": "Military Intercepts 3 Suspected Terrorists, Eliminates One in Borno - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 11.8369,
+        "lng": 13.1411,
+        "location": "Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fdl9uUkowcThLNmNxT0VSUDNzZEpaWjE3dWgyTXNocE52S1VqSnNCT1lyUDI2Y0VaNUlvQXRVMkhQd3BTeDd5OTZ3M21CNllXYXI5cFl6MndOaXhUbDJBc2Q0TGtfeHdDb0ltQlJXNXc?oc=5"
     }
 ]
