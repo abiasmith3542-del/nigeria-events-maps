@@ -3606,5 +3606,16 @@
         "location": "Delta State",
         "source": "Leadership News",
         "url": "https://leadership.ng/tower-collapse-kills-1-in-delta-as-tcn-warns-of-rising-infrastructure-attacks/"
+    },
+    {
+        "title": "Army kills kidnapper, rescue abducted farmer in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 6.5386,
+        "lng": 6.0222,
+        "location": "Farmer Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/army-kills-kidnapper-rescue-abducted-farmer-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
