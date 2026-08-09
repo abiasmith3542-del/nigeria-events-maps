@@ -3650,5 +3650,16 @@
         "location": "Burial Area, Benue State",
         "source": "Leadership News",
         "url": "https://leadership.ng/13-killed-by-suspected-armed-herdsmen-given-mass-burial-in-benue/"
+    },
+    {
+        "title": "Five dead in new Russia, Ukraine strikes",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 9.0748,
+        "lng": 7.424,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/five-dead-in-new-russia-ukraine-strikes/"
     }
 ]
