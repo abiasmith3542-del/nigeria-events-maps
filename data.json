@@ -3573,5 +3573,38 @@
         "location": "Niger State",
         "source": "Punch Metro",
         "url": "https://punchng.com/un-chief-decries-attacks-on-nigerias-religious-communities/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Six days to Osun election: 18 ‘killed’ as fears of more violence mount",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 7.4753,
+        "lng": 4.4574,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/six-days-to-osun-election-18-killed-as-fears-of-more-violence-mount/"
+    },
+    {
+        "title": "Tears, anger in Benue as 16 Otukpo attack victims buried",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 7.2805,
+        "lng": 8.7815,
+        "location": "Anger Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/tears-anger-in-benue-as-16-otukpo-attack-victims-buried/"
+    },
+    {
+        "title": "Tower Collapse Kills 1 In Delta, As TCN Warns Of Rising Infrastructure Attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 5.478,
+        "lng": 6.0547,
+        "location": "Delta State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/tower-collapse-kills-1-in-delta-as-tcn-warns-of-rising-infrastructure-attacks/"
     }
 ]
