@@ -3694,5 +3694,27 @@
         "location": "Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fdl9uUkowcThLNmNxT0VSUDNzZEpaWjE3dWgyTXNocE52S1VqSnNCT1lyUDI2Y0VaNUlvQXRVMkhQd3BTeDd5OTZ3M21CNllXYXI5cFl6MndOaXhUbDJBc2Q0TGtfeHdDb0ltQlJXNXc?oc=5"
+    },
+    {
+        "title": "$20bn gas deals: Firm warns pipeline vandalism could threaten investments",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-09",
+        "lat": 8.9658,
+        "lng": 7.5449,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/20bn-gas-deals-firm-warns-pipeline-vandalism-could-threaten-investments/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Neutralise Suspected Killer Of Imo Monarch, 5 Others",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-09",
+        "lat": 5.5382,
+        "lng": 7.0317,
+        "location": "Imo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-neutralise-suspected-killer-of-imo-monarch-5-others/"
     }
 ]
