@@ -3738,5 +3738,60 @@
         "location": "Edo State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzZk9xRDhBTWpLSGhnRmJ2bk1xMW5zSXlvNE43MDRSWGlOaktwUl9CSGJXcFZRQkNvVlgySUpmakN5eUlsRHRiWG9vYnFFdjN4RDdKN1MxNWZhTWlDTkQwSzRVT2tsWHZaTkdB?oc=5"
+    },
+    {
+        "title": "Police arrest 19-year-old over armed robbery, recover stolen motorcycle in Plateau",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-09",
+        "lat": 9.4578,
+        "lng": 9.5599,
+        "location": "Motorcycle Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-19-year-old-over-armed-robbery-recover-stolen-motorcycle-in-plateau/"
+    },
+    {
+        "title": "Man shot dead on way to church in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 9.4779,
+        "lng": 9.4664,
+        "location": "Church Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/man-shot-dead-on-way-to-church-in-plateau/"
+    },
+    {
+        "title": "Police restore calm after reprisal attack in Kogi community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 7.7423,
+        "lng": 6.7213,
+        "location": "Kogi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-restore-calm-after-reprisal-attack-in-kogi-community/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Dunfermline Athletic Sign Nigerian Striker Adams",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-09",
+        "lat": 10.0558,
+        "lng": 6.0055,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/dunfermline-athletic-sign-nigerian-striker-adams/"
+    },
+    {
+        "title": "Kogi Police Intensify Search For Kidnap Victims, Destroy Criminal Hideouts",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-09",
+        "lat": 7.8021,
+        "lng": 6.7785,
+        "location": "Kogi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/kogi-police-intensify-search-for-kidnap-victims-destroy-criminal-hideouts/"
     }
 ]
