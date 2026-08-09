@@ -3859,5 +3859,27 @@
         "location": "Ekiti State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-arrest-cultist-recover-gun-in-ekiti/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Man shot dead in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 9.4737,
+        "lng": 9.5204,
+        "location": "Dead Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/man-shot-dead-in-plateau/"
+    },
+    {
+        "title": "Military airstrikes wipe out nine terrorists in Borno [VIDEO] - Daily Post Nigeria",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 11.8324,
+        "lng": 13.2035,
+        "location": "Terrorists Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZnYzRGZjUDU5cjFFMFF4WkJYZ2xlZEFySkpPRWtnNU9vUE5PNnpkY3NaZlhzTmR2VUZ0SnZWME40UnFDYWlFODN3VTJpQlhfN2dxMFhmT3dTcG5tY0otRjVLWGpJMlUzLUFXQnpJSy1YLWh5dTF4ZmJkbkRlMnZjc1UtdU9objkwSGctUjdDOXh3UFd6TkpB?oc=5"
     }
 ]
