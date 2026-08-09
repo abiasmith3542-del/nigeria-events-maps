@@ -3804,5 +3804,38 @@
         "location": "Building Area, Kano State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/fire-service-rescues-16-from-collapsed-building-in-kano/"
+    },
+    {
+        "title": "Just in: Police release Osun commissioner arrested over violence",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-09",
+        "lat": 7.5592,
+        "lng": 4.449,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/just-in-police-release-osun-commissioner-arrested-over-violence/"
+    },
+    {
+        "title": "Police bust drug cartel in Delta, recover 21 bags of Indian hemp",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-09",
+        "lat": 5.4692,
+        "lng": 5.9528,
+        "location": "Cartel Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-bust-drug-cartel-in-delta-recover-21-bags-of-indian-hemp/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "16 Benue Villagers Killed by Attackers Buried Amid Tears",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-09",
+        "lat": 7.3808,
+        "lng": 8.6938,
+        "location": "Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/16-benue-villagers-killed-by-attackers-buried-amid-tears/"
     }
 ]
