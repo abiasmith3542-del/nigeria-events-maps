@@ -3903,5 +3903,49 @@
         "location": "Kebbi State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFlDbDFPZDFBTnBwUWVOckZKYWtOR3Z2SjR5NDAweXViak1VbTRrUUJXYmhibFdRZUF1aW8zcTY0MGlfY040NWlEelJtdnZHOVhrcS1OenNQY2dsWjkzV2d6MllHbklXUXg4RUxUeGRhd0IzY0JQTjFJN0RkOFJRVGpoNkotckhVbDR3b1gwZlJwWTlLbjhGUjY5Rk85TkpmSHUyVlZlVjZ0OVVETVhPZE9QVk1ocGRtZEROd0M2XzdlbkhMUG1SMGpPSQ?oc=5"
+    },
+    {
+        "title": "Police nab suspected ATM fraudsters in Ekiti, recover 16 cards",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-10",
+        "lat": 7.7186,
+        "lng": 5.3081,
+        "location": "Fraudsters Area, Ekiti State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-nab-suspected-atm-fraudsters-in-ekiti-recover-16-cards-2/"
+    },
+    {
+        "title": "Police arrest alleged fake clergyman in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-10",
+        "lat": 6.955,
+        "lng": 3.525,
+        "location": "Clergyman Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-alleged-fake-clergyman-in-ogun/"
+    },
+    {
+        "title": "Army, police rescue kidnapped victim in Edo, recover ransom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-10",
+        "lat": 6.5591,
+        "lng": 5.9907,
+        "location": "Victim Area, Edo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/army-police-rescue-kidnapped-victim-in-edo-recover-ransom/"
+    },
+    {
+        "title": "Police arrest 23 foreigners over Ponzi, visa scam in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-10",
+        "lat": 6.9959,
+        "lng": 3.552,
+        "location": "Scam Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-23-foreigners-over-ponzi-visa-scam-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
