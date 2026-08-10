@@ -4233,5 +4233,60 @@
         "location": "Devices Area, Kebbi State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtMkJkOEZvdEVaQ3JZMzN4ZkVuM3R4aUFkZmNVS183RXk1dGF4bUJuVHpKdUg3LXh2bjVJQlVXS3dDWTczY3JxaTZUdnNpc0N4a1BoVy1ZQzJna1pyODNET0dpV2pPcWM?oc=5"
+    },
+    {
+        "title": "Navy raids militants camp in Bayelsa, arrests wanted kingpin’s associates",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-10",
+        "lat": 4.7156,
+        "lng": 5.9822,
+        "location": "Camp Area, Bayelsa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/navy-raids-militants-camp-in-bayelsa-arrests-associates-of-wanted-kingpin/"
+    },
+    {
+        "title": "Troops arrest alleged kidnap commander in Enugu, recover rifles, cash",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-10",
+        "lat": 6.4684,
+        "lng": 7.4563,
+        "location": "Commander Area, Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-arrest-alleged-kidnap-commander-in-enugu-recover-rifles-cash/"
+    },
+    {
+        "title": "Bayelsa Polytechnic: ASUP Begins Strike Over Retired Rector’s Reappointment",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-10",
+        "lat": 4.8045,
+        "lng": 5.9486,
+        "location": "Bayelsa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bayelsa-polytechnic-asup-begins-strike-over-retired-rectors-reappointment/"
+    },
+    {
+        "title": "Kidnapped Victim Dies In Ondo Abductors’ Den As Amotekun Rescues 5",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-10",
+        "lat": 7.2216,
+        "lng": 5.1504,
+        "location": "Dies Area, Ondo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/kidnapped-victim-dies-in-ondo-abductors-den-as-amotekun-rescues-5/"
+    },
+    {
+        "title": "Maize, Rice and Onion Farms Destroyed by herders in Jos South - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-10",
+        "lat": 9.838,
+        "lng": 8.8748,
+        "location": "Herders Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWV9VNWpwSGVtZllHRVRLZEFNSWQ3U29HdnR3QnAzWG1KQzJtbzhXVDliZ092MmViS18tZU9zc1VMSmtybml6M2ptY3gybEhIdk1lVmRxVVNqRExveU5NQ3g3V01wV2NoaTA0ZHJjbGVpRVFGZGp2X0k4ejlSRVZNWFRybzJSOXJ4YWtRbkV4RFIyaUVPQzRkeW1NMkh4bE41aXhkQTB5RjM?oc=5"
     }
 ]
