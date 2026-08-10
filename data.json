@@ -3947,5 +3947,38 @@
         "location": "Scam Area, Ogun State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-arrest-23-foreigners-over-ponzi-visa-scam-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "OPHK troops foil ISWAP attack on Borno base, recover weapons",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-10",
+        "lat": 11.8522,
+        "lng": 13.1134,
+        "location": "Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/ophk-troops-foil-iswap-attack-on-borno-base-recover-weapons/"
+    },
+    {
+        "title": "2027 Hajj: Sokoto begins early seat sales as Saudi deadline looms",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-10",
+        "lat": 13.106,
+        "lng": 5.2566,
+        "location": "Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/2027-hajj-sokoto-begins-early-seat-sales-as-saudi-deadline-looms/"
+    },
+    {
+        "title": "Zamfara Police Counter PRNigeria Report, Insist Families of Fallen EOD Officers Are Not Neglected - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-10",
+        "lat": 10.006,
+        "lng": 6.02,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBESllyeF9zODdvc21XQVRBSWhXREZ6UHJUUGl6MDRXdUNIMXY3QU5zSkdyYTdiWlhnWmFRMWxZZ0NsNW9VM0ZGdzU0bjRzSncxTEgtRy1hYmF6OTE2bUJRUlFlLS1IM1k?oc=5"
     }
 ]
