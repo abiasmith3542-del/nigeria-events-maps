@@ -4035,5 +4035,93 @@
         "location": "Distribution Area, Delta State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-nab-56-year-old-over-alleged-indian-hemp-distribution-in-delta/"
+    },
+    {
+        "title": "Delta communities protest alleged non-payment of 3% OPEX funds by oil firm",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-10",
+        "lat": 5.53,
+        "lng": 5.9415,
+        "location": "Delta State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/delta-communities-protest-alleged-non-payment-of-3-opex-funds-by-oil-firm/"
+    },
+    {
+        "title": "ASUU indefinite strike grounds Nasarawa varsity over unpaid N3bn entitlements",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-10",
+        "lat": 8.4771,
+        "lng": 8.1481,
+        "location": "Nasarawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/asuu-indefinite-strike-grounds-nasarawa-varsity-over-unpaid-n3bn-entitlements/"
+    },
+    {
+        "title": "Police will respect citizens under my watch, new Edo CP vows",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-10",
+        "lat": 6.4602,
+        "lng": 5.9902,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-will-respect-citizens-under-my-watch-new-edo-cp-vows/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest three fraudsters, recover 16 ATM cards in Ekiti",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-10",
+        "lat": 7.664,
+        "lng": 5.2867,
+        "location": "Cards Area, Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-fraudsters-recover-16-atm-cards-in-ekiti/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "ASUU shuts Imo varsity over unpaid entitlements, begins strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-10",
+        "lat": 5.5359,
+        "lng": 7.0462,
+        "location": "Imo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/asuu-shuts-imo-varsity-over-unpaid-entitlements-begins-strike/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ondo: Abducted farmer dies in kidnappers’ den",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-10",
+        "lat": 7.2222,
+        "lng": 5.1797,
+        "location": "Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ondo-abducted-farmer-dies-in-kidnappers-den/"
+    },
+    {
+        "title": "Benue: 2 Arrested for Assaulting Woman Over Market Levy",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-10",
+        "lat": 7.3138,
+        "lng": 8.7892,
+        "location": "Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/benue-2-arrested-for-assaulting-woman-over-market-levy/"
+    },
+    {
+        "title": "70-Year-Old Farmer Killed in Early Morning Attack by Fulani Bandits in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-10",
+        "lat": 9.5152,
+        "lng": 9.5513,
+        "location": "Bandits Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNDhXOTE2NTNNVXpuOFM4dTRobWpFRVdobVE2b2FiNV9xeDBDZ2Zsa0JNTnBMaVZmTHFmbWRuRjMyTTJBdkpmVWtSaXpuR1Rhb3NCZUlKLTh2MTZ6Yk8zbnZMcHpIeVNrRl9zVXh6UmRlRGxuZlNCLWZoaEtoWW1GUU5manE3THlqc3VyQlJCNWhXWWREWHNWTXFFRjVkZHVwT2hhWE0xUUNKY0tpVFIyQnlobHpsTDBPbXNWQ1RSY1k?oc=5"
     }
 ]
