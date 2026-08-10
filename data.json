@@ -3782,5 +3782,49 @@
         "location": "Osun State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzhYQ05PU2lfNU8yYkJveDdBaUhXaE5CRHJMS2g1dW5YYWdrWGFEdE1NblE0aE9hdXZZRndMUnJoWkt1U1oydHdQQmFoYjc4SVpmNGVHMlZkZGlLZHRuMUloenJsVDlQYVZLNTNZTjlsVU5ZVWEwRVlqX01Cc2l0aktFMXhwVGRuWHl4c2ZpWUYwZzdraWtLTmJEa2JTaTNuWFBsbmpIQm82MXBpMWc?oc=5"
+    },
+    {
+        "title": "Morning recap: Presidency, Atiku clash over killings, Osun 2026 politics, PFIPC probe other top stories",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-10",
+        "lat": 7.5065,
+        "lng": 4.5554,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/morning-recap-presidency-atiku-clash-over-killings-osun-2026-politics-pfipc-probe-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigeria Truly Bleeding, Attack On Onaiyekan,  Other Catholic Leaders Unwarranted-PFN",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-10",
+        "lat": 10.0086,
+        "lng": 6.0045,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/nigeria-truly-bleeding-attack-on-onaiyekan-other-catholic-leaders-unwarranted-pfn/"
+    },
+    {
+        "title": "Bandits abduct 90-year-old village head in Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-10",
+        "lat": 9.9498,
+        "lng": 5.996,
+        "location": "Head Area, Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-abduct-90-year-old-village-head-in-niger/"
+    },
+    {
+        "title": "Police foil kidnapping attempt in Katsina, rescue 2 victims",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-10",
+        "lat": 12.5247,
+        "lng": 7.5549,
+        "location": "Attempt Area, Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-foil-kidnapping-attempt-in-katsina-rescue-2-victims/"
     }
 ]
