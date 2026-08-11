@@ -4475,5 +4475,16 @@
         "location": "Gombe State",
         "source": "Punch Metro",
         "url": "https://punchng.com/gombe-asuu-threatens-indefinite-strike-over-unmet-demands/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "ASUU begins indefinite strike at Bayelsa varsities over CBA, 19-month arrears",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-11",
+        "lat": 4.7627,
+        "lng": 5.9814,
+        "location": "Strike Area, Bayelsa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/asuu-begins-indefinite-strike-at-bayelsa-varsities-over-cba-19-month-arrears/"
     }
 ]
