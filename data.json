@@ -4299,5 +4299,49 @@
         "location": "Hideout Area, Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXRYVThOQWR3aFhnUnRQZF9DWXY0ZkEyREdyVlRaUkZXY1pDU25QaDNETkZjX1lCR2xTTWlubXh0SzNmLUFkREJMOFNva0t4ejdSVXNUa3M2STFDVm83bUJVUVE5TjRlSmd0ZHVWWjBjTVh2SWRkN05fc1VmSXF0N2pkM2tLWXRLYWpscjdCd1o5dVNuM0NIYjE3N05NZkFHMjh1R0JPOUVDNkJGcXhsY1YySGplbzZPc19GMGRVRQ?oc=5"
+    },
+    {
+        "title": "Police announce shooting exercise in Gombe ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-11",
+        "lat": 10.3275,
+        "lng": 11.2005,
+        "location": "Exercise Area, Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-announce-shooting-exercise-in-gombe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "27-year-old man arrested for defiling teenager in Ondo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-11",
+        "lat": 7.2711,
+        "lng": 5.1967,
+        "location": "Teenager Area, Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/27-year-old-man-arrested-for-defiling-teenager-in-ondo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Enugu Air reschedules Abuja flights following airport union blockade",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-11",
+        "lat": 9.064,
+        "lng": 7.5398,
+        "location": "Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/enugu-air-reschedules-abuja-flights-following-airport-union-blockade/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Edo: NDLEA, Army raid drug spots, seize 604.5kg of cannabis",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-11",
+        "lat": 6.4667,
+        "lng": 6.0589,
+        "location": "Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/edo-ndlea-army-raid-drug-spots-seize-604-5kg-of-cannabis/"
     }
 ]
