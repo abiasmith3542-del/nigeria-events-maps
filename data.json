@@ -4079,5 +4079,49 @@
         "location": "Osun State",
         "source": "Leadership News",
         "url": "https://leadership.ng/osun-2026-adelekes-wife-leads-protest-against-violence/"
+    },
+    {
+        "title": "Enugu church attack: DSS, others arrest three suspects, recover four AK-47 rifles",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-11",
+        "lat": 6.5549,
+        "lng": 7.5353,
+        "location": "Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/enugu-church-attack-dss-others-arrest-three-suspects-recover-four-ak-47-rifles/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "17 bandits, 10 police officers killed in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-11",
+        "lat": 12.0721,
+        "lng": 6.2515,
+        "location": "Killed Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/17-bandits-10-police-officers-killed-in-zamfara/"
+    },
+    {
+        "title": "Troops arrest kidnap syndicate commander, recover rifles, cash",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-11",
+        "lat": 9.1054,
+        "lng": 7.5111,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-arrest-kidnap-syndicate-commander-recover-rifles-cash/"
+    },
+    {
+        "title": "Security operatives abandon Kebbi highway over Lakurawa attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-11",
+        "lat": 11.4613,
+        "lng": 4.2424,
+        "location": "Kebbi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/security-operatives-abandon-kebbi-highway-over-lakurawa-attacks/"
     }
 ]
