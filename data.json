@@ -4486,5 +4486,16 @@
         "location": "Strike Area, Bayelsa State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/asuu-begins-indefinite-strike-at-bayelsa-varsities-over-cba-19-month-arrears/"
+    },
+    {
+        "title": "Oyo traffic agency replaces stolen manhole covers in Ibadan",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-11",
+        "lat": 8.0563,
+        "lng": 3.9724,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/oyo-traffic-agency-replaces-stolen-manhole-covers-in-ibadan/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
