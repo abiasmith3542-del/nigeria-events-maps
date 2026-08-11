@@ -4024,5 +4024,49 @@
         "location": "Borno State",
         "source": "Punch Metro",
         "url": "https://punchng.com/troops-kill-scores-of-terrorists-in-failed-borno-base-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Visa application from Nigerians to S’Africa double despite xenophobic attacks—Envoy",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-11",
+        "lat": 9.9653,
+        "lng": 6.0322,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/visa-application-from-nigerians-to-safrica-double-despite-xenophobic-attacks-envoy/"
+    },
+    {
+        "title": "Troops ambush Lakurawa terrorists in Kebbi, recover items",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-11",
+        "lat": 11.438,
+        "lng": 4.1946,
+        "location": "Terrorists Area, Kebbi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-ambush-lakurawa-terrorists-in-kebbi-recover-items/"
+    },
+    {
+        "title": "Nasarawa Varsity ASUU Declares Indefinite Strike Over N3bn Unpaid Entitlements",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-11",
+        "lat": 8.5231,
+        "lng": 8.2017,
+        "location": "Nasarawa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/nasarawa-varsity-asuu-declares-indefinite-strike-over-n3bn-unpaid-entitlements/"
+    },
+    {
+        "title": "Again, Kaduna, Again, The Dead",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-11",
+        "lat": 10.5521,
+        "lng": 7.4443,
+        "location": "Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/again-kaduna-again-the-dead/"
     }
 ]
