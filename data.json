@@ -4068,5 +4068,16 @@
         "location": "Kaduna State",
         "source": "Leadership News",
         "url": "https://leadership.ng/again-kaduna-again-the-dead/"
+    },
+    {
+        "title": "Osun 2026: Adeleke’s Wife Leads Protest Against Violence",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-11",
+        "lat": 7.4555,
+        "lng": 4.4977,
+        "location": "Osun State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/osun-2026-adelekes-wife-leads-protest-against-violence/"
     }
 ]
