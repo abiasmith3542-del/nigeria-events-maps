@@ -4343,5 +4343,38 @@
         "location": "Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/edo-ndlea-army-raid-drug-spots-seize-604-5kg-of-cannabis/"
+    },
+    {
+        "title": "Army foil bandits’ ambush, recover AK-47 in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-11",
+        "lat": 9.5022,
+        "lng": 9.5337,
+        "location": "Plateau State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/902112-army-foil-bandits-ambush-recover-ak-47-in-plateau.html"
+    },
+    {
+        "title": "‎Ondo Police Nab 27-Year-Old For Alleged Defilement Of 15-Year-Old",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-11",
+        "lat": 7.2433,
+        "lng": 5.1954,
+        "location": "Ondo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/ondo-police-nab-27-year-old-for-alleged-defilement-of-15-year-old/"
+    },
+    {
+        "title": "Troops Foil Armed Herders’ Attack, Recover AK-47 Rifle in Benue - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-11",
+        "lat": 7.3075,
+        "lng": 8.7095,
+        "location": "Rifle Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkZOWmlUbldwZEV6ckxfSVh3LWppVU1OUU1kOVF3cGpZbFR2YzQzcXA4S0tmM01POWRsdzhLYmwxaW94dWktZk1MR1VhdWxaX2phRnFzdkJmWjc3S1Y5bTFTVFZVTVRETE01d0xtMEtpRnVMQV9Sd0hKRkI2UGJka2Myc2xXRjJBQzBzUEF0LWRQdi1TeExOY1VQQVFMNkYwbmpLXzFtbVdUZw?oc=5"
     }
 ]
