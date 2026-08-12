@@ -4233,5 +4233,16 @@
         "location": "Katsina State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/confusion-as-katsina-united-player-declared-dead-found-alive-in-mortuary/"
+    },
+    {
+        "title": "Kano Fixes 2026 Hajj Fare At ₦7m, Keeps August 25 Registration Deadline",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 12.0152,
+        "lng": 8.613,
+        "location": "Kano State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/kano-fixes-2026-hajj-fare-at-%e2%82%a67m-keeps-august-25-registration-deadline/"
     }
 ]
