@@ -4079,5 +4079,82 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/im-not-afraid-of-federal-might-adeleke/"
+    },
+    {
+        "title": "Osun Police summon APC senator, Fadahunsi over ‘kill Accord’ comment",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 7.5274,
+        "lng": 4.4729,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/osun-police-summon-apc-senator-fadahunsi-over-kill-accord-comment/"
+    },
+    {
+        "title": "Morning recap: Senator summoned over ‘kill them’ comment as Osun election tension rises, 10 cops killed in Kebbi bandit attack, other top stories",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 11.4892,
+        "lng": 4.2534,
+        "location": "Killed Area, Kebbi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/morning-recap-senator-summoned-over-kill-them-comment-as-osun-election-tension-rises-10-cops-killed-in-kebbi-bandit-attack-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Katsina United Mourn Ozoh Chinedu After Midfielder Collapses During Friendly",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-12",
+        "lat": 12.5003,
+        "lng": 7.64,
+        "location": "Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/katsina-united-mourn-ozoh-chinedu-after-midfielder-collapses-during-friendly/"
+    },
+    {
+        "title": "Troops rescue nine kidnapped commuters in Kogi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 7.8526,
+        "lng": 6.7569,
+        "location": "Commuters Area, Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-rescue-nine-kidnapped-commuters-in-kogi/"
+    },
+    {
+        "title": "ASUU issues 14-day strike ultimatum to Gombe govt",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-12",
+        "lat": 10.3274,
+        "lng": 11.1508,
+        "location": "Gombe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/asuu-issues-14-day-strike-ultimatum-to-gombe-govt/"
+    },
+    {
+        "title": "State high courts can try terrorism suspects, Plateau court rules",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 9.4542,
+        "lng": 9.4938,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/state-high-courts-can-try-terrorism-suspects-plateau-court-rules/"
+    },
+    {
+        "title": "Banditry: FG deploys fresh troops to Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 8.4493,
+        "lng": 4.5348,
+        "location": "Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/banditry-fg-deploys-fresh-troops-to-kwara/"
     }
 ]
