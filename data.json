@@ -4398,5 +4398,27 @@
         "location": "Benue State",
         "source": "Leadership News",
         "url": "https://leadership.ng/newborn-baby-allegedly-stolen-from-benue-health-facility/"
+    },
+    {
+        "title": "Police arrest four suspected armed robbers, cultists in Lagos",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 6.4881,
+        "lng": 3.3853,
+        "location": "Cultists Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-suspected-armed-robbers-cultists-in-lagos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NSCDC arrests 16 suspects over vandalism, cattle rustling in Gombe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 10.252,
+        "lng": 11.1985,
+        "location": "Rustling Area, Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nscdc-arrests-16-suspects-over-vandalism-cattle-rustling-in-gombe/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
