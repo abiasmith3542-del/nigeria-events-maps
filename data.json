@@ -4189,5 +4189,27 @@
         "location": "Oyo State",
         "source": "Leadership News",
         "url": "https://leadership.ng/insecurity-oyo-community-leaders-issue-48-hour-quit-notice-to-herdsmen-2/"
+    },
+    {
+        "title": "‘We need your support’ — Oshoala rallies Nigerians ahead of South Africa clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 9.9588,
+        "lng": 6.0529,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/902299-we-need-your-support-oshoala-rallies-nigerians-ahead-of-south-africa-clash.html"
+    },
+    {
+        "title": "Kupa Killings: Kogi Assembly Seeks Disbandment Of Hybrid Vigilante Groups",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 7.767,
+        "lng": 6.688,
+        "location": "Kogi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/kupa-killings-kogi-assembly-seeks-disbandment-of-hybrid-vigilante-groups/"
     }
 ]
