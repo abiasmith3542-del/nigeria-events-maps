@@ -4211,5 +4211,27 @@
         "location": "Kogi State",
         "source": "Leadership News",
         "url": "https://leadership.ng/kupa-killings-kogi-assembly-seeks-disbandment-of-hybrid-vigilante-groups/"
+    },
+    {
+        "title": "Police arrest 10 for attempted murder in Osun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 7.4431,
+        "lng": 4.4741,
+        "location": "Murder Area, Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-10-for-attempted-murder-in-osun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Confusion as Katsina United player declared dead found alive in mortuary",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 12.4591,
+        "lng": 7.5615,
+        "location": "Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/confusion-as-katsina-united-player-declared-dead-found-alive-in-mortuary/"
     }
 ]
