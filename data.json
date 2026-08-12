@@ -4024,5 +4024,60 @@
         "location": "Plateau State",
         "source": "Punch Metro",
         "url": "https://punchng.com/plateau-court-upholds-jurisdiction-over-easter-attack-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Terror attack: Kebbi govt to support families of 10 slain Police officers",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 11.3917,
+        "lng": 4.1403,
+        "location": "Kebbi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/terror-attack-kebbi-govt-to-support-families-of-10-slain-police-officers/"
+    },
+    {
+        "title": "Oshoala rallies fans ahead crunch South Africa clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 9.0967,
+        "lng": 7.5066,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/oshoala-rallies-fans-ahead-crunch-south-africa-clash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest Lagos man over alleged defilement of stepdaughter",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 6.5732,
+        "lng": 3.3643,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-lagos-man-over-alleged-defilement-of-stepdaughter/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "CSOs Shelve Protest, Back Adedeji’s Reforms",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-12",
+        "lat": 9.1381,
+        "lng": 7.4958,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/csos-shelve-protest-back-adedejis-reforms/"
+    },
+    {
+        "title": "I’m not afraid of federal might- Adeleke",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 9.0104,
+        "lng": 7.5386,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/im-not-afraid-of-federal-might-adeleke/"
     }
 ]
