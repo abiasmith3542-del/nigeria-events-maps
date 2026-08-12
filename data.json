@@ -4156,5 +4156,38 @@
         "location": "Kwara State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/banditry-fg-deploys-fresh-troops-to-kwara/"
+    },
+    {
+        "title": "Police arrest three vehicle thieves, recover four tricycles in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 11.9722,
+        "lng": 8.6383,
+        "location": "Tricycles Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-vehicle-thieves-recover-four-tricycles-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "5 Suspects Arrested Over Killing Of MOAUM Professor, Brother In Benue",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 7.3447,
+        "lng": 8.7349,
+        "location": "Brother Area, Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/5-suspects-arrested-over-killing-of-moaum-professor-brother-in-benue/"
+    },
+    {
+        "title": "Insecurity: Oyo Community Leaders Issue 48-hour Quit Notice To Herdsmen",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 7.9662,
+        "lng": 3.9758,
+        "location": "Oyo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/insecurity-oyo-community-leaders-issue-48-hour-quit-notice-to-herdsmen-2/"
     }
 ]
