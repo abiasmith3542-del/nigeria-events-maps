@@ -4244,5 +4244,71 @@
         "location": "Kano State",
         "source": "Leadership News",
         "url": "https://leadership.ng/kano-fixes-2026-hajj-fare-at-%e2%82%a67m-keeps-august-25-registration-deadline/"
+    },
+    {
+        "title": "Police confirm recovery of 9 dead bodies in Niger community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 9.952,
+        "lng": 6.0179,
+        "location": "Bodies Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-confirm-recovery-of-9-dead-bodies-in-niger-community/"
+    },
+    {
+        "title": "Gunmen kill two, injure one, burn houses in Plateau attacks",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 9.4731,
+        "lng": 9.48,
+        "location": "Houses Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/gunmen-kill-two-injure-one-burn-houses-in-plateau-attacks/"
+    },
+    {
+        "title": "I bled throughout the night, abducted Kogi captive recounts ordeal",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-12",
+        "lat": 7.7427,
+        "lng": 6.7867,
+        "location": "Kogi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/i-bled-throughout-the-night-abducted-kogi-captive-recounts-ordeal/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police recover nine bodies in Niger community",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 9.9531,
+        "lng": 5.9561,
+        "location": "Bodies Area, Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-nine-bodies-in-niger-community/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police declare two men wanted over murder in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 6.5332,
+        "lng": 3.3662,
+        "location": "Murder Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-declare-two-men-wanted-over-murder-in-lagos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Recover IED Along Ngoshe–Pulka Road in Borno - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-12",
+        "lat": 11.8163,
+        "lng": 13.1647,
+        "location": "Road Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDZmQnZnaVBPTHl4TmtMR1JYYnBxczdjRzdUcFZZYXZTNzdub05VeVhKd0I2S2MxbnFtYW9ic1ZpZkhOV3RaMVd2cGc5WGU5UjhzdWRjb3ViQUxuRXI3cFF5czFzTy0zdWhkTUZKcy1udzFjSkFvenFXVUNWRDg2NjVZeGx5QlRrQXphbk0tdEtBa1FWZkFLbW1OV3o?oc=5"
     }
 ]
