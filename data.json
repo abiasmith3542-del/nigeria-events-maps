@@ -3958,5 +3958,49 @@
         "location": "Rivers State",
         "source": "Punch Metro",
         "url": "https://punchng.com/suspected-cultists-shoot-another-rivers-varsity-student-dead/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police recover nine bodies in Niger community",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 10.0238,
+        "lng": 5.9434,
+        "location": "Bodies Area, Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-recover-nine-bodies-in-niger-community/"
+    },
+    {
+        "title": "Police arrest suspected kidnapper trying to withdraw ransom in Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 8.5059,
+        "lng": 4.4981,
+        "location": "Ransom Area, Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-suspected-kidnapper-trying-to-withdraw-ransom-in-kwara/"
+    },
+    {
+        "title": "2 killed, 6 abducted in Katsina community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-13",
+        "lat": 12.5415,
+        "lng": 7.6278,
+        "location": "Abducted Area, Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/2-killed-6-abducted-in-katsina-community/"
+    },
+    {
+        "title": "Police arrest 2 suspected thieves, recover 4 stolen tricycles in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 11.9638,
+        "lng": 8.6129,
+        "location": "Tricycles Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-2-suspected-thieves-recover-4-stolen-tricycles-in-kano/"
     }
 ]
