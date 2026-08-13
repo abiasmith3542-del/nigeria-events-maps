@@ -4002,5 +4002,38 @@
         "location": "Tricycles Area, Kano State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-arrest-2-suspected-thieves-recover-4-stolen-tricycles-in-kano/"
+    },
+    {
+        "title": "UK economy slows amid political unrest, Middle East war",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-13",
+        "lat": 9.0078,
+        "lng": 7.5707,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/uk-economy-slows-amid-political-unrest-middle-east-war/"
+    },
+    {
+        "title": "PDP chieftain urges Ebonyi police to protect opposition",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 6.3071,
+        "lng": 7.9783,
+        "location": "Ebonyi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/pdp-chieftain-urges-ebonyi-police-to-protect-opposition/"
+    },
+    {
+        "title": "Nigerian troops foil advance by terrorists riding about 200 motorcycles – Official",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-13",
+        "lat": 10.0528,
+        "lng": 5.9779,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/902505-nigerian-troops-foil-advance-by-terrorists-riding-about-200-motorcycles-official.html"
     }
 ]
