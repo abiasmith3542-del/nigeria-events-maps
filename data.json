@@ -4079,5 +4079,38 @@
         "location": "Bandits Area, Kebbi State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Mkt1V2d1SWdEcjBEY1RpaWxqckJuTHFteDM1U1Azd2JXRWNUdmVOQU5YZ2RPRGpYd1BCRzNqdzdPM0U4MTBkV2NvWDFnak9fMFNpUFFlcEk4VV8tRVdXRlhWdzRTODFTQ1FRVElBUXF3UQ?oc=5"
+    },
+    {
+        "title": "Seven miners killed as pit collapses in Plateau community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-13",
+        "lat": 9.5383,
+        "lng": 9.5348,
+        "location": "Collapses Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/seven-miners-killed-as-pit-collapses-in-plateau-community/"
+    },
+    {
+        "title": "Police recover stolen newborn baby, arrest suspects in Benue",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 7.3889,
+        "lng": 8.7732,
+        "location": "Suspects Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-stolen-newborn-baby-arrest-suspects-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Sokoto Approves N1.76bn For 1000 Motorcycles To Fight Banditry",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-13",
+        "lat": 13.0673,
+        "lng": 5.2583,
+        "location": "Sokoto State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/sokoto-approves-n1-76bn-for-1000-motorcycles-to-fight-banditry/"
     }
 ]
