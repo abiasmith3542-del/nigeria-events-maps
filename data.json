@@ -4112,5 +4112,60 @@
         "location": "Sokoto State",
         "source": "Leadership News",
         "url": "https://leadership.ng/sokoto-approves-n1-76bn-for-1000-motorcycles-to-fight-banditry/"
+    },
+    {
+        "title": "Seven die as mining pit collapses in Plateau",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-13",
+        "lat": 9.5512,
+        "lng": 9.5113,
+        "location": "Collapses Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/seven-die-as-mining-pit-collapses-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police uncover plot by four men to kill Nigerian man, seize his property",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 10.0151,
+        "lng": 5.9444,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/902560-police-uncover-plot-by-four-men-to-kill-nigerian-man-seize-his-property.html"
+    },
+    {
+        "title": "Be Neutral, CP Warns Akwa Ibom Police Contingents To Osun Poll",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 5.0066,
+        "lng": 7.7821,
+        "location": "Akwa Ibom State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/be-neutral-cp-warns-akwa-ibom-police-contingents-to-osun-poll/"
+    },
+    {
+        "title": "Be Neutral, CP Warns A’Ibom Police Contingents Ahead Of Osun Poll",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 7.4987,
+        "lng": 4.5416,
+        "location": "Osun State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/be-neutral-commissioner-warns-a-ibom-police-contingents-to-osun-poll/"
+    },
+    {
+        "title": "Suspected kidnapper arrested while attempting to buy AK-47 in Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 8.5101,
+        "lng": 4.554,
+        "location": "Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/suspected-kidnapper-arrested-while-attempting-to-buy-ak-47-in-kwara/"
     }
 ]
