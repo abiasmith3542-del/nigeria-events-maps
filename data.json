@@ -3925,5 +3925,38 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/inciting-comments-police-grill-fadahunsi-amnesty-nhrc-demand-prosecution/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "168 solar streetlights stolen on Lagos-Ibadan Expressway Longbridge",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 6.5062,
+        "lng": 3.3477,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/168-solar-streetlights-stolen-on-lagos-ibadan-expressway-longbridge/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest 10 for attempted murder in Osun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 7.5582,
+        "lng": 4.4899,
+        "location": "Murder Area, Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-10-for-attempted-murder-in-osun-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Suspected cultists shoot another Rivers varsity student dead",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-13",
+        "lat": 4.7673,
+        "lng": 6.8053,
+        "location": "Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/suspected-cultists-shoot-another-rivers-varsity-student-dead/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
