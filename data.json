@@ -4167,5 +4167,71 @@
         "location": "Kwara State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/suspected-kidnapper-arrested-while-attempting-to-buy-ak-47-in-kwara/"
+    },
+    {
+        "title": "Police nab 18 suspects, recover 47 guns in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 4.7486,
+        "lng": 6.7857,
+        "location": "Guns Area, Rivers State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-nab-18-suspects-recover-47-guns-in-rivers/"
+    },
+    {
+        "title": "Benue hospital abduction: Police recover missing newborn, arrest suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 7.3567,
+        "lng": 8.7706,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/benue-hospital-abduction-police-recover-missing-newborn-arrest-suspects/"
+    },
+    {
+        "title": "Army targets terrorist networks in Katsina, Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-13",
+        "lat": 12.5396,
+        "lng": 7.6005,
+        "location": "Networks Area, Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/army-targets-terrorist-networks-in-katsina-zamfara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police nab fake soldier, 17 others over criminal activities in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 4.8099,
+        "lng": 6.8549,
+        "location": "Activities Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-fake-soldier-17-others-over-criminal-activities-in-rivers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest two suspects, recover ₦5.2m worth of drugs in Adamawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 9.3211,
+        "lng": 12.4709,
+        "location": "Drugs Area, Adamawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-suspects-recover-%e2%82%a65-2m-worth-of-drugs-in-adamawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police recover stolen newborn in Benue",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 7.3414,
+        "lng": 8.8099,
+        "location": "Newborn Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-recover-stolen-newborn-in-benue/"
     }
 ]
