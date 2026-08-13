@@ -4035,5 +4035,49 @@
         "location": "Niger State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/902505-nigerian-troops-foil-advance-by-terrorists-riding-about-200-motorcycles-official.html"
+    },
+    {
+        "title": "VIDEO: Gridlock in Lagos as trailers, cars collide in dual accidents",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-13",
+        "lat": 6.5629,
+        "lng": 3.4259,
+        "location": "Gridlock Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-gridlock-in-lagos-as-trailers-cars-collide-in-dual-accidents/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill nine travellers in Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 10.0242,
+        "lng": 5.9786,
+        "location": "Travellers Area, Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/902551-gunmen-kill-nine-travellers-in-niger.html"
+    },
+    {
+        "title": "Video Of Police Officers Allegedly Dragging Man In Military Uniform Sparks Questions In Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-13",
+        "lat": 4.7618,
+        "lng": 6.8772,
+        "location": "Questions Area, Rivers State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/video-of-police-officers-allegedly-dragging-man-in-military-uniform-sparks-questions-in-rivers/"
+    },
+    {
+        "title": "IGP Disu Mourns as Police Confirm Killing of 10 Personnel, 17 Bandits in Kebbi Clash - PRNigeria News",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-11",
+        "lat": 11.4954,
+        "lng": 4.256,
+        "location": "Bandits Area, Kebbi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Mkt1V2d1SWdEcjBEY1RpaWxqckJuTHFteDM1U1Azd2JXRWNUdmVOQU5YZ2RPRGpYd1BCRzNqdzdPM0U4MTBkV2NvWDFnak9fMFNpUFFlcEk4VV8tRVdXRlhWdzRTODFTQ1FRVElBUXF3UQ?oc=5"
     }
 ]
