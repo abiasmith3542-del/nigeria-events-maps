@@ -3991,5 +3991,38 @@
         "location": "Died Area, Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/how-7-miners-died-in-plateau-pit-collapse/"
+    },
+    {
+        "title": "Police arrest 147 suspects in Niger raids, recover weapons, cannabis",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 9.9592,
+        "lng": 6.0319,
+        "location": "Suspects Area, Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/niger-police-arrest-147-suspects-in-raids-recover-weapons-cannabis/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NAFDAC, police partner on enforcement of sachet alcohol in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 6.988,
+        "lng": 3.4697,
+        "location": "Alcohol Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2215198-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "One Killed As Troops Foil Fulani Bandits Attack on Nyerwai, Rayidi Communities in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 9.5064,
+        "lng": 9.5429,
+        "location": "Communities Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTkZOYXZ1U3R0RVd6ZDdVM2FVTVpnREE5SEpWREU0b0FFcUQ1SUg4TWtJS3NZYkpSbTIwVDZKdU5fSjktbm1icFhPYlNRY0NsVG50aFFsYWZLWjU1aWdQUkNXaDRNbjZ0dVNBSE42MFdWaVZUMVRNZ245dFc2SDRVTmx0RlpHdHZldmxxbUsxYVJFNWV1YTRIdjlLbUtmeEN1ZEdLSVFocTlBeGhPNDZSNEpSenU3N2x6SzM4UDBGdjF6NkRpMXY4SmJvMmxQZw?oc=5"
     }
 ]
