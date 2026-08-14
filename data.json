@@ -4145,5 +4145,27 @@
         "location": "Edo State",
         "source": "Google News - Nigeria Local",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMHNwSnVGNjFSWFdUeTg1SWRudlpmVzBxa2VZWklRRmY2WFpfYjRGSEFEQlg4LVU3LVNodGFqdWtVRDQtNUNDamZ1aVRrOU5hQldkVGw1Z1FqTnozdy1WQ19ScDRuRmhHMWtISmZsdkZ4RHM1WmU3c3NONmVBNEFKbkhUc2NfcDBkMUFhRkRVQmI1WHJERGwyUTdSZ1FvZmxOX0xZbjBnZkE1aUtaVEd2U1ZhZUdRVFRxakhwN29TSWFJcllLRkt1YzJLa2p5WjBHc2VVaDN2THk0bVhxZ3JjS0RHSllzWm5XU1FZaGVXTi1BXzVBNmxPZg?oc=5"
+    },
+    {
+        "title": "3 injured, 4 motorcycles damaged as Farmers, Herders Clash in Niger",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 9.9885,
+        "lng": 6.0541,
+        "location": "Clash Area, Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-injured-4-motorcycles-damaged-as-farmers-herders-clash-in-niger/"
+    },
+    {
+        "title": "Police Arrest 2 with 132 Sachets of Tramadol in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 5.4533,
+        "lng": 5.9785,
+        "location": "Tramadol Area, Delta State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-2-with-132-sachets-of-tramadol-in-delta/"
     }
 ]
