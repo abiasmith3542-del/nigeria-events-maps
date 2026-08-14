@@ -1,291 +1,5 @@
 [
     {
-        "title": "Osun poll: IG deploys 15,000 policemen, warns troublemakers",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 7.4792,
-        "lng": 4.44,
-        "location": "Osun State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/osun-poll-ig-deploys-15000-policemen-warns-troublemakers/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "13 held as police smash robbery, cult networks in Abia",
-        "type": "族群冲突/武装对抗",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 5.3956,
-        "lng": 7.5172,
-        "location": "Networks Area, Abia State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/13-held-as-police-smash-robbery-cult-networks-in-abia/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police uncover bandits’ hideout, seize rifles, ammunition",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 9.021,
-        "lng": 7.502,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-uncover-bandits-hideout-seize-rifles-ammunition/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "PSC deploys eight CPs, appoints Police Academy commandant",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 9.1228,
-        "lng": 7.4509,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/psc-deploys-eight-cps-appoints-police-academy-commandant/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Suspect arrested over plot to kidnap Delta pastor, retired principal",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 5.4853,
-        "lng": 6.0226,
-        "location": "Delta State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/suspect-arrested-over-plot-to-kidnap-delta-pastor-retired-principal/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Four killed, five injured in Lagos, Ogun road crashes",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 6.4887,
-        "lng": 3.4362,
-        "location": "Injured Area, Lagos State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/four-killed-five-injured-in-lagos-ogun-road-crashes/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police arrest three, recover 5,676 illicit drugs in Jigawa",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 11.9425,
-        "lng": 9.7087,
-        "location": "Drugs Area, Jigawa State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-three-recover-5676-illicit-drugs-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Why police ordered Abuja stadium closure",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 9.0121,
-        "lng": 7.4467,
-        "location": "Abuja (FCT)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/why-police-ordered-abuja-stadium-closure/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Three children found dead in Anambra  native doctor’s residence",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 6.1742,
-        "lng": 7.0506,
-        "location": "Dead Area, Anambra State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/three-children-found-dead-in-anambra-native-doctors-residence/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Tambuwal mourns slain police officer, seeks stronger action against insecurity in Sokoto",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 13.1201,
-        "lng": 5.2312,
-        "location": "Insecurity Area, Sokoto State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/08/tambuwal-mourns-slain-police-officer-seeks-stronger-action-against-insecurity-in-sokoto/"
-    },
-    {
-        "title": "Tinubu hails ‘rescue’ of 308 victims abducted from Kwara, Niger",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 8.5155,
-        "lng": 4.5315,
-        "location": "Kwara State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/headlines/900978-tinubu-hails-rescue-of-308-victims-abducted-from-kwara-niger.html"
-    },
-    {
-        "title": "Police arrest suspected killers of officers in Rivers, recover stolen rifles",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 4.7154,
-        "lng": 6.8837,
-        "location": "Officers Area, Rivers State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/police-arrest-suspected-killers-of-officers-in-rivers-recover-stolen-rifles/"
-    },
-    {
-        "title": "Herder Killed in Plateau’s Bassa, Troops Recover 50 Cattle - zagazola.org",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 9.5241,
-        "lng": 9.5274,
-        "location": "Killed Area, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXFBMGsxNnNWczBSeVg0VzF1TWQyTE1rTHp4ZEFyemtXZmtVeUh0OTI5dHpSVks1MjRRQ25kSkpCSHNrcm5OcURpWGREdWdWeG9lNFBuRzVzSzd4eXhkT1JjV2dXVTJONk9iOHpHVHpVbU4yUzRIRTJoQWExX1R0MXFXYzJUZlR4aklBa0pNVUduNGUwM3hTck9Kd2JuWjJkczV4c3hxNXpHTFNf?oc=5"
-    },
-    {
-        "title": "Troops rescue 308 kidnap victims after six-month operation in Kwara, Niger forests",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 8.504,
-        "lng": 4.5103,
-        "location": "Operation Area, Kwara State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/08/troops-rescue-308-kidnap-victims-after-six-month-operation-in-kwara-niger-forests/"
-    },
-    {
-        "title": "Police arrest 11 cattle rustlers, recover 40 animals in Jigawa",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 11.9691,
-        "lng": 9.7752,
-        "location": "Animals Area, Jigawa State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-11-cattle-rustlers-recover-40-animals-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police Arrest Fifth Suspect Over Mob Killing Of Jos Model",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 9.8993,
-        "lng": 8.8214,
-        "location": "Jos, Plateau State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/police-arrest-fifth-suspect-over-mob-killing-of-jos-model/"
-    },
-    {
-        "title": "Troops Recover Body of Missing Farmer in Plateau’s Bassa - zagazola.org",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 9.4807,
-        "lng": 9.5358,
-        "location": "Farmer Area, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLXppME9DMXBBS29KVk1fLWlNWEJheTk4NTN6anNIaDg3VlA5emdPaGoxeDljc1ctZlpoMVpGYkpHbDZOT3JOYndPTjN0dHQ4NlUxWlBpQTJ6NWFONzFEWk5kYVB6ekZ2SVdoN3RpVVBsLTJpeFhzeU5xTWJSVFpmRHFQU0licTVNb3R5QUwwRk5ZQnh4cmh5aDNJOExMcFFNeTJjWC1nQVJZZw?oc=5"
-    },
-    {
-        "title": "Two Cows Shot Dead in Plateau as Troops Warn Herders Against Illegal Grazing - zagazola.org",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 9.4922,
-        "lng": 9.5216,
-        "location": "Dead Area, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVEd1UW1IM2dtRlJxWDEyVDFpZndtUElqS2pUVTVCVzhtZi1DNUVicThhMVNOUWVIdVVWOFRKOWMzZVlfM3p5TUZ0N3daOWVKVFR4MEIzUVBDd200RDlOazNNQkRvV1c1LVVMd0FlMkRSd2VzcXQ4ZGhNN3JpQnBpd0h3Q2lyTXBzM0xRWm8teTNhR3lFV3BaR3FoUENuX1loUkQxbWtjRzYtX1g2RlFUX05laUo0dnEzM0hBS05SSXJHdEg2Vmc?oc=5"
-    },
-    {
-        "title": "Troops foil bandit attack, prevent livestock rustling in Sokoto community",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 13.0458,
-        "lng": 5.2236,
-        "location": "Rustling Area, Sokoto State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/08/troops-foil-bandit-attack-prevent-livestock-rustling-in-sokoto-community/"
-    },
-    {
-        "title": "Police bust kidnapping syndicate in Rivers, arrest five suspects",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 4.7899,
-        "lng": 6.8693,
-        "location": "Syndicate Area, Rivers State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-bust-kidnapping-syndicate-in-rivers-arrest-five-suspects/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Mob attacks Kano traffic officials following highway crash",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 11.9492,
-        "lng": 8.6236,
-        "location": "Kano State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/mob-attacks-kano-traffic-officials-following-highway-crash/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police probe killing of cocoa farm worker in Cross River",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 5.7059,
-        "lng": 8.503,
-        "location": "Worker Area, Cross River State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/901020-police-probe-killing-of-cocoa-farm-worker-in-cross-river.html"
-    },
-    {
-        "title": "Troops Arrest Suspected Terrorist Informant in Adamawa - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 9.3832,
-        "lng": 12.5325,
-        "location": "Informant Area, Adamawa State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIUkZacEZqd1ROU3E3Z2dwRzYzWTJFY1pZN09QRnBCV1VUMTg5R2hQRE9hYm0zMUNZUThxeS01dHVON0E4ZkE5WXhtXzFoRjBrWmg5Q1NlQ0VleU96RnhheU5YUlVSdmV1UG9mZQ?oc=5"
-    },
-    {
-        "title": "Troops Rescue 13-Year-Old Herder After Farm Destruction Dispute in Plateau - ZAgazola",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 9.5183,
-        "lng": 9.508,
-        "location": "Dispute Area, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0I1UDBZMHFmb181OEFWeE1iUGl1bXFDUXNzMGQ0MmFpaGFfVElXa0RqQ0VIZlhLd21DRzA0cDg2ekE3X25ZeW85dUNZWkhBRXo5SThlVG9VRkdaOWFzNW9PczFoLVhSVmllYTZldTBRVVdrcndWRnVaeVlrSmd0VnUzT0p5ZzhRWTEyamhnT3hpYkFqczBTdE9acFJHbDhnVGU4cnhTRjdURVpBNm9NMFBIQ3NsRFFrWk9n?oc=5"
-    },
-    {
-        "title": "Seven abducted Ogun Poly students rescued alive – Gov Abiodun",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 6.981,
-        "lng": 3.47,
-        "location": "Ogun State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/08/seven-abducted-ogun-poly-students-rescued-alive-abiodun/"
-    },
-    {
-        "title": "Police arrest 33-year-old woman for alleged ₦42.3m visa fraud in Ondo",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 7.2641,
-        "lng": 5.2275,
-        "location": "Fraud Area, Ondo State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/08/police-arrest-33-year-old-woman-for-alleged-%e2%82%a642-3m-visa-fraud-in-ondo/"
-    },
-    {
         "title": "Allowance row: FUTA workers protest, demand payment",
         "type": "突发涉安事件",
         "level": "low",
@@ -295,171 +9,6 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/allowance-row-futa-workers-protest-demand-payment/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Kogi govt condemns Kupa killings, orders arrest of vigilante, reprisal attackers",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 7.7946,
-        "lng": 6.7058,
-        "location": "Kogi State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/901213-kogi-govt-condemns-kupa-killings-orders-arrest-of-vigilante-reprisal-attackers.html"
-    },
-    {
-        "title": "Seven abducted Poly students rescued in Ogun",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 6.9972,
-        "lng": 3.452,
-        "location": "Rescued Area, Ogun State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/901208-seven-abducted-poly-students-rescued-in-ogun.html"
-    },
-    {
-        "title": "Two arrested in Akwa Ibom for digging up fresh corpse to steal, sell casket",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 5.0303,
-        "lng": 7.8586,
-        "location": "Arrested Area, Akwa Ibom State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/south-south-regional/901098-two-arrested-in-akwa-ibom-for-digging-up-fresh-corpse-to-steal-sell-casket.html"
-    },
-    {
-        "title": "2Baba visits attacked Benue community, calls for end to killings",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 7.2902,
-        "lng": 8.7894,
-        "location": "Benue State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/north-central/901096-2baba-visits-attacked-benue-community-calls-for-end-to-killings.html"
-    },
-    {
-        "title": "BREAKING: Bauchi Declares Cholera Outbreak, Records 398 Suspected Cases, 16 Deaths",
-        "type": "突发公共卫生疫情",
-        "level": "low",
-        "date": "2026-08-06",
-        "lat": 10.4494,
-        "lng": 9.9446,
-        "location": "Bauchi State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/breaking-bauchi-declares-cholera-outbreak-records-398-suspected-cases-16-deaths/"
-    },
-    {
-        "title": "JUST IN: Explosion Reported Near Apo Bridge In Abuja",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-08-06",
-        "lat": 9.0582,
-        "lng": 7.495,
-        "location": "Bridge Area, Abuja (FCT)",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/just-in-explosion-reported-near-apo-bridge-in-abuja/"
-    },
-    {
-        "title": "Troops destroy ISWAP hideouts, logistics bases in Yobe ",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 11.9959,
-        "lng": 11.5255,
-        "location": "Bases Area, Yobe State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/troops-destroy-iswap-hideouts-logistics-bases-in-yobe/"
-    },
-    {
-        "title": "Abducted Ogun students regain freedom after eight days",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 6.544,
-        "lng": 6.0355,
-        "location": "Edo State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/abducted-ogun-students-regain-freedom-after-eight-days/"
-    },
-    {
-        "title": "Gunmen kill 3 herders, 14 cattle in fresh Plateau attack",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 9.4902,
-        "lng": 9.5262,
-        "location": "Plateau State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/gunmen-kill-3-herders-14-cattle-in-fresh-plateau-attack/"
-    },
-    {
-        "title": "Farmer shot dead in Cross River",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 5.7482,
-        "lng": 8.4508,
-        "location": "Dead Area, Cross River State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/farmer-shot-dead-in-cross-river/"
-    },
-    {
-        "title": "Troops Arrests Fulani Youth Leader Over Terror Attack in Kaduna Community - ZAgazola",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 10.5463,
-        "lng": 7.518,
-        "location": "Kaduna State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcnlpd0swQUI1dEQybG5VV2ZwTVFkT0V4LUNCNkFFY1RUdDBKS1ZtYW04UEFPUlRoeU9sN0k5a3pRTVNJdmFrLVFxMkNPX1ZKZnlxNHVYRjBKN3Q5dHFPZzYwbEZyTFlIbnpfVHBfOXZJc091RE1FRkU4TkRQMEZ2NGZxUmZoTE9FVHI5RFVuNGwzalNLSEhjbnI0Z3kzOGV1cWVfUkNmWmxOYlk2MkI1clVsS21MbW5id0E?oc=5"
-    },
-    {
-        "title": "Troops Foil Attempted Kidnap in Jos, Rescue Victim, Arrest Four Suspects - ZAgazola",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 9.8765,
-        "lng": 8.827,
-        "location": "Kidnap Area, Jos, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWDB6LVUyZ1g0TF8wc0lOQkxuZ2dqenVqOGNZOVU3R0ZZajZERERlTmRWVFlOT2hRbG02NkJ4Z0ZMVms2ZGc5MC1MMV9sOUd6S3NBOEZhMGNXR293YnB0N2pITGw2U1pyeTVnME8wZ1BMVjUwd09Xb1gzOVZvamk4VE9pZmw1RllqRDNWUDFmaTlTcF8wQnNBSkxDZHNEcW1mbkJQNnRFVTctb1ZfNm1MOXQzMXBfUQ?oc=5"
-    },
-    {
-        "title": "Troops Arrest Four Herders Over Alleged Destruction of Farmland in Plateau - ZAgazola",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 9.5583,
-        "lng": 9.5135,
-        "location": "Farmland Area, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbWh5eHB0aWhfXzgwZjBXX0kxZkhXQk5WcHJJdlRHajRmT0hMZzg0UGdDSDltNVFUeFhSYnVOZUoxVUNTVHU0TzczbnVNVmhHel8xWXAwbnJqYjJONDlhd2hlZlFfSmtMVl9RRDlBenFXbS1Wc1FnNW1ncGRpdGR5RE45b1FndF9NLWZ6SlJLeUpNa24yU0M1QklNU3N4WmV5ZHJwNDNXRmNnUmNyY3FZX1lxMWs0QWN3b1NZ?oc=5"
-    },
-    {
-        "title": "Troops Destroy ISWAP Hideouts, Sustain Offensive in Yobe - ZAgazola",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 12.0417,
-        "lng": 11.5074,
-        "location": "Offensive Area, Yobe State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUTMydEFYNDVaMmt1T1VyWGhfUFYtTkwzaVF3OE8ta0RuR1BsaEw4V3lDdDM5WUFSM013d2paWlY4UEhISVZUMUNEZndFUUJoTm1KOC1idGRvcVlPM0lpcko4SElUeVZLNjlDazR6YlQ3SWVHd1RqU1BpU09fZHoyWDZpZzBhdE5XZUkyTzJqTXNHOVBlMDFHV0dQZFZEc3VNYWc?oc=5"
-    },
-    {
-        "title": "Farmer Injured in Clash With Herder Over Grazing in Plateau, 33 Cattle Seized - ZAgazola",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 9.4752,
-        "lng": 9.5177,
-        "location": "Grazing Area, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdmRIaWdOUmJDdktaUmhBLUI5Zk9hNW1UeWM3Q2V1UnhxYVhubE4zaVVwNlVWRE15Y0g3Z2VHempBRnFzUExNSnp4OFh1ZFp0dzBfR0ZlemxDTkpQbGtEYkhnUnNIRzBNWG1uTnlGNkk4QXg5YVUzNml4bloycHFLSFpLQWkydVhmLUZBV0Q0YjFmdVNDU2dDMHZsUXlJMy1YaU5hbHdlUlNXYUhUVGY3d3BqV1VXYnN1UThMV2V3?oc=5"
     },
     {
         "title": "Ondo woman arrested for defrauding 93 visa seekers N42.3m",
@@ -537,17 +86,6 @@
         "location": "Zamfara State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/bandit-attack-zamfara-gov-visits-bungudu-vows-not-to-negotiate-with-criminals/"
-    },
-    {
-        "title": "Operation FANSAN YAMMA Troops Arrest Four Suspected Lakurawa Terrorists, Recover Rustled Cattle in Sokoto - ZAgazola",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-08-06",
-        "lat": 13.0433,
-        "lng": 5.2761,
-        "location": "Cattle Area, Sokoto State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZW9KZnMzSlJ1V1JyMXJWOEFJc3EwRlltQV9CaENXZ3RhZ0hYdXBoRk40SFNZTmRndm9lWjJrWEl3LTE2aEd6SXlqRDl3WUpjOTNUTWlucFpZelR5Ykl5WmR5Z3RFaTZFUFNVbzBGT3dfa0hiMzJRd0dOamFxTmhnc2I3b2twT3FtaGpsMUVYa0tkRmsxcjUyQ3hfRHNDSjJNUk5BdGJTRWxPdlFUeHA5UHBLS0NnYUVYSGNyR1Q3M3c1VnNncHZ2UVRyZExlN3pmREZUOUtqVWp1dzliUS1PTjZBaw?oc=5"
     },
     {
         "title": "Police arrest child trafficking suspect in Abia, rescue six",
@@ -1120,17 +658,6 @@
         "location": "Nigeria (General Area)",
         "source": "Leadership News",
         "url": "https://leadership.ng/nhrc-police-seek-end-to-torture-arbitrary-arrests/"
-    },
-    {
-        "title": "Troops Arrest Suspected Gunrunner in Plateau - ZAgazola",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-08-06",
-        "lat": 9.5484,
-        "lng": 9.5352,
-        "location": "Gunrunner Area, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNFVSclppemJMcE1rbU1ZdWt6WXZNX1NGY2lweHhqQ3drT3dqXy1rTmhJNnpQLUtPa18wekpmZWV6UzA3LTlQVGJTTlh6bG1Ib280QnZNTHVHdHN2UkJyV0dkZmZBd1pxTE5YaVFVTHRXa245SjVHT0tiVXlVTlpnc1JmczZZSEdpWkpGM3dYaU9tQTUzeXkzTHlidw?oc=5"
     },
     {
         "title": "Troops Ambush Terrorists Collecting Taxes From Herders in Adamawa - ZAgazola",
@@ -4321,5 +3848,49 @@
         "location": "Weapons Area, Osun State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/police-mopped-up-34-illegal-weapons-in-osun-ahead-poll-force-pro/"
+    },
+    {
+        "title": "Court orders police probe of Fadahunsi over killing comment",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 8.9682,
+        "lng": 7.49,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/court-orders-police-probe-of-fadahunsi-over-killing-comment/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kidnap gang member arrested over N1.6m AK-47 purchase in Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 8.5209,
+        "lng": 4.5607,
+        "location": "Purchase Area, Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kidnap-gang-member-arrested-over-n1-6m-ak-47-purchase-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Military launches fresh offensive against N’West terrorists",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 8.9582,
+        "lng": 7.5823,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/military-launches-fresh-offensive-against-nwest-terrorists/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Death toll mounts as another Osun resident shot dead",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 7.4884,
+        "lng": 4.4927,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/death-toll-mounts-as-another-osun-resident-shot-dead/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
