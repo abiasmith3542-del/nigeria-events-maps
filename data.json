@@ -4343,5 +4343,16 @@
         "location": "Ondo State",
         "source": "Leadership News",
         "url": "https://leadership.ng/cambridge-professor-jason-arday-found-dead-at-south-london-home/"
+    },
+    {
+        "title": "Lakurawa militants invade Sokoto community, four soldiers feared killed",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 13.0279,
+        "lng": 5.2401,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/lakurawa-militants-invade-sokoto-community-four-soldiers-feared-killed/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
