@@ -4079,5 +4079,71 @@
         "location": "Bauchi State",
         "source": "Leadership News",
         "url": "https://leadership.ng/court-dismisses-n200m-fundamental-rights-suit-against-bauchi-police/"
+    },
+    {
+        "title": "Police parade 14 kidnap suspects, recover 5 AK-47 rifles, 310 rounds in Enugu",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 6.5531,
+        "lng": 7.484,
+        "location": "Rounds Area, Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-parade-14-kidnap-suspects-recover-5-ak-47-rifles-310-rounds-in-enugu/"
+    },
+    {
+        "title": "Police arrest man for Qur’an desecration in Kebbi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 11.4081,
+        "lng": 4.2148,
+        "location": "Desecration Area, Kebbi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-for-quran-desecration-in-kebbi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen abduct 14 passengers in Benue, five rescued",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 7.3631,
+        "lng": 8.7513,
+        "location": "Passengers Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-abduct-14-passengers-in-benue-five-rescued/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "JUST IN: 14 Passengers Abducted In Benue, Police Rescue 4-Year-Old Boy, 4 Others",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 7.2826,
+        "lng": 8.7168,
+        "location": "Abducted Area, Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/just-in-14-passengers-abducted-in-benue-police-rescue-4-year-old-boy-4-others/"
+    },
+    {
+        "title": "NAF Airstrikes Disrupt Terrorist Activity in Zamfara - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 10.0,
+        "lng": 6.035,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yclU2VWJTNjJpN1RVSmJpLVRISnpPYXF1V0dGSXFLUUtFRWdrczVxcDhsNF83Z1pObjFhazZULUl0blQyNUdjTHVSQjFod3A2SkR2LWM0OHdDNm5iQlNMeTBHTTBhb2c?oc=5"
+    },
+    {
+        "title": "The Most Dangerous Place: Edo’s child sexual abuse figures expose Nigeria’s hidden epidemic of fathers who prey on their own children - Law and Society Magazine.",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-14",
+        "lat": 6.4495,
+        "lng": 5.9509,
+        "location": "Edo State",
+        "source": "Google News - Nigeria Local",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMHNwSnVGNjFSWFdUeTg1SWRudlpmVzBxa2VZWklRRmY2WFpfYjRGSEFEQlg4LVU3LVNodGFqdWtVRDQtNUNDamZ1aVRrOU5hQldkVGw1Z1FqTnozdy1WQ19ScDRuRmhHMWtISmZsdkZ4RHM1WmU3c3NONmVBNEFKbkhUc2NfcDBkMUFhRkRVQmI1WHJERGwyUTdSZ1FvZmxOX0xZbjBnZkE1aUtaVEd2U1ZhZUdRVFRxakhwN29TSWFJcllLRkt1YzJLa2p5WjBHc2VVaDN2THk0bVhxZ3JjS0RHSllzWm5XU1FZaGVXTi1BXzVBNmxPZg?oc=5"
     }
 ]
