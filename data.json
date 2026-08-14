@@ -4200,5 +4200,60 @@
         "location": "Kebbi State",
         "source": "Leadership News",
         "url": "https://leadership.ng/igp-condoles-with-kebbi-gov-over-loss-of-10-policemen-civilians/"
+    },
+    {
+        "title": "Gunmen shoot driver, abduct 14 passengers along Benue highway",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 7.3136,
+        "lng": 8.7134,
+        "location": "Benue State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/gunmen-shoot-driver-abduct-14-passengers-along-benue-highway/"
+    },
+    {
+        "title": "TCN reports collapse of five power towers in Akwa Ibom as vandals invade transmission lines",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-14",
+        "lat": 5.053,
+        "lng": 7.8096,
+        "location": "Towers Area, Akwa Ibom State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/tcn-reports-collapse-of-five-power-towers-in-akwa-ibom-as-vandals-invade-transmission-lines/"
+    },
+    {
+        "title": "Mother, Two Children Killed in Kaduna Building Collapse",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 10.4931,
+        "lng": 7.5021,
+        "location": "Killed Area, Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/mother-two-children-killed-in-kaduna-building-collapse/"
+    },
+    {
+        "title": "Police Arrest 6 Suspected Kidnappers, Dismantle Hideout in Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 10.5396,
+        "lng": 7.4444,
+        "location": "Hideout Area, Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-6-suspected-kidnappers-dismantle-hideout-in-kaduna/"
+    },
+    {
+        "title": "Police uncover plot to kidnap bishops’ wives in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 9.5528,
+        "lng": 9.4674,
+        "location": "Wives Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-uncover-plot-to-kidnap-bishops-wives-in-plateaue/"
     }
 ]
