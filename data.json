@@ -4167,5 +4167,38 @@
         "location": "Tramadol Area, Delta State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-arrest-2-with-132-sachets-of-tramadol-in-delta/"
+    },
+    {
+        "title": "Hospital collapses after landslide in Calabar",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-14",
+        "lat": 8.9988,
+        "lng": 7.4818,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/hospital-collapses-after-landslide-in-calabar/"
+    },
+    {
+        "title": "Court stops Imo, police from disrupting Rep’s rallies",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 5.5064,
+        "lng": 7.0379,
+        "location": "Imo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/court-stops-imo-police-from-disrupting-reps-rallies/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "IGP Condoles With Kebbi Gov Over Loss Of 10 Policemen, Civilians",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 11.451,
+        "lng": 4.2387,
+        "location": "Kebbi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/igp-condoles-with-kebbi-gov-over-loss-of-10-policemen-civilians/"
     }
 ]
