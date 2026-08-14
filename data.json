@@ -3892,5 +3892,27 @@
         "location": "Osun State",
         "source": "Punch Metro",
         "url": "https://punchng.com/death-toll-mounts-as-another-osun-resident-shot-dead/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Arrest Suspected Kidnapper Attempting To Buy AK- 47 Rifle In Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 8.4756,
+        "lng": 4.5027,
+        "location": "Rifle Area, Kwara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-suspected-kidnapper-attempting-to-buy-ak-47-rifle-in-kwara/"
+    },
+    {
+        "title": "Nigeria’s Silent Epidemic: How Drug Abuse Is Consuming a Generation",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-14",
+        "lat": 10.0523,
+        "lng": 5.9629,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/nigerias-silent-epidemic-how-drug-abuse-is-consuming-a-generation/"
     }
 ]
