@@ -3925,5 +3925,38 @@
         "location": "Baby Area, Benue State",
         "source": "Leadership News",
         "url": "https://leadership.ng/woman-10-others-arrested-over-stolen-1-day-old-baby-in-benue/"
+    },
+    {
+        "title": "Police arrest 6 suspected kidnappers in Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 10.5072,
+        "lng": 7.5406,
+        "location": "Kidnappers Area, Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-6-suspected-kidnappers-in-kaduna/"
+    },
+    {
+        "title": "Navy rescues 22 sea robbery victims, recovers hijacked boat in Akwa Ibom",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 4.9504,
+        "lng": 7.8697,
+        "location": "Boat Area, Akwa Ibom State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/navy-rescues-22-sea-robbery-victims-recovers-hijacked-boat-in-akwa-ibom/"
+    },
+    {
+        "title": "Bandits kill one, abduct seven in Sokoto community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 13.0545,
+        "lng": 5.2216,
+        "location": "Seven Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-one-abduct-seven-in-sokoto-community/"
     }
 ]
