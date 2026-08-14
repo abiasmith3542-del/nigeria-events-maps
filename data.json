@@ -4035,5 +4035,49 @@
         "location": "Katsina State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/902809-26-katsina-lgas-under-bandits-attack-in-2023-deputy-governor.html"
+    },
+    {
+        "title": "US missionary kidnapped in Niger released after nine months in captivity",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 10.0304,
+        "lng": 5.9985,
+        "location": "Kidnapped Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity/"
+    },
+    {
+        "title": "Police recover pistols, cult caps from abandoned motorcycle in Anambra",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 6.1768,
+        "lng": 6.9699,
+        "location": "Motorcycle Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-pistols-cult-caps-from-abandoned-motorcycle-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest five over fake herbal medicine, impersonation in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 12.0328,
+        "lng": 8.5729,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-five-over-fake-herbal-medicine-impersonation-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Court Dismisses N200m Fundamental Rights Suit Against Bauchi Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-14",
+        "lat": 10.5062,
+        "lng": 10.0536,
+        "location": "Bauchi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/court-dismisses-n200m-fundamental-rights-suit-against-bauchi-police/"
     }
 ]
