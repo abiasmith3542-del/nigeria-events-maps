@@ -4332,5 +4332,16 @@
         "location": "Victims Area, Niger State",
         "source": "Leadership News",
         "url": "https://leadership.ng/troops-foil-terrorist-attack-rescue-9-kidnap-victims-in-niger/"
+    },
+    {
+        "title": "Cambridge Professor Jason Arday Found Dead At South London Home",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-14",
+        "lat": 7.2048,
+        "lng": 5.1696,
+        "location": "Ondo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/cambridge-professor-jason-arday-found-dead-at-south-london-home/"
     }
 ]
