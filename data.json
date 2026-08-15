@@ -4090,5 +4090,38 @@
         "location": "Freedom Area, Anambra State",
         "source": "Leadership News",
         "url": "https://leadership.ng/socialite-jowizazas-father-abducted-cleric-regain-freedom-in-anambra/"
+    },
+    {
+        "title": "ISWAP terrorists killed in failed attack on troops in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 11.7856,
+        "lng": 13.0952,
+        "location": "Troops Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/iswap-terrorists-killed-in-failed-attack-on-troops-in-borno/"
+    },
+    {
+        "title": "Oyo Police bust alleged human parts syndicate, recover heart, skull, others",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 7.968,
+        "lng": 4.0218,
+        "location": "Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/oyo-police-bust-alleged-human-parts-syndicate-recover-heart-skull-others/"
+    },
+    {
+        "title": "Taraba cuts zero-dose children to 4%, records 74.5% skilled births",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 8.0475,
+        "lng": 10.4767,
+        "location": "Taraba State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/taraba-cuts-zero-dose-children-to-4-records-74-5-skilled-births/"
     }
 ]
