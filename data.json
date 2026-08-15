@@ -4255,5 +4255,27 @@
         "location": "Thieves Area, Kano State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-intercept-illegal-arms-arrest-suspected-robbers-cattle-thieves-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Two herders shot dead in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 9.5422,
+        "lng": 9.5569,
+        "location": "Dead Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/two-herders-shot-dead-in-plateau-2/"
+    },
+    {
+        "title": "Bandits Confirm Killing of Kachalla Muhammadu’s Lieutenant Biliya in Botched Operation in Katsina - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 12.5559,
+        "lng": 7.6649,
+        "location": "Operation Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV21vVGFiUTZYcDlZblZmWDc1X0lZWks4ZW9ldWRRM0I3R3Z3RTRpS0tVOTdTS0oxZkpuQ0xhdlRXM2VUM191RUZfbU9nclQyd3FMRWdKcGRTeUhqYl9JdkZ4MFQyT2tLMnk0U3dyMUcwZGNCZFduRThsMGZEMDJOVkJ3RTJXd1YzSFlmUkpubWs3VmVTRVVBZjg0VHlWX2NxRHp3X3hlVC1YTWFpaUw5ZFVjMDEtSEhoZGJyZTVWVkxkSmRKLXBWeHNmMXF3cmFGeDRuTEdsZTY?oc=5"
     }
 ]
