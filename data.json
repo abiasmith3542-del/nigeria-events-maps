@@ -3881,5 +3881,16 @@
         "location": "Campaign Area, Delta State",
         "source": "Leadership News",
         "url": "https://leadership.ng/six-injured-as-gunshots-rock-ndc-campaign-in-delta/"
+    },
+    {
+        "title": "PHOTOS: Obi visits Benue attack victims, urges FG to act",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 7.2983,
+        "lng": 8.7817,
+        "location": "Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/photos-obi-visits-benue-attack-victims-urges-fg-to-act/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
