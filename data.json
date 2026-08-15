@@ -4046,5 +4046,38 @@
         "location": "Explosives Area, Zamfara State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/troops-neutralise-terrorists-intercept-courier-with-180-explosives-in-zamfara/"
+    },
+    {
+        "title": "Police arrest 10 suspected human parts dealers in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 8.0106,
+        "lng": 3.9858,
+        "location": "Dealers Area, Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-10-suspected-human-parts-dealers-in-oyo/"
+    },
+    {
+        "title": "Police Arrest Suspected Human Part Merchants, Recover Flesh, Skull, Charms In Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 8.0426,
+        "lng": 4.0048,
+        "location": "Charms Area, Oyo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-suspected-human-part-merchants-recover-flesh-skull-charms-in-oyo/"
+    },
+    {
+        "title": "Troops Neutralise Terrorists, Arrest 57-Year-Old Arms Courier In Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 12.1232,
+        "lng": 6.1816,
+        "location": "Courier Area, Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-neutralise-terrorists-arrest-57-year-old-arms-courier-in-zamfara/"
     }
 ]
