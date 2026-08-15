@@ -4233,5 +4233,16 @@
         "location": "Collapses Area, Cross River State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/regional/south-south-regional/903145-hospital-collapses-in-cross-river-after-landslide.html"
+    },
+    {
+        "title": "Police nab 27-year-old over fatal hotel stabbing in Adamawa",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 9.3871,
+        "lng": 12.5117,
+        "location": "Stabbing Area, Adamawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-27-year-old-over-fatal-hotel-stabbing-in-adamawa/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
