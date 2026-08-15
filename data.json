@@ -4024,5 +4024,16 @@
         "location": "Osun State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/osun-election-tension-as-voters-protest-agents-clustering-at-ikire-unit/"
+    },
+    {
+        "title": "Climate shocks displaced nearly 72,000 in Katsina, more than banditry – IOM",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 12.5473,
+        "lng": 7.56,
+        "location": "Katsina State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/902981-climate-shocks-displaced-nearly-72000-in-katsina-more-than-banditry-iom.html"
     }
 ]
