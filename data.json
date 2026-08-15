@@ -3870,5 +3870,16 @@
         "location": "Jos, Plateau State",
         "source": "Punch Metro",
         "url": "https://punchng.com/nsib-to-release-final-joshua-accident-report-dg/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Six Injured As Gunshots Rock NDC Campaign In Delta",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 5.4916,
+        "lng": 5.9868,
+        "location": "Campaign Area, Delta State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/six-injured-as-gunshots-rock-ndc-campaign-in-delta/"
     }
 ]
