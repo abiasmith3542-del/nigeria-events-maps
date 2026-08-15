@@ -4123,5 +4123,16 @@
         "location": "Taraba State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/taraba-cuts-zero-dose-children-to-4-records-74-5-skilled-births/"
+    },
+    {
+        "title": "Police beef up security ahead of Bauchi LG poll",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 10.5041,
+        "lng": 10.0128,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-beef-up-security-ahead-of-bauchi-lg-poll/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
