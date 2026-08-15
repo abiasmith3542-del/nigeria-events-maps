@@ -3936,5 +3936,38 @@
         "location": "Niger State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/ghana-police-arrest-nigerian-kill-2-in-alleged-foiled-bank-robbery/"
+    },
+    {
+        "title": "Troops repel bandits’ attack on construction workers in Kebbi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 11.4253,
+        "lng": 4.1634,
+        "location": "Workers Area, Kebbi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-repel-bandits-attack-on-construction-workers-in-kebbi/"
+    },
+    {
+        "title": "(VIDEO) Osun poll: Police confront lawmaker over gathering of voters in residence",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 7.4965,
+        "lng": 4.5103,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-osun-poll-police-confront-lawmaker-over-gathering-of-voters-in-residence/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Parade 14 Suspected Kidnappers In Enugu",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 6.443,
+        "lng": 7.4997,
+        "location": "Kidnappers Area, Enugu State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-parade-14-suspected-kidnappers-in-enugu/"
     }
 ]
