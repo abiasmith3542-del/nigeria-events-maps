@@ -3969,5 +3969,49 @@
         "location": "Kidnappers Area, Enugu State",
         "source": "Leadership News",
         "url": "https://leadership.ng/police-parade-14-suspected-kidnappers-in-enugu/"
+    },
+    {
+        "title": "Over 20 killed in Niger community, households flee as violence escalates",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 10.0278,
+        "lng": 6.0263,
+        "location": "Killed Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/over-20-killed-in-niger-community-households-flee-as-violence-escalates/"
+    },
+    {
+        "title": "Soldiers repel bandits’ attack in Kebbi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 11.4021,
+        "lng": 4.2561,
+        "location": "Kebbi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-repel-bandits-attack-in-kebbi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Arrest Suspects Over Plot To Abduct Bishops’ Wives In Plateau",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 9.5319,
+        "lng": 9.4902,
+        "location": "Wives Area, Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-suspects-over-plot-to-abduct-bishops-wives-in-plateau/"
+    },
+    {
+        "title": "139 Suspected Thugs Arrested In Niger",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 10.0306,
+        "lng": 6.0184,
+        "location": "Arrested Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/139-suspected-thugs-arrested-in-niger/"
     }
 ]
