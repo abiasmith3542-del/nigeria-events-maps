@@ -4310,5 +4310,27 @@
         "location": "Suspects Area, Enugu State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-detain-14-kidnap-suspects-in-enugu-recover-arms-ammunition/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "‎Osun Election 2026: Sporadic Gunshots Trigger Panic In Osogbo As Results Are Uploaded   ‎",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 7.4729,
+        "lng": 4.5134,
+        "location": "Osun State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/osun-election-2026-sporadic-gunshots-trigger-panic-in-osogbo-as-results-are-uploaded/"
+    },
+    {
+        "title": "Troops Rescue Three Kidnap Victims in Benue - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 7.3325,
+        "lng": 8.702,
+        "location": "Victims Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVWRnVzdlV2xPWWZRbTBxS1E5V1FaakxRZ3djZFRVa1NHby0xWmtLOFE2LXBKMVNhX3FjT3gteVMtTFZNbGZ5ZjU2ckpjZjI1R0JYSmJvWW84Z1hEN2drb2xvdHh4UzhFNURJdHZ4TE1kMEF0LTZQUjVVRG5vTEIwaDBzbGpzdUlJaVdHOXpxRE1kQQ?oc=5"
     }
 ]
