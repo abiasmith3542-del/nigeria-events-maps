@@ -4035,5 +4035,16 @@
         "location": "Katsina State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/902981-climate-shocks-displaced-nearly-72000-in-katsina-more-than-banditry-iom.html"
+    },
+    {
+        "title": "Troops neutralise terrorists, intercept courier with 180 explosives in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 12.0707,
+        "lng": 6.2446,
+        "location": "Explosives Area, Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-neutralise-terrorists-intercept-courier-with-180-explosives-in-zamfara/"
     }
 ]
