@@ -3892,5 +3892,49 @@
         "location": "Benue State",
         "source": "Punch Metro",
         "url": "https://punchng.com/photos-obi-visits-benue-attack-victims-urges-fg-to-act/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Foil Terrorists’ Attacks, Rescue 9 Abductees In Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 9.9455,
+        "lng": 6.0405,
+        "location": "Abductees Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-foil-terrorists-attacks-rescue-9-abductees-in-niger/"
+    },
+    {
+        "title": "Police Secure Conviction Of 3 Persons In Adamawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 9.332,
+        "lng": 12.5034,
+        "location": "Persons Area, Adamawa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-secure-conviction-of-3-persons-in-adamawa/"
+    },
+    {
+        "title": "Missing medical doctor found dead in Rivers",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-15",
+        "lat": 4.7684,
+        "lng": 6.8756,
+        "location": "Dead Area, Rivers State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/missing-medical-doctor-found-dead-in-rivers/"
+    },
+    {
+        "title": "Ghana police arrest Nigerian, kill 2 in alleged foiled bank robbery",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-15",
+        "lat": 9.9614,
+        "lng": 6.0464,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ghana-police-arrest-nigerian-kill-2-in-alleged-foiled-bank-robbery/"
     }
 ]
