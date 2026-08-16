@@ -3958,5 +3958,27 @@
         "location": "Niger State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDkyaHVncHdqYXlJbUVKOVdiclVfb1dUaFA4S1ZxRmZLRWJsSlJvbm1OWllPcmJvNXN3YTA1MEg3RDRyTmJVckowTUFNUlJickt3dnZaU3BZTUJKMGtFQUUtTU9iOEl5a2Z6QlVUMXEwVUFKdm9mUFVkWG5GeGJCWjMzUmx2YmdZZGlwSHA4NlJUcWxocUdOMVI4R0M1QlFCY1FlQ0RaSzRKX1lO?oc=5"
+    },
+    {
+        "title": "Police begin show of force in Nasarawa ahead of campaigns",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-16",
+        "lat": 8.4674,
+        "lng": 8.1253,
+        "location": "Force Area, Nasarawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-begin-show-of-force-in-nasarawa-ahead-of-campaigns/"
+    },
+    {
+        "title": "5 Dead As 2 Buildings Collapse In Kano",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-16",
+        "lat": 12.0002,
+        "lng": 8.5525,
+        "location": "Collapse Area, Kano State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/5-dead-as-2-buildings-collapse-in-kano/"
     }
 ]
