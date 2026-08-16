@@ -3793,5 +3793,27 @@
         "location": "Nigeria (General Area)",
         "source": "Leadership News",
         "url": "https://leadership.ng/ai-driven-cyber-attacks-jump-56-breaches-now-cost-6-04m-ibm/"
+    },
+    {
+        "title": "Bribe fails as Bauchi police arrest two over cattle rustling",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-16",
+        "lat": 10.5198,
+        "lng": 9.9588,
+        "location": "Bauchi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/bribe-fails-as-bauchi-police-arrest-two-over-cattle-rustling/"
+    },
+    {
+        "title": "BLACK JULY:Benue killings worsen after Miyetti Allah leader shot dead",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-16",
+        "lat": 7.2982,
+        "lng": 8.7471,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/black-julybenue-killings-worsen-after-miyetti-allah-leader-shot-dead/"
     }
 ]
