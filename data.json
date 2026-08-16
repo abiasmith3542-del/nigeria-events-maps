@@ -3936,5 +3936,27 @@
         "location": "Killed Area, Kano State",
         "source": "Punch Metro",
         "url": "https://punchng.com/four-workers-14-year-old-student-killed-in-kano-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Man arrested for setting wife on fire in Kogi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-16",
+        "lat": 7.8557,
+        "lng": 6.6959,
+        "location": "Fire Area, Kogi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/man-arrested-for-setting-wife-on-fire-in-kogi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Niger: 331 Arrested in Niamey Drug Crackdown, Including 27 Minors - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-16",
+        "lat": 10.0407,
+        "lng": 6.0331,
+        "location": "Niger State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDkyaHVncHdqYXlJbUVKOVdiclVfb1dUaFA4S1ZxRmZLRWJsSlJvbm1OWllPcmJvNXN3YTA1MEg3RDRyTmJVckowTUFNUlJickt3dnZaU3BZTUJKMGtFQUUtTU9iOEl5a2Z6QlVUMXEwVUFKdm9mUFVkWG5GeGJCWjMzUmx2YmdZZGlwSHA4NlJUcWxocUdOMVI4R0M1QlFCY1FlQ0RaSzRKX1lO?oc=5"
     }
 ]
