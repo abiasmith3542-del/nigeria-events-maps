@@ -3903,5 +3903,16 @@
         "location": "Oyo State",
         "source": "Leadership News",
         "url": "https://leadership.ng/oyo-fire-service-rescues-2-from-petrol-tanker-accident/"
+    },
+    {
+        "title": "FCT police order clampdown on one-way drivers, traffic robbers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-16",
+        "lat": 9.0664,
+        "lng": 7.5527,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/fct-police-order-clampdown-on-one-way-drivers-traffic-robbers/"
     }
 ]
