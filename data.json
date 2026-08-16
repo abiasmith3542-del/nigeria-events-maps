@@ -3837,5 +3837,27 @@
         "location": "Three Area, Anambra State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/troops-dismantle-three-ipob-esn-camps-neutralise-three-in-anambra/"
+    },
+    {
+        "title": "Catholic priest allegedly attacked after Mass in Enugu",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-16",
+        "lat": 6.4483,
+        "lng": 7.4965,
+        "location": "Mass Area, Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/catholic-priest-allegedly-attacked-after-mass-in-enugu/"
+    },
+    {
+        "title": "NAF Intensifies Air Operations Against Terrorists in Niger State, Disrupts Movements in Mariga - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-16",
+        "lat": 10.0547,
+        "lng": 6.0228,
+        "location": "Terrorists Area, Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sb2Z0ZmtNS0ROQUcwMnhwTXZ2Q3N5UzNJT3oyM0M5cV9vemZOWkJoZF9qeHlMVlcwSTR2TDl0VDBzTm9ERmV4VlBKUVo4Y1daUTRVc256Y0RPYlVzV0MyQjRNMGl4bDY5Y2gxS1hnXzdyUQ?oc=5"
     }
 ]
