@@ -3914,5 +3914,16 @@
         "location": "Abuja (FCT)",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/fct-police-order-clampdown-on-one-way-drivers-traffic-robbers/"
+    },
+    {
+        "title": "Five die, 10 rescued in two Kano building collapses",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-16",
+        "lat": 11.9802,
+        "lng": 8.5569,
+        "location": "Kano State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/five-die-10-rescued-in-two-kano-building-collapses/"
     }
 ]
