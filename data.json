@@ -3815,5 +3815,16 @@
         "location": "Benue State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/black-julybenue-killings-worsen-after-miyetti-allah-leader-shot-dead/"
+    },
+    {
+        "title": "Freed Kebbi judge recognises bandits’ hideout",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-16",
+        "lat": 11.446,
+        "lng": 4.2526,
+        "location": "Kebbi State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/903316-freed-kebbi-judge-recognises-bandits-hideout.html"
     }
 ]
