@@ -3826,5 +3826,16 @@
         "location": "Kebbi State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/903316-freed-kebbi-judge-recognises-bandits-hideout.html"
+    },
+    {
+        "title": "Troops dismantle three IPOB/ESN camps, neutralise three in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-16",
+        "lat": 6.211,
+        "lng": 6.982,
+        "location": "Three Area, Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-dismantle-three-ipob-esn-camps-neutralise-three-in-anambra/"
     }
 ]
