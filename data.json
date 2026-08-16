@@ -3925,5 +3925,16 @@
         "location": "Kano State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/five-die-10-rescued-in-two-kano-building-collapses/"
+    },
+    {
+        "title": "Four workers, 14-year-old student killed in Kano building collapse",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-16",
+        "lat": 11.9767,
+        "lng": 8.5482,
+        "location": "Killed Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/four-workers-14-year-old-student-killed-in-kano-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
