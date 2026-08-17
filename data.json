@@ -3683,5 +3683,27 @@
         "location": "Newborn Area, Kebbi State",
         "source": "Punch Metro",
         "url": "https://punchng.com/woman-arrested-for-stealing-newborn-in-kebbi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill residents in Benue communities",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-17",
+        "lat": 7.3105,
+        "lng": 8.7555,
+        "location": "Residents Area, Benue State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/903513-gunmen-kill-residents-in-benue-communities.html"
+    },
+    {
+        "title": "Five dead, 10 rescued in Kano building collapse",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-17",
+        "lat": 11.9846,
+        "lng": 8.5462,
+        "location": "Rescued Area, Kano State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/903504-five-dead-10-rescued-in-kano-building-collapse.html"
     }
 ]
