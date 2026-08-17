@@ -3771,5 +3771,16 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5b2ttdjZibEdFREEwNU5DN3Vhb25RZndITFN3bU8ybjY3U3NmaEkxRU1kVnc3T2dHdFRtc2FwRlkzZHR1dVQ3NlRYemxTMlZCWnYtOHpIaXd3ZHJQT05MUnhxVXN0dW9KQ09IUmR1VQ?oc=5"
+    },
+    {
+        "title": "Troops foil mass abduction in Zamfara",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-17",
+        "lat": 12.1006,
+        "lng": 6.2479,
+        "location": "Abduction Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-foil-mass-abduction-in-zamfara/"
     }
 ]
