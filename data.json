@@ -3793,5 +3793,16 @@
         "location": "Outbreak Area, Niger State",
         "source": "Leadership News",
         "url": "https://leadership.ng/eu-earmarks-e2-3m-to-curb-cholera-outbreak-in-nigeria-others/"
+    },
+    {
+        "title": "2 suspected kidnappers arrested while chasing victim in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-17",
+        "lat": 7.337,
+        "lng": 8.7813,
+        "location": "Victim Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/2-suspected-kidnappers-arrested-while-chasing-victim-in-benue/"
     }
 ]
