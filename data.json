@@ -3782,5 +3782,16 @@
         "location": "Abduction Area, Zamfara State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/troops-foil-mass-abduction-in-zamfara/"
+    },
+    {
+        "title": "EU Earmarks €2.3m To Curb Cholera Outbreak In Nigeria, Others",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-17",
+        "lat": 9.9765,
+        "lng": 6.0533,
+        "location": "Outbreak Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/eu-earmarks-e2-3m-to-curb-cholera-outbreak-in-nigeria-others/"
     }
 ]
