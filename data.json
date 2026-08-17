@@ -3595,5 +3595,16 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/2-arrested-with-132-tramadol-sachets/"
+    },
+    {
+        "title": "NDC Gov’ship Candidate Condemns Attack in Benue",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-17",
+        "lat": 7.3865,
+        "lng": 8.7547,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/ndc-govship-candidate-condemns-attack-in-benue/"
     }
 ]
