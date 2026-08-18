@@ -3595,5 +3595,16 @@
         "location": "Victims Area, Katsina State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/troops-repel-terrorists-attack-rescue-14-kidnapped-victims-in-katsina/"
+    },
+    {
+        "title": "NSCDC personnel escape armed ambush in Sokoto — Commandant",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-18",
+        "lat": 13.0217,
+        "lng": 5.2515,
+        "location": "Ambush Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nscdc-personnel-escape-armed-ambush-in-sokoto-commandant/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
