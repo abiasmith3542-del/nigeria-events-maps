@@ -3573,5 +3573,27 @@
         "location": "Ondo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/man-found-dead-at-london-football-clubs-stadium/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Plateau killings: Police beef up security, vow to arrest perpetrators",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-18",
+        "lat": 9.529,
+        "lng": 9.4758,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/plateau-killings-police-beef-up-security-vow-to-arrest-perpetrators/"
+    },
+    {
+        "title": "Troops repel terrorists attack, rescue 14 kidnapped victims in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-18",
+        "lat": 12.4682,
+        "lng": 7.6669,
+        "location": "Victims Area, Katsina State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-repel-terrorists-attack-rescue-14-kidnapped-victims-in-katsina/"
     }
 ]
