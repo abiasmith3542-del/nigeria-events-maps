@@ -3562,5 +3562,16 @@
         "location": "Syndicate Area, Benue State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/police-arrest-five-over-motorcycle-vehicle-theft-syndicate-in-benue/"
+    },
+    {
+        "title": "Man found dead at London football club’s stadium",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-18",
+        "lat": 7.2672,
+        "lng": 5.2104,
+        "location": "Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/man-found-dead-at-london-football-clubs-stadium/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
