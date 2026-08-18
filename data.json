@@ -3375,5 +3375,16 @@
         "location": "Lady Area, Adamawa State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/how-suspect-beheaded-lady-in-adamawa-brothel/"
+    },
+    {
+        "title": "EU Provides €2.3m To Curb Cholera Outbreak In Nigeria, Others",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-18",
+        "lat": 9.9744,
+        "lng": 5.9518,
+        "location": "Outbreak Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/eu-provides-e2-3m-to-curb-cholera-outbreak-in-nigeria-others/"
     }
 ]
