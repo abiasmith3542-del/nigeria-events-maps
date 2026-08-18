@@ -3551,5 +3551,16 @@
         "location": "Plateau State",
         "source": "Leadership News",
         "url": "https://leadership.ng/plateau-women-protest-killing-of-24-residents-in-mangu/"
+    },
+    {
+        "title": "Police arrest five over motorcycle, vehicle theft syndicate in Benue",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-18",
+        "lat": 7.3702,
+        "lng": 8.734,
+        "location": "Syndicate Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-five-over-motorcycle-vehicle-theft-syndicate-in-benue/"
     }
 ]
