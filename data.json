@@ -3474,5 +3474,16 @@
         "location": "Victims Area, Zamfara State",
         "source": "Leadership News",
         "url": "https://leadership.ng/troops-foil-kidnap-attempt-rescue-victims-in-zamfara/"
+    },
+    {
+        "title": "Police re-arrest eight of 11 suspects who escaped custody in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-18",
+        "lat": 5.4554,
+        "lng": 5.9453,
+        "location": "Custody Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-re-arrest-eight-of-11-suspects-who-escaped-custody-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
