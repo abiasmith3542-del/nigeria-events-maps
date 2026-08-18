@@ -3265,5 +3265,27 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-impound-five-air-peace-vehicles-over-runway-blockade/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bauchi police recommits to professionalism",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-18",
+        "lat": 10.4608,
+        "lng": 9.9718,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bauchi-police-recommits-to-professionalism/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Inside Kwara’s crime web: How police cracked kidnap, cult, murder rings",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-08-18",
+        "lat": 8.4971,
+        "lng": 4.5592,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/inside-kwaras-crime-web-how-police-cracked-kidnap-cult-murder-rings/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
