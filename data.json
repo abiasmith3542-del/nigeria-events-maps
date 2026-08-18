@@ -3309,5 +3309,16 @@
         "location": "Newborn Area, Kebbi State",
         "source": "Leadership News",
         "url": "https://leadership.ng/police-nab-woman-for-stealing-newborn-in-kebbi/"
+    },
+    {
+        "title": "Sokoto attack:  ‘My baby almost died’ — New mother recounts ordeal",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-18",
+        "lat": 13.0379,
+        "lng": 5.2113,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/sokoto-attack-my-baby-almost-died-new-mother-recounts-ordeal/"
     }
 ]
