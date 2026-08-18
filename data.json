@@ -3419,5 +3419,27 @@
         "location": "Kano State",
         "source": "Punch Metro",
         "url": "https://punchng.com/kano-cp-hails-philanthropist-for-renovating-police-division/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Osun poll: Oyebamiji appreciates supporters, decries attacks on APC members",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-18",
+        "lat": 7.5479,
+        "lng": 4.517,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/osun-poll-oyebamiji-appreciates-supporters-decries-attacks-on-apc-members/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Two shot as troops foil attempted mass abduction in Zamfara – Military",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-18",
+        "lat": 12.1015,
+        "lng": 6.2167,
+        "location": "Abduction Area, Zamfara State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/903747-two-shot-as-troops-foil-attempted-mass-abduction-in-zamfara-military.html"
     }
 ]
