@@ -3331,5 +3331,49 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/that-goal-changed-my-life-okocha-recalls-iconic-solo-strike-against-oliver-kahn/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Residents react as Plateau deploys CCTV, floodlights to track attackers",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-18",
+        "lat": 9.4616,
+        "lng": 9.4613,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/residents-react-as-plateau-deploys-cctv-floodlights-to-track-attackers/"
+    },
+    {
+        "title": "EU gives Nigeria, Cameroon, Chad, CAR €2.3m to fight cholera outbreak",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-18",
+        "lat": 10.0415,
+        "lng": 6.0248,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/eu-gives-nigeria-cameroon-chad-car-e2-3m-to-fight-cholera-outbreak/"
+    },
+    {
+        "title": "Bandits kill 7 in Katsina communities",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-18",
+        "lat": 12.4554,
+        "lng": 7.6092,
+        "location": "Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-7-in-katsina-communities/"
+    },
+    {
+        "title": "How suspect beheaded lady in Adamawa brothel",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-18",
+        "lat": 9.3219,
+        "lng": 12.4905,
+        "location": "Lady Area, Adamawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/how-suspect-beheaded-lady-in-adamawa-brothel/"
     }
 ]
