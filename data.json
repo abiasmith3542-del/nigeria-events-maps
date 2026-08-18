@@ -3606,5 +3606,16 @@
         "location": "Ambush Area, Sokoto State",
         "source": "Punch Metro",
         "url": "https://punchng.com/nscdc-personnel-escape-armed-ambush-in-sokoto-commandant/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest suspected vandal after electrocution in Enugu",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-18",
+        "lat": 6.4447,
+        "lng": 7.5482,
+        "location": "Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-vandal-after-electrocution-in-enugu/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
