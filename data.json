@@ -3287,5 +3287,27 @@
         "location": "Kwara State",
         "source": "Punch Metro",
         "url": "https://punchng.com/inside-kwaras-crime-web-how-police-cracked-kidnap-cult-murder-rings/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ukum Attack: Aondoakaa demands urgent action, says Benue tired of counting bodies",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-18",
+        "lat": 7.3765,
+        "lng": 8.704,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/ukum-attack-aondoakaa-demands-urgent-action-says-benue-tired-of-counting-bodies/"
+    },
+    {
+        "title": "Police Nab Woman For Stealing Newborn In Kebbi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-18",
+        "lat": 11.4263,
+        "lng": 4.2402,
+        "location": "Newborn Area, Kebbi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-nab-woman-for-stealing-newborn-in-kebbi/"
     }
 ]
