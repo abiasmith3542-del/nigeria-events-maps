@@ -3496,5 +3496,27 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JeVlhN3FONVp4YlZpNmFpa2RMNElfRjd5WXNnNUhrd2lZVlI1UklfZ3hyNVdWMGpWYnpUM3dyZ0ZEQkFYWW5YaW9WTi1sT2ZHemNSTjh0UnFUZ0lwWDJUR1ZQSnpuVThBUDNHZTlKdWY?oc=5"
+    },
+    {
+        "title": "Kaduna Police probe officers over alleged extortion during stop-and-search",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-18",
+        "lat": 10.4705,
+        "lng": 7.4791,
+        "location": "Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/kaduna-police-probe-officers-over-alleged-extortion-during-stop-and-search/"
+    },
+    {
+        "title": "Police arrest robbery suspect in Anambra, recover arms",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-18",
+        "lat": 6.2103,
+        "lng": 7.012,
+        "location": "Suspect Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-robbery-suspect-in-anambra-recover-arms/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
