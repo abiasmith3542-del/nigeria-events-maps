@@ -3265,5 +3265,38 @@
         "location": "Gombe State",
         "source": "Leadership News",
         "url": "https://leadership.ng/strike-threat-gov-yahaya-approves-n148-76m-monthly-subvention-for-gombe-varsity/"
+    },
+    {
+        "title": "Police kill two suspected robbers, recover AK-47 in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-19",
+        "lat": 6.1457,
+        "lng": 7.0076,
+        "location": "Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-kill-two-suspected-robbers-recover-ak-47-in-anambra/"
+    },
+    {
+        "title": "Police kill two suspected kidnappers, recover arms in Anambra",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-19",
+        "lat": 6.1969,
+        "lng": 7.0406,
+        "location": "Arms Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-kill-two-suspected-kidnappers-recover-arms-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Foil Kidnap Attempt, Rescue Four Minors in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-19",
+        "lat": 9.4597,
+        "lng": 9.5048,
+        "location": "Minors Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDB3LUxUU0F4S2hLV2tUTU5ZakdmaFJjSFJFWU9fQnNkNUpkd1JHSl9LcDlqYzRqMUh6SjltdWRzVVpfVC0yeGVpM1l3a1dVMzBTV3R4WFZtMVAtVTA0c25DVlhUWXlzSC1MNXJ1LUQ4SW8zbFprcEFZNlJYTG4zQm9VbFZ4LWVEWi1XY1RlYTlsYkxZV3JpNXhhLWtkZlVrcUZB?oc=5"
     }
 ]
