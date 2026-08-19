@@ -3375,5 +3375,27 @@
         "location": "Abducted Area, Borno State",
         "source": "Punch Metro",
         "url": "https://punchng.com/unicef-demands-release-of-schoolchildren-abducted-in-borno/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police kill two bandits, recover stolen motorcycles in Sokoto ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 13.0421,
+        "lng": 5.2224,
+        "location": "Motorcycles Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-kill-two-bandits-recover-stolen-motorcycles-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Northern Senators Condemn Plateau Attack, Mourn 25 Victims",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 9.5323,
+        "lng": 9.5311,
+        "location": "Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/northern-senators-demand-stronger-action-over-plateau-killings/"
     }
 ]
