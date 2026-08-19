@@ -3122,5 +3122,16 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/photos-police-soldiers-block-ex-servicemen-from-protesting-at-defence-ministry/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police kill two bandits, arrest 11 suspects in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 13.0646,
+        "lng": 5.2228,
+        "location": "Suspects Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-kill-two-bandits-arrest-11-suspects-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
