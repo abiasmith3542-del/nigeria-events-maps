@@ -3199,5 +3199,49 @@
         "location": "Protest Area, Abuja (FCT)",
         "source": "Leadership News",
         "url": "https://leadership.ng/military-pensioners-protest-in-abuja-over-unpaid-pension-increase/"
+    },
+    {
+        "title": "Police Northwest Security Summit Begins In Zamfara",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-19",
+        "lat": 12.1616,
+        "lng": 6.2738,
+        "location": "Begins Area, Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-northwest-security-summit-begins-in-zamfara/"
+    },
+    {
+        "title": "Fake Drugs Kill Faster Than Bandits — Ondo CMD",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 7.2487,
+        "lng": 5.1903,
+        "location": "Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/fake-drugs-kill-faster-than-bandits-ondo-cmd/"
+    },
+    {
+        "title": "Bandits kill 7, abduct 17 in renewed attack on Sokoto communities",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 13.1192,
+        "lng": 5.2752,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-7-abduct-17-in-renewed-attack-on-sokoto-communities/"
+    },
+    {
+        "title": "Police arrest man over alleged sodomy in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-19",
+        "lat": 6.5128,
+        "lng": 5.9439,
+        "location": "Sodomy Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-man-over-alleged-sodomy-in-edo/"
     }
 ]
