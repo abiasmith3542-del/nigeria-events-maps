@@ -3243,5 +3243,27 @@
         "location": "Sodomy Area, Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-arrest-man-over-alleged-sodomy-in-edo/"
+    },
+    {
+        "title": "OPHK troops neutralise eight ISWAP fighters in Borno airstrike",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 11.8128,
+        "lng": 13.1313,
+        "location": "Fighters Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/ophk-troops-neutralise-eight-iswap-fighters-in-borno-airstrike/"
+    },
+    {
+        "title": "Strike Threat: Gov Yahaya Approves N148.76m Monthly Subvention For Gombe Varsity",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-19",
+        "lat": 10.2372,
+        "lng": 11.1812,
+        "location": "Gombe State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/strike-threat-gov-yahaya-approves-n148-76m-monthly-subvention-for-gombe-varsity/"
     }
 ]
