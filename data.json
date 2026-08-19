@@ -3529,5 +3529,16 @@
         "location": "Niger State",
         "source": "Punch Metro",
         "url": "https://punchng.com/outdated-state-laws-threaten-nigerias-disease-outbreak-preparedness-ncdc/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Osun: Police launch manhunt over killing of 60-yr-old man",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-19",
+        "lat": 7.4985,
+        "lng": 4.5032,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/osun-police-launch-manhunt-over-killing-of-60-yr-old-man/"
     }
 ]
