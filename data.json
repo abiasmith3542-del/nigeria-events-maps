@@ -3034,5 +3034,60 @@
         "location": "Arrested Area, Benue State",
         "source": "Leadership News",
         "url": "https://leadership.ng/kidnappers-chasing-escaped-captive-arrested-in-benue/"
+    },
+    {
+        "title": "Police probe viral video of officers extorting motorists in Kaduna",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-19",
+        "lat": 10.4447,
+        "lng": 7.447,
+        "location": "Motorists Area, Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-probe-viral-video-of-officers-extorting-motorists-in-kaduna/"
+    },
+    {
+        "title": "Troops foil abductions, rescue 7 in Zamfara",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-19",
+        "lat": 12.1338,
+        "lng": 6.2559,
+        "location": "Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-foil-abductions-rescue-7-in-zamfara/"
+    },
+    {
+        "title": "Cyber attacks greatest threats to Nigeria’s election – Gen. Musa",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 10.0544,
+        "lng": 5.9535,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/cyber-attacks-greatest-threats-to-nigerias-election-gen-musa/"
+    },
+    {
+        "title": "Police operative, 7 others killed in terrorists’ attack on Adamawa community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 9.3276,
+        "lng": 12.4781,
+        "location": "Adamawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-operative-7-others-killed-in-terrorists-attack-on-adamawa-community/"
+    },
+    {
+        "title": "Despite peace deal, banditry persists across Katsina communities",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 12.5171,
+        "lng": 7.6145,
+        "location": "Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/despite-peace-deal-banditry-persists-across-katsina-communities/"
     }
 ]
