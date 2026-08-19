@@ -3353,5 +3353,27 @@
         "location": "Troops Area, Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM1BhNG91bzg3NTFDX1RDYlV6aTJfSGNzbHlyRmw5VVhVOHktZjFOYlZCbnZ1bElnNXpJTm11V3dDcU45UUNUa2llQ29YekdqdmJoYzhKVE5SeDU2UzVHMkVZTXVaU2RFbEdMck5fSEctczJ6c0NMUXVZX0E2UG5KOVdYcGhGR2VDczhZV3dlVkI3b2NuTnpuaTBBQzNndw?oc=5"
+    },
+    {
+        "title": "Police arrest railway vandal, recover slippers in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-19",
+        "lat": 10.5191,
+        "lng": 10.0521,
+        "location": "Slippers Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-railway-vandal-recover-slippers-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "UNICEF demands release of schoolchildren abducted in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 11.8381,
+        "lng": 13.1896,
+        "location": "Abducted Area, Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/unicef-demands-release-of-schoolchildren-abducted-in-borno/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
