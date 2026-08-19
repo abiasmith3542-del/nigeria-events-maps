@@ -3133,5 +3133,16 @@
         "location": "Suspects Area, Sokoto State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-kill-two-bandits-arrest-11-suspects-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "13-year-old herder killed in Plateau",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-19",
+        "lat": 9.4767,
+        "lng": 9.4437,
+        "location": "Killed Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/13-year-old-herder-killed-in-plateau/"
     }
 ]
