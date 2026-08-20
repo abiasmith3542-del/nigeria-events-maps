@@ -3188,5 +3188,60 @@
         "location": "Ammunition Area, Plateau State",
         "source": "Punch Metro",
         "url": "https://punchng.com/army-recovers-ak-47-rifles-ammunition-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops rescue 10 kidnap victims in Sokoto, Kebbi, Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 11.457,
+        "lng": 4.1497,
+        "location": "Kebbi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-rescue-10-kidnap-victims-in-sokoto-kebbi-zamfara/"
+    },
+    {
+        "title": "Kaduna varsity lecturers ready for talks with govt to avert strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-20",
+        "lat": 10.5182,
+        "lng": 7.4896,
+        "location": "Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kaduna-varsity-lecturers-ready-for-talks-with-govt-to-avert-strike/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2027: Police to arrest sponsors, perpetrators of political violence in Katsina",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 12.4616,
+        "lng": 7.5826,
+        "location": "Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2027-police-to-arrest-sponsors-perpetrators-of-political-violence-in-katsina/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police warn youths against thuggery, cybercrime in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 10.5391,
+        "lng": 10.0454,
+        "location": "Cybercrime Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-warn-youths-against-thuggery-cybercrime-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police confirm killing of 60-year-old man by suspected hoodlums in Osun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 7.4402,
+        "lng": 4.4797,
+        "location": "Hoodlums Area, Osun State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/904239-police-confirm-killing-of-60-year-old-man-by-suspected-hoodlums-in-osun.html"
     }
 ]
