@@ -3254,5 +3254,49 @@
         "location": "Lagos State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/lagos-police-arrest-39-suspects-recover-14-pistols-other-weapons/"
+    },
+    {
+        "title": "Panic as gunmen kill two Rivers LG chair’s aides",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 4.7737,
+        "lng": 6.7996,
+        "location": "Rivers State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/panic-as-gunmen-kill-two-rivers-lg-chairs-aides/"
+    },
+    {
+        "title": "Ebonyi LG Polls: Police restrict movement Saturday",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 6.2266,
+        "lng": 7.9605,
+        "location": "Ebonyi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/ebonyi-lg-polls-police-restrict-movement-saturday/"
+    },
+    {
+        "title": "Many feared dead in Sokoto boat accident",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-20",
+        "lat": 13.0618,
+        "lng": 5.1778,
+        "location": "Dead Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/many-feared-dead-in-sokoto-boat-accident-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "40 Feared Dead As Boat Capsizes in Sokoto",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-20",
+        "lat": 13.061,
+        "lng": 5.1809,
+        "location": "Capsizes Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/breaking-40-feared-dead-as-boat-capsizes-in-sokoto/"
     }
 ]
