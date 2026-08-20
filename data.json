@@ -3089,5 +3089,16 @@
         "location": "Nigeria (General Area)",
         "source": "Leadership News",
         "url": "https://leadership.ng/military-retirees-protest-non-adjustment-of-pensions/"
+    },
+    {
+        "title": "Police urge Ekiti youths to shun thuggery",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 7.6388,
+        "lng": 5.2863,
+        "location": "Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-urge-ekiti-youths-to-shun-thuggery/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
