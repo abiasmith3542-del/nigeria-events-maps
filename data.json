@@ -3122,5 +3122,27 @@
         "location": "Katsina State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/katsina-community-deserted-as-over-3000-residents-flee-attacks/"
+    },
+    {
+        "title": "Police to crack down on traffic violations in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 7.0359,
+        "lng": 3.4713,
+        "location": "Violations Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-to-crack-down-on-traffic-violations-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Davido Was Target Of Attack On Adeleke’s Convoy, Osun Police Confirm",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-20",
+        "lat": 7.4604,
+        "lng": 4.5546,
+        "location": "Osun State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/davido-was-target-of-attack-on-adelekes-convoy-osun-police-confirm/"
     }
 ]
