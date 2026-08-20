@@ -3331,5 +3331,27 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSVNfR18yVW0zVGFVbVNEcHJ6SElXUEtoRURHbERVZ05ZVkZkWUlUUlE3djd6My1mUlNSLTllUVg1dnJlSzFfbkNvb1Vtcm5EbERuNzJLdDhkMTZwN1I2al9Wdi1qeFRoS1B0aw?oc=5"
+    },
+    {
+        "title": "CWPPF condemns police attack on Abuja journalist, demands probe, full compensation",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-20",
+        "lat": 9.0275,
+        "lng": 7.4555,
+        "location": "Abuja (FCT)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/904358-cwppf-condemns-police-attack-on-abuja-journalist-demands-probe-full-compensation.html"
+    },
+    {
+        "title": "Security Operatives Destroy Kidnappers’ Camp, Rescue Victim, Arrest 3 Suspects in Nasarawa",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 8.5076,
+        "lng": 8.1696,
+        "location": "Suspects Area, Nasarawa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/security-operatives-destroy-kidnappers-camp-rescue-victim-arrest-3-suspects-in-nasarawa/"
     }
 ]
