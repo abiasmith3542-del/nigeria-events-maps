@@ -3144,5 +3144,38 @@
         "location": "Osun State",
         "source": "Leadership News",
         "url": "https://leadership.ng/davido-was-target-of-attack-on-adelekes-convoy-osun-police-confirm/"
+    },
+    {
+        "title": "Adetshina’s deportation case adjorned as S’Africa protesters demand she returns to Nigeria",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-20",
+        "lat": 10.036,
+        "lng": 6.0267,
+        "location": "Niger State",
+        "source": "The Cable NG",
+        "url": "https://lifestyle.thecable.ng/adetshinas-deportation-case-adjorned-as-safrica-protesters-demand-she-returns-to-nigeria/#new_tab"
+    },
+    {
+        "title": "Newspaper Headlines: Gunmen kill seven, abduct 17 in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 13.0546,
+        "lng": 5.1978,
+        "location": "Sokoto State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/newspaper-headlines-gunmen-kill-seven-abduct-17-in-sokoto/"
+    },
+    {
+        "title": "Fake DSS Operative Man Arrested In Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 9.0762,
+        "lng": 7.4607,
+        "location": "Arrested Area, Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/fake-dss-operative-man-arrested-in-abuja/"
     }
 ]
