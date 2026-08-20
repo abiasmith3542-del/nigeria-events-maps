@@ -3309,5 +3309,27 @@
         "location": "Sokoto State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/dss-warns-of-planned-terrorist-bandit-attacks-on-sokoto-tertiary-institutions/"
+    },
+    {
+        "title": "Plateau gov visits scene of deadly attack, promises tighter security",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-20",
+        "lat": 9.5363,
+        "lng": 9.4857,
+        "location": "Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/plateau-gov-visits-scene-of-deadly-attack-promises-tighter-security/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "FG Plans Fresh Survey on Illicit Small Arms, Light Weapons – ONSA - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 10.0358,
+        "lng": 6.0416,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSVNfR18yVW0zVGFVbVNEcHJ6SElXUEtoRURHbERVZ05ZVkZkWUlUUlE3djd6My1mUlNSLTllUVg1dnJlSzFfbkNvb1Vtcm5EbERuNzJLdDhkMTZwN1I2al9Wdi1qeFRoS1B0aw?oc=5"
     }
 ]
