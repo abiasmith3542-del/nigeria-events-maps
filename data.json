@@ -3452,5 +3452,16 @@
         "location": "Operations Area, Jigawa State",
         "source": "Punch Metro",
         "url": "https://punchng.com/expanding-mining-operations-in-jigawa-risks-inviting-banditry-crime-adc-warns/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Journalists demand probe as Police assault editor in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 9.0477,
+        "lng": 7.4667,
+        "location": "Editor Area, Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/journalists-demand-probe-as-police-assault-editor-in-abuja/"
     }
 ]
