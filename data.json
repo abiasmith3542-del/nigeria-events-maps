@@ -3408,5 +3408,27 @@
         "location": "Abia State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/state-police-working-group-on-track-with-7-week-timeline-gbajabiamila/"
+    },
+    {
+        "title": "Ndume asks military to intensify efforts to rescue abducted Borno schoolchildren",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-20",
+        "lat": 11.7802,
+        "lng": 13.1744,
+        "location": "Borno State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/ndume-asks-military-to-intensify-efforts-to-rescue-abducted-borno-schoolchildren/"
+    },
+    {
+        "title": "Ogun: Outrage as man is shot Dead at police Checkpoint",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-20",
+        "lat": 7.0445,
+        "lng": 3.5258,
+        "location": "Ogun State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ogun-outrage-as-man-is-shot-dead-at-police-checkpoint/"
     }
 ]
