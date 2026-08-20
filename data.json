@@ -3100,5 +3100,27 @@
         "location": "Ekiti State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-urge-ekiti-youths-to-shun-thuggery/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Uproar in Anambra market as police shoot two traders",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 6.1427,
+        "lng": 6.9475,
+        "location": "Uproar Area, Anambra State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/904151-uproar-in-anambra-market-as-police-shoot-two-traders.html"
+    },
+    {
+        "title": "Katsina community deserted as over 3,000 residents flee attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-20",
+        "lat": 12.5443,
+        "lng": 7.5943,
+        "location": "Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/katsina-community-deserted-as-over-3000-residents-flee-attacks/"
     }
 ]
