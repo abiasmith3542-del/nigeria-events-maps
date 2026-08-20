@@ -3177,5 +3177,16 @@
         "location": "Arrested Area, Abuja (FCT)",
         "source": "Leadership News",
         "url": "https://leadership.ng/fake-dss-operative-man-arrested-in-abuja/"
+    },
+    {
+        "title": "Army recovers AK-47 rifles, ammunition in Plateau",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 9.4644,
+        "lng": 9.5064,
+        "location": "Ammunition Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/army-recovers-ak-47-rifles-ammunition-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
