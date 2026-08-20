@@ -3298,5 +3298,16 @@
         "location": "Capsizes Area, Sokoto State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/breaking-40-feared-dead-as-boat-capsizes-in-sokoto/"
+    },
+    {
+        "title": "DSS warns of planned terrorist, bandit attacks on Sokoto tertiary institutions",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-20",
+        "lat": 13.0049,
+        "lng": 5.1752,
+        "location": "Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/dss-warns-of-planned-terrorist-bandit-attacks-on-sokoto-tertiary-institutions/"
     }
 ]
