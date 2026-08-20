@@ -3243,5 +3243,16 @@
         "location": "Hoodlums Area, Osun State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/904239-police-confirm-killing-of-60-year-old-man-by-suspected-hoodlums-in-osun.html"
+    },
+    {
+        "title": "Lagos police arrest 39 suspects, recover 14 pistols, other weapons",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-20",
+        "lat": 6.5171,
+        "lng": 3.4378,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/lagos-police-arrest-39-suspects-recover-14-pistols-other-weapons/"
     }
 ]
