@@ -3573,5 +3573,27 @@
         "location": "Benue State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/benue-police-rescue-13-more-passengers-abducted-on-otukpo-adoka-road/"
+    },
+    {
+        "title": "Troops rescue four persons held by terrorists for three years in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-21",
+        "lat": 11.8249,
+        "lng": 13.2098,
+        "location": "Years Area, Borno State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/troops-rescue-four-persons-held-by-terrorists-for-three-years-in-borno/"
+    },
+    {
+        "title": "Oyebamiji meets Tinubu, alleges fresh attacks on APC members in Osun",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-21",
+        "lat": 7.548,
+        "lng": 4.5253,
+        "location": "Members Area, Osun State",
+        "source": "The Cable NG",
+        "url": "https://www.thecable.ng/oyebamiji-meets-tinubu-alleges-fresh-attacks-on-apc-members-in-osun/"
     }
 ]
