@@ -3265,5 +3265,38 @@
         "location": "Adamawa State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-arrest-31-year-old-man-for-cyberbullying-in-adamawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "17-Year-Old Arrested Over Alleged Sexual Assault Of 14-Year-Old In Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-21",
+        "lat": 9.0365,
+        "lng": 7.5228,
+        "location": "Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/17-year-old-arrested-over-alleged-sexual-assault-of-14-year-old-in-abuja/"
+    },
+    {
+        "title": "Troops Arrest Five Suspected Terrorist Logistics Suppliers in Borno - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-21",
+        "lat": 11.8349,
+        "lng": 13.1191,
+        "location": "Suppliers Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaElyMlU2SGNWQUp4VTRwUjhYdlluUV9NeExoVHZfTDdIaGNNckFVTmtVZl9KUEVuemFuWjZCZGRoa1FwUHN0ZmFIaHdzbGc3aGxYSHE4YTJwSW5EOTFvekRFT1BlQ0NhZUlCaFd4WVJkY2ZfclZ5aGhEUmFuMkhrYTNjRW9aS1I0UzQ4ckswRlNzYUQ2TGw4THIzQXZ4ZTgzMFJtSEM3V2dYYkF3UGp0QllB?oc=5"
+    },
+    {
+        "title": "Troops Arrest Two Suspected Terrorist Collaborators in Yobe - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-21",
+        "lat": 12.0021,
+        "lng": 11.5293,
+        "location": "Yobe State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGs2bjBLcGpSTXdsTHRXMEM3R1Zqb1oxSU9UeDJLMEhWTjI4cDNwaHpFb2RTQl96dXN5bjZHcURYRWtMSTBibFFoV2hfb1RQclRuZjJSd0NSVjBITlBpd2p3VmVtM2FVZDhweEg1Vm9lMnR2RnRxb3ctZFpNU1I0c2FtVWRyNFNSRVJCVE16T2U1M3lVVml2X0t3cWpHVEdxeGFDd1dpbw?oc=5"
     }
 ]
