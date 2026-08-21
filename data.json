@@ -3188,5 +3188,16 @@
         "location": "Victims Area, Kebbi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/troops-rescue-10-kidnap-victims-in-kebbi-sokoto-zamfara/"
+    },
+    {
+        "title": "Anambra police chief summons area commander, DPOs over Onitsha shooting",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-21",
+        "lat": 6.2589,
+        "lng": 6.9964,
+        "location": "Anambra State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/904462-anambra-police-chief-summons-area-commander-dpos-over-onitsha-shooting.html"
     }
 ]
