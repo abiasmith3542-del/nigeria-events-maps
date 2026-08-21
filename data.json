@@ -3122,5 +3122,38 @@
         "location": "Borno State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/98-days-after-parents-of-abducted-borno-pupils-demand-fgs-action/"
+    },
+    {
+        "title": "Police intensify bush clearance, dislodge criminals from Kogi forests",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-21",
+        "lat": 7.8217,
+        "lng": 6.7867,
+        "location": "Kogi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-intensify-bush-clearance-dislodge-criminals-from-kogi-forests/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Power Supply: Akwa Ibom electricity regulator sets deadline for PHED",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-21",
+        "lat": 5.009,
+        "lng": 7.8775,
+        "location": "Akwa Ibom State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/south-south-regional/904399-power-supply-akwa-ibom-electricity-regulator-sets-deadline-for-phed.html"
+    },
+    {
+        "title": "Central Africa shuts gold mine after deadly collapse",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-21",
+        "lat": 8.9918,
+        "lng": 7.442,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/central-africa-shuts-gold-mine-after-deadly-collapse/"
     }
 ]
