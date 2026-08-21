@@ -3595,5 +3595,27 @@
         "location": "Members Area, Osun State",
         "source": "The Cable NG",
         "url": "https://www.thecable.ng/oyebamiji-meets-tinubu-alleges-fresh-attacks-on-apc-members-in-osun/"
+    },
+    {
+        "title": "Bauchi Police Probe Death Of 39-Year-Old In Vigilante Custody, 3 Members Arrested",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-21",
+        "lat": 10.4697,
+        "lng": 9.9931,
+        "location": "Bauchi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bauchi-police-probe-death-of-39-year-old-in-vigilante-custody-3-members-arrested/"
+    },
+    {
+        "title": "‎Amotekun Loses 2 Officers In Ondo Ambush",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-21",
+        "lat": 7.3079,
+        "lng": 5.1748,
+        "location": "Officers Area, Ondo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/amotekun-loses-2-officers-in-ondo-ambush/"
     }
 ]
