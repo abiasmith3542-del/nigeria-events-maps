@@ -3540,5 +3540,27 @@
         "location": "Adamawa State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yTlE2X0JvQVZEZTNsQmxzX3B5T2pBR1RHbDZ2UFVZMlpxdkZrQm1qRGlGMm1yYk9vRnhOZHdOeUlONkZTaU1GTmlwZWV2NktiTW0yZ3lIdUswN3dRREhLWmwxM2FTcnZEMTRfWTU4TQ?oc=5"
+    },
+    {
+        "title": "Osun: Lawyers give INEC, police 7-day ultimatum over killings",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-21",
+        "lat": 7.4696,
+        "lng": 4.5492,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/osun-lawyers-give-inec-police-7-day-ultimatum-over-killings/"
+    },
+    {
+        "title": "Bayelsa approves CATA, urges ASUU to call off strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-21",
+        "lat": 4.7579,
+        "lng": 6.0053,
+        "location": "Bayelsa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/bayelsa-approves-cata-urges-asuu-to-call-off-strike/"
     }
 ]
