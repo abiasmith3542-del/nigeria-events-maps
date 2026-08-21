@@ -3089,5 +3089,16 @@
         "location": "Sokoto State",
         "source": "Punch Metro",
         "url": "https://punchng.com/dss-alerts-sokoto-as-terrorists-target-tertiary-institutions/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Three rescued as thugs attack Bauchi community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-21",
+        "lat": 10.5186,
+        "lng": 10.0094,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/three-rescued-as-thugs-attack-bauchi-community/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
