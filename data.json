@@ -3100,5 +3100,27 @@
         "location": "Bauchi State",
         "source": "Punch Metro",
         "url": "https://punchng.com/three-rescued-as-thugs-attack-bauchi-community/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "11 family members, 41 others buried after Sokoto boat accident",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-21",
+        "lat": 13.1168,
+        "lng": 5.1959,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/11-family-members-41-others-buried-after-sokoto-boat-accident/"
+    },
+    {
+        "title": "98 days after: Parents of abducted Borno pupils demand FG’s action",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-21",
+        "lat": 11.8615,
+        "lng": 13.1292,
+        "location": "Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/98-days-after-parents-of-abducted-borno-pupils-demand-fgs-action/"
     }
 ]
