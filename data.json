@@ -3309,5 +3309,27 @@
         "location": "Ogun State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbzNyNkUybUZpWjVsZUJHT2duZ2V5ZFAxMDVQdy1iakZBelFxT0Y0UUlhSDNNVzZhOTZtTFh2emlxQ0VYQTJyUm9YUVdrNENJWU5jdGE5S3ZjTS1QWk9VTVZ4aU91ckxzQUxJTUxkaTdSRGpMVThhSGhXZWRtRTJhWTlTeFI2eW9mTE9BTnVqQnZHWXM0ZC0zOEgybEpacHA3YmtSTTFTeVpicUR0WGtJX1p2V3FfbkxiQkJwRnp1V2huTFkyZGRicFkzM2NyYXhhX2VKN2l3?oc=5"
+    },
+    {
+        "title": "As 2027 campaigns begin, Katsina police target ‘digital thuggery’, violence",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-22",
+        "lat": 12.5155,
+        "lng": 7.6152,
+        "location": "Katsina State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/904592-as-2027-campaigns-begin-katsina-police-target-digital-thuggery-violence.html"
+    },
+    {
+        "title": "Benue Police Rescue Abducted 13 Passengers, Search For Suspects ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-22",
+        "lat": 7.3018,
+        "lng": 8.7915,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/benue-police-rescue-abducted-13-passengers-search-for-suspects/"
     }
 ]
