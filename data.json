@@ -3540,5 +3540,27 @@
         "location": "Abuja (FCT)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/commuters-stranded-as-gridlock-returns-to-abuja-kaduna-highway/"
+    },
+    {
+        "title": "Gunmen kill 15 policemen in Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-22",
+        "lat": 9.9779,
+        "lng": 5.9452,
+        "location": "Policemen Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/gunmen-kill-15-policemen-in-niger/"
+    },
+    {
+        "title": "Benue Police targets youths in fresh push against cultism, violence",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-08-22",
+        "lat": 7.3417,
+        "lng": 8.7183,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/benue-police-targets-youths-in-fresh-push-against-cultism-violence/"
     }
 ]
