@@ -3254,5 +3254,49 @@
         "location": "Magazines Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVS1LaEhXTkx1Z1FNaWVuaEQtVGVIa0N6RHYtS0JabTJDZ2MzcS1KSDYxZFRvSUwwY2RsYldWa1BkMUQ1NGtlU2cwdTR2OGRDaHUxaFFmcDQ3QkRfQU5sdnN2NnRGWEFDUkZEZ2dHVVk2OEZrc2lSN2dDODJQWU40Qm15aGFOS2JzS04xTjA2eTRBS1A0d2lOa1RtbzRydE93UzVBaVo1UkJ4Y1BZTm90VnpVZ2hsSk5vNmFz?oc=5"
+    },
+    {
+        "title": "Gunmen abduct worshippers during Friday prayers in Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-22",
+        "lat": 9.9804,
+        "lng": 6.0251,
+        "location": "Prayers Area, Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/904573-gunmen-abduct-worshippers-during-friday-prayers-in-niger.html"
+    },
+    {
+        "title": "Tinubu condoles with Sokoto over boat accident that killed more than 50",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-22",
+        "lat": 7.2219,
+        "lng": 5.1743,
+        "location": "Ondo State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/904569-tinubu-condoles-with-sokoto-over-boat-accident-that-killed-more-than-50.html"
+    },
+    {
+        "title": "Zenith Bank/NBBF League: MFM, First Bank Clash In Unbeaten Showdown As Atlantic Conference Phase 1 Ends",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-22",
+        "lat": 9.0867,
+        "lng": 7.4257,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/zenith-bank-nbbf-league-mfm-first-bank-clash-in-unbeaten-showdown-as-atlantic-conference-phase-1-ends/"
+    },
+    {
+        "title": "100 days in captivity: Borno elders, families demand rescue of abducted pupils",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-22",
+        "lat": 11.7911,
+        "lng": 13.1884,
+        "location": "Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/100-days-in-captivity-borno-elders-families-demand-rescue-of-abducted-pupils/"
     }
 ]
