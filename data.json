@@ -3342,5 +3342,27 @@
         "location": "Rivers State",
         "source": "Leadership News",
         "url": "https://leadership.ng/navy-uncovers-93000-litres-of-stolen-crude-oil-in-rivers/"
+    },
+    {
+        "title": "US judge strikes down Trump visa ban affecting Nigeria, 74 other countries [Full list]",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-22",
+        "lat": 9.9972,
+        "lng": 5.9742,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/us-judge-strikes-down-trump-visa-ban-affecting-nigeria-74-other-countries-full-list/"
+    },
+    {
+        "title": "Police Rescue 13 Abducted Passengers In Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-22",
+        "lat": 7.3448,
+        "lng": 8.6912,
+        "location": "Passengers Area, Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-rescue-13-abducted-passengers-in-benue/"
     }
 ]
