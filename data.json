@@ -3463,5 +3463,16 @@
         "location": "Troops Area, Borno State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/24-relatives-of-iswap-terrorists-surrender-to-troops-in-borno/"
+    },
+    {
+        "title": "Troops Rescue Kidnap Victim In Kaduna, Neutralize Terrorist In Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-22",
+        "lat": 10.4442,
+        "lng": 7.4446,
+        "location": "Victim Area, Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-rescue-kidnap-victim-in-kaduna-neutralize-terrorist-in-sokoto/"
     }
 ]
