@@ -3496,5 +3496,16 @@
         "location": "Dies Area, Lagos State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/dispatch-rider-dies-in-lagos-accident/"
+    },
+    {
+        "title": "Police Arrest Five Suspected Telecom Vandals in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-22",
+        "lat": 6.5307,
+        "lng": 3.3657,
+        "location": "Vandals Area, Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-five-suspected-telecom-vandals-in-lagos/"
     }
 ]
