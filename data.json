@@ -3331,5 +3331,16 @@
         "location": "Benue State",
         "source": "Leadership News",
         "url": "https://leadership.ng/benue-police-rescue-abducted-13-passengers-search-for-suspects/"
+    },
+    {
+        "title": "Navy Uncovers 93,000 Litres Of Stolen Crude Oil In Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-22",
+        "lat": 4.7172,
+        "lng": 6.858,
+        "location": "Rivers State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/navy-uncovers-93000-litres-of-stolen-crude-oil-in-rivers/"
     }
 ]
