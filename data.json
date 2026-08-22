@@ -3375,5 +3375,38 @@
         "location": "Anambra State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/904658-tanker-explosion-kills-two-in-anambra.html"
+    },
+    {
+        "title": "Troops rescue kidnapped victims, foil terrorist attacks in Kaduna, Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-22",
+        "lat": 10.5174,
+        "lng": 7.5124,
+        "location": "Attacks Area, Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-rescue-kidnapped-victims-foil-terrorist-attacks-in-kaduna-sokoto/"
+    },
+    {
+        "title": "Troops nab suspected gunrunner in Plateau, rescue kidnapped victim in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-22",
+        "lat": 9.5464,
+        "lng": 9.4458,
+        "location": "Gunrunner Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-nab-suspected-gunrunner-in-plateau-rescue-kidnapped-victim-in-edo/"
+    },
+    {
+        "title": "Two feared dead, dozens homeless as flood hits Jigawa community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-22",
+        "lat": 12.0388,
+        "lng": 9.6949,
+        "location": "Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/two-feared-dead-dozens-homeless-as-flood-hits-jigawa-community/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
