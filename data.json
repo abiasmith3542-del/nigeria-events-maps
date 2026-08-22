@@ -3562,5 +3562,16 @@
         "location": "Benue State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/benue-police-targets-youths-in-fresh-push-against-cultism-violence/"
+    },
+    {
+        "title": "Dozens Abducted As Gunmen Attack Mosque, Villages In Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-22",
+        "lat": 10.0532,
+        "lng": 5.9794,
+        "location": "Villages Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/dozens-abducted-as-gunmen-attack-mosque-villages-in-niger/"
     }
 ]
