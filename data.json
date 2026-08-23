@@ -3672,5 +3672,27 @@
         "location": "Lagos State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTJRdVNSb2tnVEpyLW9uc1VCTXZmeUNFeTk4bEpjZno0cjdKbkhQTGJfRkdxeDhHc1U0bV9OOXVhZ1cweGtSdGdqN0JqWl83T2FnMzhlQmNFVm1PdlZYOExqaThzdGE4b3VnR3dIQ1JLa1VyRmtfM3l1VDl5cFk0eXZjTElxRktOMUg3NWJTZXpEeWhIU1pmalEtWkpLS0Zi?oc=5"
+    },
+    {
+        "title": "Police rescue 75 kidnapping victims from Kaduna forest",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-23",
+        "lat": 10.5079,
+        "lng": 7.4967,
+        "location": "Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-rescue-75-kidnapping-victims-from-kaduna-forest/"
+    },
+    {
+        "title": "Kidnappers shot dead as DSS, vigilantes rescue victim In Imo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-23",
+        "lat": 5.438,
+        "lng": 7.0165,
+        "location": "Victim Area, Imo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kidnappers-shot-dead-as-dss-vigilantes-rescue-victim-in-imo/"
     }
 ]
