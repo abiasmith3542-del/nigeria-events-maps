@@ -3232,5 +3232,27 @@
         "location": "Cattle Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPY3pfd1BDcWNOWTMxTzVHZGlDalJob2puel94XzREMUpEY0FWMVNtZ2lBYnRVa3gyQkZhYUFyUDhWOHN1UThlVHRkQVJ3dFYwSzZyUHZaWW9JdWJQUkFyWm94eFFJNl95ckZmQ1ZhU1BjblVmSzFkVnpvRFV1eFZiMzFJVzlBT3JQOGtNUWVWdGtoOXl0dFVwb1gtbURpX3Vxcy1tRWZqUG83eG9scnhvQ1d0RElqd0w5eGRocjZYOTY4a2s1RUQzaWMyNTVDcEhkLVMwbGpuZFg2QUdiRU9VVHMxUFJQSjhVY1RFZ3dqZEltOFBwbzJERjZfLUMtMGdNbFYtejdn?oc=5"
+    },
+    {
+        "title": "Political, Digital Thuggery Threats To 2027 Poll In Katsina – Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-23",
+        "lat": 12.5385,
+        "lng": 7.6009,
+        "location": "Poll Area, Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/political-digital-thuggery-threats-to-2027-poll-in-katsina-police/"
+    },
+    {
+        "title": "Troops Rescue Kidnap Victim In Kaduna, Kill Terrorist",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-23",
+        "lat": 10.4452,
+        "lng": 7.4987,
+        "location": "Victim Area, Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-rescue-kidnap-victim-in-kaduna-kill-terrorist/"
     }
 ]
