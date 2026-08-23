@@ -3254,5 +3254,27 @@
         "location": "Victim Area, Kaduna State",
         "source": "Leadership News",
         "url": "https://leadership.ng/troops-rescue-kidnap-victim-in-kaduna-kill-terrorist/"
+    },
+    {
+        "title": "101-year-old woman arrested for selling cannabis in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-23",
+        "lat": 6.9533,
+        "lng": 3.4753,
+        "location": "Cannabis Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/101-year-old-woman-arrested-for-selling-cannabis-in-ogun/"
+    },
+    {
+        "title": "Police rescue woman after weeks in kidnappers’ den in Bayelsa  ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-23",
+        "lat": 4.7245,
+        "lng": 5.996,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-woman-after-weeks-in-kidnappers-den-in-bayelsa/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
