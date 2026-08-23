@@ -3276,5 +3276,27 @@
         "location": "Bayelsa State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-rescue-woman-after-weeks-in-kidnappers-den-in-bayelsa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2 Killed, 2 Abducted As Bandits Attack Kaduna Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-23",
+        "lat": 10.5461,
+        "lng": 7.4525,
+        "location": "Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/2-killed-2-abducted-as-bandits-attack-kaduna-community/"
+    },
+    {
+        "title": "Police Arrest 4 Suspected Cultists, Recover Gun in Edo",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-08-23",
+        "lat": 6.5325,
+        "lng": 5.9675,
+        "location": "Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-4-suspected-cultists-recover-gun-in-edo/"
     }
 ]
