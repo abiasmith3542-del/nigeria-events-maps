@@ -3342,5 +3342,16 @@
         "location": "Benue State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/benue-medical-lecturers-begin-indefinite-strike-over-unpaid-salary-promotion-arrears/"
+    },
+    {
+        "title": "Police arrest two kidnappers in Ondo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-23",
+        "lat": 7.2742,
+        "lng": 5.2236,
+        "location": "Kidnappers Area, Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-kidnappers-in-ondo-2/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
