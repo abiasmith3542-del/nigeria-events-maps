@@ -3166,5 +3166,16 @@
         "location": "Nigeria (General Area)",
         "source": "Leadership News",
         "url": "https://leadership.ng/tinubus-campaign-council-harbours-corruption-suspects-says-adc/"
+    },
+    {
+        "title": "Troops dismantle kidnappers’ roadblock, arrest two in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-23",
+        "lat": 7.3769,
+        "lng": 8.7163,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-dismantle-kidnappers-roadblock-arrest-two-in-benue/"
     }
 ]
