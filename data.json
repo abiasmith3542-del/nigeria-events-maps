@@ -3056,5 +3056,16 @@
         "location": "Niger State",
         "source": "Punch Metro",
         "url": "https://punchng.com/terrorists-attack-niger-mosque-abduct-worshippers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "117 Die In Northern Nigeria Boat Accidents In 8 Months",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-23",
+        "lat": 10.0255,
+        "lng": 6.0095,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/117-die-in-northern-nigeria-boat-accidents-in-8-months/"
     }
 ]
