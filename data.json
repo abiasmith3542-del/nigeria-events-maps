@@ -3122,5 +3122,27 @@
         "location": "Strike Area, Gombe State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/asuu-suspends-planned-strike-at-gombe-university/"
+    },
+    {
+        "title": "OPHK airstrikes neutralise scores of terrorists in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-23",
+        "lat": 11.7745,
+        "lng": 13.1193,
+        "location": "Terrorists Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/ophk-airstrikes-neutralise-scores-of-terrorists-in-borno/"
+    },
+    {
+        "title": "Troops raid IPOB/ESN stronghold in Anambra, recover Weapons",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-23",
+        "lat": 6.1865,
+        "lng": 6.9725,
+        "location": "Stronghold Area, Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-raid-ipob-esn-stronghold-in-anambra-recover-weapons/"
     }
 ]
