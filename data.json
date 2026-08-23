@@ -3353,5 +3353,27 @@
         "location": "Kidnappers Area, Ondo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-arrest-two-kidnappers-in-ondo-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Six armed suspects killed, security operative dies in Anambra",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-23",
+        "lat": 6.1437,
+        "lng": 6.9692,
+        "location": "Dies Area, Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/six-armed-suspects-killed-security-operative-dies-in-anambra/"
+    },
+    {
+        "title": "Troops Rescue 6 Kidnap Victims, Recover N800,000 In Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-23",
+        "lat": 12.5534,
+        "lng": 7.6084,
+        "location": "Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-rescue-6-kidnap-victims-recover-n800000-in-katsina/"
     }
 ]
