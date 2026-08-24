@@ -3540,5 +3540,27 @@
         "location": "Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-arrest-4-suspected-cultists-recover-gun-in-edo-2/"
+    },
+    {
+        "title": "Kebbe LG Distributes Relief Materials To Sokoto Victims Of Banditry",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 13.0825,
+        "lng": 5.2191,
+        "location": "Sokoto State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/kebbe-lg-distributes-relief-materials-to-sokoto-victims-of-banditry/"
+    },
+    {
+        "title": "Etsu Nupe, LG Chairmen, Others Meet To End Farmer-Herder Clashes",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 9.1218,
+        "lng": 7.535,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/etsu-nupe-lg-chairmen-others-meet-to-end-farmer-herder-clashes/"
     }
 ]
