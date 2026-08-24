@@ -3628,5 +3628,49 @@
         "location": "Rivers State",
         "source": "Punch Metro",
         "url": "https://punchng.com/gunmen-attack-rivers-monarchs-palace-during-cultural-festival/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Army begins rescue operation for abducted villagers in Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 10.0006,
+        "lng": 6.0455,
+        "location": "Villagers Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/army-begins-rescue-operation-for-abducted-villagers-in-niger/"
+    },
+    {
+        "title": "IGP Disu Honours 10 Fallen Police Officers Killed In Kebbi Bandit Attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 11.4151,
+        "lng": 4.1763,
+        "location": "Killed Area, Kebbi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/igp-disu-honours-10-fallen-police-officers-killed-in-kebbi-bandit-attack/"
+    },
+    {
+        "title": "Gunmen kill 14 cattle, rustle 29 in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-24",
+        "lat": 9.4425,
+        "lng": 9.545,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-14-cattle-rustle-29-in-plateau/"
+    },
+    {
+        "title": "Troops Rescue Kidnap Victim, Recover AK-47 Rifle After Gun Battle in Kogi - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-24",
+        "lat": 7.7692,
+        "lng": 6.6978,
+        "location": "Battle Area, Kogi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaktuRndRZ0JYS0IzOU5fUXJfRmI4a0huNDRKaXF2UG4yekJyMGVQNnI5c25SaFdIUjhBSkJXODRhV2puNzZnSHA1Snlva3l2UlpmMUxoQ05TdnQ1d0VURHpBTjNFYktfRlpPOS1mbU45bTBzODRQcXo3Qy1mTGhTbmlla2tkWDdSR1Y0Y0N5cVdKQldvY3NEME9SWmduWFlaWExVNmFpYWZUVUJaa2Z4cWJGNmFtaWg4?oc=5"
     }
 ]
