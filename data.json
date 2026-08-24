@@ -3573,5 +3573,27 @@
         "location": "Niger State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/many-worshippers-abducted-from-niger-mosques-during-jumaat-prayer/"
+    },
+    {
+        "title": "Troops intercept terrorists’ canoes, disrupt logistics in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 12.1143,
+        "lng": 6.1863,
+        "location": "Logistics Area, Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-intercept-terrorists-canoes-disrupt-logistics-in-zamfara/"
+    },
+    {
+        "title": "Anambra: Troops Neutralise IPOB/ESN Militant, Recover Weapons - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-23",
+        "lat": 6.2373,
+        "lng": 6.9562,
+        "location": "Anambra State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XeFJSdHZfeHQ1dEpwMzlwVGFxRDZ2ZTIyWHJ5MUJ4aHIxWHEzOW9zcmxoaG1rZkRKQ2lUMnBJRlBJN2xpbXlVa2JfVXQtMHp3WXE1SGc5NkN5MTBNbGNFQ2RkVU5yZTBwQTExTkZERVJ0Zw?oc=5"
     }
 ]
