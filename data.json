@@ -3738,5 +3738,71 @@
         "location": "Victims Area, Zamfara State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/troops-intercept-gun-runners-rescue-six-kidnapped-victims-in-zamfara/"
+    },
+    {
+        "title": "Crisis rocks Oyo NDC as chairman, secretary clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 8.0386,
+        "lng": 4.027,
+        "location": "Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/crisis-rocks-oyo-ndc-as-chairman-secretary-clash/"
+    },
+    {
+        "title": "Two feared killed as crisis rocks Osun motor park",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 7.469,
+        "lng": 4.5417,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/two-feared-killed-as-crisis-rocks-osun-motor-park/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "21-year-old arrested for allegedly defiling minor in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-24",
+        "lat": 6.479,
+        "lng": 5.9563,
+        "location": "Minor Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/21-year-old-arrested-for-allegedly-defiling-minor-in-edo/"
+    },
+    {
+        "title": "Troops Arrest Suspected Gunrunner in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-24",
+        "lat": 9.4766,
+        "lng": 9.4935,
+        "location": "Gunrunner Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckhSS29Cd3FLZXQ5YldseDZmd01GNFhTMUhuTHlXTVNMTXllVmpsRWtRVFZuVWZFeVZVek90WEg3dERKcTZHSjBTbmE1cnVwWGNoQ0J0NXBQb1h6U243dVJYVHA5bU1kaEVzb3dyZTJpTFFEZTVzWHRwNFdzUWtMb3p1c1ZVSHhzQ3dOQUJWV1FKNHJzbXc?oc=5"
+    },
+    {
+        "title": "Unidentified Corpse with Gunshot Wound Found Along Road in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 9.4715,
+        "lng": 9.4674,
+        "location": "Road Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFNmYVlscEF2MTZhQVhvMHNNRXFGX2c5RUdIVDNJVkR4MW8tZUhGQ1AwVV9NMVlPbmNyZ1BLMXEzcVdLRmpIRENzTXlfbHVHR2Uzd0oxODhVVXFfVVBwQ3BtRXdxVlgwcVQwRncwaTNKVkVXTHJhN01Zb1ZaZlpOYllhLU01RzNwd211V3JOY19zaUNDT1p1NENRZFV2RDRYU2x2ZVpMbXUwMlNsVkYyMQ?oc=5"
+    },
+    {
+        "title": "Farmer Injured in Machete Attack by Herder in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 9.5012,
+        "lng": 9.5467,
+        "location": "Herder Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNREFkMWRpV2htQmRsaGw0WS1mYkgtQ2hVdkEzQnJYTExZcEFhUzRhQ0hNcFNWUVJZWVVBTXk1Yzl0eGVGRHJmUy1qNmZWNHhael9DUVZGaEV6aF9Md2pQaWthRXo5VVdJUERvRmZDZXkxYVJra2ktZWVxeHFTTWNoZmxKdWxEcEZrOF9xS2k3TXJ6dk42RklPQlJXdUlzdDA?oc=5"
     }
 ]
