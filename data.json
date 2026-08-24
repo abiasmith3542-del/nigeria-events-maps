@@ -3595,5 +3595,27 @@
         "location": "Anambra State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XeFJSdHZfeHQ1dEpwMzlwVGFxRDZ2ZTIyWHJ5MUJ4aHIxWHEzOW9zcmxoaG1rZkRKQ2lUMnBJRlBJN2xpbXlVa2JfVXQtMHp3WXE1SGc5NkN5MTBNbGNFQ2RkVU5yZTBwQTExTkZERVJ0Zw?oc=5"
+    },
+    {
+        "title": "NAF intensifies air strikes against terrorists in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 13.0903,
+        "lng": 5.2661,
+        "location": "Terrorists Area, Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/naf-intensifies-air-strikes-against-terrorists-in-sokoto/"
+    },
+    {
+        "title": "Gunmen kill two security operatives, seize rifles in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-24",
+        "lat": 9.4797,
+        "lng": 9.4665,
+        "location": "Rifles Area, Plateau State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/905027-gunmen-kill-two-security-operatives-seize-rifles-in-plateau.html"
     }
 ]
