@@ -3562,5 +3562,16 @@
         "location": "Nigeria (General Area)",
         "source": "Leadership News",
         "url": "https://leadership.ng/etsu-nupe-lg-chairmen-others-meet-to-end-farmer-herder-clashes/"
+    },
+    {
+        "title": "Many worshippers abducted from Niger mosques during Juma’at prayer",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 10.0081,
+        "lng": 6.0247,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/many-worshippers-abducted-from-niger-mosques-during-jumaat-prayer/"
     }
 ]
