@@ -3683,5 +3683,16 @@
         "location": "Victims Area, Zamfara State",
         "source": "Leadership News",
         "url": "https://leadership.ng/troops-arrest-3-suspected-gunrunner-rescue-6-victims-in-zamfara/"
+    },
+    {
+        "title": "Osun police confirm shooting amid alleged killing of five over garage takeover in Ikire",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-24",
+        "lat": 7.5298,
+        "lng": 4.4746,
+        "location": "Osun State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/905090-osun-police-confirm-shooting-amid-alleged-killing-of-five-over-garage-takeover-in-ikire.html"
     }
 ]
