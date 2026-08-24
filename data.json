@@ -3617,5 +3617,16 @@
         "location": "Rifles Area, Plateau State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/905027-gunmen-kill-two-security-operatives-seize-rifles-in-plateau.html"
+    },
+    {
+        "title": "Gunmen attack Rivers monarch’s palace during cultural festival",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 4.6974,
+        "lng": 6.8133,
+        "location": "Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-attack-rivers-monarchs-palace-during-cultural-festival/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
