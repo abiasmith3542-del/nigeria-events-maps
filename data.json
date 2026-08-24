@@ -3496,5 +3496,49 @@
         "location": "Benue State",
         "source": "Punch Metro",
         "url": "https://punchng.com/troops-kill-suspected-kidnapper-arrest-two-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Don’t detain suspects beyond 24hrs without valid court order, CP tells DPOs",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-24",
+        "lat": 9.1441,
+        "lng": 7.472,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/dont-detain-suspects-beyond-24hrs-without-valid-court-order-cp-tells-dpos/"
+    },
+    {
+        "title": "Troops rescue 6 kidnapped victims, recover N0.8m in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-24",
+        "lat": 12.5499,
+        "lng": 7.6679,
+        "location": "Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-rescue-6-kidnapped-victims-recover-n0-8m-in-katsina/"
+    },
+    {
+        "title": "Police uncover adulterated drinks warehouse in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-24",
+        "lat": 5.4932,
+        "lng": 6.0316,
+        "location": "Warehouse Area, Delta State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-uncover-adulterated-drinks-warehouse-in-delta/"
+    },
+    {
+        "title": "Police arrest 4 suspected cultists, recover gun in Edo",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-08-24",
+        "lat": 6.467,
+        "lng": 5.9965,
+        "location": "Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-4-suspected-cultists-recover-gun-in-edo-2/"
     }
 ]
