@@ -4013,5 +4013,27 @@
         "location": "Injured Area, Osun State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/2-civilians-killed-policemen-injured-in-osun-attack/"
+    },
+    {
+        "title": "Over 50 children killed in Kano diphtheria outbreak – Lawmakers",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-25",
+        "lat": 12.0389,
+        "lng": 8.5591,
+        "location": "Killed Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/over-50-children-killed-in-kano-diphtheria-outbreak-lawmakers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "7 People Killed, 7 Others Injured in Niger Auto Crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 9.9876,
+        "lng": 6.02,
+        "location": "Injured Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/7-people-killed-7-others-injured-in-niger-auto-crash/"
     }
 ]
