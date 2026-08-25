@@ -4035,5 +4035,27 @@
         "location": "Injured Area, Niger State",
         "source": "Leadership News",
         "url": "https://leadership.ng/7-people-killed-7-others-injured-in-niger-auto-crash/"
+    },
+    {
+        "title": "Kidnappers arrested during ransom negotiation in Ondo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-25",
+        "lat": 7.2165,
+        "lng": 5.149,
+        "location": "Negotiation Area, Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kidnappers-arrested-during-ransom-negotiation-in-ondo/"
+    },
+    {
+        "title": "Katsina APC Power Clash: Radda’s ADC, CSO Still in Custody Amid Rift with Tinubu's Adviser, Masari - PRNigeria News",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 12.5311,
+        "lng": 7.6476,
+        "location": "Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iZGFKbnNYajlkYlBjQTI3WThOWXlpcEZqTVo2ZVJZblR0MHI0Zllhcjlhdl8yaElFelV4dzd1aWh4NnRiak1PYTIzcmlLamJDUm9mOENWc05zZ01vY2JCVlBxQ2pJbkxCVHlkU2w1VUI?oc=5"
     }
 ]
