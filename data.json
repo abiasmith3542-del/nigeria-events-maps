@@ -4090,5 +4090,38 @@
         "location": "Olohun Area, Oyo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/sunday-igboho-residents-foil-police-arrest-of-tani-olohun-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Two suspects arrested over 55-year-old man’s abduction in Ondo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-25",
+        "lat": 7.2839,
+        "lng": 5.1549,
+        "location": "Abduction Area, Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/two-suspects-arrested-over-55-year-old-mans-abduction-in-ondo/"
+    },
+    {
+        "title": "Police arrest two suspects as kidnapped victim escapes in Ondo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 7.3066,
+        "lng": 5.1427,
+        "location": "Escapes Area, Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-two-suspects-as-kidnapped-victim-escapes-in-ondo/"
+    },
+    {
+        "title": "Zamfara Police Rescue 2 Abducted Persons, Recover AK-47",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 12.1467,
+        "lng": 6.1649,
+        "location": "Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/zamfara-police-rescue-2-abducted-persons-recover-ak-47/"
     }
 ]
