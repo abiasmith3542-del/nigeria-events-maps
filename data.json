@@ -4068,5 +4068,27 @@
         "location": "Peddlers Area, Plateau State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jRGNURzBFQVNPVkdpaFhvaFVxRlFLbkYzbjNxbE9NeGVuanFzZGZBM0VBZDFFREtqdkJNYTNUeXU5eHYzZHZMWS1YQnQtb2VYQXk1Nml3WEwycGxNeFc3MzRkOVRrQzNNZzVPOQ?oc=5"
+    },
+    {
+        "title": "Police arrest 2 suspects as kidnapped victim escapes from hideout in Ondo forest",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 7.2151,
+        "lng": 5.217,
+        "location": "Hideout Area, Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-2-suspects-as-kidnapped-victim-escapes-from-hideout-in-ondo-forest/"
+    },
+    {
+        "title": "Sunday Igboho, residents foil police arrest of Tani Olohun in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-25",
+        "lat": 7.9742,
+        "lng": 3.9825,
+        "location": "Olohun Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/sunday-igboho-residents-foil-police-arrest-of-tani-olohun-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
