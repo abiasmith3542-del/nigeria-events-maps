@@ -3969,5 +3969,38 @@
         "location": "Clash Area, Kwara State",
         "source": "Punch Metro",
         "url": "https://punchng.com/five-hospitalised-as-transport-unions-clash-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police rescue three kidnap victims, recover stolen car, firearms in Enugu",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-25",
+        "lat": 6.5537,
+        "lng": 7.4469,
+        "location": "Firearms Area, Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-three-kidnap-victims-recover-stolen-car-firearms-in-enugu/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police blame suspected hoodlums for Osun shooting, identify deceased ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-25",
+        "lat": 7.5315,
+        "lng": 4.4635,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-blame-suspected-hoodlums-for-osun-shooting-identify-deceased/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police bust baby factory in Ogun, rescue pregnant women, children",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-25",
+        "lat": 6.9844,
+        "lng": 3.5098,
+        "location": "Factory Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-bust-ogun-baby-factory-in-ogun-rescue-pregnant-women-children/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
