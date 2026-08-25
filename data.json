@@ -4200,5 +4200,16 @@
         "location": "Ammunition Area, Zamfara State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/troops-arrest-suspected-terrorists-recover-ak-47-ammunition-in-zamfara/"
+    },
+    {
+        "title": "One killed, 3 injured as gunman opens fire at Kano ‘DJ’ wedding ceremony",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 11.9579,
+        "lng": 8.5632,
+        "location": "Fire Area, Kano State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/one-killed-3-injured-as-gunman-opens-fire-at-kano-dj-wedding-ceremony/"
     }
 ]
