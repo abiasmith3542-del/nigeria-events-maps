@@ -4145,5 +4145,49 @@
         "location": "Motorcycle Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGQ4MlQ4Ti1uQlc2Vm5rcmJ2SGV3MVVlZ1B4SEdqVk1pNXAwRzlsYW5VR0oxb0tidUlMbGo5My1qZmF1UENqWXNJTF9kS0VvSFZyTDMxZ1lrdnN6OS1tMGdERGpNLUZPVTU4eUoydEY2M0xNRGxtMUlhOFlGVFRCa3dWNy1rU2ZzanhmVHUwOFoxal9GS3lwX0pjNmNNTThnVUpqVEpNeHFvWjJfMlJFZU1B?oc=5"
+    },
+    {
+        "title": "Police arrest five over alleged robbery, recover pistol in Niger",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-25",
+        "lat": 9.9702,
+        "lng": 5.9596,
+        "location": "Pistol Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-five-over-alleged-robbery-recover-pistol-in-niger/"
+    },
+    {
+        "title": "Alleged extortion: FCT Police identify officers in viral video",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-25",
+        "lat": 9.0971,
+        "lng": 7.4702,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/alleged-extortion-fct-police-identify-officers-in-viral-video/"
+    },
+    {
+        "title": "Why police tried to arrest Tani Olohun — Oyo Command",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-25",
+        "lat": 8.0279,
+        "lng": 4.0408,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/why-police-tried-to-arrest-tani-olohun-oyo-command/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NOA Intensifies Lassa Fever Sensitisation Across Akwa Ibom",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-25",
+        "lat": 4.9969,
+        "lng": 7.8042,
+        "location": "Akwa Ibom State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/noa-intensifies-lassa-fever-sensitisation-across-akwa-ibom/"
     }
 ]
