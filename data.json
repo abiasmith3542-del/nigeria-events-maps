@@ -4189,5 +4189,16 @@
         "location": "Akwa Ibom State",
         "source": "Leadership News",
         "url": "https://leadership.ng/noa-intensifies-lassa-fever-sensitisation-across-akwa-ibom/"
+    },
+    {
+        "title": "Troops arrest suspected terrorists, recover AK-47, ammunition in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 12.0625,
+        "lng": 6.28,
+        "location": "Ammunition Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-arrest-suspected-terrorists-recover-ak-47-ammunition-in-zamfara/"
     }
 ]
