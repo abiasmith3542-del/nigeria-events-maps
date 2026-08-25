@@ -4002,5 +4002,16 @@
         "location": "Factory Area, Ogun State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-bust-ogun-baby-factory-in-ogun-rescue-pregnant-women-children/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2 civilians killed, policemen injured in Osun attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 7.4878,
+        "lng": 4.4614,
+        "location": "Injured Area, Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/2-civilians-killed-policemen-injured-in-osun-attack/"
     }
 ]
