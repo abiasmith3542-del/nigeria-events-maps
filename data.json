@@ -3903,5 +3903,27 @@
         "location": "Ndlea Area, Abuja (FCT)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/cp-hands-over-drug-suspects-to-ndlea-in-abuja/"
+    },
+    {
+        "title": "Sokoto armoured vehicles reduce bandit attacks, says LG chair",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 13.0306,
+        "lng": 5.2461,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/sokoto-armoured-vehicles-reduce-bandit-attacks-says-lg-chair/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Arrest 3 Suspected Gunrunners, Rescue 6 Victims In Zamfara",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-25",
+        "lat": 12.1744,
+        "lng": 6.2752,
+        "location": "Victims Area, Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-arrest-3-suspected-gunrunners-rescue-6-victims-in-zamfara/"
     }
 ]
