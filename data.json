@@ -3925,5 +3925,27 @@
         "location": "Victims Area, Zamfara State",
         "source": "Leadership News",
         "url": "https://leadership.ng/troops-arrest-3-suspected-gunrunners-rescue-6-victims-in-zamfara/"
+    },
+    {
+        "title": "Police Honour 10  Police Officers Killed In Kebbi Bandit Attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 11.4253,
+        "lng": 4.228,
+        "location": "Killed Area, Kebbi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-honour-10-police-officers-killed-in-kebbi-bandit-attack/"
+    },
+    {
+        "title": "30 killed in attacks on four Niger mosques",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 9.9944,
+        "lng": 5.9469,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/30-killed-in-attacks-on-four-niger-mosques/"
     }
 ]
