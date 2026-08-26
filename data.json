@@ -4134,5 +4134,38 @@
         "location": "Vigilantes Area, Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/gunmen-kill-3-vigilantes-in-plateau/"
+    },
+    {
+        "title": "Police deny receiving report of kidney sales in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-26",
+        "lat": 9.1066,
+        "lng": 7.5446,
+        "location": "Sales Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-deny-receiving-report-of-kidney-sales-in-abuja/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Several bandits feared killed in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-26",
+        "lat": 13.0258,
+        "lng": 5.185,
+        "location": "Killed Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/several-bandits-feared-killed-in-sokoto/"
+    },
+    {
+        "title": "Farmer-Herder Clash Claims One Life in Kaduna Community - zagazola.org",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-26",
+        "lat": 10.4427,
+        "lng": 7.5469,
+        "location": "Life Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVGt1eWpyLVZpeXA1bXFXYkdLcmxZQjI5dEhJMDBYR2NkM2Z5ZjhpTmpidVhRaVA0Y3ctWlhsZDMxV0djdGZDYUxiMU41eGk5LUlBdTZ3TG9iaHhyWjN3SFZjM1dlT2xvN2hIWkFzMjFadDNLM1BFRDg2ZzhhZEU5U1VZOUxsUUdOWlExVjJhamFtOGw3SW1QTGItWGpBUEc0d2c?oc=5"
     }
 ]
