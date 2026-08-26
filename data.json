@@ -4112,5 +4112,27 @@
         "location": "Crisis Area, Niger State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/08/irans-hormuz-blockade-will-worsen-food-crisis-in-nigeria-others-us-warns/"
+    },
+    {
+        "title": "Bauchi Police Arrest 23-Year-Old Over Alleged Drug Trafficking, Recover Methylene Chloride",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-26",
+        "lat": 10.496,
+        "lng": 9.9507,
+        "location": "Bauchi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bauchi-police-arrest-23-year-old-over-alleged-drug-trafficking-recover-methylene-chloride/"
+    },
+    {
+        "title": "Gunmen kill 3 vigilantes in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-26",
+        "lat": 9.5361,
+        "lng": 9.4843,
+        "location": "Vigilantes Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-3-vigilantes-in-plateau/"
     }
 ]
