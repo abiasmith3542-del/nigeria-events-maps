@@ -4057,5 +4057,27 @@
         "location": "Oyo State",
         "source": "Leadership News",
         "url": "https://leadership.ng/oyo-police-bust-trans-national-organised-crime-syndicate-arrest-2-suspects/"
+    },
+    {
+        "title": "FCT Police Debunks Viral Claim Of Kidney Sales In Nyanya",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-26",
+        "lat": 9.0068,
+        "lng": 7.4969,
+        "location": "Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/fct-police-debunks-viral-claim-of-kidney-sales-in-nyanya/"
+    },
+    {
+        "title": "Military Foils Terrorist Attacks in Niger, Borno, Launch Clearance Operations - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-25",
+        "lat": 11.784,
+        "lng": 13.1819,
+        "location": "Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WUVkbHpRVzhqRFBGYWJCXzhnb2NUSnM0b2FXblEzelB2V01MQXpFV2ItanQ5dWZkeno0V3RFb3pJRkV2Sm10Y01MZk9DN3hKY3poWlE2eXRpWC1RcHgtT2J6aW1wWUk4T2FRZw?oc=5"
     }
 ]
