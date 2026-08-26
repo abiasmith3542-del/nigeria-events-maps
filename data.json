@@ -4079,5 +4079,27 @@
         "location": "Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WUVkbHpRVzhqRFBGYWJCXzhnb2NUSnM0b2FXblEzelB2V01MQXpFV2ItanQ5dWZkeno0V3RFb3pJRkV2Sm10Y01MZk9DN3hKY3poWlE2eXRpWC1RcHgtT2J6aW1wWUk4T2FRZw?oc=5"
+    },
+    {
+        "title": "Police arrest suspected drug dealer with bottles of Methylene Chloride in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-26",
+        "lat": 10.4801,
+        "lng": 10.0239,
+        "location": "Chloride Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-drug-dealer-with-bottles-of-methylene-chloride-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Plateau varsity lecturers declare indefinite strike over unmet demands",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-26",
+        "lat": 9.4622,
+        "lng": 9.4597,
+        "location": "Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/plateau-varsity-lecturers-declare-indefinite-strike-over-unmet-demands/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
