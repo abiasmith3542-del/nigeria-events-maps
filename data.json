@@ -3958,5 +3958,27 @@
         "location": "Raids Area, Abuja (FCT)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/traffic-robbery-commuters-express-relief-after-police-raids-in-abuja/"
+    },
+    {
+        "title": "Terrorists now use social media, remittance platforms to raise funds — Bukarti",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-26",
+        "lat": 9.0197,
+        "lng": 7.5898,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/terrorists-now-use-social-media-remittance-platforms-to-raise-funds-bukarti/"
+    },
+    {
+        "title": "Land dispute: Kwara, Ekiti communities trade blames over attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-26",
+        "lat": 7.6375,
+        "lng": 5.256,
+        "location": "Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/land-dispute-kwara-ekiti-communities-trade-blames-over-attack/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
