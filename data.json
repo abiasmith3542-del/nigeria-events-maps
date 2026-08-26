@@ -3936,5 +3936,27 @@
         "location": "Kwara State",
         "source": "Punch Metro",
         "url": "https://punchng.com/kwara-transport-union-clash-leaves-five-hospitalised/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Osun killings: Police blame hoodlums as Oyetola demands decisive action",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-26",
+        "lat": 7.5214,
+        "lng": 4.4901,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/osun-killings-police-blame-hoodlums-as-oyetola-demands-decisive-action/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Traffic robbery: Commuters express relief after police raids in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-26",
+        "lat": 9.0294,
+        "lng": 7.5442,
+        "location": "Raids Area, Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/traffic-robbery-commuters-express-relief-after-police-raids-in-abuja/"
     }
 ]
