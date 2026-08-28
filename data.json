@@ -3991,5 +3991,170 @@
         "location": "Adamawa State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zTjNfeUt4Z3J1dlJnY3hhWGZEWjJfd29TbFBJM3ZQMzVWLWR0a3VISU5pcUtrTXUtRExKcmVxdnBZbFVySE0yazlMVXc3TGhGenFWNzNaaXN3Y0dKTmVRc21mQ3hQSzg?oc=5"
+    },
+    {
+        "title": "FG activates task force over diphtheria outbreak in Katsina, Kano",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-28",
+        "lat": 12.0481,
+        "lng": 8.5825,
+        "location": "Kano State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/fg-activates-task-force-over-diphtheria-outbreak-in-katsina-kano/"
+    },
+    {
+        "title": "KASU urges ASUU to suspend warning strike, cites Uba Sani’s intervention",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-28",
+        "lat": 8.9608,
+        "lng": 7.5851,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/kasu-urges-asuu-to-suspend-warning-strike-cites-uba-sanis-intervention/"
+    },
+    {
+        "title": "Police arrest four over alleged organ harvesting, trafficking in Nasarawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-28",
+        "lat": 8.538,
+        "lng": 8.2241,
+        "location": "Trafficking Area, Nasarawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-four-over-alleged-organ-harvesting-trafficking-in-nasarawa/"
+    },
+    {
+        "title": "Police arrest robbery suspect, recover firearms in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-28",
+        "lat": 6.2363,
+        "lng": 7.0232,
+        "location": "Firearms Area, Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-arrest-robbery-suspect-recover-firearms-in-anambra/"
+    },
+    {
+        "title": "Police parade two doctors, others over kidney harvesting in Nasarawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-28",
+        "lat": 8.4895,
+        "lng": 8.1934,
+        "location": "Harvesting Area, Nasarawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-parade-two-doctors-others-over-kidney-harvesting-in-nasarawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Soldiers beat me, others after encounter with terrorists, Yobe LG vice chairman‎ claims",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-28",
+        "lat": 11.985,
+        "lng": 11.4472,
+        "location": "Yobe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-beat-me-others-after-encounter-with-terrorists-yobe-lg-vice-chairman-claims/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kaduna varsity begs ASUU to suspend strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-28",
+        "lat": 10.4595,
+        "lng": 7.4964,
+        "location": "Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kaduna-varsity-begs-asuu-to-suspend-strike/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abia varsity lecturers suspend strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-28",
+        "lat": 5.4271,
+        "lng": 7.4695,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/abia-varsity-lecturers-suspend-strike/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NCDC warns Nigerians as Cholera cases surpass 65,000 in 2026",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-08-28",
+        "lat": 9.9493,
+        "lng": 5.9953,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/906045-ncdc-warns-nigerians-as-cholera-cases-surpass-65000-in-2026.html"
+    },
+    {
+        "title": "Otti takes responsibility, apologises for ASUU strike at Abia university",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-28",
+        "lat": 5.4593,
+        "lng": 7.4928,
+        "location": "Strike Area, Abia State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/905951-otti-takes-responsibility-apologises-for-asuu-strike-at-abia-university.html"
+    },
+    {
+        "title": "Police arrest four suspects over killing of two during Osun motor park mayhem",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-28",
+        "lat": 7.4544,
+        "lng": 4.4875,
+        "location": "Osun State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/905939-police-arrest-four-suspects-over-killing-of-two-during-osun-motor-park-mayhem.html"
+    },
+    {
+        "title": "2 Residents Trapped, Rescued As One-Storey Building Collapses In Abuja",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-28",
+        "lat": 9.0575,
+        "lng": 7.4777,
+        "location": "Collapses Area, Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/2-residents-trapped-rescued-as-one-storey-building-collapses-in-abuja/"
+    },
+    {
+        "title": "Many Feared Abducted as Bandits Attack Travellers in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-28",
+        "lat": 12.0746,
+        "lng": 6.2082,
+        "location": "Travellers Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/many-feared-abducted-as-bandits-attack-travellers-in-zamfara/"
+    },
+    {
+        "title": "3 youths allegedly arrested for posting Borno LG’s FAAC allocation on Facebook",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-28",
+        "lat": 11.8874,
+        "lng": 13.1869,
+        "location": "Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-youths-allegedly-arrested-for-posting-borno-lgs-faac-allocation-on-facebook/"
+    },
+    {
+        "title": "Troops kill 2 terrorists, recover 2 AK-47 rifles, motorcycles in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-28",
+        "lat": 13.0278,
+        "lng": 5.2396,
+        "location": "Motorcycles Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-kill-2-terrorists-recover-2-ak-47-rifles-motorcycles-in-sokoto/"
     }
 ]
