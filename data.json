@@ -3606,5 +3606,137 @@
         "location": "Kano State",
         "source": "Leadership News",
         "url": "https://leadership.ng/federal-govt-deploys-500000-vaccines-as-diphtheria-outbreak-hits-katsina-kano/"
+    },
+    {
+        "title": "National TV signal cut in Niger after heavy gunfire",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 10.0291,
+        "lng": 6.0327,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/national-tv-signal-cut-in-niger-after-heavy-gunfire/"
+    },
+    {
+        "title": "Troops arrest 3 alleged terrorist collaborators, destroy enclaves in Kaduna, Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 10.4557,
+        "lng": 7.4699,
+        "location": "Enclaves Area, Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/troops-arrest-3-alleged-terrorist-collaborators-destroy-enclaves-in-kaduna-katsina/"
+    },
+    {
+        "title": "Police detain officers over fatal shooting of driver in Rivers",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 4.7828,
+        "lng": 6.8706,
+        "location": "Driver Area, Rivers State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-detain-officers-over-fatal-shooting-of-driver-in-rivers/"
+    },
+    {
+        "title": "Police nab female students over viral assault video in Plateau",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 9.5242,
+        "lng": 9.487,
+        "location": "Video Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-nab-female-students-over-viral-assault-video-in-plateau/"
+    },
+    {
+        "title": "Police rescue two Colombian women held captive in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 6.5644,
+        "lng": 3.3897,
+        "location": "Captive Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-two-colombian-women-held-captive-in-lagos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest four more suspected vandals, recover iron poles in Cross River",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 5.8079,
+        "lng": 8.5599,
+        "location": "Poles Area, Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-more-suspected-vandals-recover-iron-poles-in-cross-river/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nepal, China floods: Nearly 3,000 missing, 633 dead",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 9.0205,
+        "lng": 7.5568,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nepal-china-floods-nearly-3000-missing-633-dead/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police ​‌‍​‌‍⁠⁠‌‍​‌‍‌​‍⁠‌​arrest female students over viral Plateau assault video",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 9.4484,
+        "lng": 9.5313,
+        "location": "Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-%e2%81%a0%e2%81%a0%e2%81%a0arrest-female-students/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police parade two doctors, others over kidney harvesting in Nasarawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 8.5404,
+        "lng": 8.1442,
+        "location": "Harvesting Area, Nasarawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-parade-two-doctors-others-over-kidney-harvesting-in-nasarawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Rivers Police Detain Officer, Team Over Alleged Killing Of Driver",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 4.7192,
+        "lng": 6.8927,
+        "location": "Rivers State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/rivers-police-detain-officer-team-over-alleged-killing-of-driver/"
+    },
+    {
+        "title": "US Extradites Two Nigerians Over Fatal Sextortion Operations Targeting Minors",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 10.0555,
+        "lng": 6.0463,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/us-extradites-two-nigerians-over-fatal-sextortion-operations-targeting-minors/"
+    },
+    {
+        "title": "Youths arrested over post on Borno LG’s allocation released after Daily Trust report",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 11.8782,
+        "lng": 13.1949,
+        "location": "Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/youths-arrested-over-post-on-borno-lgs-allocation-released-after-daily-trust-report/"
     }
 ]
