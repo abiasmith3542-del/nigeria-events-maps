@@ -3738,5 +3738,159 @@
         "location": "Borno State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/youths-arrested-over-post-on-borno-lgs-allocation-released-after-daily-trust-report/"
+    },
+    {
+        "title": "FCT Police secures conviction of two wanted ammunition suppliers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 9.0784,
+        "lng": 7.4765,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/fct-police-secures-conviction-of-two-wanted-ammunition-suppliers/"
+    },
+    {
+        "title": "Anambra LG poll: Tension, gunshots as YPP battles APGA",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 6.2421,
+        "lng": 7.0595,
+        "location": "Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/anambra-lg-poll-tension-gunshots-as-ypp-battles-apga/"
+    },
+    {
+        "title": "No terror group, mass kidnapping in Ebonyi – Police",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 6.2662,
+        "lng": 8.0296,
+        "location": "Kidnapping Area, Ebonyi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/no-terror-group-mass-kidnapping-in-ebonyi-police/"
+    },
+    {
+        "title": "Machete-wielding man attacks security guards at Lagos cinema, kills two",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 6.4899,
+        "lng": 3.3738,
+        "location": "Guards Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/machete-wielding-man-attacks-security-guards-at-lagos-cinema-kills-two/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Rescue 2 Colombian Women Held Captive By Traffickers In Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 6.5732,
+        "lng": 3.3463,
+        "location": "Traffickers Area, Lagos State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-rescue-2-colombian-women-held-captive-by-traffickers-in-lagos/"
+    },
+    {
+        "title": "Taraba: Police arrest suspected female traffickers, rescue 3 girls",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 7.9942,
+        "lng": 10.4835,
+        "location": "Taraba State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/taraba-police-arrest-suspected-female-traffickers-rescue-3-girls/"
+    },
+    {
+        "title": "Police Bust Trafficking Syndicate, Rescue Two Colombian Women in Lagos - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 6.5747,
+        "lng": 3.4326,
+        "location": "Women Area, Lagos State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iUVptOEh1RzVHMVl3Y0V2QnFRdkdVVmpETjdWRndwb0dvMVk5ZlNJRFVQZjQ4REt1aVREV0QtNUlIOHh4cGpINjRmdkhjMFYxM0luYy0tSG9nTktMMnVLS01wazRmYTJJ?oc=5"
+    },
+    {
+        "title": "Troops arrest three suspected militia over attack on cattle in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 9.4429,
+        "lng": 9.522,
+        "location": "Cattle Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLTA0bDJ5YzlpNi1xdVJaLTFNeXozbXItRk9MOGV3cE0xRW42RE9FdHJ6UnJxeGF3LXdFSnpOQThmaUc0cEJ4ZXZoY21jOHlRNWJfX2xGN2xvMWFFS1R4bTZwRjZBaW1aeDNweS11WmRVcDVUTzNITHZ1cVd2cHliNmNWbFhkemVQLUJWMlZURWs3SThGSDJMVnhiSXY1TDhvd1l2YVJNbTJBZGJycnRTOWV4RXBidw?oc=5"
+    },
+    {
+        "title": "Troops foil kidnapping attempt, rescue two victims in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 9.5329,
+        "lng": 9.4534,
+        "location": "Victims Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdC14WVkxNnRORTU0aG5QVU9CUUFDa1VCY2xYNThCNGphNFYxR24zekVnbEQ3eFN4YU1wLUo0V04yUVljaHJZWExISTFNanNFdWRzNGRkQW1LdjFHcldzUW5oTGJGdnM3ODBIb2dldWVJMWdIS0RKTzN0MERBTGVBMFZBb3I0cG1WT2ZhSkhha3NxZE5NaDRQMUdmaVFoV3FJY3JQZldGMDI?oc=5"
+    },
+    {
+        "title": "Troops foil Armed Fulani Attack, rescue wounded victim in Mangu, Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 9.5477,
+        "lng": 9.5453,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUhYOVpfUW5pWERna2pSaU1GdHpRLXBDcHBkRmdDSG9hREpwd3hOMTdBUGhtSnV1TnNqMFd2VlRzV0lvSGZ0NVFPWHZpRnNMTXBoaXZ4M09sT0JzYWY1S3NtcG5sRXFrNTZkQnhQdVpqMlhXMy1LWTd6a0pJQWl0Z0MxaFNzZEtqM2lQRFNkZzF5WlVaRXhiZ1ZmbVFydzJzLWF5ZUh6ME9DLXplaWVUM19WWEM1dw?oc=5"
+    },
+    {
+        "title": "Troops foil cattle rustling by Berom Militia recover 19 cattle in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 9.5268,
+        "lng": 9.4973,
+        "location": "Cattle Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa25XR1p4TVN5NnY5d2hqOUt6OHozQ000OUpKSWZhTlpuTWZFMHpBbzgyQ1d1X3hmUXhVeUZaYWhKNU56ODJOVk94YkdKM2FEU0FSUmVCWVFzSElybGlrS1NXME1RUGxFM3B3Z01KUlA0aGVlUGVidEdDS3hDTWRrVlYzLTd6SUJsaEdlajQza2xHSjl1NllrcFJIeVA5Z2YwLTlFbkppVkcyZjNoMndNbWotd2t2SmUwWHc?oc=5"
+    },
+    {
+        "title": "Gunmen block Bokkos–Barkin Ladi road, abduct two passengers in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 9.5453,
+        "lng": 9.4712,
+        "location": "Passengers Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWNDa0VfYk9vOEF0aGpmLVBFUG9aS2pSQmtwZEFZdC1XZFNjU2paSHR5b1pkampSWjV3YTRJc3h4N3RraHh3WnQyVi00MkJKR21Ubkl1UVAtMndkcGVWcnJmeXEwT3Q2SnRuUng2Q3c2R29PVnBwNzFaLXVjenVaNURVSDlGNlRJR1dHVGhxMFRoa0loSDhaWkNKdkdEVUdvUzZIRlpLSHd1ZW9UQ2YxMVJkNHI?oc=5"
+    },
+    {
+        "title": "Troops arrest Fulani herder over alleged farmland destruction in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 9.474,
+        "lng": 9.4936,
+        "location": "Destruction Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTRrN1NfRDl1OXdhd3g3MmN4b0JyQ2c2NDZUOXZ5SlhscEhObFR1VUc0alZrbEZWMWJmVWVUMHR6d291TTJBUTN4VXJtRHBxRDJzbXdsbmdJWHhxLXJ2cDlIY1c1LUZiOHg3V29zX0hvNDgwZVIzNjB5WnlTMVlDaUljREZ6aWJqUVZsNUpoTEM1dmpuUjEzUHYtbjZXT01YNmlZSjJ2TUZfMXNiUjJmVXFFODFWQk9l?oc=5"
+    },
+    {
+        "title": "Troops recover five cattle rustle by Berom Militia in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 9.5164,
+        "lng": 9.4926,
+        "location": "Militia Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXZzNHltckhGRlN5bW1OTlFBaVdkcldXVXJLcFlmZFhrV0ZYUjJJS3hvQmdTcVVRb2dZRW9KZ2JSV2ZqOEdWcnBWS3UxX1pHTW5udUVFQjhwUDhJOWt2MWFKcWFfNXR0SlhxYmNSaTQtV2FzdFZveWRjWG9xRGpjWjRqRlJfWTJQZHNWd0pfV0V0N2VBUTRhVGFCODlrTVhHY0JPWDdmUTBFQQ?oc=5"
     }
 ]
