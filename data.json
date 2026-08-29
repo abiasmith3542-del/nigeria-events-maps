@@ -3991,5 +3991,82 @@
         "location": "Rifles Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeThIMDZLcmtkbldIaTN5cWJrQ0FWWGhDeXZvUTNSbVAyMjNyQ2oxTnBVYUpHdlVJdndNcE5wc2FZTk9GbXVuUWN2YnBvX1VRMXBxOEtjai1vWXlZUGxpZ183emhkb2dRS2lLMENRZnFrQVA0ZE5URnhyNFhzajU3aHZkX1FMaXhySkpleEgycDBhdjFkc2F5aXU5SGo3aGdYN2xrR1VPUlNQalltVTNBUWd4bFJPaDBrb2c?oc=5"
+    },
+    {
+        "title": "Police recover GPMG, AK-47, other weapons from suspected bandits in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 9.5284,
+        "lng": 9.4941,
+        "location": "Bandits Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-recover-gpmg-ak-47-other-weapons-from-suspected-bandits-in-plateau/"
+    },
+    {
+        "title": "Hot water attack: University student hospitalised with severe burns in Benue",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 7.3869,
+        "lng": 8.7436,
+        "location": "Burns Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/hot-water-attack-university-student-hospitalised-with-severe-burns-in-benue/"
+    },
+    {
+        "title": "Lagos demolishes shanties after four die in community clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 6.5224,
+        "lng": 3.4095,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/lagos-demolishes-shanties-after-four-die-in-community-clash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Soldiers rescue 16 civilians, repel terrorist attacks in Zamfara, Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 13.0155,
+        "lng": 5.2647,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-rescue-16-civilians-repel-terrorist-attacks-in-zamfara-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Benue varsity student arrested for pouring hot water on colleague",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 7.3053,
+        "lng": 8.7472,
+        "location": "Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/benue-varsity-student-arrested-for-pouring-hot-water-on-colleague/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Zamfara Police Disputes SBM Report, Says 45 Anti-Kidnapping Operations Conducted In 1 Year",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-29",
+        "lat": 12.1077,
+        "lng": 6.2475,
+        "location": "Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/zamfara-police-disputes-sbm-report-says-45-anti-kidnapping-operations-conducted-in-1-year/"
+    },
+    {
+        "title": "4 Soldiers Injured As Troops Kill 26 Terrorists In Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-29",
+        "lat": 11.8183,
+        "lng": 13.1778,
+        "location": "Terrorists Area, Borno State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/4-soldiers-injured-as-troops-kill-26-terrorists-in-borno/"
     }
 ]
