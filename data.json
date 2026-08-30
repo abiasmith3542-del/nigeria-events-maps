@@ -3914,5 +3914,71 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlX09tVFcwN1FvaVkxRWJUM0UxTXpqT2NfUmtGd3k1NTlSZXRkdk5tV1VYaWxwRm1OUGhkTl9WRFZJMk9yTHE3TTd1WWhkdkFrTU9iOGJrWUlfNGx6VXROWjVrTHlwazdFMC1UMkhWRUhMQQ?oc=5"
+    },
+    {
+        "title": "Police thwart bandits’ attack, rescue traditional title holder unhurt in Kano",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 11.9859,
+        "lng": 8.6093,
+        "location": "Unhurt Area, Kano State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/police-thwart-bandits-attack-rescue-traditional-title-holder-unhurt-in-kano/"
+    },
+    {
+        "title": "No students killed at Osun convention – NANS",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 7.4408,
+        "lng": 4.481,
+        "location": "Killed Area, Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/no-students-killed-at-osun-convention-nans/"
+    },
+    {
+        "title": "Bandits abandon Sarkin Noman as Police foil kidnap attempt in Kano",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 11.956,
+        "lng": 8.6361,
+        "location": "Attempt Area, Kano State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/bandits-abandon-sarkin-noman-as-police-foil-kidnap-attempt-in-kano/"
+    },
+    {
+        "title": "Police impound 27 vehicles, prosecute drivers in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-30",
+        "lat": 12.0283,
+        "lng": 9.736,
+        "location": "Drivers Area, Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-impound-27-vehicles-prosecute-drivers-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police foil kidnapping attempt in Kano , rescue traditional ruler",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-30",
+        "lat": 11.9934,
+        "lng": 8.577,
+        "location": "Attempt Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-foil-kidnapping-attempt-in-kano-rescue-traditional-ruler/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest four suspected truck hijacking syndicate members in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-30",
+        "lat": 8.0307,
+        "lng": 3.9541,
+        "location": "Members Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-suspected-truck-hijacking-syndicate-members-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
