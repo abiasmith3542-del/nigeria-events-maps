@@ -4002,5 +4002,16 @@
         "location": "Sokoto State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/farmers-killed-in-fresh-attack-on-sokoto-communities/"
+    },
+    {
+        "title": "Troops Kill Terrorist Commander ‘Smally’ Recover Weapons In Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 12.4649,
+        "lng": 7.6071,
+        "location": "Weapons Area, Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-kill-terrorist-commander-smally-recover-weapons-in-katsina/"
     }
 ]
