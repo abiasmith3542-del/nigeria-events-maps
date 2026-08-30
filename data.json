@@ -3980,5 +3980,27 @@
         "location": "Members Area, Oyo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-arrest-four-suspected-truck-hijacking-syndicate-members-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits kill eight farmers, injure five others in Sokoto community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 13.0878,
+        "lng": 5.2064,
+        "location": "Others Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bandits-kill-eight-farmers-injure-five-others-in-sokoto-community/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Farmers Killed in Fresh Attack on Sokoto Communities",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 13.0589,
+        "lng": 5.2432,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/farmers-killed-in-fresh-attack-on-sokoto-communities/"
     }
 ]
