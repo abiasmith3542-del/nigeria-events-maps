@@ -3716,5 +3716,93 @@
         "location": "Jos, Plateau State",
         "source": "Punch Metro",
         "url": "https://punchng.com/joshua-vs-fury-collapse-impossible-hearn/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen abduct two passengers after blocking Plateau highway",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-08-30",
+        "lat": 9.5417,
+        "lng": 9.5048,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/gunmen-abduct-two-passengers-after-blocking-plateau-highway/"
+    },
+    {
+        "title": "Akeem Lawal collapses political structure into Kwara APC",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-08-30",
+        "lat": 8.4747,
+        "lng": 4.4949,
+        "location": "Kwara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/08/akeem-lawal-collapses-political-structure-into-kwara-apc/"
+    },
+    {
+        "title": "Two dead after machete attack at Lagos cinema",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 6.5428,
+        "lng": 3.3708,
+        "location": "Lagos State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/906274-two-dead-after-machete-attack-at-lagos-cinema.html"
+    },
+    {
+        "title": "Four soldiers injured in repelled terror attack on Borno military base",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 11.7735,
+        "lng": 13.1796,
+        "location": "Borno State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/nnorth-east/906267-four-soldiers-injured-in-repelled-terror-attack-on-borno-military-base.html"
+    },
+    {
+        "title": "Bandits Kill 3, Injure 5, Abduct Farmers’ Leader In Kano",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 11.9653,
+        "lng": 8.5543,
+        "location": "Leader Area, Kano State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bandits-kill-3-injure-5-abduct-farmers-leader-in-kano/"
+    },
+    {
+        "title": "Bauchi Police Arrest 70-Year-Old Man Over Alleged Defilement Of 8-Year-Old Girl",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-30",
+        "lat": 10.5459,
+        "lng": 10.0539,
+        "location": "Bauchi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bauchi-police-arrest-70-year-old-man-over-alleged-defilement-of-8-year-old-girl/"
+    },
+    {
+        "title": "Troops Neutralise Terrorist Commander, Recover Machine Guns in Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 12.5717,
+        "lng": 7.6147,
+        "location": "Guns Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sUFo2aTktam82a3RMSVY0VjlsU2dyVExxYW1BSVFDbl84SEQ5SFhoQXRGSF9DRFFuNVJQRDI0LUtWWG5vS1FoVW55Q1RUY0JTMl9kejFHdy12anZsMzNIY2o5S2JVODV4cmFzcnRGNWI?oc=5"
+    },
+    {
+        "title": "Troops Foil Terrorists Incursion, Recover AK-47, Ammunition in Sokoto - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-30",
+        "lat": 9.9503,
+        "lng": 6.0016,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGbEtjNGlFUE9KTWRCOTB5bjdaaEQ5WE1fekNyazlBNWtfNmZ4Vk0tY2tJS1RmRVQ3MG5uLU50M1R3anhJc3lXdUhZbnZaMjFvRFdpRlBFejF5TTJlMW9nS2dQZVA4ZDA?oc=5"
     }
 ]
