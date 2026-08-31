@@ -3309,5 +3309,60 @@
         "location": "Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-recover-gpmg-ak-47-in-plateau/"
+    },
+    {
+        "title": "Tehran says it struck US bases in Jordan, UAE after attack on Larak Island",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-08-31",
+        "lat": 9.0121,
+        "lng": 7.4223,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/906409-tehran-says-it-struck-us-bases-in-jordan-uae-after-attack-on-larak-island.html"
+    },
+    {
+        "title": "Two Nigerians arrested in South Africa for allegedly carrying drugs",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-31",
+        "lat": 10.0142,
+        "lng": 5.988,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/906402-two-nigerians-arrested-in-south-africa-for-allegedly-carrying-drugs.html"
+    },
+    {
+        "title": "Woman Arrested For Allegedly Smuggling ‘Colos’ To Son On Death Row In Ogun Prison",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-31",
+        "lat": 7.0016,
+        "lng": 3.5071,
+        "location": "Ogun State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/woman-arrested-for-allegedly-smuggling-colos-to-son-on-death-row-in-ogun-prison/"
+    },
+    {
+        "title": "Woman Arrested For Smuggling Drugs Into Abeokuta Correctional Centre",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-08-31",
+        "lat": 9.0757,
+        "lng": 7.5562,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/woman-arrested-for-smuggling-drugs-into-abeokuta-correctional-centre/"
+    },
+    {
+        "title": "Bandits Attack 17 Katsina Villages, Kill, Abduct Residents",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-08-31",
+        "lat": 12.5635,
+        "lng": 7.5514,
+        "location": "Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bandits-attack-17-katsina-villages-kill-abduct-residents/"
     }
 ]
