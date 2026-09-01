@@ -2968,5 +2968,71 @@
         "location": "Robbery Area, Katsina State",
         "source": "Punch Metro",
         "url": "https://punchng.com/19-year-old-arrested-for-attempted-robbery-in-katsina/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Xenophobic attack: We’ll no longer tolerate dehumanization of our citizens — Shettima",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-01",
+        "lat": 9.048,
+        "lng": 7.5256,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/xenophobic-attack-well-no-longer-tolerate-dehumanization-of-our-citizens-shettima/"
+    },
+    {
+        "title": "Police arrest 70-year-old man for defiling Bauchi minor",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-01",
+        "lat": 10.4833,
+        "lng": 10.0471,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-70-year-old-man-for-defiling-bauchi-minor/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops kill 2 terrorist commanders in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-01",
+        "lat": 12.4632,
+        "lng": 7.5618,
+        "location": "Commanders Area, Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-kill-2-terrorist-commanders-in-katsina/"
+    },
+    {
+        "title": "How my 3 daughters died in boat accident – Father",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-01",
+        "lat": 8.9693,
+        "lng": 7.3958,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/how-my-3-daughters-died-in-boat-accident-father/"
+    },
+    {
+        "title": "DHQ: Troops Kill 324 Terrorists, Rescues 610 Victims in August - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-01",
+        "lat": 9.9762,
+        "lng": 5.9664,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QR0hHY19la29LODJVTFp0bXEzMTlkTnA4czMtSTRWTFRvM0NpT1dTamh6WUpmV0VtMDFhVjV0OGcwNnJ4cV9tb2VrLXk2aUFfemdfZjZDR08wc2FXUHkxLVNseC1pQ01JZ0FFQVIzYkZuMms?oc=5"
+    },
+    {
+        "title": "Tinubu commends security forces for rescuing 15 abducted NYSC members, six other Nigerians in Kogi - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-01",
+        "lat": 7.7909,
+        "lng": 6.7787,
+        "location": "Nigerians Area, Kogi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdy1ROXdzTl8wLThtcGczSWlQVDlrZTJnb1A4Wl9EeExzdkprOFUzQ0VHMjlpSmxTN0V1V210WUh6WUJkbUE4TTl5dThGNE13ZjVEalhhenNONnV4bTJfbDZvWFEtanVobXdMU2Y5UkhZNEh6QWdscU9hSkMtaXVoaWRXcFN1Vl9qeDV1RzdHTWxFN3FDSUFxVGpTSWJEcjdtRXpqVnBjcnVxTzNhQTY5SDFFamlna21NaDJRbkJKbFlmSi1UTk1WMVNZQkhETDBobEhFMUwtSFMwZw?oc=5"
     }
 ]
