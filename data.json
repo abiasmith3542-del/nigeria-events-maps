@@ -3133,5 +3133,93 @@
         "location": "Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0NkZkx6V3FPVy0zZE14WWtTUTktS2tES0s3WmxRTlVtYl8teW9rNm1HVExDbC1BaTBrem1FNGt0dzZaTjJlTW5SeUg1OHVJdEwyV3Q5ajVzenROb3J3T1czZTZETUlDTDFLV0loVzRvWmJKdTYxenlWM1BsblM3Tm02cldYVVA2?oc=5"
+    },
+    {
+        "title": "Police deploy 250 officers to Kano border LGAs to boost security",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-01",
+        "lat": 11.9543,
+        "lng": 8.6097,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-deploy-250-officers-to-kano-border-lgas-to-boost-security/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Borno commissioner, Fadahunsi under probe over inciting comments — Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-01",
+        "lat": 11.8526,
+        "lng": 13.1173,
+        "location": "Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/borno-commissioner-fadahunsi-under-probe-over-inciting-comments-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Why US is withdrawing 200 troops from Nigeria – DHQ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-01",
+        "lat": 10.0051,
+        "lng": 6.0254,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/906773-why-us-is-withdrawing-200-troops-from-nigeria-dhq.html"
+    },
+    {
+        "title": "Diphtheria outbreak kills 15, infects 117 in Plateau",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-01",
+        "lat": 9.5087,
+        "lng": 9.4777,
+        "location": "Plateau State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/health/health-news/906751-diphtheria-outbreak-kills-15-infects-117-in-plateau.html"
+    },
+    {
+        "title": "Kebbi: Man arrested over plot to kill Okada rider, steal his motorcycle",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-01",
+        "lat": 11.4956,
+        "lng": 4.26,
+        "location": "Kebbi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kebbi-man-arrested-over-plot-to-kill-okada-rider-steal-his-motorcycle/"
+    },
+    {
+        "title": "Gunmen abduct APC LG Chair in Kano",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-01",
+        "lat": 11.9707,
+        "lng": 8.6073,
+        "location": "Chair Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-abduct-apc-lg-chair-in-kano/"
+    },
+    {
+        "title": "Zamfara Won’t Negotiate With Bandits – Commissioner ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-01",
+        "lat": 12.1557,
+        "lng": 6.1981,
+        "location": "Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/zamfara-wont-negotiate-with-bandits-commissioner/"
+    },
+    {
+        "title": "Five arrested with human eyes in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-01",
+        "lat": 10.4463,
+        "lng": 9.9956,
+        "location": "Eyes Area, Bauchi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/five-arrested-with-human-eyes-in-bauchi/"
     }
 ]
