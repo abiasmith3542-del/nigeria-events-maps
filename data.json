@@ -3221,5 +3221,49 @@
         "location": "Eyes Area, Bauchi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/five-arrested-with-human-eyes-in-bauchi/"
+    },
+    {
+        "title": "Police arrest six in Osun for vandalising, stealing power cables",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-01",
+        "lat": 7.5339,
+        "lng": 4.5335,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-six-in-osun-for-vandalising-stealing-power-cables/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police nab four IBEDC staff, others for electricity installations theft in Osun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-01",
+        "lat": 7.5199,
+        "lng": 4.5001,
+        "location": "Theft Area, Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-four-ibedc-staff-others-for-electricity-installations-theft-in-osun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kwara Building Collapse: We Found late Mother With dead Child On Her Chest – Rescuer",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-01",
+        "lat": 8.5082,
+        "lng": 4.556,
+        "location": "Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kwara-building-collapse-we-found-late-mother-with-dead-child-on-her-chest-rescuer/"
+    },
+    {
+        "title": "Police beef up security in Kano, deploy 250 officers to border LGAs",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-01",
+        "lat": 11.9688,
+        "lng": 8.556,
+        "location": "Security Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-beef-up-security-in-kano-deploy-250-officers-to-border-lgas/"
     }
 ]
