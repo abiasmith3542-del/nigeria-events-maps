@@ -2968,5 +2968,49 @@
         "location": "Kwara State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/mother-4-children-die-in-kwara-building-collapse/"
+    },
+    {
+        "title": "Control of roaming cows in Abuja not police responsibility – Spokesperson",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-02",
+        "lat": 9.055,
+        "lng": 7.4986,
+        "location": "Cows Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/control-of-roaming-cows-in-abuja-not-police-responsibility-spokesperson/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bird strike forces United Nigeria to ground aircraft in Lagos",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-02",
+        "lat": 6.5162,
+        "lng": 3.3575,
+        "location": "Aircraft Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bird-strike-forces-united-nigeria-to-ground-aircraft-in-lagos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Lassa fever: Young adults most affected as Nigeria records 1,035 cases, 252 deaths",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-02",
+        "lat": 10.0278,
+        "lng": 6.0154,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/health/health-news/906948-lassa-fever-young-adults-most-affected-as-nigeria-records-1035-cases-252-deaths.html"
+    },
+    {
+        "title": "Terrorist wife, 2 children surrender to troops in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-02",
+        "lat": 11.8678,
+        "lng": 13.2089,
+        "location": "Troops Area, Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/terrorist-wife-2-children-surrender-to-troops-in-borno/"
     }
 ]
