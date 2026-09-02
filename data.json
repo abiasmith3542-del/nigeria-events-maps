@@ -2924,5 +2924,49 @@
         "location": "Delta State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-trace-stolen-jeep-from-aibom-to-delta-arrest-suspect/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Germany accuses Russia of drone attack on Leipzig airport",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-02",
+        "lat": 9.1169,
+        "lng": 7.442,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/906891-germany-accuses-russia-of-drone-attack-on-leipzig-airport.html"
+    },
+    {
+        "title": "Police Arrest 3 Vigilantes, 11 Others For Kidnapping In Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-02",
+        "lat": 10.043,
+        "lng": 5.9847,
+        "location": "Kidnapping Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-3-vigilantes-11-others-for-kidnapping-in-niger/"
+    },
+    {
+        "title": "Task Force Uncovers Fake Agency, Arrests 12 Suspects In Akwa Ibom",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-02",
+        "lat": 5.0279,
+        "lng": 7.8689,
+        "location": "Suspects Area, Akwa Ibom State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/task-force-uncovers-fake-agency-arrests-12-suspects-in-akwa-ibom/"
+    },
+    {
+        "title": "Mother, 4 children die in Kwara building collapse",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-02",
+        "lat": 8.4451,
+        "lng": 4.5764,
+        "location": "Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/mother-4-children-die-in-kwara-building-collapse/"
     }
 ]
