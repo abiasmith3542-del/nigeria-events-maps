@@ -3012,5 +3012,104 @@
         "location": "Troops Area, Borno State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/terrorist-wife-2-children-surrender-to-troops-in-borno/"
+    },
+    {
+        "title": "IBEDC suspends staff over power infrastructure vandalism in Osun",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-02",
+        "lat": 7.5599,
+        "lng": 4.5536,
+        "location": "Vandalism Area, Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ibedc-suspends-staff-over-power-infrastructure-vandalism-in-osun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest five robbers in Cross River, recover stolen vehicles",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-02",
+        "lat": 5.7112,
+        "lng": 8.5281,
+        "location": "Robbers Area, Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-five-robbers-in-cross-river-recover-stolen-vehicles/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest four suspected kidnappers, Islamic teacher in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-02",
+        "lat": 6.4904,
+        "lng": 5.9709,
+        "location": "Teacher Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-suspected-kidnappers-islamic-teacher-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Borno Commissioner withdraws ‘finger-breaking’ threat as police swing into action",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-02",
+        "lat": 11.8297,
+        "lng": 13.1856,
+        "location": "Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/just-in-borno-commissioner-withdraws-finger-breaking-threat-as-police-swing-into-action/"
+    },
+    {
+        "title": "Hadin Kai: Troops Disrupt Boko Haram Movement, Recover Arms in Yobe - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-02",
+        "lat": 9.9921,
+        "lng": 6.0318,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rM2ktZ055VlZsTHJZQkk4OGIwX0VBZmszSWRNUl9ORXdGYU5QSXI1X3JnVW1ka2dZdGtfNGhQZjM0SDI5enVZOUxIUUhpZHlhc3hFUWg3NThENVdiX3YxdW5MTGtJZjB0UFZFcFZFOXk?oc=5"
+    },
+    {
+        "title": "Troops intervene as cattle destroy farmland in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-02",
+        "lat": 9.4539,
+        "lng": 9.4884,
+        "location": "Farmland Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOGNMcXdRd1ViVWhvTkM4RnlJWHozNkpDZVJpdVE3WUVtWmlHSTU4ZUZma2ZQTmpwbDFmVFdaMnZ6MGpPZ01MMHlBNWhrOVdSOXhFeFRxai1QSWtZblM0MkpVcXFSZ04wOEtiTzNVai1QNUdkTWU1RTJIM2p3UURIeEd4QnNsZjVIdmdBYUlaMVgyNUlIRkpIcHphSjFVRjRz?oc=5"
+    },
+    {
+        "title": "Troops foil cattle rustling attempt by Berom Militia in Plateau, launch manhunt for suspects - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-02",
+        "lat": 9.5414,
+        "lng": 9.4813,
+        "location": "Militia Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWVSQjJBQm5qNXZid2hmQXlVVVh4d2k2NGF2Qk5oeTFtZWRoNGVsRVdJOGZmTFZvRTAxa1J2R0dzVjhldDh2VXNYdkR6TFJodWdBVVNONzUwaENadFFvMV9TT3AzYzRCSlVZY19jMHlSajhsTE1QYmpDbkdTSUdYaThTaFBUSGR3bFFMd1VCS25MQTU0TDhBTjhjdXVQMS1BTmFkeklfMHhmLU5qTU13Y2V6UmhNWlF5VEg2WnBtSlJNT21KZnpsVlpFX0xzTWZDMEE?oc=5"
+    },
+    {
+        "title": "Farmers, herders fail to reach settlement over farm destruction in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-02",
+        "lat": 9.5053,
+        "lng": 9.4949,
+        "location": "Destruction Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmJYd1ZSd0phUUs4dFdtXzdyNm9Ta3U1UlpCNVplRkEtQ3dqcHM5NTNiRXYtNWMwUGhzLS0zdnZYYV9VM1R3czFvMExnOGJUWldpVEZ5ZHJ6ZWNMWGlBNUE2dGpRb0tRd1BGUzFoOG5PV3Zsc1pEWUh3MHJWV1VwaExCNnczMDh6UzFSUVd1MUxHdFhKcExCTDkxRFJXNEdicWZJRS0xZUN4SWZXejVsTkw3X0ZaaVFMWXc?oc=5"
+    },
+    {
+        "title": "Berom Militia shoot five cows in Plateau, troops move to prevent reprisal attack - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-02",
+        "lat": 9.5153,
+        "lng": 9.5255,
+        "location": "Cows Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjJGYUllalJ6c0cyX2JpME1Zbk9HZkdyU0lZTzVzU0d3WFlDeW93blowbFdDOXo5UkhBRUFTRUFFMTlpR1ZNeUxISXVBbkFUbFdGbHBWb2ZVWk05UEVvZjFRZm41ckFxTTJxT2lwaUhPLU1OMGFVQWhWTzdTSEFLRjFUREpZbHRhYkpHd1hiQTBTLXk2eWVjc2Q5dXFINmYxUmI0bkZWMGtlRDBCdTZLczJCR3FoWnlrZWhsSGVQVlRfdw?oc=5"
     }
 ]
