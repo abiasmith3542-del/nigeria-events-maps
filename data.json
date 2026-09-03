@@ -3012,5 +3012,82 @@
         "location": "Benue State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lOVVTZk9WVENlYUJwUXVUM1ZvZzAyVmtpdkVIWHF0N0YxN2Q3RTdfU3VNdFZISHFxYVdNS1p0N3RDTktGSUxGSTBQbG8tdk1zbW9pcVpmQzlfMURCaVExOEZEMWVNMzl2Znoyc0h3?oc=5"
+    },
+    {
+        "title": "Rivers Police dismiss three officers over Uniport graduate’s death",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 4.7408,
+        "lng": 6.8738,
+        "location": "Rivers State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/rivers-police-dismiss-three-officers-over-uniport-graduates-death/"
+    },
+    {
+        "title": "43 feared dead, others missing in Rivers oil incident",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 4.7839,
+        "lng": 6.7807,
+        "location": "Missing Area, Rivers State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/43-feared-dead-others-missing-in-rivers-oil-incident/"
+    },
+    {
+        "title": "Troops raid terrorist hideout, arrest five suspects in Taraba",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 8.0451,
+        "lng": 10.5449,
+        "location": "Suspects Area, Taraba State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-raid-terrorist-hideout-arrest-five-suspects-in-taraba/"
+    },
+    {
+        "title": "NDLEA arrests 68 suspects, seizes 7,500kg of drugs in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 6.4875,
+        "lng": 6.0564,
+        "location": "Drugs Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ndlea-arrests-68-suspects-seizes-7500kg-of-drugs-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest one in Ogun over rape of 19-year-old",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 6.9437,
+        "lng": 3.4755,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-one-in-ogun-over-rape-of-19-year-old/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "‎Ondo Varsity Students Protest Prolonged Strike, Block Major Roads  ‎",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-03",
+        "lat": 7.2173,
+        "lng": 5.1719,
+        "location": "Ondo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/ondo-varsity-students-protest-prolonged-strike-block-major-roads/"
+    },
+    {
+        "title": "Troops kill suspected bandit, recover arms in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 7.3203,
+        "lng": 8.8015,
+        "location": "Arms Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-kill-suspected-bandit-recover-arms-in-benue/"
     }
 ]
