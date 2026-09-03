@@ -3166,5 +3166,104 @@
         "location": "Five Area, Taraba State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0lobkpCNTB3ZldxRDJkYmxaT3c3Y1BxY2QyN2xyUDRLZXBSZzFOVzRRRDZCZlhEYjdmUURYXy14d3BGQkhmWFB0Nm1QQlk4Q3RTbi1MSVRVc2VRV2w0NERQRWtMTXg4QmsyczYyWWE5ZHgwWUl1Ml9fcVZ4eE1RV0Y5NGpNOExpb1k5VGk0Yk5RamllMXlNdU8tekI5RkRJQ2I2dE5YTHR6UDQ3bjFNOFlfVDg2OGEyY3NxRHlTYmsxem5uelJYQg?oc=5"
+    },
+    {
+        "title": "5 killed in multiple crashes on Enugu-Onitsha Expressway",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 6.5307,
+        "lng": 7.4717,
+        "location": "Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/5-killed-in-multiple-crash-on-enugu-onitsha-expressway/"
+    },
+    {
+        "title": "Navy destroys illegal refineries, recovers stolen crude in Niger Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 5.5285,
+        "lng": 5.9859,
+        "location": "Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/navy-destroys-illegal-refineries-recovers-stolen-crude-in-niger-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NSCDC arrests nine over vandalism of power, railway infrastructure in Gombe",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-03",
+        "lat": 10.2435,
+        "lng": 11.1781,
+        "location": "Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nscdc-arrests-nine-over-vandalism-of-power-railway-infrastructure-in-gombe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Shettima took over Borno as governor at height of Boko Haram — Ex-Minister",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 11.818,
+        "lng": 13.095,
+        "location": "Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/shettima-took-over-borno-as-governor-at-height-of-boko-haram-ex-minister/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Banditry: Sokoto urges politicians to stop politicising insecurity",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 13.0695,
+        "lng": 5.27,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/banditry-sokoto-urges-politicians-to-stop-politicising-insecurity/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police intercept $33,200 fake notes, arms, stolen vehicles in Kaduna",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 10.521,
+        "lng": 7.4787,
+        "location": "Vehicles Area, Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-intercept-33200-fake-notes-arms-stolen-vehicles-in-kaduna/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Rescue 6 Abducted Victims After Gun Battle In Kebbi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 11.4473,
+        "lng": 4.1687,
+        "location": "Battle Area, Kebbi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-rescue-6-abducted-victims-after-gun-battle-in-kebbi/"
+    },
+    {
+        "title": "2027: Police identify flashpoints in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 8.998,
+        "lng": 7.5194,
+        "location": "Flashpoints Area, Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/2027-police-identify-flashpoints-in-abuja/"
+    },
+    {
+        "title": "Nigeria has no nuclear weapons programme, committed to nuclear-free world — Envoy - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 9.9446,
+        "lng": 6.0122,
+        "location": "Niger State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2V6Y1NKSE96cmVCaDBSYktoTF8zYmtlUzJSd3JwLXhRaEpwMXBud21XX2FlLWFVODBLYTBZNS1oQlNMRklraWVBd3RtbjdTbm9pNWRIX0RxS0ZwdlE3Q25WdWRNT0o0QVVpSi1VQVo1WjZ1aDZSQXhkZEJLVW9CbGJGeThYRkg2d014dkR4c3ZxQWV0VUZSUEUySXBOV05SNWYxOFctSHBYY1c3R1BWaXA2TnV0U2dkLUpyaEQ4U2g?oc=5"
     }
 ]
