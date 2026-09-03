@@ -3089,5 +3089,82 @@
         "location": "Arms Area, Benue State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/troops-kill-suspected-bandit-recover-arms-in-benue/"
+    },
+    {
+        "title": "Inspector dies after weekly police walkathon in Sokoto",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 13.1026,
+        "lng": 5.1969,
+        "location": "Walkathon Area, Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/inspector-dies-after-weekly-police-walkathon-in-sokoto/"
+    },
+    {
+        "title": "‘Nigerians can insult, attack me and still sleep well,’ says Tinubu",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 10.0501,
+        "lng": 5.9629,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/you-can-insult-attack-me-and-still-sleep-well-says-tinubu/"
+    },
+    {
+        "title": "Police inspector dies after weekly fitness exercise in Sokoto",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 13.0502,
+        "lng": 5.2345,
+        "location": "Exercise Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-inspector-dies-after-weekly-fitness-exercise-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police recover pistol, ammunition from fleeing robbers in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 6.2555,
+        "lng": 6.9625,
+        "location": "Robbers Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-pistol-ammunition-from-fleeing-robbers-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "JUST-IN: Katsina Labour Unions Begin Talks With Health Workers Over Impending Strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-03",
+        "lat": 12.5552,
+        "lng": 7.6458,
+        "location": "Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/just-in-katsina-labour-unions-begin-talks-with-health-workers-over-impending-strike/"
+    },
+    {
+        "title": "Sokoto: Police inspector slumps, dies after fitness exercise",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 13.0755,
+        "lng": 5.235,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/sokoto-police-inspector-slumps-dies-after-fitness-exercise/"
+    },
+    {
+        "title": "Operation Whirl Stroke troops raid suspected terrorist hideout, arrest five in Taraba - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 7.9571,
+        "lng": 10.4917,
+        "location": "Five Area, Taraba State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOM0lobkpCNTB3ZldxRDJkYmxaT3c3Y1BxY2QyN2xyUDRLZXBSZzFOVzRRRDZCZlhEYjdmUURYXy14d3BGQkhmWFB0Nm1QQlk4Q3RTbi1MSVRVc2VRV2w0NERQRWtMTXg4QmsyczYyWWE5ZHgwWUl1Ml9fcVZ4eE1RV0Y5NGpNOExpb1k5VGk0Yk5RamllMXlNdU8tekI5RkRJQ2I2dE5YTHR6UDQ3bjFNOFlfVDg2OGEyY3NxRHlTYmsxem5uelJYQg?oc=5"
     }
 ]
