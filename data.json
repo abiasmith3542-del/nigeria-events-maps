@@ -2902,5 +2902,115 @@
         "location": "Kidnappers Area, Abuja (FCT)",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaFBpdm9hNlN4bURUNHp4S0phTjdhbnFGcHVPZVJkUDRaY2g0UVNYMVl4eTUwV0o4SmZYcXQ4OUVnLUQ3MVBjSDQ2MTE0VzEyX1dfZGl3YUt4V0VOdE4tbjNzU3V4R1k3VE9pSzdsSFJ3QU1DZmtkSGN5ZzM0ajJXLTNlMmpNenU0c0dHZFI3X25vR3hsY2lqTkU0Z0Y4ZWNHVHROYlVFRXBzb1laZFBEZGJ5OXhhLVE?oc=5"
+    },
+    {
+        "title": "Troops rescue six kidnapped victims in Kebbi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 11.4519,
+        "lng": 4.2488,
+        "location": "Victims Area, Kebbi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-rescue-six-kidnapped-victims-in-kebbi/"
+    },
+    {
+        "title": "Troops thwart bandits’ operation, recover weapons in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 7.3695,
+        "lng": 8.7944,
+        "location": "Weapons Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-thwart-bandits-operation-recover-weapons-in-benue-state/"
+    },
+    {
+        "title": "Police arrest three suspected Lagos carjackers, recover pistols",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 6.5118,
+        "lng": 3.4143,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-suspected-lagos-carjackers-recover-pistols/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NSCDC arrests two armed suspects at Cross River mining site",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 5.7716,
+        "lng": 8.5272,
+        "location": "Suspects Area, Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nscdc-arrests-two-armed-suspects-at-cross-river-mining-site/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Jigawa varsity ASUU issues two-week strike ultimatum",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-03",
+        "lat": 12.0303,
+        "lng": 9.7393,
+        "location": "Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/jigawa-varsity-asuu-issues-two-week-strike-ultimatum/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ogun pastor, wife found dead after alleged domestic fight",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 7.0283,
+        "lng": 3.454,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ogun-pastor-wife-found-dead-after-alleged-domestic-fight/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Governo Mutfwang summons security meeting over Plateau attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 9.4543,
+        "lng": 9.4648,
+        "location": "Plateau State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/907186-governo-mutfwang-summons-security-meeting-over-plateau-attacks.html"
+    },
+    {
+        "title": "Four Chinese nationals arrested over illegal mining in Niger",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-03",
+        "lat": 10.0391,
+        "lng": 6.0412,
+        "location": "Mining Area, Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/907171-four-chinese-nationals-arrested-over-illegal-mining-in-niger.html"
+    },
+    {
+        "title": "Mutfwang summons security meeting over attacks, killings in Plateau",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 9.5345,
+        "lng": 9.5302,
+        "location": "Killings Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/mutfwang-summons-security-meeting-over-attacks-killings-in-plateau/"
+    },
+    {
+        "title": "Troops Ambush Bandits Along Benue Road, Kill One, Recover Weapons - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-03",
+        "lat": 7.3262,
+        "lng": 8.7383,
+        "location": "Benue State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lOVVTZk9WVENlYUJwUXVUM1ZvZzAyVmtpdkVIWHF0N0YxN2Q3RTdfU3VNdFZISHFxYVdNS1p0N3RDTktGSUxGSTBQbG8tdk1zbW9pcVpmQzlfMURCaVExOEZEMWVNMzl2Znoyc0h3?oc=5"
     }
 ]
