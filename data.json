@@ -3298,5 +3298,38 @@
         "location": "Ammunition Area, Plateau State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ObzdwSnNjWnRUQ1FIOXFzVXg4SmFOUXBaYWdIUHRDQXgwbC1EOWZDMTl3NWtpM3VfTHdEcGVfNzJOYW95TkMzZFcybUNYTFVsTGRCT1dlMHJjd1BpSDk4NlFIUVNHYkQ2Vkw3OHk3SzE?oc=5"
+    },
+    {
+        "title": "Police arrest 11 suspected robbers, rescue kidnap victim in Nasarawa",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-04",
+        "lat": 8.5205,
+        "lng": 8.1835,
+        "location": "Victim Area, Nasarawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/police-arrest-11-suspected-robbers-rescue-kidnap-victim-in-nasarawa/"
+    },
+    {
+        "title": "Troops rescue 25 kidnap victims in Katsina, Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-04",
+        "lat": 12.5495,
+        "lng": 7.5806,
+        "location": "Victims Area, Katsina State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-rescue-25-kidnap-victims-in-katsina-zamfara/"
+    },
+    {
+        "title": "Katsina police command nabs 247 suspects, rescues 17 kidnap victims in August",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-04",
+        "lat": 12.4748,
+        "lng": 7.6632,
+        "location": "Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/katsina-police-command-nabs-247-suspects-rescues-17-kidnap-victims-in-august/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
