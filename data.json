@@ -3067,5 +3067,71 @@
         "location": "Attempt Area, Zamfara State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUNOSjZfb1R4Q0xYT1V4ZTFnalRySUM0WV9UaVJoUzNLQ2ozbWtZSGdfeEptOVg0dXVsRlRJQ2R5TU9zR2Rvd2tuUUt6ZVZib2M5VVh1VUNFckdkRm83RWg5OVduaVgtUmFYaUpMTF9SemYzLW5UWjV0bDFEbUlNbXpGQ1phNjhpQXZTNEdLc2Q1bmdqdTJkamZLclJKREN6bW9NU1N2NU1UNGxncS12TmtXb2Rfdw?oc=5"
+    },
+    {
+        "title": "Boko Haram terrorists attack APC gov candidate’s convoy in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-04",
+        "lat": 11.7962,
+        "lng": 13.115,
+        "location": "Convoy Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/boko-haram-terrorists-attack-apc-gov-candidates-convoy-in-borno/"
+    },
+    {
+        "title": "Police rescue two abandoned babies in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-04",
+        "lat": 9.11,
+        "lng": 7.4653,
+        "location": "Babies Area, Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/police-rescue-two-abandoned-babies-in-abuja/"
+    },
+    {
+        "title": "Five killed, three injured in Sokoto bandit attack — Police",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-04",
+        "lat": 13.0365,
+        "lng": 5.2907,
+        "location": "Injured Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/five-killed-three-injured-in-sokoto-bandit-attack-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Five killed, 18 injured in fatal Enugu crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-04",
+        "lat": 6.5045,
+        "lng": 7.4839,
+        "location": "Enugu State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/907427-five-killed-18-injured-in-fatal-enugu-crash.html"
+    },
+    {
+        "title": "Explosion as Boko Haram targets Convoy of APC Gov’ship Candidate in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-04",
+        "lat": 11.8597,
+        "lng": 13.1329,
+        "location": "Candidate Area, Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/breaking-explosion-as-boko-haram-targets-convoy-of-apc-govship-candidate-in-borno/"
+    },
+    {
+        "title": "PDP Slams Gombe Gov’t Over Strike in Tertiary Institutions",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-04",
+        "lat": 10.2907,
+        "lng": 11.1495,
+        "location": "Gombe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/pdp-slams-gombe-govt-over-strike-in-tertiary-institutions/"
     }
 ]
