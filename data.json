@@ -3331,5 +3331,93 @@
         "location": "Katsina State",
         "source": "Punch Metro",
         "url": "https://punchng.com/katsina-police-command-nabs-247-suspects-rescues-17-kidnap-victims-in-august/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Three killed, 10 injured in multiple crash on Lagos-Ibadan Expressway",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-04",
+        "lat": 6.5046,
+        "lng": 3.3573,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/three-killed-10-injured-in-multiple-crash-on-lagos-ibadan-expressway/"
+    },
+    {
+        "title": "Court strikes out suit filed against APC candidate for Imo federal constituency",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-04",
+        "lat": 5.5336,
+        "lng": 6.9811,
+        "location": "Imo State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/907536-court-strikes-out-suit-filed-against-apc-candidate-for-imo-federal-constituency.html"
+    },
+    {
+        "title": "Troops arrest three suspected phone snatchers in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-04",
+        "lat": 9.4911,
+        "lng": 9.5348,
+        "location": "Snatchers Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbjJFREdfYW9fRnU4S1BVY0dxVmFLQkdrT3l4ZjE2M09XNG02cDNPY05HdjVjYXFiZkJ3ZXJ4OFJxQkVDeDNoTHFfT1VZam9fQi1RamwyS3B2cFdSOHVHeWxsUTZLcklGNWpDYTl5cWM0RmdIdWlYVVRKTXBfN1V1bnNfRWRjWjNKUnhvZGI2NDhRS2tLY01vLVFMeGE3aVZEcU1J?oc=5"
+    },
+    {
+        "title": "Troops mediate settlement over cattle attack in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-04",
+        "lat": 9.4499,
+        "lng": 9.5251,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQVdKQWJKR05uSktGb2FRcW1lRFBkU0tJZlFPcEkyR2ZDcGdQM2FNYzNWeTh1ZkxEdXN0MzhQRW52LWZyamFWZ2lpeTIyOC1MMVZvZG9KUW11WUk5SnBxVHlJZ1p4eFFqZ195S3dBNTFDdFZmRjI1Zm9RbGVNd1h4YjUzcUxWQ3JyWWk3S2RSY0duWXo3TmJuOFVPbXM5SVVabXc?oc=5"
+    },
+    {
+        "title": "Troops respond as youths assault herder in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-04",
+        "lat": 9.5553,
+        "lng": 9.526,
+        "location": "Herder Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEJiVUg2M0N4NFNhNnk1MzVKRk14TEFLTERmaFVHVFIzbTBFM3RRZlVic29qaUFDeHdHQUR2SHhrNHhWZ3ZYbDdkVGVHR1JtOW1ERzhrZUxWX1JUalFpYVZYeXREeUgxbEp2RFhqWmROVW01TXJ1bVl4NVoyeFUyRFh2MjZTVzJBUnJSYmRNZFAxcV8zYnVVUmU0dw?oc=5"
+    },
+    {
+        "title": "Troops arrest herder over alleged farm destruction, assault in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-04",
+        "lat": 9.5385,
+        "lng": 9.4469,
+        "location": "Assault Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFYtZDhzRGlVUUt3RVNCWTZlbDJaR01oVzU3bzZQcFBmSHpxMWNseEZNbmNaTV9aNVRSS1ZoamVOWU10d3ZTbDdtUjNYMElYdkVjNnlSSzdlT0Rkdm5KMmFacnNHVEk4UVlQQU5SRzFUa2NHTktjQ000QlFyclFUVG16M1RVRGYweC1pMjRORFhXU1lNNzJDZkFJbkxuV082bWNfeFljTlEtWnlFNW1zcDNSdEk?oc=5"
+    },
+    {
+        "title": "Troops rescue two kidnapped victims, neutralise suspect in Lagos - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-04",
+        "lat": 6.5015,
+        "lng": 3.354,
+        "location": "Suspect Area, Lagos State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1pfWHJKOER6SHBESFdkdWpMLXFVVmRlVExJRU54aktJVXFtM0ZwdElTd2JzZ0NXVGVOMkxDSWd1QXFIUmttekhFZUc3czZadHFROTFaMzlRM09iVHo1Ui04ZnFJWmFnZkFjejUtejIzRDBnS0NjdEl2eVpfWmREUzhKU2p5Y3ZfZ19VVkN0YzQwSU8zN0NFYWhPMnIzVTVHaHVIdEd6SmlPYzh1?oc=5"
+    },
+    {
+        "title": "Armed militia attack leaves one injured, another dead in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-04",
+        "lat": 9.5438,
+        "lng": 9.5392,
+        "location": "Dead Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV0NfeUJPdndtV1hzLVQ4U0RXVzRxNFN2RnJwa0FMT2VQU1BGRnNPUG96TDZzZVh6dEplXzdaQnplOTdXNW9RaV9TMXpWbFB0aWhIV1ptMkQ5Ni12d3dZSmhjc3ZFZXJNdG80VDhSZU9JWGFQQk05OUlUdW9Uc05kNVhDbUNWQnQ2bS12RnF6bzNMNUxYZkZxNHRxeEFCNm9mb2JlLVlzRUN0RHF4?oc=5"
     }
 ]
