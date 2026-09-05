@@ -3078,5 +3078,49 @@
         "location": "Niger State",
         "source": "Punch Metro",
         "url": "https://punchng.com/nigerian-man-arraigned-over-bank-robbery/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Russian strike kills four in Ukraine — Military",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-05",
+        "lat": 9.062,
+        "lng": 7.4785,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/russian-strike-kills-four-in-ukraine-military/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Borno APC gov candidate escapes death as terrorists ambush convoy",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-05",
+        "lat": 11.8721,
+        "lng": 13.1089,
+        "location": "Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/borno-apc-gov-candidate-escapes-death-as-terrorists-ambush-convoy/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Family Wealth: Davido’s Attack On Erigga Sparks Conversations",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-05",
+        "lat": 9.0768,
+        "lng": 7.5303,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/family-wealth-davidos-attack-on-erigga-sparks-conversations/"
+    },
+    {
+        "title": "Air Force Personnel, Students Killed In Adamawa Autocrash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-05",
+        "lat": 9.2747,
+        "lng": 12.4757,
+        "location": "Killed Area, Adamawa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/air-force-personnel-students-killed-in-adamawa-autocrash/"
     }
 ]
