@@ -3122,5 +3122,60 @@
         "location": "Killed Area, Adamawa State",
         "source": "Leadership News",
         "url": "https://leadership.ng/air-force-personnel-students-killed-in-adamawa-autocrash/"
+    },
+    {
+        "title": "Kano sets up committee to tackle diphtheria outbreak",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-05",
+        "lat": 11.9684,
+        "lng": 8.6252,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kano-sets-up-committee-to-tackle-diphtheria-outbreak/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Lagos Police Arrest 3 Suspected Kidnappers, Recover N21m Ransom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-05",
+        "lat": 6.4688,
+        "lng": 3.3663,
+        "location": "Lagos State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/lagos-police-arrest-3-suspected-kidnappers-recover-n21m-ransom/"
+    },
+    {
+        "title": "Troops Kill Terrorist, Recover 4 Motorcycles In Katsina Forest",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-05",
+        "lat": 12.5447,
+        "lng": 7.6191,
+        "location": "Motorcycles Area, Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-kill-terrorist-recover-4-motorcycles-in-katsina-forest/"
+    },
+    {
+        "title": "Troops Kill Terrorist, Recover Four Motorcycles, Other Logistics in Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-05",
+        "lat": 12.5555,
+        "lng": 7.6486,
+        "location": "Logistics Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtYlpRalo0TjROalJfX0lKTFZueGhvUW5sZjdkSXZVNmVEQW44V0N0d1k1bHVWVkRSOXc3ZGlobElaN2x1SUM5bFlaYTU2Wm5wUUdaMXJFNkduTmpZY2ZpWXE0WmMtdlRaYkN5OEJUM2g?oc=5"
+    },
+    {
+        "title": "Troops launch rescue operation after hospital matron kidnapped in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-05",
+        "lat": 9.5039,
+        "lng": 9.4687,
+        "location": "Kidnapped Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzd1V2NYeXA3VHJQeHhUQW1uZmtHNWdCdDhnUWhXUFJVNWtkMUFueEJMY2tZcWIxQ2gtXzJBWk1pdEhZNmlQWjYzSHNkVEZFaHFjbEpaVE5oZE1hNm5VY21Ncld1dGgxTzFLakxWTmhhYUtRb3VRWGJuUXNsR3dFX3ZuRWNJNWJCQnRIYkdlRURkOWg0cE9nTXhvZFR0b1NtWE84d01YTjczaTZ6enVsRWd5b0cxdXpIdGc?oc=5"
     }
 ]
