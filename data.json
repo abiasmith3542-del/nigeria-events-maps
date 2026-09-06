@@ -3177,5 +3177,60 @@
         "location": "Ondo State",
         "source": "Leadership News",
         "url": "https://leadership.ng/3-siblings-including-11-year-old-twins-found-dead-on-ondo-farm/"
+    },
+    {
+        "title": "Political thugs attack NDC office in Rivers, destroy billboards",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-06",
+        "lat": 4.7342,
+        "lng": 6.8483,
+        "location": "Office Area, Rivers State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/political-thugs-attack-ndc-office-in-rivers-destroy-billboards/"
+    },
+    {
+        "title": "Controversial Nnewi Catholic knight, ‘Akachaam’ arrested over alleged public nuisance",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-06",
+        "lat": 9.1228,
+        "lng": 7.5877,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/controversial-nnewi-catholic-knight-akachaam-arrested-over-alleged-public-nuisance/"
+    },
+    {
+        "title": "Top police officer in Zamfara dies",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-06",
+        "lat": 12.1775,
+        "lng": 6.1888,
+        "location": "Officer Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/top-police-officer-in-zamfara-dies/"
+    },
+    {
+        "title": "3 siblings found dead in Ondo",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-06",
+        "lat": 7.2619,
+        "lng": 5.2307,
+        "location": "Dead Area, Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-siblings-found-dead-in-ondo/"
+    },
+    {
+        "title": "Troops arrest nine suspected drug peddlers in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-06",
+        "lat": 9.505,
+        "lng": 9.4683,
+        "location": "Peddlers Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUWhtcUVETlBkRHc5Q1JydG12OXplR090YjZFOVE5N3NzdzhBV0xaWmVJTU82ZzdjdDRiWWVOTHdOclNEdVJBODFOai1SdUxqUU1lVWtZTExVMGhnd1hZdDItaWxDUDVDa0ZHQkg4VXBBX25KVGdtZEJKWVJTWXpVTmdvNjVrVmQzMUhwVEFRMWFTVDd3V2lBZHM4V3p0Qm8?oc=5"
     }
 ]
