@@ -3034,5 +3034,104 @@
         "location": "Plateau State",
         "source": "Punch Metro",
         "url": "https://punchng.com/plateau-shuts-schools-over-diphtheria-outbreak/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Anambra Police detain new suspect over nursing student’s murder",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-06",
+        "lat": 6.1429,
+        "lng": 7.0428,
+        "location": "Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/anambra-police-detain-new-suspect-over-nursing-students-murder/"
+    },
+    {
+        "title": "Owena Farm Horror: 3 siblings found dead near riverbank",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-06",
+        "lat": 9.0384,
+        "lng": 7.5231,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/owena-farm-horror-3-siblings-found-dead-near-riverbank/"
+    },
+    {
+        "title": "Enugu Police arrest 6,240 suspects, rescue 211 kidnapped victims in 17 months",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-06",
+        "lat": 6.4767,
+        "lng": 7.4598,
+        "location": "Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/enugu-police-arrest-6240-suspects-rescue-211-kidnapped-victims-in-17-months/"
+    },
+    {
+        "title": "Police detain new suspect in Anambra over nursing student’s murder",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-06",
+        "lat": 6.2462,
+        "lng": 6.9588,
+        "location": "Suspect Area, Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/police-detain-new-suspect-in-anambra-over-nursing-students-murder/"
+    },
+    {
+        "title": "Three siblings found dead on father’s farm in Ondo",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-06",
+        "lat": 7.2036,
+        "lng": 5.2367,
+        "location": "Farm Area, Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/three-siblings-found-dead-on-fathers-farm-in-ondo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Anambra sets December 31 deadline for C of O recertification",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-06",
+        "lat": 6.1797,
+        "lng": 6.9762,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/anambra-sets-december-31-deadline-for-c-of-o-recertification/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "211 Enugu kidnap victims rescued in 17 months – Police",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-06",
+        "lat": 6.5159,
+        "lng": 7.5311,
+        "location": "Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/211-enugu-kidnap-victims-rescued-in-17-months-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops dislodge terrorists, recover PKT machine gun, rifles, motorcycles in Sokoto - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-06",
+        "lat": 13.0829,
+        "lng": 5.286,
+        "location": "Motorcycles Area, Sokoto State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnBPZjJrZnNvdVNXekdxOEJyVW9iVmtrbXhCQXZ2MV9kQUo3RHVHQ25sTjY1X1NuVTZ5elRUanJla1lRajlkOXhnbVBlMWNlM3hTMUhzU09hamFIaXluZTIzUy1aeUE0YmR0VGtURnRnMnJtemlXcjU1NE1hUzFSa1Y3eW9YV3RqTFBMZzItckVXOEZ2eGxiMms4N2NTUEltWVEtSFJOUzlObC1FZXRhUFRYelZZd09pWlBSdnVqUEpUQQ?oc=5"
+    },
+    {
+        "title": "Niger: Fresh attacks in Tillabéri follow mutiny in Niamey - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-06",
+        "lat": 10.0291,
+        "lng": 5.9428,
+        "location": "Niger State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTRrcUdTREhXa1ZiQ3ZpaGRWTzVPQjQxakFlUzhHS2tUc0dMdXlxWGZhWlBBaGVCR3I5S2gybHZWLW10bVc4M1RmRGF1TzVIcmFFMTFDcTN2SmJRYnhiNzFSUmdWbElNM1VKWmVMV28xcGIzcFJ3WXRFWUJ6c2E5QW9BS19VZngyNThOakg5UWJGNzExTk5rREtxMlB3UjQwLXZr?oc=5"
     }
 ]
