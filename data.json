@@ -3133,5 +3133,49 @@
         "location": "Niger State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTRrcUdTREhXa1ZiQ3ZpaGRWTzVPQjQxakFlUzhHS2tUc0dMdXlxWGZhWlBBaGVCR3I5S2gybHZWLW10bVc4M1RmRGF1TzVIcmFFMTFDcTN2SmJRYnhiNzFSUmdWbElNM1VKWmVMV28xcGIzcFJ3WXRFWUJ6c2E5QW9BS19VZngyNThOakg5UWJGNzExTk5rREtxMlB3UjQwLXZr?oc=5"
+    },
+    {
+        "title": "Plateau Police warn against illegal drone operations",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-06",
+        "lat": 9.4579,
+        "lng": 9.508,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/plateau-police-warn-against-illegal-drone-operations/"
+    },
+    {
+        "title": "Troops dislodge terrorists’ enclave, recover weapons in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-06",
+        "lat": 13.0823,
+        "lng": 5.212,
+        "location": "Weapons Area, Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-dislodge-terrorists-enclave-recover-weapons-in-sokoto/"
+    },
+    {
+        "title": "Iran retaliates after US strikes oil tankers",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-06",
+        "lat": 9.0471,
+        "lng": 7.4101,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/iran-retaliates-after-us-strikes-oil-tankers/"
+    },
+    {
+        "title": "‎3 Siblings Including 11-Year-Old Twins Found Dead On Ondo Farm",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-06",
+        "lat": 7.235,
+        "lng": 5.2061,
+        "location": "Ondo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/3-siblings-including-11-year-old-twins-found-dead-on-ondo-farm/"
     }
 ]
