@@ -3034,5 +3034,93 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/igp-targets-mortgage-funds-to-bridge-police-housing-gap/"
+    },
+    {
+        "title": "Iran threatens greater force if US launches more attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-07",
+        "lat": 9.0001,
+        "lng": 7.4372,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/iran-threatens-greater-force-if-us-launches-more-attacks/"
+    },
+    {
+        "title": "Bauchi senator denies bandit link, insists viral videos fake",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-07",
+        "lat": 10.4537,
+        "lng": 10.0184,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bauchi-senator-denies-bandit-link-insists-viral-videos-fake/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen shoot NOUN bursar dead in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-07",
+        "lat": 12.1802,
+        "lng": 6.2604,
+        "location": "Dead Area, Zamfara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-shoot-noun-bursar-dead-in-zamfara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "How NOUN Bursar Was Killed In Zamfara  — Police",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-07",
+        "lat": 12.0854,
+        "lng": 6.1958,
+        "location": "Killed Area, Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/how-noun-bursar-was-killed-in-zamfara-police/"
+    },
+    {
+        "title": "Bauchi Boy Dies In Accidental Dane Gun Discharge, Police Arrest Hunter",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-07",
+        "lat": 10.4758,
+        "lng": 10.006,
+        "location": "Bauchi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bauchi-boy-dies-in-accidental-dane-gun-discharge-police-arrest-hunter/"
+    },
+    {
+        "title": "Clashes claim 2 lives in Bauchi",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-07",
+        "lat": 10.4499,
+        "lng": 10.001,
+        "location": "Lives Area, Bauchi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/clashes-claim-2-lives-in-bauchi/"
+    },
+    {
+        "title": "Gov Sule’s ‘no bandit’ remark sparks reactions in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-07",
+        "lat": 13.1123,
+        "lng": 5.2007,
+        "location": "Reactions Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gov-sules-no-bandit-remark-sparks-reactions-in-sokoto/"
+    },
+    {
+        "title": "Police rescue 2 abandoned babies in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-07",
+        "lat": 9.0582,
+        "lng": 7.546,
+        "location": "Babies Area, Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-rescue-2-abandoned-babies-in-abuja/"
     }
 ]
