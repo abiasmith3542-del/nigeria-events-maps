@@ -3342,5 +3342,82 @@
         "location": "Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52VExybXlOVXpSXzhmYmhWVlVWSFl1ZEpzN1V1blFMSzQxVHhTSk9qTWVWZnB1TTZFTmxha0x5d1pvcXQ5YWVSNGhyT2JHN2N5TlVVVWJpb252d1hzckpKbURJT3o1MkxO?oc=5"
+    },
+    {
+        "title": "11 feared killed as Boko Haram attacks Adamawa community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-07",
+        "lat": 9.393,
+        "lng": 12.4575,
+        "location": "Adamawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/11-feared-killed-as-boko-haram-attacks-adamawa-community/"
+    },
+    {
+        "title": "UPDATED: LG chair says 12 killed by terrorists in Adamawa",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-07",
+        "lat": 9.313,
+        "lng": 12.4964,
+        "location": "Terrorists Area, Adamawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/updated-lg-chair-says-12-killed-by-terrorists-in-adamawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police deploy school protection squad in Ogun, urge vigilance",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-07",
+        "lat": 6.9771,
+        "lng": 3.5548,
+        "location": "Squad Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-deploy-school-protection-squad-in-ogun-urge-vigilance/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Four Arrested Over Mob Killing of Driver in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-07",
+        "lat": 6.5723,
+        "lng": 3.3689,
+        "location": "Driver Area, Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/four-arrested-over-mob-killing-of-driver-in-lagos/"
+    },
+    {
+        "title": "Robbers raid Edo ADC chair’s residence, cart away cash, vehicles",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-07",
+        "lat": 6.5045,
+        "lng": 5.9544,
+        "location": "Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/robbers-raid-edo-adc-chairs-residence-cart-away-cash-vehicles/"
+    },
+    {
+        "title": "Troops foil Boko Haram ambush, dismantle makeshift camps in Borno - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-07",
+        "lat": 11.8575,
+        "lng": 13.202,
+        "location": "Camps Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWVJ5aHZiY0oxcHZLOUg4eXRLcHo5Rl9KcjNnTlVjVkk0UDR6Q2ZlM25fTzZna01KTkdPd0dmLWtVLUwwZWdtM0lnTmpwbEVSMWRIdTBuakFIazJtLWVRUmJGMUtUQTFmR01sb3Y5NEZpUmt5NHg2UkQ4dmVSZXJZZ1c3cFp3U0NKQUtVdFFKMmY4VndPbW9mT3RRMkZwYzN6TEdBbzdXdHhKVk5nZWc?oc=5"
+    },
+    {
+        "title": "Soldier injured in road accident during patrol in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-07",
+        "lat": 9.4603,
+        "lng": 9.5026,
+        "location": "Patrol Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdF9Yd3Z3V1FrRFdHV09pRGxGOXd4MnBYLV9tcTJjbjRHemtfRGs4ZU94cUREWGdvTkJSN01JVXU4amU0RHFPWlUzb2tIR1l1VExldHgzWU4xZkpJenVJQ2ZnQnJSd3ZrbUdDVWNfR2JQQjFrcUppTVM5Z2QtS2dnWVlMVjVvWndGeFdETlBWMTAzN1BUZlNDdWN4OFozbXlHLUxZTg?oc=5"
     }
 ]
