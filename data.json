@@ -3353,5 +3353,137 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/security-agencies-killed-1487-terrorists-in-2-months-onsa/"
+    },
+    {
+        "title": "Building collapses in Abuja hours after FCTA sealing",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-08",
+        "lat": 9.0727,
+        "lng": 7.4574,
+        "location": "Collapses Area, Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/building-collapses-in-abuja-hours-after-fcta-sealing/"
+    },
+    {
+        "title": "Niger police arrest 21 for thuggery, robbery",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-08",
+        "lat": 10.0502,
+        "lng": 5.9479,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/niger-police-arrest-21-for-thuggery-robbery/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "20-year-old nabbed for alleged defilement, robbery of Bauchi girl",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-08",
+        "lat": 10.5142,
+        "lng": 10.0424,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/20-year-old-nabbed-for-alleged-defilement-robbery-of-bauchi-girl/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "10 arrested for allegedly vandalising Abuja street lights, cables ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-08",
+        "lat": 9.0249,
+        "lng": 7.5406,
+        "location": "Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/10-arrested-for-allegedly-vandalising-abuja-street-lights-cables/"
+    },
+    {
+        "title": "Troops arrest suspected foreign national along Azir–Damboa road in Borno - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-08",
+        "lat": 11.8498,
+        "lng": 13.1136,
+        "location": "Road Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVc3NXVfTENOY0M1cWxhWVNEUmk5WmdlRkdkVmRjNm5rSmM2ZEliYmtDT0RZemNhSnE1bDdZdllabFpSRGltWHMwWFBqeVlNVnZjQTZVYkhVWUV3VGd5T0NJNjNWV3czT2pnbjUyTlBhYWhUUkZlU0VKaGZScXJtOEpIM1NfbGVjUTlxQ25kVUdaU0lCRy1xVHRJdGhEVUtfQnlDNDNfZkg4eVhMNHY5dVFIMm5JRHd1?oc=5"
+    },
+    {
+        "title": "Four terrorist family members surrender to troops in Borno - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 11.8777,
+        "lng": 13.1187,
+        "location": "Troops Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUHNIazVlQmRHejMycEhlT0hRQXMta3drWDhpUk1tTC1qTlFnN0w0ZFlOLUxxMnFuY2NNQkp2YlA3WXQ2TGx4RHRsOUNWUHVUSDVTbjBxQ2dyYVJSWHhqXzdHRTJqTXZndHc4UHJxeEZ0dzJsLUlxZmhiZFp4TG95X0tfYUctNUNlbENWb09WY0FIOFpFMm5iZVJYcHF5OGxjenl2NmRn?oc=5"
+    },
+    {
+        "title": "Troops intercept 11 empty CNG cylinders, open-loop kit in Borno - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-08",
+        "lat": 11.7978,
+        "lng": 13.1333,
+        "location": "Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekhYMXRYVDVoNHNUQmNBLWhkdmwtbDNaZGJqTG9WUUljc0hRM0JYTjEwODhfN3N4MDAtc2xsb0dQaVN6dXpKMGplanRLVmRTblZFRFI0dldqYlItQThFbXk2U1hKMFlPN1FBNkIyalZMaW9iWVc0aUFlV1hnWTNmN2F3UzU1M1pKeC1fZ2tQQW4yMW0teXMzY0JIdk43UTlsRHNBcWRjWXZoVWs?oc=5"
+    },
+    {
+        "title": "Troops foil terrorist IED attack along Mairari–Gajiram road in Borno - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 11.8269,
+        "lng": 13.1924,
+        "location": "Road Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUFTTUY4blBQeW1xbl85bW1MalBEd1Rzb29MTFlsa1ZVZ3lxbmJlaDl5VzBETG15b0ZoRjRlR3hSZkhRMVE1YVNPV0RhS3JZMUx5WTd3Szc5NjJhY3FVeGhIQzV1eWNOZWIxY0hOcnpkVkdZUHNVOVBScURfNGY0aVFhT3dpMWZCcWQ5dUd1eDRta2gweHJMUGtsa0d5SXNrNGREZ05yRHVHRHlKZU90TzhVMA?oc=5"
+    },
+    {
+        "title": "Troops arrest suspected terrorist logistics supplier with 64 rolls of clothing material in Adamawa - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 9.337,
+        "lng": 12.4457,
+        "location": "Material Area, Adamawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeVlTWWZJTDI4YWVnMXVRRXkzTk1sTU8tNlA3Y3pyM2VJN3lmM2NOR0poeVZrRWtOdlZpRG52bTlEYTBMWlJmSmVLRUtiVXR6ZUpGUTk5WXBzVnMtSnVMYURidWQzN0hyWFpmbkVZb2xReU1IZTNtdnZIMXBlRXhEdXRSdVY1azdEWllQTHlsS2R0SzZ3aVdQVk1YQThKU0FJd0w5LW1DdWdCWnN1MzNxOGpHSUVoTDU4WGFfRjhmS3BHbFB1SVBZbFoxWTlhb0ZIZGNxcFRiWE9WVFE?oc=5"
+    },
+    {
+        "title": "Troops arrest 14 suspected criminals, recover equipment in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-08",
+        "lat": 9.4791,
+        "lng": 9.4456,
+        "location": "Equipment Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVlQYUdCYUN2bVdiNVQ1S2kxSzhlbkEzNjlnM091WXZzM1hNY3hCcHZoNERGNjY2Mm4wb1M2R29ycWxvOW1KUFpaX3FTUGp3d29IM3hqdnhVTmlCbDhwTERhS1cwQ1ZlbzVGNmMtR3Z4S19lSnRfYXpiRGxsNjVVY1VzdXhJVnR0T0lwbkJTOWtKYnBkWVJkaHNFZWpKRTVOVGRnc2lPYUhpMTcteE1F?oc=5"
+    },
+    {
+        "title": "Military Airstrikes hit suspected terrorist hideout in Zamfara, several fighters killed - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 12.1172,
+        "lng": 6.1835,
+        "location": "Hideout Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXp3X0s1Ym81MC10NVZhWDlBdVZsblJfeWxObFg4YTFYeWl6NXNWMzR0Ylc5YXk0czUzOGtveW5pSWZiOWhueEgzb2pOR2dTUUpaajNQOW1xME9MVzdFNmo2bjZQbHVTUzJZaGFJcHlzNGl1eGw2cXRlc2ZHLTFqZnNXNm8ybXVadHRlMXBHSDEtRVJJMjlsV2thdDRwZjlWRUhEYWFHOUJ6M0N4YV9ySDU1MnJBbmh6cjlZLUZFYWpJTENYbVJCNkNOYw?oc=5"
+    },
+    {
+        "title": "Troops rescue four kidnapped victims in Benue - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 7.294,
+        "lng": 8.7291,
+        "location": "Victims Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDM1aEdpMTJ1c2hNc0VZM3Nld2lmYkYtVFZCNEtUelotdDV2Rk1TM2VwMHVFc3BYN3hZNjZ6Y2puUnhFYW1Eai1hXzMtc2NQakhIR3dVSmNVUG94eWhpT1pHTHZ6VlRfckN1WkFobkxva01Xang3Rnc1ZlV5am9OazQwUmY0OExnNk1lSkRGUnJPT3Bt?oc=5"
     }
 ]
