@@ -3584,5 +3584,115 @@
         "location": "Pulka Area, Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmtITkpkZnNTaFBkR2tVV2gxRUMySmlzU2ZPTFNhODNwWWVUUEhMZFFOWGpmM1BoZFQ0LXI3NXBIeTVhNnJMYlVLZmFKWUM0TWVFVTRXWDFqSk1rd3lYdkxPWW1wZ3lna2NUaVRYMFI4eFlmMEJPSVphemtCcURZc3ltN3Zvd082MnJmWkZwLXZmNFhEMXNsWVp4djZrUFpm?oc=5"
+    },
+    {
+        "title": "Bandits kill two, abduct 26 in Kaduna communities",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 10.5489,
+        "lng": 7.4472,
+        "location": "Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/bandits-kill-two-abduct-26-in-kaduna-communities/"
+    },
+    {
+        "title": "Peter Obi arrives Jos, set to visit Mangu attack victims",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 9.8597,
+        "lng": 8.9179,
+        "location": "Jos, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/peter-obi-arrives-jos-set-to-visit-mangu-attack-victims/"
+    },
+    {
+        "title": "Police recover gun, hunt armed robbers in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-08",
+        "lat": 5.4791,
+        "lng": 5.9981,
+        "location": "Robbers Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-gun-hunt-armed-robbers-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arraign 87-year-old man over attempted murder of Adamawa judge",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-08",
+        "lat": 9.3565,
+        "lng": 12.5173,
+        "location": "Adamawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arraign-87-year-old-man-over-attempted-murder-of-adamawa-judge/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NANS seeks end to ASUU strike at Nasarawa varsity",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-08",
+        "lat": 8.557,
+        "lng": 8.2012,
+        "location": "Strike Area, Nasarawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nans-seeks-end-to-asuu-strike-at-nasarawa-varsity/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "VIDEO: Protesters block Peter Obi’s convoy on Benue road",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-08",
+        "lat": 7.3854,
+        "lng": 8.8091,
+        "location": "Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-protesters-block-peter-obis-convoy-on-benue-road/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bauchi senator rejects banditry allegations, pledges support in tackling insecurity",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 10.497,
+        "lng": 9.9436,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bauchi-senator-rejects-banditry-allegations-pledges-support-in-tackling-insecurity/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Sowore slams blockade of Peter Obi’s convoy in Benue",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-08",
+        "lat": 7.3604,
+        "lng": 8.7284,
+        "location": "Convoy Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/sowore-slams-blockade-of-peter-obis-convoy-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian government reportedly enters secret ceasefire agreement with Boko Haram",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 10.0166,
+        "lng": 6.0221,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/908140-nigerian-government-reportedly-enters-secret-ceasefire-agreement-with-boko-haram.html"
+    },
+    {
+        "title": "PDP Guber Candidate Condemns Attack On Peter Obi In Benue",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 7.3886,
+        "lng": 8.7745,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/pdp-guber-candidate-condemns-attack-on-peter-obi-in-benue/"
     }
 ]
