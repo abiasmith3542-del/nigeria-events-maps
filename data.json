@@ -3727,5 +3727,71 @@
         "location": "Lagos State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/gridlock-on-lagos-ibadan-expressway-over-bridge-repair/"
+    },
+    {
+        "title": "Attack on Obi disgraceful assault on democracy —  Aondoakaa",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 7.2491,
+        "lng": 5.2445,
+        "location": "Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/attack-on-obi-disgraceful-assault-on-democracy-aondoakaa/"
+    },
+    {
+        "title": "Police arrest fake officer for impersonation, recruitment scam in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-08",
+        "lat": 11.9821,
+        "lng": 8.534,
+        "location": "Scam Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-fake-officer-for-impersonation-recruitment-scam-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Vigilante killed as bandits attack Kano village",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 11.99,
+        "lng": 8.6461,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/vigilante-killed-as-bandits-attack-kano-village/"
+    },
+    {
+        "title": "Kaduna: Stolen newborn found, suspect arrested",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-08",
+        "lat": 10.5331,
+        "lng": 7.5039,
+        "location": "Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kaduna-stolen-newborn-found-suspect-arrested/"
+    },
+    {
+        "title": "Troops arrest two suspected Boko Haram, ISWAP logistics suppliers, recover motorcycle parts in Borno - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 11.8091,
+        "lng": 13.1634,
+        "location": "Parts Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWS1yS3ViUXdLWDZrWXNKczRFaVVKd0VYY1Bob2lObTVEODFESGVCY0Jpb2Z0ODc2Rmd4X3MzUG9zNUtMTFltMUZzV0tOUnZFY2dzSWRWTEZpX2VCRExJSmVkb19jUEl3alFOYk9rLUxOVm53RW4zeVZNS0p6aEhFdXd2VUU3TS1zUzFYZUNOaVVycHdhR01pZDVnZ1dVQ0c4bjFIOFVXTXpmaFpQM2FWdFdobngzTDRUaFlqc2JhMnBqUlZtdzNXTlNyVGZGaUZHWFhyMjMtTE5PTHM?oc=5"
+    },
+    {
+        "title": "Troops rescue 12 kidnapped victims, foil abduction attempts in Zamfara - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-08",
+        "lat": 12.139,
+        "lng": 6.2733,
+        "location": "Attempts Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbHZyMHl1Qi1FMjlmOHNSRTFmQkNtdHl5M3VGQVo3dnlNNEJyZ05PQU5LbnZ2M3V4clFNLXJKS24zUno3V29FNWw4SXNmNUFMVklMLXNCbnFWeUs4Q0FTbE94VEc2YWdkYTZwdUN5TmNkaW9Nc1JsTU1DM2Myc3l0T2VhUlRGakxSa3p1MmQ1TkwtcE5UQ2ViT0RfVDVSUmlncEotQ3hUX2IzZHJrS1dLeVVONng?oc=5"
     }
 ]
