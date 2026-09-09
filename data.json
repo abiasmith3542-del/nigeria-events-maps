@@ -3694,5 +3694,82 @@
         "location": "Lagos State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IQkFkMjNVZzdkZ3NKV2VTNFhRZ1Z0cDVtcjZQdFNnYTZyU2Q1dEdJTnBRbFJtVl9qdW5MaVRjTTdwOTFPZ2Jxb0VrZ1A0N1I2V3Nia0E4YXY2SUVscnJ3d0cyUGdRX05qN3c?oc=5"
+    },
+    {
+        "title": "Lassa fever: NCDC urges Nigerians to step up prevention",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-09",
+        "lat": 10.0485,
+        "lng": 6.0515,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/lassa-fever-ncdc-urges-nigerians-to-step-up-prevention/"
+    },
+    {
+        "title": "FCT Police arrest woman over alleged boiling water attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-09",
+        "lat": 9.0954,
+        "lng": 7.5112,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/fct-police-arrest-woman-over-alleged-boiling-water-attack/"
+    },
+    {
+        "title": "VIDEO: Stop recording police officers for skits, it’s demoralising, IG tells Nigerians",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-09",
+        "lat": 9.9554,
+        "lng": 5.9469,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-stop-recording-police-officers-for-skits-its-demoralising-ig-tells-nigerians/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest suspects over Obi’s convoy blockade in Benue",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-09",
+        "lat": 7.3608,
+        "lng": 8.7145,
+        "location": "Blockade Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspects-over-obis-convoy-blockade-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "VIDEO: Woman stops police from taking boys away after phone search in Lagos ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-09",
+        "lat": 6.5339,
+        "lng": 3.3611,
+        "location": "Search Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-woman-stops-police-from-taking-boys-away-after-phone-search-in-lagos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NDC, Sowore fault ‘attack, disruption’ of Peter Obi’s visit in Benue",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-09",
+        "lat": 7.333,
+        "lng": 8.7841,
+        "location": "Visit Area, Benue State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/ssouth-east/908453-ndc-sowore-fault-attack-disruption-of-peter-obis-visit-in-benue.html"
+    },
+    {
+        "title": "Berom Militia attack herders in Plateau, kill fulani herders, shot seven livestock and rustle dozens in unprovoked assault - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-09",
+        "lat": 9.5116,
+        "lng": 9.5332,
+        "location": "Herders Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNYTJXSUtPTXRLa0dDV1lMQUdFUC1oZWVZM0ZlWVN1R0o0aUZySTNXQjBGVElUaXlKdDNZbVU0cHd5VlcxVEJ1R0E0a1UtdFNVZmphX2JUa2FKcm80N3hTSm5lY1duV1dMVDhUUjNuTFFtWmFTaEIxY1lzV09FWkY1TTViay1rdVp3NVhuT0JvTmdxcHJsOXowdWJOdmp0eVdYdjMySDg2OEI2QUM1bkU5NXVtMHNXZjgxT2JSbmo5aGdtNHpZVDV2Y0VoTXhyU0dyQl80cWY3SWtfREtwQzYwdEttNHpsNDN4R2M4enpjc0loZThSR3BnWA?oc=5"
     }
 ]
