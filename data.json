@@ -3463,5 +3463,126 @@
         "location": "Jigawa State",
         "source": "Leadership News",
         "url": "https://leadership.ng/jigawa-begins-soil-health-scheme-demonstration-for-sustainable-agriculture/"
+    },
+    {
+        "title": "One dead, two rescued in Lagos building collapse",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-10",
+        "lat": 6.5041,
+        "lng": 3.3966,
+        "location": "Rescued Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/one-dead-two-rescued-in-lagos-building-collapse/"
+    },
+    {
+        "title": "ASUU gives Sokoto govt ultimatum over unfulfilled agreement, threatens strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-10",
+        "lat": 13.1205,
+        "lng": 5.2416,
+        "location": "Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/asuu-gives-sokoto-govt-ultimatum-over-unfulfilled-agreement-threatens-strike/"
+    },
+    {
+        "title": "Atomic bomb survivor Isao Harimoto dies at 86",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-10",
+        "lat": 5.4356,
+        "lng": 6.9816,
+        "location": "Imo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/atomic-bomb-survivor-isao-harimoto-dies-at-86/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Step up operations against bandits in Kebbi, army commander urges soldiers",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-10",
+        "lat": 11.4707,
+        "lng": 4.2251,
+        "location": "Bandits Area, Kebbi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/step-up-operations-against-bandits-in-kebbi-army-commander-urges-soldiers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest two over killing of Kano political commentator",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-10",
+        "lat": 12.0515,
+        "lng": 8.6037,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-over-killing-of-kano-political-commentator/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "One dead, two rescued as Lagos building collapses during demolition",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-10",
+        "lat": 6.5636,
+        "lng": 3.3443,
+        "location": "Lagos State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/908586-one-dead-two-rescued-as-lagos-building-collapses-during-demolition.html"
+    },
+    {
+        "title": "Catholic Church Bombing: Appeal court grants Kabiru Sokoto more time to challenge 2013 conviction",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-10",
+        "lat": 13.0066,
+        "lng": 5.1919,
+        "location": "Sokoto State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/908579-catholic-church-bombing-appeal-court-grants-kabiru-sokoto-more-time-to-challenge-2013-conviction.html"
+    },
+    {
+        "title": "Police meet with political parties in Sokoto over campaigns",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-10",
+        "lat": 13.0069,
+        "lng": 5.2653,
+        "location": "Parties Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-meet-with-political-parties-in-sokoto-over-campaigns/"
+    },
+    {
+        "title": "Social media commentator killed in Kano",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-10",
+        "lat": 12.0489,
+        "lng": 8.5786,
+        "location": "Killed Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/social-media-commentator-killed-in-kano/"
+    },
+    {
+        "title": "Troops rescue three injured victims, launch operation to free two kidnapped passengers in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-10",
+        "lat": 9.473,
+        "lng": 9.4706,
+        "location": "Passengers Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTGpWd0FwVGZNTExJY1FLdWI5bGlXeHVMVEZMbHd2d0wwQ3NwZldUeWNrWlJVSDFnT1hQZjE0elNCLTh1YVA1VS1Ja0l3QUhCMXE5NTNfX2U5b0ZmMS14TV8xek1DRVJQY05fWWlJdjY5V1BRVmZkUTJfeG5LX1ZuZDFkNkY0aVJvZUcwbXU0LXgzMDIzd2pFNmE1WVVRcjdPQXpwZ0Y0c3dsVTJDOWh4U0xfNGw1MWF4RTlNQ3ktRVo3bEN4bDhUbFZBVGN6ektfbnZmWUZaV0I?oc=5"
+    },
+    {
+        "title": "Troops gun down kidnapper, recover locally fabricated rifle made in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-10",
+        "lat": 9.5251,
+        "lng": 9.5589,
+        "location": "Made Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSml4bjJhQlBwQ1hXT1pXN3huSWE4R2EyMUpDcTQ5ZERHXzRqZkM1STZ6aktELTFVU2lqVm1BdklwMXUwYlNBVFkydFgzSkFKa1BWaEpPRXlFMDJnY0xlUjVUc2V5Z00xLTgzSzFmNkhuRm9XSHhiLVBnVV9ac1BlSGhGSGN1am83ay1LV2NJbDV4VGdYYnZIX2ZQM3VPUjJrdXFWRlVWTGtKY0ExMENYWjFuUDN0ZEFOT3Aw?oc=5"
     }
 ]
