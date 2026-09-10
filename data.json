@@ -3408,5 +3408,60 @@
         "location": "Cattle Area, Kaduna State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fa2xRYjNnNHQ5NmJHQk52UnByYl9pd0gwMXZ2U2N3N2tmUGJURldxMXY3V0U2SDcwYTZKRU4xSzRLT1YzSU5lMzg4RXV0aDZxUWlVTTFYSUJZOFBzUWg3TGJPNlBMbl95cW0wag?oc=5"
+    },
+    {
+        "title": "Journalist petitions police over N570,000 Lagos tenancy dispute",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-10",
+        "lat": 6.518,
+        "lng": 3.3605,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/journalist-petitions-police-over-n570000-lagos-tenancy-dispute/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest woman over fake OPay shutdown notice",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-10",
+        "lat": 9.1497,
+        "lng": 7.4687,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-woman-over-fake-opay-shutdown-notice/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Obi Benue blockade: Police arrest 46 as condemnation mounts",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-10",
+        "lat": 7.3286,
+        "lng": 8.6959,
+        "location": "Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/obi-benue-blockade-police-arrest-46-as-condemnation-mounts/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police hunt suspect accused of sodomising Ogun teenager",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-10",
+        "lat": 6.9585,
+        "lng": 3.4881,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-hunt-suspect-accused-of-sodomising-ogun-teenager/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Jigawa Begins Soil Health Scheme Demonstration For Sustainable Agriculture",
+        "type": "族群冲突/武装对抗",
+        "level": "low",
+        "date": "2026-09-10",
+        "lat": 11.9882,
+        "lng": 9.8067,
+        "location": "Jigawa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/jigawa-begins-soil-health-scheme-demonstration-for-sustainable-agriculture/"
     }
 ]
