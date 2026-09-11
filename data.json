@@ -3848,5 +3848,115 @@
         "location": "Daughter Area, Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CT000M2NyZUd4WWVVcFZxRHRweXJNdmJ4eG9faFM0Z3ZhR0hOOVRSWFZqN0VLaEoybExfdWtDckc3ODVaZ21KZEhUTWttVVNXakM3SHFMcDhCTGRpNmZRSGxLUXFKRFdQQkMzU1g1UnFob28?oc=5"
+    },
+    {
+        "title": "Troops kill 18 terrorists, destroy logistics hubs in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 11.8481,
+        "lng": 13.2045,
+        "location": "Hubs Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-kill-18-terrorists-destroy-logistics-hubs-in-borno/"
+    },
+    {
+        "title": "Abia police arrest four over alleged baby sale",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 5.4059,
+        "lng": 7.5342,
+        "location": "Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/abia-police-arrest-four-over-alleged-baby-sale/"
+    },
+    {
+        "title": "Armed herdsmen kill four policemen, seven others in Benue community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 7.3603,
+        "lng": 8.804,
+        "location": "Others Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/armed-herdsmen-kill-four-policemen-seven-others-in-benue-community/"
+    },
+    {
+        "title": "Knife attack: ‘I’m well, in good health,’ says Sokoto cleric",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 13.0206,
+        "lng": 5.2609,
+        "location": "Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/knife-attack-im-well-in-good-health-says-sokoto-cleric/"
+    },
+    {
+        "title": "PRP defends Bauchi senator, dismisses banditry allegations",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 10.5555,
+        "lng": 10.0134,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/prp-defends-bauchi-senator-dismisses-banditry-allegations/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Soldiers foil terrorist attack in Kaduna, rescue three victims in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 10.4446,
+        "lng": 7.4548,
+        "location": "Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-foil-terrorist-attack-in-kaduna-rescue-three-victims-in-zamfara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops launch pursuit after cattle rustling by suspected Berom Militia in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 9.4659,
+        "lng": 9.4508,
+        "location": "Militia Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVy14RkoyQ1pBdWxvbFBpdGN1SUJSSE5qLWlUSEwtWGFiY3hFSnFwMU1ZT0RubjR2MlIxMGstSUVLMzNuZTFvbTUwZWc1V2VCTm1yV3pNTTlkNjY2Qjd4MEZnRjkySjZJREltQi1kM09xZ0x3SXk1UGZOS0FqNWVlbDViNmQzQjA1UDcwX05vVUViN1ZHc2FFa0NKSUwwaFNLU0UwM0h0Wk1YbGZmdmc2QlBPc2lZZDVXX21EU295b0Z6Y2xU?oc=5"
+    },
+    {
+        "title": "Fulani bandits kill local vigilante on sentry duty in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 9.511,
+        "lng": 9.4935,
+        "location": "Duty Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0pwbEs2MTl5QkVvbEVwUzAxVHRydW41akM1a2R5bzhSWHl4XzBxV09XQ1FpZGxVbzVhblZEdDcwaHVIU3N4UC1CYm9jcl92b0tfMS1vOTMwX1M3WW80YXdkX0h0eVc3ZnJoQm9nSUw4RW1oUWVyaTFRd0hwVENUUk9qeHFQMk5Eb2lDQ1NoZXFJSVc5TGhmdWJ4VHpwNzhwMFR5YjQ0bHlNUQ?oc=5"
+    },
+    {
+        "title": "Troops recover cattle after suspected crop destruction in Jos East - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 9.9423,
+        "lng": 8.8815,
+        "location": "Destruction Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1o5bDBJWWJtVDYzSjMwMjVhdVJRWFFpMmE3M1FCY0l1T21Cc1BtWmZ2Q1kzQmpFTW11WFhWaHBraTRJSUIzVlRZWmhnNHM5cVZhdGtYU1VTUlJld0VJcVZUb2xORDFmOUlxdjA0WXhiVTZFbVBDN010UjFUWXVnTkF5VjEzMWFtaWo4S0duQTIyZG56OUk5ZkNPT1lDWWdXSkhJLWhRa1J3X01hdTV5bA?oc=5"
+    },
+    {
+        "title": "Troops foil kidnap attempt at late Gen Bagudos’ residence in Plateau, arrest suspect - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 9.5406,
+        "lng": 9.5223,
+        "location": "Residence Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbDJSU3pZaTZQNjQ0LUNlUnNWZE9tMHRuUjdDbmpITm5ZYVY5NWxfUEVpNG5rUFFLQ3VMZG9zaDNRaGlxWmlXUHVDYmRlR01ZNGhTYTZjZ1Mybm1rQnZsMjNQSUF0ZnFNZ0VUU2dWZkNDWlNwSVJvQm9rUFlSQTJxWU9XSUk2cUNkTVdOVmh4WHlpRWpTLXhzUDl0WU5oRE5yLVFlQTJPNkNfQ2FJY0ZqaEdtem1KZUpyTlpQcXdFVWN2TTZ4dmc?oc=5"
     }
 ]
