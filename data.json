@@ -3540,5 +3540,49 @@
         "location": "Sokoto State",
         "source": "Punch Metro",
         "url": "https://punchng.com/gunmen-kill-sokoto-resident-abduct-inec-worker/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "One dies as two-storey building collapses in Lagos",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-11",
+        "lat": 6.5628,
+        "lng": 3.4323,
+        "location": "Collapses Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/one-dies-as-two-storey-building-collapses-in-lagos/"
+    },
+    {
+        "title": "Obi’s Benue blockade: NDC never told me to transmit letter to go, I only provided security – CP",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-11",
+        "lat": 7.3508,
+        "lng": 8.7539,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/obis-benue-blockade-ndc-never-told-me-to-transmit-letter-to-go-i-only-provided-security-cp/"
+    },
+    {
+        "title": "ASUU threatens nationwide strike over unpaid salaries, agreement",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-11",
+        "lat": 9.1473,
+        "lng": 7.4936,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/asuu-threatens-nationwide-strike-over-unpaid-salaries-agreement/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police personnel to get 3-month free transport in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 6.5113,
+        "lng": 3.3455,
+        "location": "Transport Area, Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-personnel-to-get-3-month-free-transport-in-lagos/"
     }
 ]
