@@ -3584,5 +3584,60 @@
         "location": "Transport Area, Lagos State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-personnel-to-get-3-month-free-transport-in-lagos/"
+    },
+    {
+        "title": "Police bust alleged child-stealing gang, rescue three children in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 6.9557,
+        "lng": 3.5384,
+        "location": "Children Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/police-bust-alleged-child-stealing-gang-rescue-three-children-in-ogun/"
+    },
+    {
+        "title": "New York marks 25th anniversary of 9/11 attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 9.0631,
+        "lng": 7.5199,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/new-york-marks-25th-anniversary-of-9-11-attacks/"
+    },
+    {
+        "title": "Police arrest six over suspected armed robbery, kidnapping in Akwa Ibom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 4.9414,
+        "lng": 7.8043,
+        "location": "Kidnapping Area, Akwa Ibom State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-six-over-suspected-armed-robbery-kidnapping-in-akwa-ibom/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerians have right to film police on duty, lawyer counters IG warning",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 9.9734,
+        "lng": 6.0,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nigerians-have-right-to-film-police-on-duty-lawyer-counters-ig-warning/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian Bishop Shot Dead In South Africa, NICASA Demands Investigation",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 9.969,
+        "lng": 5.954,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/nigerian-bishop-shot-dead-in-south-africa-nicasa-demands-investigation/"
     }
 ]
