@@ -3749,5 +3749,104 @@
         "location": "Motorcycles Area, Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FYUEwZWxqWGNlVGNVWm9nQzE1ODk3RGdiRTA1UTRPX09EMm02SUk5aktlNkQ1ZllwNWJZcmpyWm9fbnlCNVp5WVR4N05xVU01bzBZNmd0T183RUwzblROZUtIaTNBeDZkUEhVcA?oc=5"
+    },
+    {
+        "title": "Kogi youth protests at INEC over ward creation exclusion, as Ajaka denies involvement",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-11",
+        "lat": 7.7849,
+        "lng": 6.7369,
+        "location": "Kogi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/kogi-youth-protests-at-inec-over-ward-creation-exclusion-as-ajaka-denies-involvement/"
+    },
+    {
+        "title": "Kaduna gov approves ASUU request, urges KASU lecturers to end strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-11",
+        "lat": 10.4656,
+        "lng": 7.4866,
+        "location": "Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kaduna-gov-approves-asuu-request-urges-kasu-lecturers-to-end-strike/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Four police officers, seven civilians killed in Benue community attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 7.3822,
+        "lng": 8.7999,
+        "location": "Killed Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/four-police-officers-seven-civilians-killed-in-benue-community-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest 14 suspects, recover motorcycles, others in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 11.968,
+        "lng": 9.6916,
+        "location": "Others Area, Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-14-suspects-recover-motorcycles-others-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Lecturers suspend indefinite strike in Nigerian university, give reason",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-11",
+        "lat": 10.0442,
+        "lng": 5.9825,
+        "location": "Strike Area, Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/908843-lecturers-suspend-indefinite-strike-in-nigerian-university-give-reason.html"
+    },
+    {
+        "title": "Kaduna Police Arrest Man Over Alleged Killing Of Girlfriend",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 10.4834,
+        "lng": 7.5387,
+        "location": "Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/kaduna-police-arrest-man-over-alleged-killing-of-girlfriend/"
+    },
+    {
+        "title": "Protest in Sokoto over renewed bandits’ attacks",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 13.1048,
+        "lng": 5.2207,
+        "location": "Protest Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/protest-in-sokoto-over-renewed-bandits-attacks/"
+    },
+    {
+        "title": "4 policemen, 8 villagers shot dead in fresh Benue attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 7.2945,
+        "lng": 8.6949,
+        "location": "Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/4-policemen-8-villagers-shot-dead-in-fresh-benue-attack/"
+    },
+    {
+        "title": "Troops Repel Terrorist Attack on Pulka Base, Eliminate One, Rescue Mother, Daughter in Borno - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 11.8714,
+        "lng": 13.1682,
+        "location": "Daughter Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CT000M2NyZUd4WWVVcFZxRHRweXJNdmJ4eG9faFM0Z3ZhR0hOOVRSWFZqN0VLaEoybExfdWtDckc3ODVaZ21KZEhUTWttVVNXakM3SHFMcDhCTGRpNmZRSGxLUXFKRFdQQkMzU1g1UnFob28?oc=5"
     }
 ]
