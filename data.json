@@ -3639,5 +3639,115 @@
         "location": "Niger State",
         "source": "Leadership News",
         "url": "https://leadership.ng/nigerian-bishop-shot-dead-in-south-africa-nicasa-demands-investigation/"
+    },
+    {
+        "title": "Tension in Sokoto as cleric stabbed after Jumu’at prayer, alleged attacker killed",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 13.1075,
+        "lng": 5.1778,
+        "location": "Tension Area, Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/tension-in-sokoto-as-cleric-stabbed-after-jumuat-prayer-alleged-attacker-killed/"
+    },
+    {
+        "title": "Family, Ogun govt clash over alleged reallocation of 11-acre poultry farm to Chinese firm",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 6.9701,
+        "lng": 3.5384,
+        "location": "Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/family-ogun-govt-clash-over-alleged-reallocation-of-11-acre-poultry-farm-to-chinese-firm/"
+    },
+    {
+        "title": "Diphtheria Outbreak: ActionAid expresses concern over death of 2 children in FCT",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-11",
+        "lat": 9.0263,
+        "lng": 7.4932,
+        "location": "Children Area, Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/diphtheria-outbreak-actionaid-expresses-concern-over-death-of-2-children-in-fct/"
+    },
+    {
+        "title": "Suspect arrested as death toll rises in Ondo herbal drink tragedy ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 7.2557,
+        "lng": 5.2112,
+        "location": "Rises Area, Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/suspect-arrested-as-death-toll-rises-in-ondo-herbal-drink-tragedy/"
+    },
+    {
+        "title": "Breaking: Abducted FUTO students regain freedom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 6.5544,
+        "lng": 5.9583,
+        "location": "Edo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/breaking-abducted-futo-students-regain-freedom/"
+    },
+    {
+        "title": "Police present N26.4m insurance payout to families of 52 fallen officers in Imo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 5.5432,
+        "lng": 6.9859,
+        "location": "Officers Area, Imo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-present-n26-4m-insurance-payout-to-families-of-52-fallen-officers-in-imo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man over girlfriend’s death in Kaduna",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 10.4951,
+        "lng": 7.5307,
+        "location": "Death Area, Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-over-girlfriends-death-in-kaduna/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest three suspects over child stealing, rescue three minors in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 6.9929,
+        "lng": 3.5035,
+        "location": "Minors Area, Ogun State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/908795-police-arrest-three-suspects-over-child-stealing-rescue-three-minors-in-ogun.html"
+    },
+    {
+        "title": "Police raid black spots, arrest 8 suspected drug peddlers, thugs in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-11",
+        "lat": 12.0255,
+        "lng": 8.5487,
+        "location": "Thugs Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kano-police-raid-black-spots-arrest-8-suspected-drug-peddlers-thugs/"
+    },
+    {
+        "title": "Troops Arrest Suspected Terrorist Suppliers, Informant, Seize Motorcycles in Borno, Sokoto - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-11",
+        "lat": 11.813,
+        "lng": 13.1012,
+        "location": "Motorcycles Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FYUEwZWxqWGNlVGNVWm9nQzE1ODk3RGdiRTA1UTRPX09EMm02SUk5aktlNkQ1ZllwNWJZcmpyWm9fbnlCNVp5WVR4N05xVU01bzBZNmd0T183RUwzblROZUtIaTNBeDZkUEhVcA?oc=5"
     }
 ]
