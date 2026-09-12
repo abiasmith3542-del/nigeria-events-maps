@@ -3496,5 +3496,60 @@
         "location": "Destruction Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSVhnZEdaekVZYlRIbkFwbnJoWnBoUkpDbHduWUJTdEVfN1BtZng5Z3JnZUZyUjVqSEVJU3lOaEhTcXJBLXRGSWtLUGJxdGt1NmRmUE16OFZCVFBnV2xMaEhxWG1KOTFBc29SVEhGcTlXTlNVdzVoQk5fMEl5MGdVOWpaV1o2R0Q4V09yVWhBVlBOZDJySE84VlVDQWhPSVB3MU1JLWZKTFQwTVB2Um1WTG9CWDhiVElMMUJ2aWhn?oc=5"
+    },
+    {
+        "title": "Family, Ogun govt clash over alleged reallocation of 11-acre poultry farm to Chinese firm",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-12",
+        "lat": 6.9467,
+        "lng": 3.4603,
+        "location": "Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/family-ogun-govt-clash-over-alleged-reallocation-of-11-acre-poultry-farm-to-chinese-firm-2/"
+    },
+    {
+        "title": "Air strikes kill over 18 terrorists, destroy logistics hubs in Borno – Military",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-12",
+        "lat": 11.88,
+        "lng": 13.1607,
+        "location": "Hubs Area, Borno State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/nnorth-east/908921-air-strikes-kill-over-18-terrorists-destroy-logistics-hubs-in-borno-military.html"
+    },
+    {
+        "title": "Xenophobia: Two more Nigerians killed in South Africa, toll rises to seven",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-12",
+        "lat": 10.0362,
+        "lng": 5.9444,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/foreign/908905-xenophobia-two-more-nigerians-killed-in-south-africa-toll-rises-to-seven.html"
+    },
+    {
+        "title": "Police Inaugurate Safe Schools Initiative In Abia",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-12",
+        "lat": 5.3926,
+        "lng": 7.53,
+        "location": "Initiative Area, Abia State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-inaugurate-safe-schools-initiative-in-abia-2/"
+    },
+    {
+        "title": "2 dead as FCT records diphtheria outbreak",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-12",
+        "lat": 9.1081,
+        "lng": 7.5285,
+        "location": "Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/2-dead-as-fct-records-diphtheria-outbreak/"
     }
 ]
