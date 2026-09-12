@@ -3551,5 +3551,82 @@
         "location": "Abuja (FCT)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/2-dead-as-fct-records-diphtheria-outbreak/"
+    },
+    {
+        "title": "Ebonyi police rescue abducted cleric, arrest suspected cultist",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-12",
+        "lat": 6.3038,
+        "lng": 7.9974,
+        "location": "Ebonyi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/ebonyi-police-rescue-abducted-cleric-arrest-suspected-cultist/"
+    },
+    {
+        "title": "Saudi Arabia shuts key oil pipeline after Iraqi drone attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-12",
+        "lat": 5.3652,
+        "lng": 7.5013,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/saudi-arabia-shuts-key-oil-pipeline-after-iraqi-drone-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Rivers ADC says police, local security committee disrupted its meeting, arrested members",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-12",
+        "lat": 4.7679,
+        "lng": 6.807,
+        "location": "Rivers State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/908999-rivers-adc-says-police-local-security-committee-disrupted-its-meeting-arrested-members.html"
+    },
+    {
+        "title": "Police Recover Vehicle Stolen From Edo ADC Chairman’s Residence",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-12",
+        "lat": 6.5268,
+        "lng": 5.9535,
+        "location": "Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-recover-vehicle-stolen-from-edo-adc-chairmans-residence/"
+    },
+    {
+        "title": "Police Arrest 8 Suspected Cultists, Others in Delta",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-09-12",
+        "lat": 5.4851,
+        "lng": 6.0124,
+        "location": "Others Area, Delta State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-8-suspected-cultists-others-in-delta/"
+    },
+    {
+        "title": "Benue: Gov Alia Commends DSS For Apprehending Attackers, Commiserates with Victims",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-12",
+        "lat": 7.3547,
+        "lng": 8.8052,
+        "location": "Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/benue-gov-alia-commends-dss-for-apprehending-attackers-commiserates-with-victims/"
+    },
+    {
+        "title": "Military Rescues 10 Hostages, Recovers Stolen Vehicle, Nabs 2 Suspects in Katsina, Zamfara - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-12",
+        "lat": 12.5272,
+        "lng": 7.6587,
+        "location": "Suspects Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JTjUwcUtZa1JaUW5vSmFlZzctLW52OFRSeUt4eG45bVFra1Z1d0FIQXpiajFSaExRWHVyRGVfbGRIdEJuNFI4TGwyS0tFajZoRWJqc294eWFjQVNucU5IWGx6elZ4LW01Mk4xaXFB?oc=5"
     }
 ]
