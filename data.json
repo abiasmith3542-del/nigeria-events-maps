@@ -3650,5 +3650,71 @@
         "location": "Bauchi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/prp-rejects-allegations-linking-bauchi-governorship-candidate-to-banditry/"
+    },
+    {
+        "title": "Police arrest suspected vehicle theft kingpin in Ogun, recover stolen car",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-12",
+        "lat": 6.9904,
+        "lng": 3.4493,
+        "location": "Kingpin Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-vehicle-theft-kingpin-in-ogun-recover-stolen-car/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest three over armed robbery, cattle rustling in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-12",
+        "lat": 12.055,
+        "lng": 9.7616,
+        "location": "Rustling Area, Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-over-armed-robbery-cattle-rustling-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man over Cross River house fire",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-12",
+        "lat": 5.7295,
+        "lng": 8.5164,
+        "location": "Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-over-cross-river-house-fire/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "IGP Disu Not Against Nigerians Recording Officers, Police Clarifies",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-12",
+        "lat": 9.9789,
+        "lng": 6.0542,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/igp-disu-not-against-nigerians-recording-officers-police-clarifies/"
+    },
+    {
+        "title": "Gunmen kill 3 herders, 50 cattle in fresh Plateau attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-12",
+        "lat": 9.4538,
+        "lng": 9.554,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-3-herders-50-cattle-in-fresh-plateau-attack/"
+    },
+    {
+        "title": "Troops intercept 10 rams after suspected herders flee in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-12",
+        "lat": 9.4991,
+        "lng": 9.4795,
+        "location": "Flee Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWhDdXNQaU9Pc2tXSy1nMnUxdnV5WTdXTHliVlFJejhlOGdNRmppaS1KdTRDSllPQlBGSFF4SUxXb1lROW1nZ1l0cDEtdUcxYzRpS1FxRHVFdTJ0YzgyWlBfbVVpbi1lMGZqTFhfdWhId2hmZXBWZXdDcXMxdlQ0UkRPWWFCU3pRdjdrbVdZV01NLWQ0d0s4dkRqbVJsa2FYSnc3bDZjNTJBSHltZVE?oc=5"
     }
 ]
