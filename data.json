@@ -3628,5 +3628,27 @@
         "location": "Suspects Area, Katsina State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JTjUwcUtZa1JaUW5vSmFlZzctLW52OFRSeUt4eG45bVFra1Z1d0FIQXpiajFSaExRWHVyRGVfbGRIdEJuNFI4TGwyS0tFajZoRWJqc294eWFjQVNucU5IWGx6elZ4LW01Mk4xaXFB?oc=5"
+    },
+    {
+        "title": "Suspected vehicle theft kingpin arrested in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-12",
+        "lat": 6.9864,
+        "lng": 3.4446,
+        "location": "Arrested Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/suspected-vehicle-theft-kingpin-arrested-in-ogun/"
+    },
+    {
+        "title": "PRP rejects allegations linking Bauchi governorship candidate to banditry",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-12",
+        "lat": 10.5034,
+        "lng": 9.9778,
+        "location": "Bauchi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/prp-rejects-allegations-linking-bauchi-governorship-candidate-to-banditry/"
     }
 ]
