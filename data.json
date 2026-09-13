@@ -3386,5 +3386,93 @@
         "location": "Abuja (FCT)",
         "source": "Leadership News",
         "url": "https://leadership.ng/gridlock-travellers-stranded-on-lokoja-abuja-highway/"
+    },
+    {
+        "title": "Police rescue 3 kidnap victims, apprehend 57 suspects in Anambra",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-13",
+        "lat": 6.1867,
+        "lng": 7.02,
+        "location": "Suspects Area, Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/police-rescue-3-kidnap-victims-apprehend-57-suspects-in-anambra/"
+    },
+    {
+        "title": "Troops arrest suspected kidnapper, recover AK-47",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-13",
+        "lat": 9.134,
+        "lng": 7.5677,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-arrest-suspected-kidnapper-recover-ak-47/"
+    },
+    {
+        "title": "Morning recap: Terrorists plot attacks on Osun worship centres, Lagos crackdown raises child protection concerns, other top stories",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 6.4974,
+        "lng": 3.4138,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/morning-recap-terrorists-plot-attacks-on-osun-worship-centres-lagos-crackdown-raises-child-protection-concerns-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police recover stolen Toyota Camry in Ogun, arrest one suspect",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-13",
+        "lat": 7.0095,
+        "lng": 3.464,
+        "location": "Camry Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-stolen-toyota-camry-in-ogun-arrest-one-suspect/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "FIFA U-20WWC: Falconets face New Caledonia in must-win clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 6.4808,
+        "lng": 6.0043,
+        "location": "Edo State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/sports/football/909163-fifa-u-20wwc-falconets-face-new-caledonia-in-must-win-clash.html"
+    },
+    {
+        "title": "2027: DSS Uncovers Plot To Attack Churches, Mosques, Markets In Osun",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 7.4515,
+        "lng": 4.4756,
+        "location": "Markets Area, Osun State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/2027-dss-uncovers-plot-to-attack-churches-mosques-markets-in-osun/"
+    },
+    {
+        "title": "Six Imams abducted in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 12.0826,
+        "lng": 6.1745,
+        "location": "Abducted Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/six-imams-abducted-in-zamfara/"
+    },
+    {
+        "title": "‘Three killed, two missing’ as militia attacks herders in Plateau - TheCable",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 9.4744,
+        "lng": 9.455,
+        "location": "Herders Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVd0SXIzc3dQQkYzcDZIWmtOcXVfWDhIaFcyQW85QnRkcEVralctWHZzTEVoU21OWThHRDc2bnh2Zi1uSjhZUXpwQnM2TFpIOFU2M19zM2NXbXdudWJhVzVOdS0tdHprV2JyRFhnX2RiODlSSTBPMEJKZjkyMF9TSmRmVlFTWHdRMWloM0dpUkM?oc=5"
     }
 ]
