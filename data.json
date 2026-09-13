@@ -3364,5 +3364,27 @@
         "location": "Cleric Area, Ebonyi State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/regional/ssouth-east/909125-police-rescue-abducted-cleric-in-ebonyi.html"
+    },
+    {
+        "title": "Bishop, one other Nigerian killed in S/Africa, Fani-Kayode demands justice ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 10.0474,
+        "lng": 5.9931,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/bishop-one-other-nigerian-killed-in-s-africa-fani-kayode-demands-justice/"
+    },
+    {
+        "title": "Gridlock: Travellers Stranded On Lokoja-Abuja Highway",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-13",
+        "lat": 9.0171,
+        "lng": 7.4743,
+        "location": "Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/gridlock-travellers-stranded-on-lokoja-abuja-highway/"
     }
 ]
