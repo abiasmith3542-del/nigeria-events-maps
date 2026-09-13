@@ -3562,5 +3562,115 @@
         "location": "Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/plateau-slain-herders-buried-amid-tears/"
+    },
+    {
+        "title": "Oyo police arrest suspected drug dealer in Ibadan",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-13",
+        "lat": 7.9775,
+        "lng": 3.9666,
+        "location": "Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/oyo-police-arrest-suspected-drug-dealer-in-ibadan/"
+    },
+    {
+        "title": "NEMA coordinates Enugu building collapse rescue",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-13",
+        "lat": 6.4598,
+        "lng": 7.5406,
+        "location": "Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/nema-coordinates-enugu-building-collapse-rescue/"
+    },
+    {
+        "title": "ASUU Strike: Atiku condemns Tinubu’s handling of subsidy earnings",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-13",
+        "lat": 9.0924,
+        "lng": 7.5216,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/asuu-strike-atiku-condemns-tinubus-handling-of-subsidy-earnings/"
+    },
+    {
+        "title": "Delta police arrest two, recover two pump-action guns, 18 cartridges",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-13",
+        "lat": 5.5321,
+        "lng": 5.9413,
+        "location": "Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/delta-police-arrest-two-recover-two-pump-action-guns-18-cartridges/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest suspected drug dealer in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-13",
+        "lat": 7.9819,
+        "lng": 3.9609,
+        "location": "Dealer Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-drug-dealer-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "One killed, others trapped in Enugu building collapse",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 6.5061,
+        "lng": 7.4681,
+        "location": "Trapped Area, Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/one-killed-others-trapped-in-enugu-building-collapse/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kaduna: We Lost 200,000 Cows, 50 Herdsmen Killed In 2026 – Miyetti Allah",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 10.5297,
+        "lng": 7.5574,
+        "location": "Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/kaduna-we-lost-200000-cows-50-herdsmen-killed-in-2026-miyetti-allah/"
+    },
+    {
+        "title": "Man Arrested Over Girlfriend’s Death In Kaduna",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-13",
+        "lat": 10.4449,
+        "lng": 7.5154,
+        "location": "Death Area, Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/man-arrested-over-girlfriends-death-in-kaduna/"
+    },
+    {
+        "title": "9 bandits neutralised as Police Air Wing raids camps in Katsina, Zamfara - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 12.505,
+        "lng": 7.6567,
+        "location": "Camps Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55UVd0bHVweGFJLXRKR0Q5UlV3Ui1NNldqTlhISDN5cUFUT2lJZk5IeG5IZkJlXzJ5UTJEbm5wZU9yXzlnT0NNcmxyOTZxbXFxSUc1UHZNMzljeEUzSWxvVnBHajVVOTZqZHlqTW1jbWtZdw?oc=5"
+    },
+    {
+        "title": "Troops arrest three suspected drug peddlers, recover 92 parcels of Colorado in Borno - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-13",
+        "lat": 11.8572,
+        "lng": 13.1819,
+        "location": "Colorado Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWw3R2RPa09nN0JGWi16ekZmOGNtbGxHb0M3bnBhQjEtU3ZJd1JlbUhKaXhVaXFNRkw1ZXJ4akhCOF83ckZwRWgySUlUdEl2SE12bmQxMVU3aWJOUWlSd1dVbmN6Rl9maUJmNGktQlNIUHRzbkg5cjh6aVFzLURUdWtjSUYxZEFSaFhURWlSdmZ1dzYwR3hicWVkMkRrc3Z6cndaU25jOW4wcU1sc0R6bHFkUmJDM1czeWRNanZNYzRSVDRLRHRj?oc=5"
     }
 ]
