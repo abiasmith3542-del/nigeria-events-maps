@@ -3474,5 +3474,93 @@
         "location": "Herders Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeVd0SXIzc3dQQkYzcDZIWmtOcXVfWDhIaFcyQW85QnRkcEVralctWHZzTEVoU21OWThHRDc2bnh2Zi1uSjhZUXpwQnM2TFpIOFU2M19zM2NXbXdudWJhVzVOdS0tdHprV2JyRFhnX2RiODlSSTBPMEJKZjkyMF9TSmRmVlFTWHdRMWloM0dpUkM?oc=5"
+    },
+    {
+        "title": "Troops arrest suspected kidnapper with gun in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-13",
+        "lat": 6.5469,
+        "lng": 5.9801,
+        "location": "Edo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-arrest-suspected-kidnapper-with-gun-in-edo/"
+    },
+    {
+        "title": "One killed, many trapped, as four-storey building collapses in Enugu",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 6.5236,
+        "lng": 7.5236,
+        "location": "Collapses Area, Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/one-killed-many-trapped-as-four-storey-building-collapses-in-enugu/"
+    },
+    {
+        "title": "Police begin rescue operation for six abducted Islamic clerics in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 12.0741,
+        "lng": 6.1744,
+        "location": "Clerics Area, Zamfara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-begin-rescue-operation-for-six-abducted-islamic-clerics-in-zamfara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Defence minister rallies Zamfara ex-officials for Tinubu’s anti-banditry war",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 12.0697,
+        "lng": 6.2341,
+        "location": "Zamfara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/defence-minister-rallies-zamfara-ex-officials-for-tinubus-anti-banditry-war/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest fake Okada rider over robbery, rape of 35 women in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-13",
+        "lat": 10.5186,
+        "lng": 9.9873,
+        "location": "Women Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-fake-okada-rider-over-robbery-rape-of-35-women-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "ASUU suspends strike at Benue varsity after four weeks",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-13",
+        "lat": 7.3143,
+        "lng": 8.7233,
+        "location": "Strike Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/asuu-suspends-strike-at-benue-varsity-after-four-weeks/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Herders pay N4.5m compensation to farmers in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 9.481,
+        "lng": 9.5269,
+        "location": "Farmers Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/herders-pay-n4-5m-compensation-to-farmers-in-plateau/"
+    },
+    {
+        "title": "Plateau: Slain herders buried amid tears",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-13",
+        "lat": 9.5374,
+        "lng": 9.5156,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/plateau-slain-herders-buried-amid-tears/"
     }
 ]
