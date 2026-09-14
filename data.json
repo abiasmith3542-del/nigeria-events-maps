@@ -3584,5 +3584,16 @@
         "location": "Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/falconets-thrash-new-caledonia-10-1-set-up-england-clash/"
+    },
+    {
+        "title": "3 herders killed in Plateau community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-14",
+        "lat": 9.5249,
+        "lng": 9.554,
+        "location": "Killed Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-herders-killed-in-plateau-community/"
     }
 ]
