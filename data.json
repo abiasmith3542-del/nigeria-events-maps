@@ -3760,5 +3760,115 @@
         "location": "Rifles Area, Kebbi State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oejhfc09IdVhSbXpQMlY4ZERqdmxIV0MtUl9tSjFrUXBTZnRZUnFrOTNlMFRZbW1raVdjR2hrN2VrSVAwTTBMNmtVd0h0ZG80aHd1Qm5fcExYM0FtajlkcFptTl9qTUQ4TDR3?oc=5"
+    },
+    {
+        "title": "Gunmen abducted 16-year-old boy in Enugu, abandoned him in Anambra",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-14",
+        "lat": 6.145,
+        "lng": 6.9855,
+        "location": "Anambra State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/909504-gunmen-abducted-16-year-old-boy-in-enugu-abandoned-him-in-anambra.html"
+    },
+    {
+        "title": "Kebbi: Security operatives engage bandits in gun battle, kill scores",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-14",
+        "lat": 11.4676,
+        "lng": 4.1889,
+        "location": "Kebbi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kebbi-security-operatives-engage-bandits-in-gun-battle-kill-scores/"
+    },
+    {
+        "title": "Troops arrest drug peddler, rescue 2 kidnap victims in Kaduna, Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-14",
+        "lat": 10.5436,
+        "lng": 7.4527,
+        "location": "Victims Area, Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-arrest-drug-peddler-rescue-2-kidnap-victims-in-kaduna-sokoto/"
+    },
+    {
+        "title": "Police, military neutralise terrorists, recover firearms, motorcycles in Kebbi - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-14",
+        "lat": 11.5037,
+        "lng": 4.2547,
+        "location": "Motorcycles Area, Kebbi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6ZmYyUDZpUkZNbUdaRER1eV9NZmZtc1lVd3JiMWtBNFBERDBxSWxDRWIya0xCdldzV3pXUG4xZldWY0tvSFVJdTR4SFRoUlJlM1dlbTFSR0NhZ3pQRFZZYTFGN2FkUFFGVEZ4aQ?oc=5"
+    },
+    {
+        "title": "Senator Buba Submits Self to DSS, Police, DIA for Probe into Banditry, Terrorism Financing Allegations - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-14",
+        "lat": 10.0315,
+        "lng": 5.9532,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JemV3blQ2X0dFV1VHRTNtZmZOdmJqUG54Y2RES2xtSmVvZ2lWcE5YTTl2N0g2Ni0ya18tVUVxTnpjOUVVZXZGeVk4bFROUmZ6VXBVakNXOVBZTE9CNWI5eVdWOEZQOGFySlhlY1RGUVY?oc=5"
+    },
+    {
+        "title": "Repentant Boko Haram member surrenders with AK-47, IED to troops in Borno - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-14",
+        "lat": 11.8534,
+        "lng": 13.2003,
+        "location": "Troops Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbndqdHlqaVF1V01TbU1FMkYtVnFIM0hLLWNieE9vZThncHBZMlJHcjJuNEFmTEs5MkppU29WRnlMRXA0SHhQNURSZ011TGU0TGZieEFwUnFOXzZGRnBUUVVRd3hFaTRGR2l2aG96cHUtcGRPME0xR2ktZFV5TnB2YUJjNTNDR3NSd2QwMW5zS0pIdWd5RG0xR1dMVmFlcWZSenJlU1AzVV9pNHpQaDlvakw5MC1VX290?oc=5"
+    },
+    {
+        "title": "Army, Police eliminate terrorists, recover arms in Kebbi - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-14",
+        "lat": 11.4835,
+        "lng": 4.1489,
+        "location": "Arms Area, Kebbi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTV6VzRoZVc0Rnc0a0loWm9LYjcyUEJJakd5MnFZcWx5aFRyeTA1Nl85NHQwa1RpWGNDT1Z3akhVVE9RbnZ4b3k0bzQ1OHZ3bUtzMDdjOWE0RWh5QTlkVFdCV0N2UmNKaEpWQk4yZXF6V1hyYTFpbGZiUng3Y0pfdGd4SnRWaG1fTGVyU3ByTTNQZTZudVV6SllIV1NOd0RB?oc=5"
+    },
+    {
+        "title": "Gunmen abduct two residents in Jos North - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-14",
+        "lat": 9.9125,
+        "lng": 8.904,
+        "location": "Residents Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnloUWQ2d243THdUTC1tYjNQSXFZaEdmQnYtT1hpblBGMFoxajBzWkxJcGpPTEpBRHV5VXN2TUxDMTB5alVlSUhmVUViLXFaa05KN201bFFYdVZhY2JxUjdBQ2F5aGRqbjZuUUtnUldOMVVJZVNCNEZKM3RaRzg4b0ctLXBMMTRHc0pqVDR3?oc=5"
+    },
+    {
+        "title": "Operation FANSAN YAMMA: Troops arrest drug peddler, foil terrorist attack, rescue two victims in Kaduna, Sokoto - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-14",
+        "lat": 10.5349,
+        "lng": 7.5201,
+        "location": "Victims Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcThnQ2l6S3dIang3ZWh5RkxDSUFTV3VUakZpcjV5RTBSMzV4MGhHSHhDQzM2bjBrZmFJLVVnN0hScmliem9DUjJEaDAzamlLV3Y4b2piUUpJX204WE1oRGk3NHJSVFlUcS1sZDZaWjk2OElfbkJuUnpWRWpJalRnUUVCVTJDei15ZTlCTGdyOThpSHhtZXdUWjJRNFFQdW9oc1JsVjMxZVZZcDVULWxYVllSMUdfSDBrZHJLWkxoYnpaMDhTSTZDYUlIVWJyN2s5eGdGeDBQbmdLZlVUNE15SGpueFYzME0?oc=5"
+    },
+    {
+        "title": "DSS secures 10-year jail term for nine crude oil thieves arrested with Navy in Akwa Ibom - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-14",
+        "lat": 5.053,
+        "lng": 7.8758,
+        "location": "Navy Area, Akwa Ibom State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEJWRGJIaVV2LXhjazFXanNoZy1KckhOd21xMG9QLTI4anhlQ2xNMjZSY2RSUlZPZEZ3Q1hQbjQyUDJ2V0RwMmpmTTBfTWVKRWRGeUpJSzdUU2VTdE5Rd0VPVlMwWXh1S2pXZU5vWFZ5XzQ3aXZVZW9LWWt0V3hRQlV0SGdWVUc5ZUpMR2dSTWpMMkRRQmNISnN3eElQYk5XNmR4NGRuc3QwSGZBOXN4MXJObkNuR3k0Tmd4dFIycGFwMmZEVDhzcmJ0Q2hEQQ?oc=5"
     }
 ]
