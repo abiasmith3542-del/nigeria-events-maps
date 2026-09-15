@@ -3804,5 +3804,82 @@
         "location": "Killed Area, Benue State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/2-newly-deployed-policemen-killed-in-benue-ambush/"
+    },
+    {
+        "title": "N1.5m ransom recovered as police, Amotekun foil kidnappers in Ondo forest shootout",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-15",
+        "lat": 7.2049,
+        "lng": 5.1468,
+        "location": "Kidnappers Area, Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/n1-5m-ransom-recovered-as-police-amotekun-foil-kidnappers-in-ondo-forest-shootout/"
+    },
+    {
+        "title": "Police give N10.6m to families of 19 fallen officers in Kwara",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-15",
+        "lat": 8.5172,
+        "lng": 4.4965,
+        "location": "Officers Area, Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-give-n10-6m-to-families-of-19-fallen-officers-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "ASUU declares indefinite strike in LASU, other Lagos varsities ",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-15",
+        "lat": 6.4862,
+        "lng": 3.4129,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/asuu-declares-indefinite-strike-in-lasu-other-lagos-varsities/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Plateau varsity lecturers suspend strike ",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-15",
+        "lat": 9.4698,
+        "lng": 9.5106,
+        "location": "Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/plateau-varsity-lecturers-suspend-strike-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest kidnap suspects while collecting N1.5m ransom in Ondo, rescue victims",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-15",
+        "lat": 7.2469,
+        "lng": 5.2215,
+        "location": "Ransom Area, Ondo State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/ssouth-west/909866-police-arrest-kidnap-suspects-while-collecting-n1-5m-ransom-in-ondo-rescue-victims.html"
+    },
+    {
+        "title": "Traders protest alleged Chinese retail trading at Lagos Trade Fair Complex",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-15",
+        "lat": 6.4672,
+        "lng": 3.3811,
+        "location": "Trading Area, Lagos State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/909817-traders-protest-alleged-chinese-retail-trading-at-lagos-trade-fair-complex.html"
+    },
+    {
+        "title": "NSCDC Mining Marshals Bust Illegal Gold Site in Abuja, Nab 2 Suspects - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-15",
+        "lat": 9.0734,
+        "lng": 7.5109,
+        "location": "Site Area, Abuja (FCT)",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DbWRQYzZfRlhFcDY3TF9wVUZjajFxNWlrakt0dEJWRWVZcFJKZjVBMjVja2ZKX2szRTFQMXhaeENuMURvaTh6S3JfYndNU19SU3AyYUotMEFlY09iTE82SHFpbUVzTG9neVE1bw?oc=5"
     }
 ]
