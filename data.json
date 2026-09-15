@@ -3738,5 +3738,71 @@
         "location": "Killed Area, Plateau State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/regional/north-central/909622-nine-killed-in-plateau-bus-attack-as-army-chief-visits-state-orders-troops-to-sustain-pressure-on-criminals.html"
+    },
+    {
+        "title": "Suspected herders ambush DPO’s escort, kill two officers in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 7.2952,
+        "lng": 8.7362,
+        "location": "Officers Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/suspected-herders-ambush-dpos-escort-kill-two-officers-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police, military deployed to Niger after kidnapping of over 100 residents",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-15",
+        "lat": 10.0519,
+        "lng": 6.001,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-military-deployed-to-niger-after-kidnapping-of-over-100-residents/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest three kidnappers, rescue two victims in Ondo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-15",
+        "lat": 7.2591,
+        "lng": 5.2393,
+        "location": "Victims Area, Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-kidnappers-rescue-two-victims-in-ondo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NSCDC arrests three suspects for vandalism, theft of public facility in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-15",
+        "lat": 6.2265,
+        "lng": 7.0448,
+        "location": "Facility Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nscdc-arrests-three-suspects-for-vandalism-theft-of-public-facility-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Boko Haram ‘judge’ denies reported ceasefire deal with Nigerian govt",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 10.0258,
+        "lng": 6.0352,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/909775-boko-haram-judge-denies-reported-ceasefire-deal-with-nigerian-govt.html"
+    },
+    {
+        "title": "2 newly deployed policemen killed in Benue ambush",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 7.3054,
+        "lng": 8.6947,
+        "location": "Killed Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/2-newly-deployed-policemen-killed-in-benue-ambush/"
     }
 ]
