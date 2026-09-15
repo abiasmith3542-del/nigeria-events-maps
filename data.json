@@ -3551,5 +3551,115 @@
         "location": "Delta State",
         "source": "Punch Metro",
         "url": "https://punchng.com/delta-eatery-worker-shot-dead-by-suspected-cultists/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Morning recap: Police warn terrorists spying on schools, Police recover another corpse as Accord chieftain buried in Osun, other top stories",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 7.5305,
+        "lng": 4.5486,
+        "location": "Buried Area, Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/morning-recap-police-warn-terrorists-spying-on-schools-police-recover-another-corpse-as-accord-chieftain-buried-in-osun-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Terrorist surrenders in Borno, troops nab six kidnappers in Adamawa",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 9.2834,
+        "lng": 12.4858,
+        "location": "Kidnappers Area, Adamawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/terrorist-surrenders-in-borno-troops-nab-six-kidnappers-in-adamawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Security forces kill terrorists, recover weapons in Kebbi raid",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 11.4085,
+        "lng": 4.1627,
+        "location": "Weapons Area, Kebbi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/security-forces-kill-terrorists-recover-weapons-in-kebbi-raid/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Terrorists, informants spying on schools, other targets – Police",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 9.138,
+        "lng": 7.4026,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/terrorists-informants-spying-on-schools-other-targets-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Osun shooting: Police recover another corpse, slain Accord chieftain buried",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-15",
+        "lat": 7.5241,
+        "lng": 4.4678,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/osun-shooting-police-recover-another-corpse-slain-accord-chieftain-buried/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "16-year-old abducted in Enugu, rescued at Anambra checkpoint",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 6.2219,
+        "lng": 7.0052,
+        "location": "Rescued Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/16-year-old-abducted-in-enugu-rescued-at-anambra-checkpoint/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abuja police detain 40 suspects over Maitama robbery, victim recognises two",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-15",
+        "lat": 9.0865,
+        "lng": 7.5119,
+        "location": "Abuja (FCT)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/909600-abuja-police-detain-40-suspects-over-maitama-robbery-victim-recognises-two.html"
+    },
+    {
+        "title": "Bauchi PRP gov’ship candidate submits self to security agencies over banditry allegations",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 10.4896,
+        "lng": 10.0428,
+        "location": "Bauchi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bauchi-prp-govship-candidate-submits-self-to-security-agencies-over-banditry-allegations/"
+    },
+    {
+        "title": "Lone survivor: How I escaped Plateau bus attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 9.5325,
+        "lng": 9.5241,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/lone-survivor-how-i-escaped-plateau-bus-attack-2/"
+    },
+    {
+        "title": "NDC fumes as thugs attack, disrupt meeting in Enugu",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-15",
+        "lat": 6.4675,
+        "lng": 7.5327,
+        "location": "Meeting Area, Enugu State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ndc-fumes-as-thugs-attack-disrupt-meeting-in-enugu/"
     }
 ]
