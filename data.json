@@ -3804,5 +3804,148 @@
         "location": "Miners Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOG1pTXB1dUx0a2dPbzczLW9wdTZwYjNBaVZqajJNV25KUjZFaktTNHNsZjQ1aEJuMkFsTGFXOXliUmRMeWlsbGhidlVkenNsLTlVbjZ5X2pEMTVYOURITUlzNEdwa0RySXVXS1ZyNEZqLUViNzl1ZnRzRTQxbkpMQ1pRaG1MRFJmY0RQZl9WMmFiMFM2QmlZZnBUMEgteE0?oc=5"
+    },
+    {
+        "title": "Strike: JUSUN members disrupt activities at Nasarawa High Court",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-16",
+        "lat": 8.455,
+        "lng": 8.2137,
+        "location": "Activities Area, Nasarawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/strike-jusun-members-disrupt-activities-at-nasarawa-high-court/"
+    },
+    {
+        "title": "One dead as Taraba records first diphtheria case",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 7.9993,
+        "lng": 10.5051,
+        "location": "Taraba State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/one-dead-as-taraba-records-first-diphtheria-case/"
+    },
+    {
+        "title": "Kara bridge repairs, Otedola crash worsen Lagos-Ibadan gridlock",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-16",
+        "lat": 6.4764,
+        "lng": 6.0279,
+        "location": "Edo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/kara-bridge-repairs-otedola-crash-worsen-lagos-ibadan-gridlock/"
+    },
+    {
+        "title": "Nasarawa police families receive ₦30.8m insurance cheques",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-16",
+        "lat": 8.4513,
+        "lng": 8.1399,
+        "location": "Nasarawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/nasarawa-police-families-receive-%e2%82%a630-8m-insurance-cheques/"
+    },
+    {
+        "title": "Man hospitalised after hit-and-run accident in Lagos",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-16",
+        "lat": 6.4928,
+        "lng": 3.4162,
+        "location": "Accident Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/man-hospitalised-after-hit-and-run-accident-in-lagos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man for defilement of six-year-old stepdaughter in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-16",
+        "lat": 6.5458,
+        "lng": 5.9843,
+        "location": "Stepdaughter Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-for-defilement-of-six-year-old-stepdaughter-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Oyo abduction: DSS to re-arraign suspects Thursday",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-16",
+        "lat": 8.0159,
+        "lng": 3.9801,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/oyo-abduction-dss-to-re-arraign-suspects-thursday/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "VIDEO: Traffic restored on Otedola bridge after Wednesday crash — Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-16",
+        "lat": 6.5366,
+        "lng": 5.9449,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-traffic-restored-on-otedola-bridge-after-wednesday-crash-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2027: Police react to Ebonyi governor, council chairman’s threats against opposition",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-16",
+        "lat": 6.2145,
+        "lng": 7.9991,
+        "location": "Ebonyi State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/910170-2027-police-react-to-ebonyi-governor-council-chairmans-threats-against-opposition.html"
+    },
+    {
+        "title": "Troops Raid Terrorist Enclaves in Kebbi, Kill 2 in Niger, Recover Firearms - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 11.5046,
+        "lng": 4.2367,
+        "location": "Enclaves Area, Kebbi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3MVB5Rm5ic1ZRTFJCU1ZnZDVYSTJYMkcwVGRmSUtQN2FLZmkyc2ZRWUtrb2o5bE9adEJzXzRLT19zVkRPR2cwbFcwNjBKYnpQekZXTGswVHowakNFa21RNGRzYlMwXzlfQ0NHRkhiVy1idw?oc=5"
+    },
+    {
+        "title": "OPEP Commander visits NTV community after attack, leads clearance operations in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 9.4543,
+        "lng": 9.5003,
+        "location": "Operations Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQmpTRVlqaFg2cGNjZ1RNNnQtM0RrYWYwUmNpRVJaMk5TZkVQN29MSDRWMmxZUnhQZnViWW1Vb0tvX1pkNExqM0htUmhkbjRYWGZaQzhFcDB6M1FPLVJrNUFaakstWTMxUE1iZ1RLR0dLaVBURmRFQkRWT1kwX2FSQm1MQzE4UWtPY0NZazBsczd0TUlXMmJadUZpaHJtSG5WMnQ0LWlrWlptUjVJTEVXOEQxYmpoVDBWUFI1OXhkS3ZENXdzUUV1WmpVVQ?oc=5"
+    },
+    {
+        "title": "Kidnapped woman escapes abductors in Plateau, receives treatment for minor injuries - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 9.5432,
+        "lng": 9.5505,
+        "location": "Abductors Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3lidmxwSXJpVGtsdnQ4V1JMMnhTRE1XZXpNQXNfZ19vLXRmWk1SbEVFMG9nYlhhTDVTamVfWnNydW1xX2dEVXk3V1IxLWJUeVJLMmF1aFVCYVJ3U0NRM2xLTU9ldmlPLTFRTjBlZ3o3dm5iMEpBdnJ3VVFDWExSRlpfWkhZQlBwSWl6QXI4RkJXRk43OEcyaFdTc0FJdnF2YWNSMktOVE9OLXVFTUVJOWV3WWZ0TkFndmZjQ1prcXVvdW5tZ3c?oc=5"
+    },
+    {
+        "title": "Troops arrest two suspected burglars over hotel air conditioner theft in Jos - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-16",
+        "lat": 9.8765,
+        "lng": 8.8774,
+        "location": "Theft Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFZRenYtMEtUS1BJUTB5ckhCT0RyMnlJSFluU1EzVXhrVjdvVWVrMERUd00xeEFMc0xuTjRoZXJtYlJuQW5fVEEzR0NJNGxGNUZ5cS1tM1d0aUI0NFhWeUh1MTRMMURES0VFWjZDa3lWWjZMMm5zZl9ZbHgtRUVyOE1DcklENWdlYzBKTzVzUHk2UVN3QmdhSjFVNXBxbWtnSUJPenpOTlAycnM5WDdhYU83UnRtNTZrb1RhdG13?oc=5"
     }
 ]
