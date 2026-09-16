@@ -3606,5 +3606,126 @@
         "location": "Terrorists Area, Borno State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/troops-neutralise-1106-terrorists-in-borno/"
+    },
+    {
+        "title": "Four killed, one injured in Ogun crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 7.0039,
+        "lng": 3.4906,
+        "location": "Injured Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/four-killed-one-injured-in-ogun-crash/"
+    },
+    {
+        "title": "Three vigilantes killed in night attack in Plateau",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 9.4414,
+        "lng": 9.5483,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/three-vigilantes-killed-in-night-attack-in-plateau/"
+    },
+    {
+        "title": "Police pay ₦9.8m to families of deceased officers in Ekiti",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-16",
+        "lat": 7.7089,
+        "lng": 5.3015,
+        "location": "Officers Area, Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-pay-%e2%82%a69-8m-to-families-of-deceased-officers-in-ekiti/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Traders, drivers protest in Enugu over taxes, fuel prices",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-16",
+        "lat": 6.5321,
+        "lng": 7.4999,
+        "location": "Protest Area, Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/traders-drivers-protest-in-enugu-over-taxes-fuel-prices/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man who kidnapped grandfather in Katsina, rescue two victims",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 12.4926,
+        "lng": 7.6188,
+        "location": "Grandfather Area, Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-who-kidnapped-grandfather-in-katsina-rescue-two-victims/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Four killed in Lagos-Ibadan Expressway crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 6.5632,
+        "lng": 3.3448,
+        "location": "Killed Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/four-killed-in-lagos-ibadan-expressway-crash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Security agents raid kidnappers’ enclave, rescue seven in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-16",
+        "lat": 7.3116,
+        "lng": 8.7038,
+        "location": "Seven Area, Benue State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/910066-security-agents-raid-kidnappers-enclave-rescue-seven-in-benue.html"
+    },
+    {
+        "title": "Four suspected cattle rustlers killed, 35 cows recovered in Kwara",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 8.477,
+        "lng": 4.5704,
+        "location": "Recovered Area, Kwara State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/910042-four-suspected-cattle-rustlers-killed-35-cows-recovered-in-kwara.html"
+    },
+    {
+        "title": "Kaduna APC Condemns Violence, Wants Police To Probe Attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 10.544,
+        "lng": 7.502,
+        "location": "Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kaduna-apc-condemns-violence-wants-police-to-probe-attacks/"
+    },
+    {
+        "title": "Seven kidnapped victims rescued in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-16",
+        "lat": 7.3326,
+        "lng": 8.7169,
+        "location": "Rescued Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/seven-kidnapped-victims-rescued-in-benue/"
+    },
+    {
+        "title": "Stuck for Days: Nigeria’s Gridlock Is a Health Emergency",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-16",
+        "lat": 10.0077,
+        "lng": 6.0052,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/stuck-for-days-nigerias-gridlock-is-a-health-emergency/"
     }
 ]
