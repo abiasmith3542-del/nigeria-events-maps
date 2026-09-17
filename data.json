@@ -3804,5 +3804,60 @@
         "location": "Sokoto State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/sokoto-mosque-attack-clerics-followers-reject-probe-panel-allege-bias/"
+    },
+    {
+        "title": "20 feared dead as illegal mining pit collapses in Taraba",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 7.9701,
+        "lng": 10.4775,
+        "location": "Collapses Area, Taraba State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/20-feared-dead-as-illegal-mining-pit-collapses-in-taraba/"
+    },
+    {
+        "title": "Police foil kidnap attempt in Anambra, arrest seven suspects",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-17",
+        "lat": 6.2054,
+        "lng": 6.9594,
+        "location": "Attempt Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-foil-kidnap-attempt-in-anambra-arrest-seven-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police warn against attack on officers performing lawful duties in C’Rivers",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 4.7489,
+        "lng": 6.8762,
+        "location": "Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-warn-against-attack-on-officers-performing-lawful-duties-in-crivers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "33 illegal miners feared dead in Niger",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 10.0592,
+        "lng": 5.9523,
+        "location": "Dead Area, Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/33-illegal-miners-feared-dead-in-niger/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police repel bandit attack, rescue four victims in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 12.5656,
+        "lng": 7.6549,
+        "location": "Victims Area, Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-repel-bandit-attack-rescue-four-victims-in-katsina/"
     }
 ]
