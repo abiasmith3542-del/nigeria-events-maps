@@ -3859,5 +3859,93 @@
         "location": "Victims Area, Katsina State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-repel-bandit-attack-rescue-four-victims-in-katsina/"
+    },
+    {
+        "title": "FCT Okada ban: CP orders probe into clash at Life Camp",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 9.0933,
+        "lng": 7.5524,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/fct-okada-ban-cp-orders-probe-into-clash-at-life-camp/"
+    },
+    {
+        "title": "New co-tenant absconds with neighbour’s children in Akwa Ibom, police probe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-17",
+        "lat": 5.0102,
+        "lng": 7.8334,
+        "location": "Children Area, Akwa Ibom State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/new-co-tenant-absconds-with-neighbours-children-in-akwa-ibom-police-probe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police probe VIO, Okada riders’ clash in Abuja",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 9.0558,
+        "lng": 7.5241,
+        "location": "Clash Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-probe-vio-okada-riders-clash-in-abuja/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police pay families of deceased officers in Cross River N13.7m insurance",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-17",
+        "lat": 5.6907,
+        "lng": 8.5245,
+        "location": "Officers Area, Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-pay-families-of-deceased-officers-in-cross-river-n13-7m-insurance/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "33 Feared Killed As Terrorists Invade Zamfara Villages",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 12.1643,
+        "lng": 6.1662,
+        "location": "Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/33-feared-killed-as-terrorists-invade-zamfara-villages/"
+    },
+    {
+        "title": "Fresh Crisis Rocks Mambilla Plateau, as  DSS Officer, Others Reportedly Killed",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 9.5104,
+        "lng": 9.4473,
+        "location": "Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/fresh-crisis-rocks-mambilla-plateau-as-dss-officer-others-reportedly-killed/"
+    },
+    {
+        "title": "Sokoto Police Present N14.6m Cheques To 17 Families Of Fallen Heroes",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-17",
+        "lat": 13.007,
+        "lng": 5.1988,
+        "location": "Sokoto State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/sokoto-police-present-n14-6m-cheques-to-17-families-of-fallen-heroes/"
+    },
+    {
+        "title": "Terrorist kingpin releases 18 rustled cattle following OPEP pressure in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 9.4853,
+        "lng": 9.5407,
+        "location": "Pressure Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDNFazRBN0ZFR2k4Snl5YlJqMHR5aTZSa25hZ2VzWVVmWlpoTWNCRVZkSjFWaDVDRmp3MDFIelVqR2Y1aTVSRk9rSU5GQS1RRGMtcEdrWU9OMU9ZWVZkNVQtdTJMZXdrQ0x0cmVBcDJVczJpRWZvd1RuTlpTejE5SWRfWWh1Qkg1WDVDV3JtcERmWU9lenlVSk50QlRPYXFIWHNKa2NEYzUySlNzN25ETDFLVG9TbmUwRlpZOUZBU0RmUQ?oc=5"
     }
 ]
