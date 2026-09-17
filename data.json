@@ -3672,5 +3672,60 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/constitution-amendment-states-get-30-day-deadline/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "N/Korea leader’s sister says only ‘idiots’ think they’ll give up nuclear weapons",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-17",
+        "lat": 8.9835,
+        "lng": 7.5028,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/n-korea-leaders-sister-says-only-idiots-think-theyll-give-up-nuclear-weapons/"
+    },
+    {
+        "title": "Ondo Killer Drink: 49 dead, 170 affected – Health Commissioner",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 7.2524,
+        "lng": 5.2365,
+        "location": "Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/ondo-killer-drink-49-dead-170-affected-health-commissioner/"
+    },
+    {
+        "title": "Nigerian woman arrested in US over illegal voting",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-17",
+        "lat": 9.9809,
+        "lng": 5.9473,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nigerian-woman-arrested-in-us-over-illegal-voting/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Recover 12 Stolen Vehicles, Arrest 10 Suspects In Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-17",
+        "lat": 12.0577,
+        "lng": 8.5986,
+        "location": "Suspects Area, Kano State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-recover-12-stolen-vehicles-arrest-10-suspects-in-kano/"
+    },
+    {
+        "title": "Attacks won’t intimidate us – Kaduna ADC",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-17",
+        "lat": 10.4559,
+        "lng": 7.4582,
+        "location": "Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/attacks-wont-intimidate-us-kaduna-adc/"
     }
 ]
