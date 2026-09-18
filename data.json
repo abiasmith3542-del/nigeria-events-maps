@@ -3628,5 +3628,104 @@
         "location": "Nigeria (General Area)",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjQzSEJpT1BFXzV1NWpFWXppb3lNLTExUUtKOHNWN1ZUSm9qT18xN2l3cGgwR20xeXpodVNxWmNmTEotQnBGcWRERjlFX0xXOHE5dS1YbTFTdS1mdWFWZGVBYjlySUFoLXl0a1ZiV0pGa2puczZTSWt1c29sUlFMRFR2OHZOcVZUa1cxZ1JYTHJ0U3dxQ2ttTV9pYjI4cWZkVW4yOF90cjg?oc=5"
+    },
+    {
+        "title": "Gombe By-Election: Police announce security measures",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-18",
+        "lat": 10.2403,
+        "lng": 11.1704,
+        "location": "Gombe State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/gombe-by-election-police-announce-security-measures/"
+    },
+    {
+        "title": "Troops rescue 6 kidnapped victims in Kaduna, Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-18",
+        "lat": 10.4995,
+        "lng": 7.461,
+        "location": "Victims Area, Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-rescue-6-kidnapped-victims-in-kaduna-katsina/"
+    },
+    {
+        "title": "Troops foil attacks in Borno, kill four terrorists",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-18",
+        "lat": 11.8173,
+        "lng": 13.1133,
+        "location": "Attacks Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-foil-attacks-in-borno-kill-four-terrorists/"
+    },
+    {
+        "title": "PDP demands probe of alleged attack on campaign train in Ogun",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-18",
+        "lat": 6.9663,
+        "lng": 3.5077,
+        "location": "Train Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/pdp-demands-probe-of-alleged-attack-on-campaign-train-in-ogun/"
+    },
+    {
+        "title": "Tackle harassment of lawyers in Ondo, NBA urges police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-18",
+        "lat": 7.2697,
+        "lng": 5.2184,
+        "location": "Lawyers Area, Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/tackle-harassment-of-lawyers-in-ondo-nba-urges-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest 32 suspects, recover 10 rifles in Plateau operations",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-18",
+        "lat": 9.484,
+        "lng": 9.4698,
+        "location": "Rifles Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-32-suspects-recover-10-rifles-in-plateau-operations/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Fire outbreak kills mother, four children in Rivers",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-18",
+        "lat": 4.7048,
+        "lng": 6.8439,
+        "location": "Children Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/fire-outbreak-kills-mother-four-children-in-rivers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Rescue Kidnap Victims, Recover Vehicle in Kaduna, Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-18",
+        "lat": 10.5269,
+        "lng": 7.5492,
+        "location": "Vehicle Area, Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-rescue-kidnap-victims-recover-vehicle-in-kaduna-katsina/"
+    },
+    {
+        "title": "PDP Accuses Police of Arresting Members in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-18",
+        "lat": 6.9596,
+        "lng": 3.5467,
+        "location": "Members Area, Ogun State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/pdp-accuses-police-of-arresting-members-in-ogun/"
     }
 ]
