@@ -3474,5 +3474,38 @@
         "location": "Dead Area, Jos, Plateau State",
         "source": "Punch Metro",
         "url": "https://punchng.com/woman-found-dead-in-jos-wildlife-park/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "CSOs protest rising debt, demand end to excessive borrowing",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-18",
+        "lat": 9.0642,
+        "lng": 7.4478,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/csos-protest-rising-debt-demand-end-to-excessive-borrowing/"
+    },
+    {
+        "title": "Police warn Nigerians against assaulting officers on duty",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-18",
+        "lat": 10.0476,
+        "lng": 5.9772,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-warn-nigerians-against-assaulting-officers-on-duty/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Marafa vows to end banditry in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-18",
+        "lat": 12.1187,
+        "lng": 6.223,
+        "location": "Banditry Area, Zamfara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/marafa-vows-to-end-banditry-in-zamfara/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
