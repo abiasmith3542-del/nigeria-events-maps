@@ -3672,5 +3672,27 @@
         "location": "Adamawa State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VSnp4aVdrX0xqM2tVTWEtMWRYZ0k4UDlYaURtTVZiYWZIa0VtU2dtWldvdTl1SFpTanh3Xzc4LWg4Q2xvNHgxTEtDbW92THJZU2hTRWR4VGFkQXp5bmZXaXRfS3hwQVZj?oc=5"
+    },
+    {
+        "title": "Gunmen kill father of four in Rivers, family demands justice",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-19",
+        "lat": 4.7401,
+        "lng": 6.8848,
+        "location": "Four Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-kill-father-of-four-in-rivers-family-demands-justice/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Man accuses officers of extortion in Lagos, police begin probe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-19",
+        "lat": 6.5377,
+        "lng": 3.348,
+        "location": "Extortion Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/man-accuses-officers-of-extortion-in-lagos-police-begin-probe/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
