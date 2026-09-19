@@ -3496,5 +3496,115 @@
         "location": "Collapses Area, Taraba State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/5-die-as-mining-pit-collapses-in-taraba/"
+    },
+    {
+        "title": "Plateau suspends VIO operations over attacks on officers",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-19",
+        "lat": 9.4931,
+        "lng": 9.4795,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/plateau-suspends-vio-operations-over-attacks-on-officers/"
+    },
+    {
+        "title": "Ondo herbal drink tragedy: 48 dead, five blinded, 182 critically ill – NAFDAC",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-19",
+        "lat": 7.2164,
+        "lng": 5.1412,
+        "location": "Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/ondo-herbal-drink-tragedy-48-dead-five-blinded-182-critically-ill-nafdac/"
+    },
+    {
+        "title": "Police arrest suspected armed robber in Cross River, recover gun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-19",
+        "lat": 5.7498,
+        "lng": 8.5149,
+        "location": "Robber Area, Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-armed-robber-in-cross-river-recover-gun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Soldiers rescue six kidnapped victims in Kaduna, Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-19",
+        "lat": 10.524,
+        "lng": 7.5515,
+        "location": "Victims Area, Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-rescue-six-kidnapped-victims-in-kaduna-katsina/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Niger gov questions number of miners arrested before 37 deaths",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-19",
+        "lat": 9.9928,
+        "lng": 5.9491,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/niger-gov-questions-number-of-miners-arrested-before-37-deaths/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "FG deploys experts to assist in probe of deaths of 37 detained illegal mining suspects in Niger",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-19",
+        "lat": 9.9734,
+        "lng": 6.0333,
+        "location": "Suspects Area, Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/910732-fg-deploys-experts-to-assist-in-probe-of-deaths-of-37-detained-illegal-mining-suspects-in-niger.html"
+    },
+    {
+        "title": "Fury-Joshua Clash Set For December 11 Cardiff Showdown",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-19",
+        "lat": 9.8895,
+        "lng": 8.8695,
+        "location": "Jos, Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/fury-joshua-clash-set-for-december-11-cardiff-showdown/"
+    },
+    {
+        "title": "3 killed as gunmen open fire in Plateau market",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-19",
+        "lat": 9.4828,
+        "lng": 9.5109,
+        "location": "Fire Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-killed-as-gunmen-open-fire-in-plateau-market/"
+    },
+    {
+        "title": "Troops Foil Kidnapping Attempt in Katsina, Zamfara, Rescue Six Victims, Recover 117 Cattle - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-19",
+        "lat": 12.539,
+        "lng": 7.6132,
+        "location": "Attempt Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FUDNacDVGQlkzWEJyemhwU05rZzhudndMMnFGSjRfZnEzbGwyWmhQZjVYX0NmUHV1VVJmT3JCZXRhRl91d2JSdUQ1TDhQckV5WWhZUHRGSkYwZDZyOWJXUzVKU293Nkx0djhGbms5bFhNdw?oc=5"
+    },
+    {
+        "title": "Troops foil kidnapping attempt, rescue three victims in Katsina - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-19",
+        "lat": 12.5512,
+        "lng": 7.5567,
+        "location": "Victims Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmNwYlNET1l1UWFKWXgzV1hGdHhnaC00VlNxUzhoUndGWFhQdVF0c0daaG5XZjVsdm1wbFdadDFsR0htYWFsZkE3Z2xaR1BDVWplSVBFZERJX2pETklRc2hIS2NIajlDV2V3SEZ0T0ZrWnQ5dzVoYTlLUzEwbGRqX1N4eENvcGJUazRGQTMxMEdlOEY1RUlVbVl5aTZyaVpzQjFZQ29TcGVUdFE?oc=5"
     }
 ]
