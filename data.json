@@ -3562,5 +3562,104 @@
         "location": "Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/3-arrested-over-alleged-abduction-sexual-abuse-of-16-year-old-in-edo/"
+    },
+    {
+        "title": "Anambra police arrest woman over alleged self-kidnap",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 6.2529,
+        "lng": 6.9428,
+        "location": "Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/anambra-police-arrest-woman-over-alleged-self-kidnap/"
+    },
+    {
+        "title": "CSOs urge Sanwo-Olu to resolve Lagos varsity strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-20",
+        "lat": 6.537,
+        "lng": 3.3717,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/csos-urge-sanwo-olu-to-resolve-lagos-varsity-strike/"
+    },
+    {
+        "title": "PHOTOS: Police raid FCT crime hotspots, arrest 300 suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 9.0637,
+        "lng": 7.4938,
+        "location": "Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/photos-police-raid-fct-crime-hotspots-arrest-300-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Enugu NDC gov candidate visits attacked members, pledges assistance",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-20",
+        "lat": 6.4625,
+        "lng": 7.5442,
+        "location": "Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/enugu-ndc-gov-candidate-visits-attacked-members-pledges-assistance/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ekiti pledges readiness for disease outbreaks",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-20",
+        "lat": 7.6197,
+        "lng": 5.3074,
+        "location": "Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ekiti-pledges-readiness-for-disease-outbreaks/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bayelsa deputy gov links building collapse to negligence",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-20",
+        "lat": 4.7421,
+        "lng": 6.0502,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bayelsa-deputy-gov-links-building-collapse-to-negligence/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "BREAKING: 9 Killed In Fresh Attacks In Plateau Communities, Passengers, Pastors Among Victims",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-20",
+        "lat": 9.4524,
+        "lng": 9.4628,
+        "location": "Attacks Area, Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/breaking-9-killed-in-fresh-attacks-in-plateau-communities-passengers-pastors-among-victims/"
+    },
+    {
+        "title": "Troops arrest three suspected drug peddlers in Jos - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 9.9198,
+        "lng": 8.8682,
+        "location": "Peddlers Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVA3NGQ2cWgyQ3h3MzgxY1ZlYjdZa3JzWXl2UWE2dmZBNUQ3RXZScEUtUmRtNUM3YUdibHhsVWs1RDZGTmg2b2JKek1yR0l1bU5ObzVEYTZzUmExZXpQZHFGTHd5U29YbFNlaVdrRHpUWTRjN19yZjIxWmUyS1ozbmlmMmwxdlY1alhLaG9iS0lDMzlCeWxFdmQ3WQ?oc=5"
+    },
+    {
+        "title": "Troops foil kidnap attempt, rescue injured victim in Jos - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 9.876,
+        "lng": 8.9027,
+        "location": "Victim Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0xMdEpBMWtsd0UzVzJVMHZzN2l4MWxxZG9MeVMzQ216NUxXTmxsTm9rQlFGN3o2aGd6LXh5VEZoeTE3VWlfcFI3SnhvNHdKNE9ZVlJ6TzRCZXluNmlUTm8tZEFnTmkzT1dmbWQ4N0I0Zm9seXZxeVZTQXh3TW1qc0s0OW42WEtISDFSSWpPd0ExbFY3bkQtdmMyOTBoMXdhWWc?oc=5"
     }
 ]
