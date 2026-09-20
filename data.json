@@ -3694,5 +3694,71 @@
         "location": "Arms Area, Imo State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/09/police-arrest-two-recover-arms-in-imo/"
+    },
+    {
+        "title": "Troops rescue two kidnap victims, arrest 12 in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 9.4509,
+        "lng": 9.5449,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-rescue-two-kidnap-victims-arrest-12-in-plateau/"
+    },
+    {
+        "title": "Berom youths place communities on red alert after nine killed in Plateau attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-20",
+        "lat": 9.442,
+        "lng": 9.5362,
+        "location": "Killed Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/berom-youths-place-communities-on-red-alert-after-nine-killed-in-plateau-attacks/"
+    },
+    {
+        "title": "Soldiers rescue two kidnap victims, arrest 11 suspects in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 9.5126,
+        "lng": 9.5421,
+        "location": "Suspects Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-rescue-two-kidnap-victims-arrest-11-suspects-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "BYM Places Berom Communities In Plateau On Red Alert Over Attack Threat",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-20",
+        "lat": 9.4567,
+        "lng": 9.5133,
+        "location": "Communities Area, Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/plateau-berom-youths-place-communities-on-red-alert-over-planned-attacks/"
+    },
+    {
+        "title": "How 34-year-old man was found dead hours after leaving Jos residence",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-20",
+        "lat": 9.9524,
+        "lng": 8.9085,
+        "location": "Jos, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/how-34-year-old-man-was-found-dead-hours-after-leaving-jos-residence/"
+    },
+    {
+        "title": "Troops arrest five suspected criminals, recover fabricated AK-47 rifle in Kaduna - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 10.5111,
+        "lng": 7.5252,
+        "location": "Rifle Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWN1SHY0N3NvNDZOcUY2dnBVSFRFdTcyVFJodmFsLW9BYnZVOFRVSmtuVnowdjVyRVc4Z2JQWjR0NXdSZFRpdDdYaENmSExWT0Y4R3pDZVNNVVd2NEpNSjU3WVByZHNwZkxHeTJCclVUdTZ4UkxidW5Dc0JGRUU3QjF6MEE4eVhCc1lqczgwel9yRVFtelNzdS1IUFEyUi04WHNpYm9Fb3RRNUwwUGpwcDE0M25KU0YtbFgwc1ZvRHF2QQ?oc=5"
     }
 ]
