@@ -3408,5 +3408,49 @@
         "location": "Four Area, Jos, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTFibjVXLUdLcTJsbGUwbDNYQW1FZzZtRGc2MDBNZ3ZQMTlGVjE4R2ZfUE5oTzJIejdKaXRaNEt3eHV2WXlBZ0p3OTRCNmJJaEpkcjFRdWJkbl94Qk92Q0pFamdyUk9SdlNsQ2JLdkxKQktfV1ctSGhCMVlQMm80TmgxbWZ2ZlV0Y1RkUkI1QnR4WnhGMl9KOGpSTGFWa2FmVTlDdksxSXZEWEVvendZaQ?oc=5"
+    },
+    {
+        "title": "PDP leaders clash over Ekiti poll campaign funds",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-20",
+        "lat": 7.7061,
+        "lng": 5.2398,
+        "location": "Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/pdp-leaders-clash-over-ekiti-poll-campaign-funds/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "47 arrested with guns during Bauchi bye-election – Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 10.487,
+        "lng": 10.0512,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/47-arrested-with-guns-during-bauchi-bye-election-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Probe begins as gunmen kill Rivers father of four",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 4.6928,
+        "lng": 6.845,
+        "location": "Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/probe-begin-as-gunmen-kill-rivers-father-of-four/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigeria’s Deadly Mining Pits: Who Profits While Miners Die?",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-20",
+        "lat": 9.9667,
+        "lng": 6.0429,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/nigerias-deadly-mining-pits-who-profits-while-miners-die/"
     }
 ]
