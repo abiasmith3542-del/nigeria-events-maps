@@ -3661,5 +3661,38 @@
         "location": "Victim Area, Jos, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0xMdEpBMWtsd0UzVzJVMHZzN2l4MWxxZG9MeVMzQ216NUxXTmxsTm9rQlFGN3o2aGd6LXh5VEZoeTE3VWlfcFI3SnhvNHdKNE9ZVlJ6TzRCZXluNmlUTm8tZEFnTmkzT1dmbWQ4N0I0Zm9seXZxeVZTQXh3TW1qc0s0OW42WEtISDFSSWpPd0ExbFY3bkQtdmMyOTBoMXdhWWc?oc=5"
+    },
+    {
+        "title": "Gunmen behead Lafagu village head in Kebbi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 11.4983,
+        "lng": 4.1828,
+        "location": "Head Area, Kebbi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/gunmen-behead-lafagu-village-head-in-kebbi/"
+    },
+    {
+        "title": "Troops capture terrorist commanders in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-20",
+        "lat": 12.4863,
+        "lng": 7.5523,
+        "location": "Commanders Area, Katsina State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-capture-terrorist-commanders-in-katsina/"
+    },
+    {
+        "title": "Police arrest two, recover arms in Imo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 5.4945,
+        "lng": 7.0393,
+        "location": "Arms Area, Imo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/police-arrest-two-recover-arms-in-imo/"
     }
 ]
