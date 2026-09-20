@@ -3760,5 +3760,38 @@
         "location": "Rifle Area, Kaduna State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWN1SHY0N3NvNDZOcUY2dnBVSFRFdTcyVFJodmFsLW9BYnZVOFRVSmtuVnowdjVyRVc4Z2JQWjR0NXdSZFRpdDdYaENmSExWT0Y4R3pDZVNNVVd2NEpNSjU3WVByZHNwZkxHeTJCclVUdTZ4UkxidW5Dc0JGRUU3QjF6MEE4eVhCc1lqczgwel9yRVFtelNzdS1IUFEyUi04WHNpYm9Fb3RRNUwwUGpwcDE0M25KU0YtbFgwc1ZvRHF2QQ?oc=5"
+    },
+    {
+        "title": "Police arrest five suspects over attack on Osun church ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-20",
+        "lat": 7.5375,
+        "lng": 4.4747,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-five-suspects-over-attack-on-osun-church/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Nab Terror Commanders Linked To Killing Of Retired General In Katsina",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 12.4637,
+        "lng": 7.6013,
+        "location": "General Area, Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-nab-terror-commanders-linked-to-killing-of-retired-general-in-katsina/"
+    },
+    {
+        "title": "Troops Arrest 11 Suspects, Rescue 2 Victims In Plateau",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-20",
+        "lat": 9.5148,
+        "lng": 9.5226,
+        "location": "Victims Area, Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-arrest-11-suspects-rescue-2-victims-in-plateau/"
     }
 ]
