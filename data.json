@@ -3353,5 +3353,60 @@
         "location": "Rivers State",
         "source": "Punch Metro",
         "url": "https://punchng.com/rivers-assembly-varsity-lawyer-clash-over-n28bn-funds/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Lagos mechanic lured with car repair job killed inside bush",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-21",
+        "lat": 6.525,
+        "lng": 3.3215,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/lagos-mechanic-lured-with-car-repair-job-killed-inside-bush/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "PoS operator’s deal with bandit leader",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-21",
+        "lat": 9.1034,
+        "lng": 7.4326,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/pos-operators-deal-with-bandit-leader/"
+    },
+    {
+        "title": "12 killed in Plateau attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-21",
+        "lat": 9.4584,
+        "lng": 9.546,
+        "location": "Killed Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/12-killed-in-plateau-attacks/"
+    },
+    {
+        "title": "5 injured in multiple accident in Edo",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-21",
+        "lat": 6.4673,
+        "lng": 6.0182,
+        "location": "Accident Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/5-injured-in-multiple-accident-in-edo/"
+    },
+    {
+        "title": "6 killed, 2 injured as truck collides with commercial vehicle in Kogi",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-21",
+        "lat": 7.7903,
+        "lng": 6.7451,
+        "location": "Vehicle Area, Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/6-killed-2-injured-as-truck-collides-with-commercial-vehicle-in-kogi/"
     }
 ]
