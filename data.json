@@ -3408,5 +3408,104 @@
         "location": "Vehicle Area, Kogi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/6-killed-2-injured-as-truck-collides-with-commercial-vehicle-in-kogi/"
+    },
+    {
+        "title": "Troops rescue 23 kidnap victims, arrest four in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-21",
+        "lat": 13.1213,
+        "lng": 5.2902,
+        "location": "Four Area, Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-rescue-23-kidnap-victims-arrest-four-in-sokoto/"
+    },
+    {
+        "title": "Police nab suspected armed robber in Akwa Ibom",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-21",
+        "lat": 5.014,
+        "lng": 7.8722,
+        "location": "Robber Area, Akwa Ibom State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-suspected-armed-robber-in-akwa-ibom/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Soldiers rescue 23 kidnapped victims, arrest four suspected Lakurawa members in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-21",
+        "lat": 13.0517,
+        "lng": 5.2481,
+        "location": "Members Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-rescue-23-kidnapped-victims-arrest-four-suspected-lakurawa-members-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Mutilated corpse of abducted woman found in Rivers community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-21",
+        "lat": 4.7619,
+        "lng": 6.8676,
+        "location": "Found Area, Rivers State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/mutilated-corpse-of-abducted-woman-found-in-rivers-community/"
+    },
+    {
+        "title": "Troops rescue 23 kidnap victims, arrest 4 terrorists in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-21",
+        "lat": 13.0377,
+        "lng": 5.1754,
+        "location": "Terrorists Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-rescue-23-kidnap-victims-arrest-4-terrorists-in-sokoto/"
+    },
+    {
+        "title": "Protest as hoodlums break into female hostel, rape student",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-21",
+        "lat": 9.0021,
+        "lng": 7.4903,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/protest-as-hoodlums-break-into-female-hostel-rape-student/"
+    },
+    {
+        "title": "Bandits gun down mentally ill man, abduct 28 in Sokoto community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-21",
+        "lat": 13.1125,
+        "lng": 5.188,
+        "location": "Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-gun-down-mentally-ill-man-abduct-28-in-sokoto-community/"
+    },
+    {
+        "title": "WHO donates drugs to Zamfara for cholera, diphtheria",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-21",
+        "lat": 12.0752,
+        "lng": 6.266,
+        "location": "Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/who-donates-drugs-to-zamfara-for-cholera-diphtheria/"
+    },
+    {
+        "title": "Troops Rescue 23 Hostages, Arrest 4 Suspected Lakurawa Members in Sokoto - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-21",
+        "lat": 9.9796,
+        "lng": 5.9933,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxYW1Dbm9CVVVaN1ZHZ2FiY0lUMTZCdV9TcXVoN25jUWpnUkRyZ0dYTEtyOTczbFdPZFA0clNkc0ltN3piczNEQ1FkRWYyS2FOYWRaaEVVaWFBVmhYR2hmMl9ld05UeEdvS2cyLXlLd00?oc=5"
     }
 ]
