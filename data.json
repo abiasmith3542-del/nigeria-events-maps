@@ -3441,5 +3441,49 @@
         "location": "Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/edo-man-arrested-for-allegedly-impersonating-military-officer/"
+    },
+    {
+        "title": "Navy uncovers 182,000 litres of suspected stolen crude oil in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-22",
+        "lat": 4.7325,
+        "lng": 6.7927,
+        "location": "Rivers State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/navy-uncovers-182000-litres-of-suspected-stolen-crude-oil-in-rivers/"
+    },
+    {
+        "title": "Police arrest man who allegedly killed girlfriend over HIV status in Enugu",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-22",
+        "lat": 6.5455,
+        "lng": 7.4603,
+        "location": "Status Area, Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-who-allegedly-killed-girlfriend-over-hiv-status-in-enugu/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Lassa fever deaths rise to 259 as Nigeria records 1,086 confirmed cases",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-22",
+        "lat": 9.947,
+        "lng": 5.9443,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/health/health-news/911614-lassa-fever-deaths-rise-to-259-as-nigeria-records-1086-confirmed-cases.html"
+    },
+    {
+        "title": "Security Forces Kill 18 Bandits, Recover Arms, 96 Livestock in Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-22",
+        "lat": 12.496,
+        "lng": 7.6011,
+        "location": "Livestock Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xdTZuN2xuSnY4b0NXcl9PdWNVV0ptWXNPS2VIMTFmNkVsYUxtWTVWY1BJblIzYnpuZTNwTTVHV1VIeWxpV2NwN0Y5dmd1YUloR1hyTlZ3RUtWcWdLQ1MzU2Z3TDFSdmdSOU12Q2lxZw?oc=5"
     }
 ]
