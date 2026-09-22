@@ -3485,5 +3485,16 @@
         "location": "Livestock Area, Katsina State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xdTZuN2xuSnY4b0NXcl9PdWNVV0ptWXNPS2VIMTFmNkVsYUxtWTVWY1BJblIzYnpuZTNwTTVHV1VIeWxpV2NwN0Y5dmd1YUloR1hyTlZ3RUtWcWdLQ1MzU2Z3TDFSdmdSOU12Q2lxZw?oc=5"
+    },
+    {
+        "title": "Curfew: Violence continues in Plateau, policeman, others killed",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-22",
+        "lat": 9.4921,
+        "lng": 9.5449,
+        "location": "Continues Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/curfew-violence-continues-in-plateau-policeman-others-killed/"
     }
 ]
