@@ -3287,5 +3287,104 @@
         "location": "Kaduna State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/15-political-parties-condemn-attack-on-kaduna-adc-govship-candidate/"
+    },
+    {
+        "title": "NANS threatens nationwide protest over prolonged closure of Benue tertiary institutions",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-22",
+        "lat": 7.2889,
+        "lng": 8.7822,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/nans-threatens-nationwide-protest-over-prolonged-closure-of-benue-tertiary-institutions/"
+    },
+    {
+        "title": "Police nab man for abduction, sexual abuse of five young girls in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-22",
+        "lat": 6.4539,
+        "lng": 5.9894,
+        "location": "Girls Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-nab-man-for-abduction-sexual-abuse-of-five-young-girls-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police seek information on Delta APC-NDC clash, clarify rifle recovery",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-22",
+        "lat": 5.4612,
+        "lng": 5.9728,
+        "location": "Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-seek-information-on-delta-apc-ndc-clash-clarify-rifle-recovery/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Plateau attacks: Nigerians must not get used to killings – Northern Christians",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-22",
+        "lat": 9.5078,
+        "lng": 9.4808,
+        "location": "Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/plateau-attacks-nigerians-must-not-get-used-to-killings-northern-christians/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest four over conspiracy, child trafficking in Abia",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-22",
+        "lat": 5.389,
+        "lng": 7.4624,
+        "location": "Trafficking Area, Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-over-conspiracy-child-trafficking-in-abia/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abia denies recruitment of youths to attack Tinubu, APC supporters",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-22",
+        "lat": 5.4443,
+        "lng": 7.513,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/abia-denies-recruitment-of-youths-to-attack-tinubu-apc-supporters/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kano Police Arrest Suspected Kidnapper, Recover Drone in Border Clearance Operations - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-22",
+        "lat": 11.9859,
+        "lng": 8.5775,
+        "location": "Kano State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pRExkaXBqcFN1a18xbjZhMC1sc1VILU52VEVVbG05MkkzM2xobWtDYS1JWFloSEN5bDRwSUNhOFAzN0pxd3VnSC1OZDJOMkprRGFVSkJtSzVuZzZfMmh5Tnlma3VhTERmZ09ES1RoaV90dw?oc=5"
+    },
+    {
+        "title": "Troops Rescue 6 Varsity Students, Driver from Kidnappers in Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-22",
+        "lat": 12.5259,
+        "lng": 7.6042,
+        "location": "Kidnappers Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wcUJPYU12ZzFfMnZGZ0ItLWdKV1EtRUp6dVJZei1TeWJpLV9DZENzM080ZEZhcUtpY0N3OWcwa2dRRkY0Ujhldm1XTTJoZzY0Y3FHd3Rra19QS0UxMy1KaGluakMwZw?oc=5"
+    },
+    {
+        "title": "Troops, police rescue seven kidnapped victims on Dayi-Malumfashi road in Katsina - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-22",
+        "lat": 12.4593,
+        "lng": 7.5609,
+        "location": "Road Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkNmOWZUTWRsMERSTjA2b2dJbm5BMGNrYUl6ZFNjMGhzc24wWlhpeEV1Q2t6ZkpscFB4QVdCV1Y2S2thWDZtTUN2V1REU04wcGhsTUd1M0RQY0hURUhBQ0xBX0VTa1ZIdTFJNTNSX3dRWWJhYTNKWk91V3J3Z2dTM095dmhGWmZ4dTNEWkNrZ3MwUXpRRmJrZlFTbDF6ak4wNmliUWI5Q1JmbFJoY0tLTjZyYkJ4UTRvTng3OGk5VTRBZw?oc=5"
     }
 ]
