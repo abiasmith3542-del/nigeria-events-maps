@@ -3386,5 +3386,60 @@
         "location": "Road Area, Katsina State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMkNmOWZUTWRsMERSTjA2b2dJbm5BMGNrYUl6ZFNjMGhzc24wWlhpeEV1Q2t6ZkpscFB4QVdCV1Y2S2thWDZtTUN2V1REU04wcGhsTUd1M0RQY0hURUhBQ0xBX0VTa1ZIdTFJNTNSX3dRWWJhYTNKWk91V3J3Z2dTM095dmhGWmZ4dTNEWkNrZ3MwUXpRRmJrZlFTbDF6ak4wNmliUWI5Q1JmbFJoY0tLTjZyYkJ4UTRvTng3OGk5VTRBZw?oc=5"
+    },
+    {
+        "title": "Osun Assembly passes resolution on state police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-22",
+        "lat": 7.5529,
+        "lng": 4.4821,
+        "location": "Osun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/osun-assembly-passes-resolution-on-state-police/"
+    },
+    {
+        "title": "Police rescue seven students, two adults in Anambra flood",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-22",
+        "lat": 6.1974,
+        "lng": 6.9753,
+        "location": "Adults Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-seven-students-two-adults-in-anambra-flood/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Oyo Abduction: One of attacked school remains closed as new academic session begins state-wide",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-22",
+        "lat": 7.9839,
+        "lng": 3.9839,
+        "location": "Oyo State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/911546-oyo-abduction-one-of-attacked-school-remains-closed-as-new-academic-session-begins-state-wide.html"
+    },
+    {
+        "title": "Joint Security Team Kill 18 Bandits In Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-22",
+        "lat": 12.5541,
+        "lng": 7.6314,
+        "location": "Bandits Area, Katsina State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/joint-security-team-kill-18-bandits-in-katsina/"
+    },
+    {
+        "title": "Edo: Man arrested for allegedly impersonating military officer",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-22",
+        "lat": 6.5568,
+        "lng": 6.0497,
+        "location": "Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/edo-man-arrested-for-allegedly-impersonating-military-officer/"
     }
 ]
