@@ -3067,5 +3067,71 @@
         "location": "Nigeria (General Area)",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/regional/ssouth-east/911716-carspo-2026-police-explore-new-tools-strategies-for-2027-elections.html"
+    },
+    {
+        "title": "Full house as Eagles begin training for Madagascar clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-23",
+        "lat": 9.0077,
+        "lng": 7.5393,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/full-house-as-eagles-begin-training-for-madagascar-clash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Security operatives kill 18 suspected bandits in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-23",
+        "lat": 12.526,
+        "lng": 7.5974,
+        "location": "Bandits Area, Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/security-operatives-kill-18-suspected-bandits-in-katsina/"
+    },
+    {
+        "title": "Troops rescue 6 abducted varsity students in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-23",
+        "lat": 12.1101,
+        "lng": 6.2526,
+        "location": "Students Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-rescue-6-abducted-varsity-students-in-zamfara/"
+    },
+    {
+        "title": "Police arrest 10 suspected criminals in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-23",
+        "lat": 6.543,
+        "lng": 6.0445,
+        "location": "Criminals Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-10-suspected-criminals-in-edo-2/"
+    },
+    {
+        "title": "Kano taskforce arrests 380 suspects, secures 230 convictions",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-23",
+        "lat": 12.0065,
+        "lng": 8.5542,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kano-taskforce-arrests-380-suspects-secures-230-convictions/"
+    },
+    {
+        "title": "NCDC reports 1,086 Lassa fever cases - Tribune Online",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-23",
+        "lat": 9.0857,
+        "lng": 7.5003,
+        "location": "Nigeria (General Area)",
+        "source": "Google News - Nigeria Local",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DLVJaR3BOakh2blY4enkwTnRxTFFHbW8yS2dFVWNENU1ZX3lqWnl6UmZVUWFpUUxYdFlGTmpwX183eTNFaFcySjVaWU9OYlAwbTVXYUtSd1prUTVKRGhtNEsxTGUtd3Z0Mk1QZzZpVmRRZw?oc=5"
     }
 ]
