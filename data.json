@@ -1,467 +1,5 @@
 [
     {
-        "title": "Health crisis in Delta as Allied Health Workers strike escalates",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-15",
-        "lat": 5.456,
-        "lng": 6.0051,
-        "location": "Crisis Area, Delta State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/health-crisis-in-delta-as-allied-health-workers-strike-escalates/"
-    },
-    {
-        "title": "‘Reverse ban, cancellation of planned students protests’",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-15",
-        "lat": 9.1411,
-        "lng": 7.5753,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/reverse-ban-cancellation-of-planned-students-protests/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Anambra mother arrested for brutalising seven-year-old daughter",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 6.1441,
-        "lng": 6.9484,
-        "location": "Anambra State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/anambra-mother-arrested-for-brutalising-seven-year-old-daughter/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Herdsmen kill two in Imo community attack",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 5.4258,
-        "lng": 7.0057,
-        "location": "Imo State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/herdsmen-kill-two-in-imo-community-attack/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Kaduna reclaims 500,000 hectares from bandits, commissioner says",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 10.5467,
-        "lng": 7.5087,
-        "location": "Kaduna State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/kaduna-reclaims-500000-hectares-from-bandits-commissioner-says/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Enugu violence: Police probe attacks, NDC names eight victims",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 6.5238,
-        "lng": 7.4801,
-        "location": "Enugu State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/enugu-violence-police-probe-attacks-ndc-names-eight-victims/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Delta eatery worker shot dead by suspected cultists",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 5.5034,
-        "lng": 6.0414,
-        "location": "Delta State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/delta-eatery-worker-shot-dead-by-suspected-cultists/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Morning recap: Police warn terrorists spying on schools, Police recover another corpse as Accord chieftain buried in Osun, other top stories",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 7.5305,
-        "lng": 4.5486,
-        "location": "Buried Area, Osun State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/morning-recap-police-warn-terrorists-spying-on-schools-police-recover-another-corpse-as-accord-chieftain-buried-in-osun-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Terrorist surrenders in Borno, troops nab six kidnappers in Adamawa",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 9.2834,
-        "lng": 12.4858,
-        "location": "Kidnappers Area, Adamawa State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/terrorist-surrenders-in-borno-troops-nab-six-kidnappers-in-adamawa/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Security forces kill terrorists, recover weapons in Kebbi raid",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 11.4085,
-        "lng": 4.1627,
-        "location": "Weapons Area, Kebbi State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/security-forces-kill-terrorists-recover-weapons-in-kebbi-raid/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Terrorists, informants spying on schools, other targets – Police",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 9.138,
-        "lng": 7.4026,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/terrorists-informants-spying-on-schools-other-targets-police/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Osun shooting: Police recover another corpse, slain Accord chieftain buried",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 7.5241,
-        "lng": 4.4678,
-        "location": "Osun State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/osun-shooting-police-recover-another-corpse-slain-accord-chieftain-buried/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "16-year-old abducted in Enugu, rescued at Anambra checkpoint",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 6.2219,
-        "lng": 7.0052,
-        "location": "Rescued Area, Anambra State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/16-year-old-abducted-in-enugu-rescued-at-anambra-checkpoint/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Abuja police detain 40 suspects over Maitama robbery, victim recognises two",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 9.0865,
-        "lng": 7.5119,
-        "location": "Abuja (FCT)",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/north-central/909600-abuja-police-detain-40-suspects-over-maitama-robbery-victim-recognises-two.html"
-    },
-    {
-        "title": "Bauchi PRP gov’ship candidate submits self to security agencies over banditry allegations",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 10.4896,
-        "lng": 10.0428,
-        "location": "Bauchi State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/bauchi-prp-govship-candidate-submits-self-to-security-agencies-over-banditry-allegations/"
-    },
-    {
-        "title": "Lone survivor: How I escaped Plateau bus attack",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 9.5325,
-        "lng": 9.5241,
-        "location": "Plateau State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/lone-survivor-how-i-escaped-plateau-bus-attack-2/"
-    },
-    {
-        "title": "NDC fumes as thugs attack, disrupt meeting in Enugu",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 6.4675,
-        "lng": 7.5327,
-        "location": "Meeting Area, Enugu State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/ndc-fumes-as-thugs-attack-disrupt-meeting-in-enugu/"
-    },
-    {
-        "title": "Saudi Arabia vows to respond ‘firmly’ to Houthi attacks",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 5.45,
-        "lng": 7.508,
-        "location": "Abia State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/saudi-arabia-vows-to-respond-firmly-to-houthi-attacks/"
-    },
-    {
-        "title": "Gombe PDP politicising diphtheria outbreak — APC",
-        "type": "突发公共卫生疫情",
-        "level": "low",
-        "date": "2026-09-15",
-        "lat": 10.286,
-        "lng": 11.205,
-        "location": "Gombe State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/gombe-pdp-politicising-diphtheria-outbreak-apc/"
-    },
-    {
-        "title": "Sokoto govt shuts mosque, orders probe into attack",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 13.1121,
-        "lng": 5.2496,
-        "location": "Sokoto State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/sokoto-govt-shuts-mosque-orders-probe-into-attack/"
-    },
-    {
-        "title": "Unity Fountain robbery: Police arrest 70 suspects in Maitama",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 9.0959,
-        "lng": 7.5587,
-        "location": "Nigeria (General Area)",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/unity-fountain-robbery-police-arrest-70-suspects-in-maitama/"
-    },
-    {
-        "title": "Jigawa varsity postpones warning strike to October",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-15",
-        "lat": 12.046,
-        "lng": 9.7107,
-        "location": "Jigawa State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/jigawa-varsity-postpones-warning-strike-to-october/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Suspected herders kill vigilante operative, one other in Imo",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 5.4916,
-        "lng": 7.0903,
-        "location": "Other Area, Imo State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/headlines/909675-suspected-herders-kill-vigilante-operative-one-other-in-imo.html"
-    },
-    {
-        "title": "Nine killed in Plateau bus attack as army chief visits state, orders troops to sustain pressure on criminals",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 9.527,
-        "lng": 9.4585,
-        "location": "Killed Area, Plateau State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/north-central/909622-nine-killed-in-plateau-bus-attack-as-army-chief-visits-state-orders-troops-to-sustain-pressure-on-criminals.html"
-    },
-    {
-        "title": "Suspected herders ambush DPO’s escort, kill two officers in Benue",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 7.2952,
-        "lng": 8.7362,
-        "location": "Officers Area, Benue State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/suspected-herders-ambush-dpos-escort-kill-two-officers-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police, military deployed to Niger after kidnapping of over 100 residents",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 10.0519,
-        "lng": 6.001,
-        "location": "Niger State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-military-deployed-to-niger-after-kidnapping-of-over-100-residents/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police arrest three kidnappers, rescue two victims in Ondo",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 7.2591,
-        "lng": 5.2393,
-        "location": "Victims Area, Ondo State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-three-kidnappers-rescue-two-victims-in-ondo/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "NSCDC arrests three suspects for vandalism, theft of public facility in Anambra",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 6.2265,
-        "lng": 7.0448,
-        "location": "Facility Area, Anambra State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/nscdc-arrests-three-suspects-for-vandalism-theft-of-public-facility-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Boko Haram ‘judge’ denies reported ceasefire deal with Nigerian govt",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 10.0258,
-        "lng": 6.0352,
-        "location": "Niger State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/909775-boko-haram-judge-denies-reported-ceasefire-deal-with-nigerian-govt.html"
-    },
-    {
-        "title": "2 newly deployed policemen killed in Benue ambush",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 7.3054,
-        "lng": 8.6947,
-        "location": "Killed Area, Benue State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/2-newly-deployed-policemen-killed-in-benue-ambush/"
-    },
-    {
-        "title": "N1.5m ransom recovered as police, Amotekun foil kidnappers in Ondo forest shootout",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 7.2049,
-        "lng": 5.1468,
-        "location": "Kidnappers Area, Ondo State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/n1-5m-ransom-recovered-as-police-amotekun-foil-kidnappers-in-ondo-forest-shootout/"
-    },
-    {
-        "title": "Police give N10.6m to families of 19 fallen officers in Kwara",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 8.5172,
-        "lng": 4.4965,
-        "location": "Officers Area, Kwara State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-give-n10-6m-to-families-of-19-fallen-officers-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "ASUU declares indefinite strike in LASU, other Lagos varsities ",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-15",
-        "lat": 6.4862,
-        "lng": 3.4129,
-        "location": "Lagos State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/asuu-declares-indefinite-strike-in-lasu-other-lagos-varsities/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Plateau varsity lecturers suspend strike ",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-15",
-        "lat": 9.4698,
-        "lng": 9.5106,
-        "location": "Plateau State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/plateau-varsity-lecturers-suspend-strike-2/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police arrest kidnap suspects while collecting N1.5m ransom in Ondo, rescue victims",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 7.2469,
-        "lng": 5.2215,
-        "location": "Ransom Area, Ondo State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/ssouth-west/909866-police-arrest-kidnap-suspects-while-collecting-n1-5m-ransom-in-ondo-rescue-victims.html"
-    },
-    {
-        "title": "Traders protest alleged Chinese retail trading at Lagos Trade Fair Complex",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-15",
-        "lat": 6.4672,
-        "lng": 3.3811,
-        "location": "Trading Area, Lagos State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/909817-traders-protest-alleged-chinese-retail-trading-at-lagos-trade-fair-complex.html"
-    },
-    {
-        "title": "NSCDC Mining Marshals Bust Illegal Gold Site in Abuja, Nab 2 Suspects - PRNigeria News",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 9.0734,
-        "lng": 7.5109,
-        "location": "Site Area, Abuja (FCT)",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DbWRQYzZfRlhFcDY3TF9wVUZjajFxNWlrakt0dEJWRWVZcFJKZjVBMjVja2ZKX2szRTFQMXhaeENuMURvaTh6S3JfYndNU19SU3AyYUotMEFlY09iTE82SHFpbUVzTG9neVE1bw?oc=5"
-    },
-    {
-        "title": "Ogun 2027: Adeola, Hunye clash over Ekiti origin claim",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 7.7207,
-        "lng": 5.2763,
-        "location": "Ekiti State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/ogun-2027-adeola-hunye-clash-over-ekiti-origin-claim/"
-    },
-    {
-        "title": "Lagos trade fair protest was by few miscreants — Police",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 6.503,
-        "lng": 3.3787,
-        "location": "Lagos State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/lagos-trade-fair-protest-was-by-few-miscreants-police/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "APC Demands Probe Of Reported Attacks On Offices, Vehicles In Kaduna",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 10.4423,
-        "lng": 7.5564,
-        "location": "Vehicles Area, Kaduna State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/apc-demands-probe-of-reported-attacks-on-offices-vehicles-in-kaduna/"
-    },
-    {
-        "title": "Stuck for Days: Nigeria’s Gridlock Is a Health Emergency",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-15",
-        "lat": 10.002,
-        "lng": 6.0194,
-        "location": "Niger State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/stuck-for-days-nigerias-gridlock-is-a-health-emergency/"
-    },
-    {
-        "title": "PHOTO: Troops Rescue 10 Abducted Victims as Terrorists Flee in Katsina - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 12.5597,
-        "lng": 7.6713,
-        "location": "Flee Area, Katsina State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SNndTVWJubkdWcmwwVmFHV2VFQnhxS0RmWDFRMlZBSmdKTkEwOTFwd3RLOW0ydTA4anNFb0NDS2hLSXNIVDJiRE1Qc19JbDlDbTdEZF9ic2R2akNJRTNyQVE3QlVfeHBrRXFkZXN4MA?oc=5"
-    },
-    {
         "title": "Police, experts meet on 2027 election security",
         "type": "突发涉安事件",
         "level": "medium",
@@ -482,17 +20,6 @@
         "location": "Nigeria (General Area)",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/09/kebbe-council-assists-150-households-displaced-by-banditry/"
-    },
-    {
-        "title": "Troops rescue 10 kidnap victims in Katsina",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-09-15",
-        "lat": 12.5528,
-        "lng": 7.6104,
-        "location": "Victims Area, Katsina State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/troops-rescue-10-kidnap-victims-in-katsina/"
     },
     {
         "title": "Plateau varsity lecturers suspend strike",
@@ -526,17 +53,6 @@
         "location": "Ammunition Area, Kebbi State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPemVibWctWmFDZzRVZFBtNnVKUjNQd0N2TEpoTVJIdTA2a2xjSzEta3hmMzRySkdTRlZ3b0J6aTJpMlpwNTFnSF94V294VUQtd2RKRDlHN2JmczhqM2x4R1Jta0x5aDBEUU15RTc4TmJzSHZNRXRLMU9fU3BHdlpTd09VX01yQXRBNXNlUFFTWGwyNDlBbjlWMnl0a044WmlDVl8tMnFMSWgtX01Dd25Cc3gxMFROYVVvU1FROHNXeVZ0cVZDdGJSSlBWME45T1ZU?oc=5"
-    },
-    {
-        "title": "Ajose pledges continuity, sustained pressure against terrorists as new OPHK commander - zagazola.org",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 9.8706,
-        "lng": 8.8905,
-        "location": "Jos, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWGRJMkpIWFk1T0ZZYmdFaVFZM1djeE5HQzdQWGR4QVV2UEc2V3piVzRuNVBtdVRQZmdhT3UyUUs2VTA5czhLcHZ4d0dxZHNxNTdkUGxFMW5Od2lyeXo4S29LNi1ENlFubW5jZkljekp6WVFuUW1yVy14dl9sa0tYT1RnX0JUdUNXSWVhd0RvMXNJM0FLR1dqbFFFY3JDNUV1ZnFpTi1kdkRpSkJmdHdyMVpSZnB2ekJ6UnVLeVFxSlZQX0d3ZFJ3dA?oc=5"
     },
     {
         "title": "Terrorist member surrenders with AK-47, explosives in Borno - zagazola.org",
@@ -581,17 +97,6 @@
         "location": "Sand Area, Bayelsa State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNnl3YjhPX1pXTUYxLWVsdnFsU3paU3RTT3VRV0hDQmRKZEdCQ0Y3OEREbXJ2c3RycUMxRnlUdGpnQnZORmdWWlB6d0tQdHl5NmVzY1EwWFhsMHFRZnRoNjUxZ3pfU3Q5QktFeTRrNVpoZjFHdElRUFhicVNFMVBlU3JtRHgtcFp6NDlGWmQxRFpEZmZLQlRxZnUtREIxRXFqTnE4U0tHejJ2MURZYjB0SW9BN29fWUJNMjQ1MXNLNUg4ZlRsQlhzMjNhZEs?oc=5"
-    },
-    {
-        "title": "Troops rescue 10 kidnapped victims in Katsina - zagazola.org",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-15",
-        "lat": 12.5376,
-        "lng": 7.6243,
-        "location": "Victims Area, Katsina State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTZEbG9GWlZBakY0UDByNS1hSHR6VEVDWGRBSmJJeXoxSFNxRFpoeENOaEZ5c0xsc1dTRl8tZldGMDMyUVFhdHROSVI2VFpTVVA5V21XYnJpYUI2MkFLajdENjZjQTdDNEI4eHh3NHN5d1Z0OTVNN0xJQWIwLVRoc2s0MFZ3dlM5LURmdVlrRW1iS3VF?oc=5"
     },
     {
         "title": "Police arrest two, recover 11 phones, laptop after Ogun hostel robbery",
@@ -3496,5 +3001,71 @@
         "location": "Continues Area, Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/curfew-violence-continues-in-plateau-policeman-others-killed/"
+    },
+    {
+        "title": "WHO, Zamfara gov’t train health workers on diphtheria, cholera",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-23",
+        "lat": 12.099,
+        "lng": 6.2239,
+        "location": "Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/who-zamfara-govt-train-health-workers-on-diphtheria-cholera/"
+    },
+    {
+        "title": "Anambra flood: Pupil missing as police rescue nine",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-23",
+        "lat": 6.192,
+        "lng": 7.0499,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/anambra-flood-pupil-missing-as-police-rescue-nine/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian convicted of larceny, money laundering arrested in US",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-23",
+        "lat": 9.9932,
+        "lng": 6.0419,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nigerian-convicted-of-larceny-money-laundering-arrested-in-us/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Six kidnapped Katsina varsity students, driver rescued",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-23",
+        "lat": 12.4881,
+        "lng": 7.6435,
+        "location": "Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/six-kidnapped-katsina-varsity-students-driver-rescued/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops repel terrorists, recover rustled cattle in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-23",
+        "lat": 13.0421,
+        "lng": 5.2883,
+        "location": "Cattle Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/troops-repel-terrorists-recover-rustled-cattle-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "CARSPO 2026: Police explore new tools, strategies for 2027 elections",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-23",
+        "lat": 9.153,
+        "lng": 7.4379,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/ssouth-east/911716-carspo-2026-police-explore-new-tools-strategies-for-2027-elections.html"
     }
 ]
