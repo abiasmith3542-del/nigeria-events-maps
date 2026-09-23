@@ -3133,5 +3133,93 @@
         "location": "Nigeria (General Area)",
         "source": "Google News - Nigeria Local",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DLVJaR3BOakh2blY4enkwTnRxTFFHbW8yS2dFVWNENU1ZX3lqWnl6UmZVUWFpUUxYdFlGTmpwX183eTNFaFcySjVaWU9OYlAwbTVXYUtSd1prUTVKRGhtNEsxTGUtd3Z0Mk1QZzZpVmRRZw?oc=5"
+    },
+    {
+        "title": "7 killed in Plateau as gunmen ambush vigilantes; miners die in pit collapse",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-23",
+        "lat": 9.5265,
+        "lng": 9.4654,
+        "location": "Killed Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/7-killed-in-plateau-as-gunmen-ambush-vigilantes-miners-die-in-pit-collapse/"
+    },
+    {
+        "title": "Troops foil kidnap, rescue 6 varsity students, driver in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-23",
+        "lat": 12.543,
+        "lng": 7.6353,
+        "location": "Driver Area, Katsina State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-foil-kidnap-rescue-6-varsity-students-driver-in-katsina/"
+    },
+    {
+        "title": "Troops arrest three suspected illegal miners, recover equipment in Nasarawa - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-23",
+        "lat": 8.4458,
+        "lng": 8.2107,
+        "location": "Equipment Area, Nasarawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdm0tbzRNZDhYMjdNbnlJR0pLdExzdXN2eExfSVo3TkJTVnVoa1AycTl0ZmdHek9idmdBWllaWmlfY3VLSjMxWTFGMEtWMzFQVXpjY1htTFZyZDl1ZE1xVU91dVRwazJ1TlJvakM2cnpkcldRX3k2MTBneGlQVkJybUVlU3o3N1Y2NlZpdmVadnMzVE5MU0NCZWNIUWp2ZXV1WE1xSERNZ3ctVHRsVEViRllhZUdVRDNFd2Q4?oc=5"
+    },
+    {
+        "title": "Troops arrest two suspected illicit drug peddlers in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-23",
+        "lat": 9.5138,
+        "lng": 9.5276,
+        "location": "Peddlers Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWjZzc3NxSUR0ZDZnaU13dE1DSzVEeE5YQk1qWG9XeURWRUJnWjFteXRzQ0NEZFJRTzBxX2JMUzBoVG9OSXZnalY2ZDJGOXB1azFrR1lMRHBqYTJncGVyQ1RpaWdvbEJ4Vmg0TGdpSGhqcVF2S21FdWJXWFdsamQ2LURqYWdDWnZNcmJmTEFpS0hpZ05ZR1pqUmpSMVRoUDZUd3A3WEM1czg?oc=5"
+    },
+    {
+        "title": "Suspected Fulani militia attack on commercial vehicle leaves two injured, one dead in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-23",
+        "lat": 9.5123,
+        "lng": 9.5487,
+        "location": "Dead Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNzZHRnRNc0J6cmktODRoMTZXYkNCVmRFZXlKcjdoejcwbU93VWxhWDZkQ2ZjUm5WcWdGdTBzcXJLUlpycEtVMkhucnlYbUxoWlVncnQ0a0VpVTZhNlpic3F6U1hoNHZWcEgxN0UwVThyWlFnUUpReDBubUIyODBjOGIzMFI1SHJySnJRMXFFVE82cXJ2R0R4M1JJNlFNeW9uVUFrcWl3NGdHcmJ0NmMzOGF4N3NHVDdZOHBJQjVMWF9zWWQ1RjNjYTFONFY2MTMzMmZr?oc=5"
+    },
+    {
+        "title": "Farmers, herders clash over alleged farm encroachment in Kaduna - zagazola.org",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-23",
+        "lat": 10.4875,
+        "lng": 7.4671,
+        "location": "Encroachment Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzA1Y0l6cWNQcm5tdklULVFtV2dSZkRVZjF1OHFGMW5VOHVXRlA4WDJsbXY4NGczdFRSZENwZjJ3cnF4YmpTZUFicHRDZ3ZoejVFVkZfTjRaeFZhcUhCSnZIdzdxLWRHNUVJbFlMV3NrQWZsVHprX2h4ZG1hWWJvZEstQjdGOWpMVERuQ0M5eENCUWhnN05yb1NoY0ZnLTFEdVJDXzNYZXdjblE?oc=5"
+    },
+    {
+        "title": "Troops foil kidnap attempt, rescue three victims in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-23",
+        "lat": 9.5141,
+        "lng": 9.4612,
+        "location": "Victims Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHUydjllaXc5NVhQZUQ4UUhidWd4ZlFEVW50VDFQN3A4TzZSV3REY1haeVo5NXJsdFFuSWs1OVRRbXlyM3BKc0l2UWhyaXNQNVEtcEpQMnE1RVJwMUJ6VUdaM0gzemkzNF9Fc2J0OUViTURWY1A1Q2pLTko3TTVTZEdTajAwSV83dHVZcjRma2oyMzdyZ1Qxa1RGQjVRZlZ0ZlVYSURB?oc=5"
+    },
+    {
+        "title": "Four illegal miners killed as mining pit collapses in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-23",
+        "lat": 9.5009,
+        "lng": 9.4848,
+        "location": "Collapses Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1MxLVNCektvRHQ2VG1ZQl9RcmZPdm5LRGZlV1NQTXUxNTBJd0dRS283RGJxR1dyc3M0ckJmVk10U25EbV9NU0xLR1Y2UUlCZEtWSVl4eXVPM25BaGtrUDJnMlBHQk1uNWE1TElaWUVQQ0VFT20zR1BKam9QUFdaUXhiTWtQb0Y1SGtabjNqUGhpYlo2Yk9nXy05T0h1YUVmTVM4ZF9vVk1zdw?oc=5"
     }
 ]
