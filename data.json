@@ -3331,5 +3331,27 @@
         "location": "Rivers State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/regional/south-south-regional/911884-group-calls-for-probe-after-rivers-gas-explosion-survivor-dies-amid-unresolved-emissions.html"
+    },
+    {
+        "title": "Cross River Police solicits public assistance to identify female ritual victim",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-23",
+        "lat": 5.8022,
+        "lng": 8.52,
+        "location": "Cross River State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/cross-river-police-solicits-public-assistance-to-identify-female-ritual-victim/"
+    },
+    {
+        "title": "Two local miners killed in fresh Plateau attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-23",
+        "lat": 9.4683,
+        "lng": 9.5168,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/two-local-miners-killed-in-fresh-plateau-attack/"
     }
 ]
