@@ -2869,5 +2869,60 @@
         "location": "Benue State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/abducted-benue-doctor-found-in-police-custody/"
+    },
+    {
+        "title": "Police seal suspected fake wine factory in Lagos",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-24",
+        "lat": 6.5321,
+        "lng": 3.4161,
+        "location": "Factory Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/police-seal-suspected-fake-wine-factory-in-lagos/"
+    },
+    {
+        "title": "Police arraign six suspects for sexual misconduct, child abuse in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-24",
+        "lat": 6.1494,
+        "lng": 6.9624,
+        "location": "Abuse Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arraign-six-suspects-for-sexual-misconduct-child-abuse-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest 17-year-old for defiling three-year-old girl in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-24",
+        "lat": 8.0204,
+        "lng": 4.0224,
+        "location": "Girl Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-17-year-old-for-defiling-three-year-old-girl-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2027: Atiku Was Accidental Vice President, Unfit For Nigeria’s President, Says APC ",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-24",
+        "lat": 9.9421,
+        "lng": 5.9612,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/2027-atiku-was-accidental-vice-president-unfit-for-nigerias-president-says-apc/"
+    },
+    {
+        "title": "Joshua, Fury set for Dec 11 Cardiff clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-24",
+        "lat": 9.853,
+        "lng": 8.9079,
+        "location": "Jos, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/joshua-fury-set-for-dec-11-cardiff-clash/"
     }
 ]
