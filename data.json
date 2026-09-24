@@ -2924,5 +2924,104 @@
         "location": "Jos, Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/joshua-fury-set-for-dec-11-cardiff-clash/"
+    },
+    {
+        "title": "FG launches online discount shop for troops, veterans in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-24",
+        "lat": 9.0113,
+        "lng": 7.5324,
+        "location": "Veterans Area, Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/fg-launches-online-discount-shop-for-troops-veterans-in-abuja/"
+    },
+    {
+        "title": "Abducted Zamfara LG chairman, four others regain freedom ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-24",
+        "lat": 6.475,
+        "lng": 5.9719,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/abducted-zamfara-lg-chairman-four-others-regain-freedom/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Residents storm Ogun Governor’s Office, protest barefoot over bad roads, others",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-24",
+        "lat": 6.9868,
+        "lng": 3.5393,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/residents-storm-ogun-governors-office-protest-barefoot-over-bad-roads-others/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops rescue four men intercepted during curfew enforcement in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-24",
+        "lat": 9.5416,
+        "lng": 9.4608,
+        "location": "Enforcement Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHRrNVRWSU1JRzhYSzZxUkdaMExYMUxsNnJSdnlPVGE2U3FmWGd6Y29CRklCQ0FXT0hrSUNMck9UVzR4WlNocGUwOGpUWlloMkZ0UUU0enRVWTY1OHh3VVR1cFVDMFByd2lGTUZxOVItWG54dlFQN0dENU9LSW9ZdF9RTUNtc2lkN3V2akZVQUNJSGNpaExsS0ZaMWJTS0FjaUpLcjY3TGJMNGdsSXBEY0FzcHRNSUk?oc=5"
+    },
+    {
+        "title": "Fulani Bandits Killed Two vigilantes in Plateau Tit for Tat Attack - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-24",
+        "lat": 9.4901,
+        "lng": 9.4507,
+        "location": "Vigilantes Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcVB4U0dlb1RSVkNRSG9ZZmgxWUJCWkdYcFV1cTI0QVRHNVM1dGtxdERZQ0g3cU9xcjVZM1l5TG5rMHRQOURMVFBIMUdnNlpEdGVweWlqWVJvOG9Cbi02b29FSjVpQ2lncndHMnNoazBjSzUySVVZcWlsYnNPZlJEYloxQkh5U29KNnJETGo4QklzX0ZZX19zVUxGVHhVcWZrMjZhLTRUUkd1T2lxSzE0bA?oc=5"
+    },
+    {
+        "title": "Two locals killed at mining site by Fulani bandits in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-24",
+        "lat": 9.4818,
+        "lng": 9.5456,
+        "location": "Bandits Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmR1dTFCb0hvWXRkSG9CLWJaVnREUW5nZXc2bnJ5WkJmUlo1azFFME1kYVU2anduRmJRUnk3akNNQWl5ampwVG5lcU0wemctNDl1aEpWVlNxRW5VekhnM21tOWV1QkE5TWtXNzVGamdONkNIa19rLWpqVkVCNVlvNDh5bWlEYkNOWHIyai15eXdEdXhiS3AwSUY2V0o0YWY3MGN0OUk5S1R0dw?oc=5"
+    },
+    {
+        "title": "Two suspected cattle rustlers arrested with stolen cow in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-24",
+        "lat": 9.5146,
+        "lng": 9.4572,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSjB1WHZJbzVYOEN0a1RXbVF6aHZ5WFhLcTNDa1gwYWI2RXNNYjVFVWtZZkkyR0xjWXNzSzk0UnJzTndFNi1GSjZQck9JYmVSVC1jNmNxZE5RRnRoSnRKaTd6aGNOR08zZUYxbWdFRUVxOFNVcWYwUmFjQTJBWTRpS0FEbXNKUzJpYTh6ejFBdDlaNTJDbHVWbWZOYVo2aG0yTE5NOW5MODVNWWhaVkFR?oc=5"
+    },
+    {
+        "title": "Bungudu LGA chairman, four other kidnap victims escape terrorists’ captivity in Zamfara - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-24",
+        "lat": 12.126,
+        "lng": 6.2202,
+        "location": "Captivity Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUWlQdmlQb3F3VlhXNFViSUpKRTY5b1NSMVI3enhLdFJpUDJJX2VfVFZ0Q1BCXzBabzRKWllkeVc3Z1dMYW01YUEtZjk2NFlVVWdEN2ZSZUxETHo5dGNKSUlQMDhDeERNOU56R3FRdXh6ZG43YmRaMDZIdUZwVVpaZ3ZjN2JYXzdaUGlaWE1SNUtGYVdZZkdScDUzaTlFdHhIWVVmaVJUeGliOXR6WjhpLXVETkhicjJBTkRELXFxVDlVTUlram1SSmVB?oc=5"
+    },
+    {
+        "title": "Motorcycle rider killed, motorcycle snatched in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-24",
+        "lat": 9.4984,
+        "lng": 9.4627,
+        "location": "Snatched Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVE9sdE0wTkFQendlcnN0QVFhRWh3UEFXTTRzd0xlbV83TDR0YzdmQWU2Q2dIeWNleHZ1bzJlOGgyeGpmMlNqb0JORkotN3BpRmR0M3BVTmw2dmFHemtmcXZqS2F1dGhNb09HWHJuQzk4OEtrOVlIQW5Wei0yb0liSi02Mnd6RWZ4S3gzQ0JyTE44UTRHemVXMFE5YVhTZXBu?oc=5"
     }
 ]
