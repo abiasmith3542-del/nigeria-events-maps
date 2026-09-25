@@ -2891,5 +2891,71 @@
         "location": "Niger State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTdsWVRyVVpBSUNPVTMyYUljcU9Ra25jaXZMbHJWZ3NmemJKZl9VYS04b3NqbjZ3MWZQWGM0X18wdG1xM2RrOGZFbFJZRGVzQzFUWDM4YUs0NVFmUzJ0YlZ6MDFveEV5cldGdnUtM1QwNkg2a202eFJmR2dhSHZEVEFaa3k4QXIyWTdnXzlJa1ctREFCcWJB?oc=5"
+    },
+    {
+        "title": "Youths protest eight-month blackout in Edo communities",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-25",
+        "lat": 6.5149,
+        "lng": 5.9862,
+        "location": "Blackout Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/youths-protest-eight-month-blackout-in-edo-communities/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man over neighbour’s death in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-25",
+        "lat": 7.0129,
+        "lng": 3.473,
+        "location": "Death Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ogun-police-arrest-man-over-neighbours-death/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police crack cattle rustling gang, arrest seven in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-25",
+        "lat": 12.0081,
+        "lng": 9.779,
+        "location": "Seven Area, Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-crack-cattle-rustling-gang-arrest-seven-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "One killed, another injured as youths clash in Jigawa ",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-25",
+        "lat": 11.9953,
+        "lng": 9.7469,
+        "location": "Clash Area, Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/one-killed-another-injured-as-youths-clash-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "APC, Osun Assembly clash over proposed park management system",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-25",
+        "lat": 7.5557,
+        "lng": 4.4773,
+        "location": "Osun State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/912331-apc-osun-assembly-clash-over-proposed-park-management-system.html"
+    },
+    {
+        "title": "Police arrest suspected cattle rustlers, recover 8 cows in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-25",
+        "lat": 11.9854,
+        "lng": 9.7624,
+        "location": "Cows Area, Jigawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-suspected-cattle-rustlers-recover-8-cows-in-jigawa/"
     }
 ]
