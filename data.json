@@ -2957,5 +2957,71 @@
         "location": "Cows Area, Jigawa State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-arrest-suspected-cattle-rustlers-recover-8-cows-in-jigawa/"
+    },
+    {
+        "title": "Gunmen kill four in Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-25",
+        "lat": 10.0101,
+        "lng": 5.9548,
+        "location": "Four Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/gunmen-kill-four-in-niger/"
+    },
+    {
+        "title": "Police detain Enugu building owner as overhead tank collapse kills 5",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-25",
+        "lat": 6.5459,
+        "lng": 7.5221,
+        "location": "Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/police-detain-enugu-building-owner-as-overhead-tank-collapse-kills-5/"
+    },
+    {
+        "title": "Man arrested over death of university graduate in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-25",
+        "lat": 6.9555,
+        "lng": 3.559,
+        "location": "Graduate Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/man-arrested-over-death-of-university-graduate-in-ogun/"
+    },
+    {
+        "title": "Police arrest one, track two aides over Delta director’s death",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-25",
+        "lat": 5.4832,
+        "lng": 5.9719,
+        "location": "Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-one-track-two-aides-over-delta-directors-death/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man for phone fraud, gun possession in Abia",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-25",
+        "lat": 5.3874,
+        "lng": 7.5347,
+        "location": "Possession Area, Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-for-phone-fraud-gun-possession-in-abia/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops intercept ₦2.7m ransom, phones meant for terror kingpin in Katsina - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-25",
+        "lat": 12.5534,
+        "lng": 7.6347,
+        "location": "Kingpin Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSFoyTjZUNllHeXI5dWd2cThxZFNvQnRsbE84eEVoUjNzbU42clI0cjlmZ0lOQkNUWGVFTVlRRHpSX2toS3R6a1djVnZ5QTI2UHZ2TFRpOENqVFNtcjR6TlhNQjNUaGFaMDBhR3IyV3VtZzJCcWFJRHdJYnJJVnYwa0hVY2R4Qm1sNVZVczZkVkg2amlMZ1dsUlgtVnpYMHRvTnFnTVNod0VaMVQ4ZExyWTI3Q3ZjVWM?oc=5"
     }
 ]
