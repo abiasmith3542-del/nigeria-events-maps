@@ -2968,5 +2968,49 @@
         "location": "Watch Area, Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/diphtheria-31-killed-469-placed-under-watch-in-plateau/"
+    },
+    {
+        "title": "Cholera outbreak kills two inmates at Kano custodial centre",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-26",
+        "lat": 12.0371,
+        "lng": 8.5509,
+        "location": "Inmates Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/cholera-outbreak-kills-two-inmates-at-kano-custodial-centre/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Five miners feared killed, two injured by gunmen in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 9.5158,
+        "lng": 9.5231,
+        "location": "Gunmen Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/five-miners-feared-killed-two-injured-by-gunmen-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits abduct 5 in fresh attack on Zamfara Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 12.105,
+        "lng": 6.2163,
+        "location": "Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-abduct-5-in-fresh-attack-on-zamfara-community/"
+    },
+    {
+        "title": "Troops rescue 6 kidnap victims in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 7.3732,
+        "lng": 8.8095,
+        "location": "Victims Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-rescue-6-kidnap-victims-in-benue/"
     }
 ]
