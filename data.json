@@ -2880,5 +2880,93 @@
         "location": "Niger State",
         "source": "WHO Africa Outbreaks",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yNWVjUTlIaTR2V1RvVnlNY1cxNG5aTU16bEhwTlZWbTJXUFN2ZFJKSEpEWXk4Q1Z4RU1GSTd1aXZuTHBna1pZQVBKczZmSDF1d1B5MTRINWh1UDZ1d3FzNXlHZHM1UQ?oc=5"
+    },
+    {
+        "title": "Five miners killed in fresh Plateau attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 9.4458,
+        "lng": 9.4964,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/five-miners-killed-in-fresh-plateau-attack/"
+    },
+    {
+        "title": "Police, DSS, ICPC cleared me of allegations — Gbajabiamila",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 5.4471,
+        "lng": 7.5582,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-dss-icpc-cleared-me-of-allegations-gbajabiamila/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigeria needs skilled problem-solvers, not certificate holders – ex-EKSU VC",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 9.9559,
+        "lng": 6.0027,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nigeria-needs-skilled-problem-solvers-not-certificate-holders-ex-eksu-vc/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Woman, two hotel workers linked to dumped body in Abuja – Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 9.0577,
+        "lng": 7.4535,
+        "location": "Body Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/woman-two-hotel-workers-linked-to-dumped-body-in-abuja-police/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Arrest Married Woman For Lover’s Death In Abuja Hotel",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 9.0569,
+        "lng": 7.5458,
+        "location": "Death Area, Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-married-woman-for-lovers-death-in-abuja-hotel/"
+    },
+    {
+        "title": "Abuja: How man who took married woman to hotel was found dead, abandoned by roadside",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 9.0519,
+        "lng": 7.4522,
+        "location": "Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/abuja-how-man-who-took-married-woman-to-hotel-was-found-dead-abandoned-by-roadside/"
+    },
+    {
+        "title": "Miners shot dead in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 9.4823,
+        "lng": 9.5555,
+        "location": "Dead Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/breaking-miners-shot-dead-in-plateau/"
+    },
+    {
+        "title": "Diphtheria: 31 killed, 469 placed under watch in Plateau",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 9.518,
+        "lng": 9.5008,
+        "location": "Watch Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/diphtheria-31-killed-469-placed-under-watch-in-plateau/"
     }
 ]
