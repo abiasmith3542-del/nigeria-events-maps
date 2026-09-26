@@ -2682,5 +2682,38 @@
         "location": "Site Area, Jos, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLVJjMDh3cHNwRGVWeTJDY05EbHRZcGVEd3lBRWNBNXRLTHhMZXNlZWMwYXRlamZhWUR0NGI1ZDd0M0pMSTNidXNvX3hMZU14d1dka1d6ZGs4ZklpTGR4Vk1qMDQ3alhYTVlaaVJ2bEZfXzlTUVN4RkN2emZIZWt6Vnl5dk1sWUtTT0VPWFZpQzVWbERyUHFBQm11TXFUSWlvSmRkUkdqOA?oc=5"
+    },
+    {
+        "title": "Alleged Fatal Assault: NLC declares strike in Delta",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 5.5413,
+        "lng": 6.0187,
+        "location": "Strike Area, Delta State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/alleged-fatal-assault-nlc-declares-strike-in-delta/"
+    },
+    {
+        "title": "N8,000 debt suicide: How Oyo police triggered ‘poor’ student’s death",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 7.9796,
+        "lng": 3.9425,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/n8000-debt-suicide-how-oyo-police-triggered-poor-students-death/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Man wanted for Killing business partner in Niger Republic arrested in Kebbi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 11.4374,
+        "lng": 4.2059,
+        "location": "Arrested Area, Kebbi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/man-wanted-for-killing-business-partner-in-niger-republic-arrested-in-kebbi/"
     }
 ]
