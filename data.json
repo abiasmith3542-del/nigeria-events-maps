@@ -2715,5 +2715,170 @@
         "location": "Arrested Area, Kebbi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/man-wanted-for-killing-business-partner-in-niger-republic-arrested-in-kebbi/"
+    },
+    {
+        "title": "Military rescues 60 victims, arrests 44 suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 9.0514,
+        "lng": 7.5838,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/military-rescues-60-victims-arrests-44-suspects/"
+    },
+    {
+        "title": "Tenth woman found dead in South Africa’s string of killings",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 9.0724,
+        "lng": 7.566,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/tenth-woman-found-dead-in-south-africas-string-of-killings/"
+    },
+    {
+        "title": "Soldiers rescue 14 kidnapped in Katsina, arrest terrorist logistics couriers",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 12.4926,
+        "lng": 7.5717,
+        "location": "Kidnapped Area, Katsina State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/soldiers-rescue-14-kidnapped-in-katsina-arrest-terrorist-logistics-couriers/"
+    },
+    {
+        "title": "Next pandemic is a matter of when, not if — WHO DG",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-26",
+        "lat": 9.0649,
+        "lng": 7.5683,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/next-pandemic-is-a-matter-of-when-not-if-who-dg/"
+    },
+    {
+        "title": "Police rescue kidnap victim, arrest suspect in Rivers",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 4.7816,
+        "lng": 6.8792,
+        "location": "Suspect Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-kidnap-victim-arrest-suspect-in-rivers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Soldiers thwart terrorist attack, recover AK-47 in Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 10.4511,
+        "lng": 7.5472,
+        "location": "Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-thwart-terrorist-attack-recover-ak-47-in-kaduna/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Amnesty International Raises Alarm Over Suspected Cholera Outbreak At Kano Prison",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-26",
+        "lat": 11.9703,
+        "lng": 8.539,
+        "location": "Outbreak Area, Kano State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/amnesty-international-raises-alarm-over-suspected-cholera-outbreak-at-kano-prison/"
+    },
+    {
+        "title": "Troops Rescue 14 Kidnap Victims, Recover AK-47, Ammunition in Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 12.5444,
+        "lng": 7.6392,
+        "location": "Ammunition Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1bFVQQnN1SnhyVVdDY0ppdmpQdzJvdTRvMkRoQTRFaVBqR3pqQ3hvTmNxRTRtc1BTZFBRRlhEdGlaODUyR1FWWDRfQnhheWZTY3BrcFE2bE45NVEzbGNNYk9hNU1rWW0zc2VocmVWdUx3UGc?oc=5"
+    },
+    {
+        "title": "FANSAN YAMMA: Troops Rescue 14 Kidnap Victims, Arrest Ransom Couriers in Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 12.5291,
+        "lng": 7.6208,
+        "location": "Couriers Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tNHI3SUpqU284WGxRZDAwbE9MNHRjQ183SHRrVE1PUHVqYmZURjJlM1ZCT3NBVHM5aDgzMldMZTF2TFNpRWpyeFd0ckVUWlZ2OGx6eU5LVTVKUV9weWdHakFwQ3l6V2RKXzlBZQ?oc=5"
+    },
+    {
+        "title": "District head rescued from mob attack in Jos East - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 9.8493,
+        "lng": 8.8909,
+        "location": "Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUlfRnJPOTdncTlXNUhFblNRZWJZTjNfRGZsNUc3Z0RDZF94WGJHV2JldmkxTjJXdWJIOGs5NS1jeVVlckN1aHdrM0VlVzVRdkNTMWRRM21HTDMtT3VPV2ZmbURHUFE2aGtOQmlpQ2ljSlNEbEZvUHl5UkNTNHg3dF9CYU8za1dkSDN5S1FrMmh1ODNhSzlPSG1R?oc=5"
+    },
+    {
+        "title": "Troops arrest suspected cattle rustler in Kaduna - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 10.4871,
+        "lng": 7.4832,
+        "location": "Rustler Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbHJCRXRNc1E1VXFsWTlxeWp6Y3VRUnF5ajBidVNmbG9laXBWV2Zyak04ajhPWDlvNS1VX09pUWxfX012bUp4bEc1MWRBTlhIU3VBTUw5N3BYUEJXengtZGNUelpTNjhMLThIbUlNQW9nZ0ZMMEZlTklkbXk4TDJzWlFLRTA3QzVBOWJHaGRuZ2dMTHZDdmt6cQ?oc=5"
+    },
+    {
+        "title": "Operation FANSAN YAMMA: Troops thwart terrorist attack, recover AK-47, arrest suspect in Kaduna - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 10.533,
+        "lng": 7.5246,
+        "location": "Suspect Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORFNOTnY5Zkc4ZnQ1U1hGTERWaWpEUlIxc0JuQW9vNkNmYW1fc3NvaktjZnpIYm5XdkVPRHNTZFpGelAySHY2Yk5wTW01bTdWMUh1TGs5MHBLQVpSSERHbVNwU1VUb3hwYWhEY1pSSHNrUVlVOXE5aTNKUDAyWm1NOGxqTng3TDQxUHZhbjNmNXNNUW5IRlJ0SHVnUU5mZkFjVXRRdjhCNDlyd3VlbjZoSkYzNTJ6WTFpa1J1eUdOMVdZV1A1UnJROHpGcUpldkVmc3Br?oc=5"
+    },
+    {
+        "title": "Troops rescue 14 kidnapped victims, recover arms, ammunition in Katsina - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 12.5375,
+        "lng": 7.6091,
+        "location": "Ammunition Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWtXUGVnRF9PckJOTVZJRElwTjhnbDI0bFdqd0R4MVc5cXA0V0ExOTUzZzRRaFl3U2hUQndOWDByVXRFUGpuMDh2Z1ZmTm9EUll6SjJwS1p4Q2tKaFc5QUMxUnFId2JPNjBYdklDeTFwMGtHNGdwcHVmbnNXanUtRVdHcTdTV3hEUHZaSGVkZXlZa0c5d3FjWXM1ckVuYk13LXJwQzRaY3gtSERhbEdOcmVsdmw?oc=5"
+    },
+    {
+        "title": "Police foil abduction attempt, rescue 7 victims in Katsina - The Guardian Nigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-26",
+        "lat": 12.4895,
+        "lng": 7.5936,
+        "location": "Victims Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRjc1U09EaGNZVVZOZTNHelprWFh5QkN2cWVsT3V4TWdUdVVSclRvNzRwOHBVaHl1TzFaNlJJU01GTHZ6d2Zmd3VDcFdwcnl6R3pUdC1SVVRxMVA4ck1za3JOVExQN0wxU3lXMm5GSlBJRkVtS001eUlHcmNpSnZNZTdLbEdsU3h0dVNV?oc=5"
+    },
+    {
+        "title": "As Nigeria battles COVID-19, volunteers remain critical to the outbreak response. - WHO | Regional Office for Africa",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-25",
+        "lat": 10.0546,
+        "lng": 5.9569,
+        "location": "Niger State",
+        "source": "WHO Africa Outbreaks",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yNWVjUTlIaTR2V1RvVnlNY1cxNG5aTU16bEhwTlZWbTJXUFN2ZFJKSEpEWXk4Q1Z4RU1GSTd1aXZuTHBna1pZQVBKczZmSDF1d1B5MTRINWh1UDZ1d3FzNXlHZHM1UQ?oc=5"
     }
 ]
