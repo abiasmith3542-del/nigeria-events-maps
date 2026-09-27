@@ -2979,5 +2979,60 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CYUp5VVpWOW0tTWx0VFh1dndHeGxDUUViZ3l2SlY4cWdncVRfUGxla2NucXNYdE9ybmZfMmEybW5rY1R4dUF6dFVjNG5hQzA0cW5YQXl2N3g2UzFBeUVnamx2OHM4Q3hZc3A2cmF1N3I?oc=5"
+    },
+    {
+        "title": "FCT Police hunt driver after vehicle crashes into Byazhin gas plant, sparks fire",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 9.104,
+        "lng": 7.5041,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/fct-police-hunt-driver-after-vehicle-crashes-into-byazhin-gas-plant-sparks-fire/"
+    },
+    {
+        "title": "Ondo police probe electrocution of two minors",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 7.2814,
+        "lng": 5.2541,
+        "location": "Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/ondo-police-probe-electrocution-of-two-minors/"
+    },
+    {
+        "title": "Lagos varsities strike: No dialogue yet with Sanwo-Olu 12 days after — ASUU",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-27",
+        "lat": 6.5307,
+        "lng": 3.3681,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/lagos-varsities-strike-no-dialogue-yet-with-sanwo-olu-12-days-after-asuu/"
+    },
+    {
+        "title": "Family Rejects Delta Govt, Police Condolence Visits Over Civil Servant’s Death",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 5.4624,
+        "lng": 5.9587,
+        "location": "Delta State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/family-rejects-delta-govt-police-condolence-visits-over-civil-servants-death/"
+    },
+    {
+        "title": "Troops Neutralise Terrorist, Rescue 6 Kidnap Victims In Sokoto, Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-27",
+        "lat": 13.0784,
+        "lng": 5.2577,
+        "location": "Victims Area, Sokoto State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-neutralise-terrorist-rescue-6-kidnap-victims-in-sokoto-zamfara/"
     }
 ]
