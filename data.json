@@ -2946,5 +2946,38 @@
         "location": "Couple Area, Kwara State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iUURjakVHb2YzWWVZSmdSYUlROUh4V3U1T0l3cVRfdlVSUlNvanFZa201emlybnkycGVmclh2MEt4cXhOWnY5b21aYnQ5eFdkdC1zLU9xdzIwNU5weG9tZENTT0N0VDBCMlhWbTZ0Mzh4bjRTWUFHcjR5a2QzTjg?oc=5"
+    },
+    {
+        "title": "Police disrupt cult gathering in Anambra, arrest suspect",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 6.1488,
+        "lng": 7.0249,
+        "location": "Gathering Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-disrupt-cult-gathering-in-anambra-arrest-suspect/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Assailants Stab Gombe Woman To Death, Police Arrest 2 Suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 10.2259,
+        "lng": 11.2211,
+        "location": "Gombe State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/assailants-stab-gombe-woman-to-death-police-arrest-2-suspects/"
+    },
+    {
+        "title": "Troops raid terrorist hideout in Sokoto, kill one, recover firearm - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-27",
+        "lat": 10.0328,
+        "lng": 6.0085,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CYUp5VVpWOW0tTWx0VFh1dndHeGxDUUViZ3l2SlY4cWdncVRfUGxla2NucXNYdE9ybmZfMmEybW5rY1R4dUF6dFVjNG5hQzA0cW5YQXl2N3g2UzFBeUVnamx2OHM4Q3hZc3A2cmF1N3I?oc=5"
     }
 ]
