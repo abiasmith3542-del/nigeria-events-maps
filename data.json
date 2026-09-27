@@ -2682,5 +2682,82 @@
         "location": "Abuja (FCT)",
         "source": "Leadership News",
         "url": "https://leadership.ng/abuja-man-dumped-under-bridge-died-on-top-of-married-woman-police/"
+    },
+    {
+        "title": "Terror attacks: Tombo people demand urgent action as killings persist in Benue ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-26",
+        "lat": 7.3036,
+        "lng": 8.7336,
+        "location": "Persist Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/terror-attacks-tombo-people-demand-urgent-action-as-killings-persist-in-benue/"
+    },
+    {
+        "title": "Police arrest 11 suspects in Ogun, recover stolen vehicles, firearms",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 6.9597,
+        "lng": 3.5196,
+        "location": "Suspects Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-11-suspects-in-ogun-recover-stolen-vehicles-firearms/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police bust Lagos syndicate over N20bn goods diversion",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 6.5374,
+        "lng": 3.4068,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-bust-lagos-syndicate-over-n20bn-goods-diversion/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill miners in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 9.4858,
+        "lng": 9.5288,
+        "location": "Miners Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-kill-miners-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Cholera: Two Kano inmates die",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-27",
+        "lat": 11.9797,
+        "lng": 8.633,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/cholera-two-kano-inmates-die/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops raid terrorists’ enclave, neutralise fighter, recover AK-47 in Sokoto - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-27",
+        "lat": 13.0477,
+        "lng": 5.244,
+        "location": "Sokoto State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGlpODlJWU9CYkExQ1F3dFQ3WnJVeXYxNVJPa2dFdFF5RTFJekZGWXg4TjB0M1gzcmRTcTVCcEh0dU95RGRwYWNmbU9sbWJXSV9xMFFobjQtSFY4TVU5TWRpbnZIN1JKNTctX3ZBUkdMOEdhSWRsMHVZYjkxUW4zTk1oODAxczBJbl9uYzJpU3dJekhRN1A0MTYzcldQLWhYMUYwQzhuc05oSm1WdTIwWlJjQlZ6NndtaXc?oc=5"
+    },
+    {
+        "title": "Troops foil kidnapping attempt, rescue six family members in Zamfara - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 12.0771,
+        "lng": 6.2,
+        "location": "Members Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWszTllHNUNabjB1dFFqRWFnODBYam1RbkNCWGxzMW01eDJZOVU3RHJoMVZKNC1YTFMwcmM2MXBFVXdleURyZUkwdTBqbEx3UDFPRVE0cFNZV2hOS3dxZ19sNDEwVnB0aUtIMG9oMC16QkNtM1l3Vm9URzFoazRrWnlFNHVNd0ZwckV5NHlaWERjdU8yb09EdFI5VFRNOVJJTVlqTktEc01ieFpvQ1RLUWJn?oc=5"
     }
 ]
