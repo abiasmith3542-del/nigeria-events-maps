@@ -2858,5 +2858,93 @@
         "location": "Store Area, Abuja (FCT)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/explosion-as-car-rams-into-gas-store-in-abuja/"
+    },
+    {
+        "title": "Troops rescue 6 kidnapped victims in Benue State",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-27",
+        "lat": 7.2924,
+        "lng": 8.7818,
+        "location": "Victims Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-rescue-6-kidnapped-victims-in-benue-state/"
+    },
+    {
+        "title": "Terrorists abduct newlywed couple, four others in Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-27",
+        "lat": 8.5081,
+        "lng": 4.5923,
+        "location": "Others Area, Kwara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/terrorists-abduct-newlywed-couple-four-others-in-kwara/"
+    },
+    {
+        "title": "Police arrest two over kidnapping of 38-year-old man in Oyo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 8.0283,
+        "lng": 3.9852,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-over-kidnapping-of-38-year-old-man-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Adamawa: Teacher arrested over alleged rape of 10-year-old girl ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 9.2959,
+        "lng": 12.4789,
+        "location": "Adamawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/adamawa-teacher-arrested-over-alleged-rape-of-10-year-old-girl/"
+    },
+    {
+        "title": "Rabid dog attacks 18 in Kano Community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-27",
+        "lat": 12.0564,
+        "lng": 8.6013,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/rabid-dog-attacks-18-in-kano-community/"
+    },
+    {
+        "title": "Newlywed Couple Abducted In Kogi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-27",
+        "lat": 7.824,
+        "lng": 6.7069,
+        "location": "Abducted Area, Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/newlywed-couple-abducted-in-kogi/"
+    },
+    {
+        "title": "Troops intervene as suspected farm destruction triggers tension in Jos North - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-27",
+        "lat": 9.8398,
+        "lng": 8.7985,
+        "location": "Tension Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZWs0TUNieW1kRHVmd1VUa0VhVFZHcVZFRzNaTzBCUkFmTkdyUTczamN1b1ZzV0pfSTVJNi0zUHMyT0JoQWtYY2dCSExzM1NLbVQ4cVR4ZjY5bWxOWlIyUWc4X29HQlhoejVVcG5CcERmWlpCM0tYb0Yxei1ER2E2MlhnbnZrdzhLS01ISmVTLTh0blVzblNEQ3VXendybl93VHdOT3Fza2Y4T2piZG9YNEsteWZlSHhqbmw3ZkVR?oc=5"
+    },
+    {
+        "title": "Bandits abduct new couple in Kwara - The Guardian Nigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-27",
+        "lat": 8.5351,
+        "lng": 4.599,
+        "location": "Couple Area, Kwara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iUURjakVHb2YzWWVZSmdSYUlROUh4V3U1T0l3cVRfdlVSUlNvanFZa201emlybnkycGVmclh2MEt4cXhOWnY5b21aYnQ5eFdkdC1zLU9xdzIwNU5weG9tZENTT0N0VDBCMlhWbTZ0Mzh4bjRTWUFHcjR5a2QzTjg?oc=5"
     }
 ]
