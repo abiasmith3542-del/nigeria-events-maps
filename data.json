@@ -2649,5 +2649,115 @@
         "location": "Killed Area, Ogun State",
         "source": "Punch Metro",
         "url": "https://punchng.com/man-allegedly-mistaken-for-cultist-killed-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Israeli forces kill October 7 attacker filmed abducting couple",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 9.0042,
+        "lng": 7.4889,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/israeli-forces-kill-october-7-attacker-filmed-abducting-couple/"
+    },
+    {
+        "title": "Police arrest two over killing of officer’s wife in Gombe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 10.262,
+        "lng": 11.1989,
+        "location": "Wife Area, Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-over-killing-of-officers-wife-in-gombe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Niger mosque attacks: 14 members of my family in captivity – Student",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 10.0527,
+        "lng": 5.9409,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/niger-mosque-attacks-14-members-of-my-family-in-captivity-student/"
+    },
+    {
+        "title": "State police bill faces legal battle",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 9.1172,
+        "lng": 7.5304,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/state-police-bill-faces-legal-battle/"
+    },
+    {
+        "title": "Bandits kill Katsina LG health secretary",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 12.4903,
+        "lng": 7.6237,
+        "location": "Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-katsina-lg-health-secretary/"
+    },
+    {
+        "title": "Amnesty, correctional service differ as cholera kills inmates in Kano prison",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-28",
+        "lat": 11.9615,
+        "lng": 8.5871,
+        "location": "Inmates Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/amnesty-correctional-service-differ-as-cholera-kills-inmates-in-kano-prison/"
+    },
+    {
+        "title": "Troops kill terrorist, rescue kidnap victims in Sokoto, Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 13.0693,
+        "lng": 5.1845,
+        "location": "Victims Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-kill-terrorist-rescue-kidnap-victims-in-sokoto-zamfara/"
+    },
+    {
+        "title": "Bandits abduct 9, rustle over 200 livestock in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 13.1153,
+        "lng": 5.2584,
+        "location": "Livestock Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-abduct-9-rustle-over-200-livestock-in-sokoto/"
+    },
+    {
+        "title": "Ogun police arrest suspected fraudster with 25 ATM cards",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 7.0361,
+        "lng": 3.4415,
+        "location": "Ogun State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ogun-police-arrest-suspected-fraudster-with-25-atm-cards/"
+    },
+    {
+        "title": "Bandits abduct five in Zamfara, kidnap couple in Kwara - The Guardian Nigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 8.4828,
+        "lng": 4.5414,
+        "location": "Couple Area, Kwara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVJ4bnI4ckZqSjRXSl9zS3NyMGlhTXZtNWlPdkEtQ1pNdDFvUUJwcHVTeW45MDRGcmFFRTVTQW95YmlUeHdjbzFWV19JY2sxVnE5eW9XMDlxaHZhNDhkNUJ2ZWZCMGV0SEZOYmN2RmExdy1tVWoyZEhRWTI4N1k1V1ByQ1lZQQ?oc=5"
     }
 ]
