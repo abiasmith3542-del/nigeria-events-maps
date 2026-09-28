@@ -2759,5 +2759,181 @@
         "location": "Couple Area, Kwara State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVJ4bnI4ckZqSjRXSl9zS3NyMGlhTXZtNWlPdkEtQ1pNdDFvUUJwcHVTeW45MDRGcmFFRTVTQW95YmlUeHdjbzFWV19JY2sxVnE5eW9XMDlxaHZhNDhkNUJ2ZWZCMGV0SEZOYmN2RmExdy1tVWoyZEhRWTI4N1k1V1ByQ1lZQQ?oc=5"
+    },
+    {
+        "title": "NDLEA, Army destroy cannabis farms, arrest two suspects in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 6.4592,
+        "lng": 5.9746,
+        "location": "Suspects Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ndlea-army-destroy-cannabis-farms-arrest-two-suspects-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Rivers assembly backs state police bill",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 4.7577,
+        "lng": 6.7794,
+        "location": "Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/rivers-assembly-backs-state-police-bill/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Terrorists attacking Plateau communities observing curfew, NBA alleges",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 9.548,
+        "lng": 9.5385,
+        "location": "Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/terrorists-attacking-plateau-communities-observing-curfew-nba-alleges/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Couple, four others abducted along Kwara-Kogi border",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 7.8533,
+        "lng": 6.7676,
+        "location": "Kogi State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/912898-couple-four-others-abducted-along-kwara-kogi-border.html"
+    },
+    {
+        "title": "Troops Foil 2 Abduction Attempts, Rescue 10 In Zamfara",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 12.1561,
+        "lng": 6.2026,
+        "location": "Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/troops-foil-2-abduction-attempts-rescue-10-in-zamfara/"
+    },
+    {
+        "title": "Woman arrested over co-wife’s death in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 10.4926,
+        "lng": 9.9793,
+        "location": "Death Area, Bauchi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/woman-arrested-over-co-wifes-death-in-bauchi/"
+    },
+    {
+        "title": "Troops foil two kidnapping attempts, rescue 10 victims in Zamfara - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 9.9514,
+        "lng": 5.9597,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3clpuRERES1NCcjBGTTBUOTNFVzVCOHExNWNOX05abmVkT2xwY1ljSU5nMVU4a0xVN3lmRV9LLTVHODhZQXVFQ3o0MEVZY2FMOFNaa2JXbExOakx5Qkg5eGp5Y2tHVmM2VzY0OQ?oc=5"
+    },
+    {
+        "title": "Plateau: Army deploys 178 troops to bolster security operations in Mangu - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 9.5044,
+        "lng": 9.5187,
+        "location": "Plateau State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FWWduaXRxWnJucnlSUFFOWVk0MmttQ1paSDZPY2g3WWh6bGxSaFI0YVlmUnM2OUhxTm4xMThFTDBFMHkyWEVxWG9OUjBQYXNLeTBYMkpSSVltN2ZkWUpKemlYLVpMSDZKRlRTMWR3?oc=5"
+    },
+    {
+        "title": "Troops repel ISWAP attack on Kawuri base, kill scores, recover weapons in Borno - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 11.8823,
+        "lng": 13.1043,
+        "location": "Weapons Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvZlZ2MXhDeHBFLVZsMG9pSVFPVmJwMldpWUE1dEhFalgyQnZzclhlMndERE0ySUJJWnk2SUd0Y0taeUpzMk44c2N5NTBOeVE4MnVxNEdOREFWbEdkY3diaG5fS1A1QkNkaVFxRnlB?oc=5"
+    },
+    {
+        "title": "Troops recover about 800 suspected rustled cattle from terrorists in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 9.4802,
+        "lng": 9.5243,
+        "location": "Terrorists Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOUNsMTdNREZVd2FNX3dFVVFEb1BTbzFlYmNIbEYxbFQxdmp4NnByMmh3Y183NWxOQzdYcl9SMkxXTzgyTWZUVnhmRGhkR3FoempYczJwc0FvRW1HTTVLM2ptX29ZQnJ0elRJbTBZMGVSY1ZxM3BxYVVZc2dyYldLM05QY0VDZWtRMWNvdXZnNkxSbW5WQjRITjlxbndnREJxYVhvOGlhWC1fNktmaElVSFM2QVNZSmtGYjNNZTln?oc=5"
+    },
+    {
+        "title": "Troops foil ISWAP infiltration attack on Kawuri base in Borno, killed several fighters - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 11.8723,
+        "lng": 13.1106,
+        "location": "Base Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcTg1VGpmSjdSRDhkS2MxVm02azljTkwtNzVSOGd2VlBIYzFBdnBtMlVlcnd5RjduQ3VreWNlOHlyS2hzNFoxNjZJSUoyR3ZWY2p5QTFXLW5DNWYyLWVaUVF2UWtXYm1TczhldS1OMm14dUZvQ0tMQ2V3R2x4aWtBaGRtelpoTzdIcXJSQmU4cDJuMUxVRkVLMFQ1ZVlHbWt3Z09vSl8tTi1QY1ZncGNHU1F5TWhHV21YWUM4X3lleFhfcnUxbTl6RmJR?oc=5"
+    },
+    {
+        "title": "Troops recover abandoned sheep after reported farm destruction in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 9.5371,
+        "lng": 9.5422,
+        "location": "Destruction Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0hoTmU2RnRQRFh2NXUxRkhwOVZMTFJJNnp4ZFd1UWZUbFlkOHZ5REhGQjAwdklnZkloSDdSVUVXTDJ4SWpRbHBJUFZnY1pYd1loYWg5SGNQVEdDU2NrVnl2b0h4RW1VZjdLblc2LWwtcldzNEdpSkRKdmZnT0oySnR1RmFsZjdrSjNRbEZRaWVQYkEtV3N1NEo5bjB5aFo4R1dSb2lZcnF0Y0VwbkZSWERjRjlINU4yNkE?oc=5"
+    },
+    {
+        "title": "17 ISWAP-linked persons surrender to troops amid factional clashes, hardship in Borno camps - zagazola.org",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 11.8571,
+        "lng": 13.1261,
+        "location": "Hardship Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGN5MU1RUFZlM0NvTDVsYVlueUhhRlJxU04yVjJTcXFlZXNNcmt5bUd3dHNSVEE2T1diX2k3S012WU5FT202LXhHbHhhWjZTYmNObVNEY2k1RUdiaDBJblNEZmRpeDdWV3RlbFd5OFY1MjZ5bWFrZWRHWEV1bXhtcVd0aUVuaEVvM1RFUW1jQnloWUhpTHR3UEZEamRuNXlFSHY5RXFBSmhfaEwtRVREZzVvS1Nxb0lnMGwtUjAtZFNDekhJRkQ3MDliRmZTdUdL?oc=5"
+    },
+    {
+        "title": "Troops foil kidnapping attempts, rescue 10 victims in Zamfara - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-28",
+        "lat": 12.1196,
+        "lng": 6.2498,
+        "location": "Victims Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmRBQWFtNl9NLWk2bzhtSGdXb1dxc0ZfY01sNHdlaENEQ3ZNSHlWWS1fTkxEQVJZbjZGUVRvRm1MU3dBMnBuZHQyWWhUZUJrOGpBaUphZFNIV0cwT3paS3FEMFgxZjZpa3pUZEhORW1nTU1PVkdXMDhpajE1MktENWM3bktkUEd6c3QyOUEwbTBILVc5VEd1NS1JZWdYZ2Mzak5PeTNnTGw?oc=5"
+    },
+    {
+        "title": "Troops rescue 20-year-old Fulani man shot by Berom Militiamen at Rakum Junction in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-28",
+        "lat": 9.5228,
+        "lng": 9.5595,
+        "location": "Junction Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSEZpdGp0LVRhZjR6TjJobGFkT0tlc1EzREwzbzVsWWZBbndDYzNBbFVGaVN2TGdGaGRYR0ItVF9TX1dobU8wUk5HYW1DTGIybGFpY0p5eThkY2EyUUpTSXdqbEppVHZOaEc1NkgyLUZkcUVKelZPeVlzTkhXRjBabEVRYTBIaVdMMmhWbWNLQ2RYNXRlZjNfSUlrM0wxdkgtRTFyenp0VDRkMGRCYlgzMno1T1ZQblpEWGZocHZNUnMtRlVHb3F3STVuN2phUzh2?oc=5"
+    },
+    {
+        "title": "Gunmen kill one, abduct many in Zamfara as council chairman escapes - guardian.ng",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-25",
+        "lat": 12.0725,
+        "lng": 6.2689,
+        "location": "Many Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVTdsWVRyVVpBSUNPVTMyYUljcU9Ra25jaXZMbHJWZ3NmemJKZl9VYS04b3NqbjZ3MWZQWGM0X18wdG1xM2RrOGZFbFJZRGVzQzFUWDM4YUs0NVFmUzJ0YlZ6MDFveEV5cldGdnUtM1QwNkg2a202eFJmR2dhSHZEVEFaa3k4QXIyWTdnXzlJa1ctREFCcWJB?oc=5"
     }
 ]
