@@ -2671,5 +2671,115 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/troops-rescue-24-kidnapped-victims-arrest-14-suspects/"
+    },
+    {
+        "title": "Police recover 28 skulls, bones from Abia camps",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-29",
+        "lat": 5.4401,
+        "lng": 7.4409,
+        "location": "Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/police-recover-28-skulls-bones-from-abia-camps/"
+    },
+    {
+        "title": "Consulate seeks justice as three Nigerians killed in South Africa",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-29",
+        "lat": 10.0169,
+        "lng": 6.0322,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/consulate-seeks-justice-as-three-nigerians-killed-in-south-africa/"
+    },
+    {
+        "title": "Troops rescue 49 Kano travellers after Zamfara kidnap attempt",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-29",
+        "lat": 12.0115,
+        "lng": 8.6188,
+        "location": "Kano State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/troops-rescue-49-kano-travellers-after-zamfara-kidnap-attempt/"
+    },
+    {
+        "title": "LAUTECH resident doctors’ strike hits 32 days",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-29",
+        "lat": 9.103,
+        "lng": 7.5382,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/lautech-resident-doctors-strike-hits-32-days/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Three women killed in Plateau mining site attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-29",
+        "lat": 9.4462,
+        "lng": 9.5488,
+        "location": "Killed Area, Plateau State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/913161-three-women-killed-in-plateau-mining-site-attack.html"
+    },
+    {
+        "title": "Plateau Killings: NBA Demands Probe Of Security Agencies Over Delayed Response To Attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-29",
+        "lat": 9.4724,
+        "lng": 9.521,
+        "location": "Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/plateau-killings-nba-demands-probe-of-security-agencies-over-delayed-response-to-attacks/"
+    },
+    {
+        "title": "Ondo: ASUU, varsity workers suspend strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-29",
+        "lat": 7.2595,
+        "lng": 5.1945,
+        "location": "Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ondo-asuu-varsity-workers-suspend-strike-2/"
+    },
+    {
+        "title": "Parents of abducted Borno children take protest to Abuja",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-29",
+        "lat": 9.0418,
+        "lng": 7.4398,
+        "location": "Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/parents-of-abducted-borno-children-take-protest-to-abuja/"
+    },
+    {
+        "title": "Troops of Operation FANSAN YAMMA rescue 49 travellers from suspected kidnappers in Zamfara - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-29",
+        "lat": 12.1605,
+        "lng": 6.2553,
+        "location": "Kidnappers Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOVV4YVpRUUdXZm1ZOFBWdkhETHZfNW00UG90dmQzQWcyTEtjUHB3TEVleldkbnJsRmVuYXluazg3eWVHRjRqVlVHUnNfWUJ3TFR3bTNsQl9DMUpDY004RERvWUhzWnRlRk5BUEVpcTJ4WmF2VDFaQkRVcTNndWMxNXJLbTctWjQzMzdxel9OVm9tbEJZTDRXaEs5em9ZNVlhOU01SVZOYkxVZEIwX0ZKODJRTHI5RmhJV3pkOVBOMHBIZUJjZk4ydmJGRklxWmk4?oc=5"
+    },
+    {
+        "title": "17 ISWAP suspects surrender in Borno as Rep commends military - The Guardian Nigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-29",
+        "lat": 11.833,
+        "lng": 13.0956,
+        "location": "Surrender Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUVJTRnhDSkxUNDBwYUxBWXNHOTdLbW9oSnpnbHVqWUNfaXpzZFNUOFdGUW1ZZUk3Q3V1b3lfRFdmWjlqX3FNY1FlWk80NzY4TERRR191b2VXaTBqUjNfSDhIUjdoQ2FhaEFmVkVXMzlTZFN4cmtGcGE4cDlkU0daTkdNbGNwUlBlMlRYS2hCTVc?oc=5"
     }
 ]
