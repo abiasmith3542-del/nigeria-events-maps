@@ -2924,5 +2924,49 @@
         "location": "Bush Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUtZTVdTQUFfb2h2cmlya0JsV3dlWTUwNWRIemdkN2FQN25yVDZoVFp3Y25Ma3lEbm1MRVpkNFVJQVRwMUY2R1hFR25iUGljZ3VZZWE3WlFLQ2NWRlo4cVdGNk5sMjIxX1dhLWtvQmpJN3U4c2hWbFNQUXQyeUhrMHJqQUdZOXB6ME5Dc3Q4RUZGa1FoMHE0WEdfUXZMbzRwTlFwN0I3aUhnaXVzTFU2cFNsQWpvSmpKd2Y4?oc=5"
+    },
+    {
+        "title": "Oyo assembly backs state police bill",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-29",
+        "lat": 7.9424,
+        "lng": 3.956,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/oyo-assembly-backs-state-police-bill/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigeria, six others account for 90% of global cholera deaths — WHO",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-09-29",
+        "lat": 9.9914,
+        "lng": 6.0582,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nigeria-six-others-account-for-90-of-global-cholera-deaths-who/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man for kidnapping in Bauchi, rescue teenage victim",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-09-29",
+        "lat": 10.5453,
+        "lng": 9.9702,
+        "location": "Kidnapping Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-for-kidnapping-in-bauchi-rescue-teenage-victim/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Benue: Women protest abduction of residents",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-29",
+        "lat": 7.291,
+        "lng": 8.691,
+        "location": "Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/benue-women-protest-abduction-of-residents/"
     }
 ]
