@@ -2748,5 +2748,104 @@
         "location": "Kano State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IQXQ4UmpWdWY5ZDZJN3NFTFYzNjEtSllXaUNZa2FNeUVLMl9hWXcwUUFKU2xLQVVTQTloamFHbXo0MmNfbTJSV2txYm1RdVYxT2p4elFlZGdYNjFOOGgyaF9JZ3NmcjJ5MVdVSjNNelBCNV9DU0NLRUFUWQ?oc=5"
+    },
+    {
+        "title": "Nigerian newspapers review: Public servants begin nationwide warning strike Oct 2, if…",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-30",
+        "lat": 9.9454,
+        "lng": 6.0025,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/nigerian-newspapers-review-public-servants-begin-nationwide-warning-strike-oct-2-if/"
+    },
+    {
+        "title": "Nigeria rejects nuclear deterrence, demands total elimination of atomic weapons",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-30",
+        "lat": 10.0236,
+        "lng": 5.9607,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/nigeria-rejects-nuclear-deterrence-demands-total-elimination-of-atomic-weapons/"
+    },
+    {
+        "title": "Building collapse kills one in Anambra",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-30",
+        "lat": 6.1861,
+        "lng": 7.0194,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/building-collapse-kills-one-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Security operatives move to rescue 47 abducted farmers in Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-30",
+        "lat": 10.0308,
+        "lng": 6.0528,
+        "location": "Farmers Area, Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/security-operatives-move-to-rescue-47-abducted-farmers-in-niger/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigeria to buy 12 US attack helicopters",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-30",
+        "lat": 10.0321,
+        "lng": 6.0173,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/913427-nigeria-to-buy-12-us-attack-helicopters.html"
+    },
+    {
+        "title": "JUST-IN: 3 Feared Dead In Stampede At Niger Government House",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-30",
+        "lat": 10.0342,
+        "lng": 6.0142,
+        "location": "Stampede Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/just-in-3-feared-dead-in-stampede-at-niger-government-house/"
+    },
+    {
+        "title": "Atiku Demands Release Of Alleged 5 Borno Detainees Over ‘Tinubu Must Go’ Protest",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-30",
+        "lat": 11.795,
+        "lng": 13.1359,
+        "location": "Borno State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/atiku-demands-release-of-alleged-5-borno-detainees-over-tinubu-must-go-protest/"
+    },
+    {
+        "title": "Oyo Assembly passes state police bill",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-30",
+        "lat": 8.0504,
+        "lng": 4.0122,
+        "location": "Oyo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/oyo-assembly-passes-state-police-bill/"
+    },
+    {
+        "title": "3 feared dead as flood ravages Ado-Ekiti",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-30",
+        "lat": 7.6993,
+        "lng": 5.1926,
+        "location": "Ekiti State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-feared-dead-as-flood-ravages-ado-ekiti/"
     }
 ]
