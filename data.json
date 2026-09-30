@@ -2869,5 +2869,82 @@
         "location": "Collapse Area, Anambra State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/913535-worker-dies-in-building-collapse-in-anambra.html"
+    },
+    {
+        "title": "Benue: NDC Chairman killed in alleged attack in Makurdi",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-09-30",
+        "lat": 7.3189,
+        "lng": 8.6977,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/09/benue-ndc-chairman-killed-in-alleged-attack-in-makurdi/"
+    },
+    {
+        "title": "Bauchi Police Rescue 16-Year-Old Boy, Arrest 60-Year-Old Abductor",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-30",
+        "lat": 10.4831,
+        "lng": 10.0264,
+        "location": "Bauchi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bauchi-police-rescue-16-year-old-boy-arrest-60-year-old-abductor-5-arrested-for-house-breaking-theft/"
+    },
+    {
+        "title": "Kano: Abducted village head killed in captivity",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-30",
+        "lat": 11.9905,
+        "lng": 8.5838,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kano-abducted-village-head-killed-in-captivity/"
+    },
+    {
+        "title": "Ekiti: Staff, students prevent police from arresting VC",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-30",
+        "lat": 7.6618,
+        "lng": 5.2433,
+        "location": "Ekiti State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ekiti-staff-students-prevent-police-from-arresting-vc/"
+    },
+    {
+        "title": "Military Raids Terrorists Camp, Eliminates One, Arrests Suspect in Benue - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-30",
+        "lat": 7.2859,
+        "lng": 8.7618,
+        "location": "Suspect Area, Benue State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4WFF0ZkhxZTFQUEI5MlJwWHJYbmlrNHR2WVllcWFIRFJmdDF6cFdvN041SFlSUkp6SGs0U3hGc0pXZkpVVTlkX1ViSDc4Nnp6dUVIOXFIZFVxUHJjNElBNkh4cjZvOUdrNHI5eGYwRFM0UQ?oc=5"
+    },
+    {
+        "title": "OPWS troops neutralise terrorist, arrest another in Benue - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-30",
+        "lat": 7.3586,
+        "lng": 8.7936,
+        "location": "Another Area, Benue State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0oyek54cDV6d25ZRmRWaWRjTEQ5aW1tTVYwUWd2N0k1cVJWMFdpZE1hODFQWmJra09Xa3ZGSlBJVFFvZEVpZkk0Y1EwcDFsTGtmVDg5M191bjZvNkhSNFIzZEVBXzNqWlVPUmFpSFVyX2l1bFpfc2dOcGJISGZkVHBGZkdIRHp6clRzZUxlRUtzYnltd0dZQ0VkY0J6ZVgtZnhB?oc=5"
+    },
+    {
+        "title": "Woman Assaulted, Abducted, Forced Into Enugu Psychiatric Hospital For Demanding Family Inheritance, WACOL Raises Alarm - Sahara Reporters",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-09-30",
+        "lat": 6.5453,
+        "lng": 7.524,
+        "location": "Enugu State",
+        "source": "Google News - Nigeria Local",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWjdNekhCbkwyRTZWeEM4VEZHSDY3dzU1V1VXUDNEYS0xSlNpRGV5VkZNaGIzdlhLdDgtb1JzSnE5NFZ3NVUzYXN6bnlKQ2E5Z01HRUQ5OXZqbnZaVnB0WTJCMDZNaHVkTnlXT1FEZk0xQWtSa0UzSWtmU003VUNBb19LcVU4TXNKSXR4eE9hU2tnZmNCRE1TNVFDSUNGdERUSUR3MmFCQmhWc29JeGdWbl9MUS1KdEw0X3lGZ2F3dHo4MzR3?oc=5"
     }
 ]
