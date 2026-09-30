@@ -2847,5 +2847,27 @@
         "location": "Ekiti State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/3-feared-dead-as-flood-ravages-ado-ekiti/"
+    },
+    {
+        "title": "Police issue flood alert to parents after Anambra school pupil’s death",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-09-30",
+        "lat": 6.1606,
+        "lng": 6.9532,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-issue-flood-alert-to-parents-after-anambra-school-pupils-death/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Worker dies in building collapse in Anambra",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-09-30",
+        "lat": 6.2315,
+        "lng": 7.0427,
+        "location": "Collapse Area, Anambra State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/913535-worker-dies-in-building-collapse-in-anambra.html"
     }
 ]
