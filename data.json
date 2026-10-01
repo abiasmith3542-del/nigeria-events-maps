@@ -2671,5 +2671,60 @@
         "location": "Killed Area, Benue State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/ndc-ward-chair-killed-in-benue/"
+    },
+    {
+        "title": "Police declare port corridor ticketing, revenue collection illegal",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-01",
+        "lat": 9.0028,
+        "lng": 7.5893,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-declare-port-corridor-ticketing-revenue-collection-illegal/"
+    },
+    {
+        "title": "Three vigilantes feared killed in Kebbi-Niger border attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-01",
+        "lat": 11.4057,
+        "lng": 4.2152,
+        "location": "Killed Area, Kebbi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/three-vigilantes-feared-killed-in-kebbi-niger-border-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Hit-and-run driver kills Lagos policewoman during Tinubu’s return",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-01",
+        "lat": 6.5116,
+        "lng": 3.4014,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/hit-and-run-driver-kills-lagos-policewoman-during-tinubus-return/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "‘Tinubu Must Go’: Borno police defend five arrests",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-01",
+        "lat": 11.7909,
+        "lng": 13.1886,
+        "location": "Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/tinubu-must-go-borno-police-defend-five-arrests/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Man arrested for allegedly raping 70-year-old Edo woman",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-01",
+        "lat": 6.5414,
+        "lng": 6.0368,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/man-arrested-for-allegedly-raping-70-year-old-edo-woman/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
