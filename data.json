@@ -2726,5 +2726,82 @@
         "location": "Edo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/man-arrested-for-allegedly-raping-70-year-old-edo-woman/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ebonyi police bust child-trafficking syndicate, rescue 3",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-01",
+        "lat": 6.2058,
+        "lng": 8.0234,
+        "location": "Ebonyi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/ebonyi-police-bust-child-trafficking-syndicate-rescue-3/"
+    },
+    {
+        "title": "‘Soludo should stop hiding under Tinubu to attack Obi’ — Okorie",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-01",
+        "lat": 9.0757,
+        "lng": 7.5666,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/soludo-should-stop-hiding-under-tinubu-to-attack-obi-okorie/"
+    },
+    {
+        "title": "PHOTO: Troops Rescue 5 Abducted Women, Recover Rustled Livestock in Katsina, Sokoto - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-01",
+        "lat": 12.4977,
+        "lng": 7.6598,
+        "location": "Livestock Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OWmJoN3Z2Z0NlLU1hNzBzQUZPNHFELWpFVFJWQ2xnOVR4dHFqS0s2ZVlYWHFBSFdSZXhETXBhLWpVSWZoaWxTdDdGd2YzSnVreWptS2tGbV81XzB3UWpTd29UbXZGSmpXLXRsem9Hc2FJUQ?oc=5"
+    },
+    {
+        "title": "OPHK Troops Kill 16 Terrorists, Recover Firearms in Adamawa - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-01",
+        "lat": 9.3168,
+        "lng": 12.5522,
+        "location": "Firearms Area, Adamawa State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvSG9VbzZiZklhbDFob29KbUxpc3ZNb3ktaWpRUlNlZGxKQVRIVlVLMTBFUkkzOG16LW9xUXhSU1lJTldlekJHTXFUNmpsMTVMakU2Rkhfb3ItTWN0XzhBLXlCLVh3OUF3bzZmaXBR?oc=5"
+    },
+    {
+        "title": "Navy Rescues Two Kidnap Victims, Recovers Stolen Engines in Akwa Ibom - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-01",
+        "lat": 5.019,
+        "lng": 7.8463,
+        "location": "Engines Area, Akwa Ibom State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rcXBBMU1ER0pWN3ptMW1uVC1kdXFxaUl5eVR5S3ZveWVWLVY5bDd6all2VzBFb3NJSjI3aTY3XzBabXFDUURRcVJnQkpJQ2xYLXRwZ083NXEwVHEtTGlMSTI3QW5DbDdt?oc=5"
+    },
+    {
+        "title": "OPHK troops neutralise 16 terrorists, recover arms in Adamawa - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-01",
+        "lat": 9.3291,
+        "lng": 12.4798,
+        "location": "Arms Area, Adamawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHMzTkdZZ1EwRHlRMURPUzNVMURvQUJldW1zaTFCVjRDcGNXS3BYOVhKV0NaQnN3bzZ6Y3I0aFEybFBweHljSUo1bVF2OWVKLUdicEswTHFEVVJQREhnX2t1QlRlQmNNeTVRWXIxM2xlSU9XVDFyYlJUQmVPNmJ2VGRSQ0FSNkRkV29ITGRucmdQR204QUpWbWxoMHk3bmRXYXNtY09rTHI?oc=5"
+    },
+    {
+        "title": "Operation FANSAN YAMMA troops rescue five abducted women in Katsina, recover rustled livestock in Sokoto - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-01",
+        "lat": 12.5078,
+        "lng": 7.6392,
+        "location": "Women Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWG5qaDdZMFhkcFNzd2l4UGFOZkR5RFI3cllJcEt3XzE4SjNhQ21qZ2hpRXh3NUF0RWNIVjE1SXVtY05CWGlkcTBiV1d2UjgyNVloczlscVc0aFVUSW5EOTdUWXcxR3E2eHJEaWd0UzUwWG1NVmVpVjB1VFBHVVEyUEh3TnEtbGtlUnRlUTFOY2tOZ3FLWFVNRmV5WHkxd3N1U0N0QlpkWkFjZXljX2tTUUZLTFBZQXQtaDVYUmRmTXJQM0VRV25wczBTOFdMMnV2TUJNaWZ4R3VGSk41akRvYlpB?oc=5"
     }
 ]
