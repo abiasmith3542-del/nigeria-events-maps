@@ -2880,5 +2880,93 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/outrage-as-patient-dies-after-police-stopped-ambulance-for-minsters-convoy/"
+    },
+    {
+        "title": "20 feared dead, many injured in Plateau truck crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-02",
+        "lat": 9.5514,
+        "lng": 9.4669,
+        "location": "Injured Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/20-feared-dead-many-injured-in-plateau-truck-crash/"
+    },
+    {
+        "title": "Evening recap: How suspect killed girlfriend, D’Banj donates campaign vehicles to Osun politician, other top stories",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-02",
+        "lat": 7.5503,
+        "lng": 4.4539,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/evening-recap-how-suspect-killed-girlfriend-dbanj-donates-campaign-vehicles-to-osun-politician-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police foil bandit attack in Sokoto, recover rocket launchers",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-02",
+        "lat": 13.0944,
+        "lng": 5.2082,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-foil-bandit-attack-in-sokoto-recover-rocket-launchers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police foil bandit attack, recover rocket launchers in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-02",
+        "lat": 13.0344,
+        "lng": 5.2336,
+        "location": "Launchers Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-foil-bandit-attack-recover-two-rocket-launchers-in-sokoto/"
+    },
+    {
+        "title": "Troops Destroy Terrorist Camp, Rescue 3 Hostages, Recover 5 Guns, 211 Rounds in Anambra - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-02",
+        "lat": 6.1401,
+        "lng": 7.0521,
+        "location": "Rounds Area, Anambra State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IZEIydzE2dWw4YnV5OENoeFpJaE5hSXVJT0o2a0VWaFloUUxjODA1cHhscWc4YUtuOXZFVFJKSGNxTWxmMDlKamRMcF9YUFJmWU5CSTd1UUlreFFFbmc2YU5NQjVIWGMxNGhaTUY2dk4?oc=5"
+    },
+    {
+        "title": "Troops Rescue Abducted Prospective NYSC Members in Imo - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-02",
+        "lat": 5.4913,
+        "lng": 7.0268,
+        "location": "Members Area, Imo State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OZWJBb0VqcHJNVXBnczB6R0VHYl9TSXVNLXFmNVZ3ZXF0M25IYmtvRXBCTGh0VEJMTHYtd2wzY2hVT1RRUjQwNVRUS2ZpZlc4YkpfOEVramYyYmZOMnBHOXV6VWhsdXN1RHc?oc=5"
+    },
+    {
+        "title": "OPHK Troops Arrest 5 Suspected Terrorists, Recover Cash in Adamawa, Yobe - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-02",
+        "lat": 9.2793,
+        "lng": 12.4691,
+        "location": "Cash Area, Adamawa State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PdmFoaTdwRWNLc2hJWGNOcDc2VUpIYTVvN0NVTUZRYlUwbVFJMUxVZUdrekVscE1NTFJnYWlOLXJoR3dON3k2eHNiaDV4SWdDb1BPYTJRQk5WaEM2aWtsaG84MGdqcTdORl9TMWt2SQ?oc=5"
+    },
+    {
+        "title": "Several Feared Dead in Fatal Accident at Tom Village in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-02",
+        "lat": 9.4941,
+        "lng": 9.5113,
+        "location": "Village Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORmNJY1hsb1d3UFYzWWFNUFVYNWhqUEZ4NXpQd3NTcGxEdGliaFd3OEVWSlp2a1NBSHh5S1FaMkdJSmtPRmlxSGZ0Z3ltUHJDQ3g0Rm0zdlBJTVllYVU0ejRqT2FrWE5Dc2RONU5GWlpKR0xuZnliMUF2QkEzUEdSZjhqV2JJc0FjVS1OQXdjeG1TSnlyd2xpRHZGUUZGVGZNMXJyY2lOb3RUSkJ4?oc=5"
     }
 ]
