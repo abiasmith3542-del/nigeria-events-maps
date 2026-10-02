@@ -2814,5 +2814,71 @@
         "location": "Victim Area, Kaduna State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ1ZGSnRLZlA2VzFHRTljbjVJaWdZTGRtUmh4QVNuZGdoTGpabzBiX01vS19HNTJ4Sl9keGhteDRQbFhIZ1NvLWp5TDNTb3c2SV82ZUZBbW5HVUpCeVRoT3RHWTVvQlR3d3phQkJkcThWUWswZGIxYzFDM25lWEw4NlJpWjlCQVpPaWNBRGY3YzBwU2pPdE1pdk1qSlRsdkpRM01CRjdxN1FmVTIwUUV4ZDJ2dDdMckxCOWNFVUtRNDZONU9n?oc=5"
+    },
+    {
+        "title": "JUST IN: Suspected terrorists kill 15 farmers in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-02",
+        "lat": 11.845,
+        "lng": 13.1941,
+        "location": "Farmers Area, Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/just-in-suspected-terrorists-kill-15-farmers-in-borno/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Enugu law officers begin seven-day warning strike over unpaid allowances",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-02",
+        "lat": 6.534,
+        "lng": 7.5482,
+        "location": "Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/enugu-law-officers-begin-seven-day-warning-strike-over-unpaid-allowances/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police identify woman killed by boyfriend in Enugu",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-02",
+        "lat": 6.5047,
+        "lng": 7.4879,
+        "location": "Boyfriend Area, Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-identify-woman-killed-by-boyfriend-in-enugu/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Tinubu Must Go T-Shirts: Activist Challenges Police Account Of Borno Arrests",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-02",
+        "lat": 11.8854,
+        "lng": 13.1527,
+        "location": "Borno State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/tinubu-must-go-t-shirts-activist-challenges-police-account-of-borno-arrests/"
+    },
+    {
+        "title": "Kano: Ban on durbar, horse riding stands – Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-02",
+        "lat": 12.0061,
+        "lng": 8.5545,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kano-ban-on-durbar-horse-riding-stands-police/"
+    },
+    {
+        "title": "Outrage as Patient dies after police stopped ambulance for minster’s convoy",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-02",
+        "lat": 9.0332,
+        "lng": 7.5218,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/outrage-as-patient-dies-after-police-stopped-ambulance-for-minsters-convoy/"
     }
 ]
