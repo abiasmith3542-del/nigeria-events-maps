@@ -2704,5 +2704,104 @@
         "location": "Borno State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/boko-haram-kills-15-farmers-abduct-3-in-borno/"
+    },
+    {
+        "title": "FCT Police arrest suspect for raping, impregnating 12-year-old",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-03",
+        "lat": 9.1143,
+        "lng": 7.4498,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/fct-police-arrest-suspect-for-raping-impregnating-12-year-old/"
+    },
+    {
+        "title": "Two feared killed in Plateau mining site attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-03",
+        "lat": 9.5566,
+        "lng": 9.4735,
+        "location": "Killed Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/two-feared-killed-in-plateau-mining-site-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest three over killing of woman in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-03",
+        "lat": 8.0195,
+        "lng": 4.0043,
+        "location": "Woman Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-over-killing-of-woman-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Anambra shuts market after palace burnt, five killed",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-03",
+        "lat": 6.2247,
+        "lng": 7.0032,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/anambra-shuts-market-after-palace-burnt-five-killed/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Wike attacks Amaechi, says 24 years in top positions produced ‘nothing’ for Rivers",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-03",
+        "lat": 4.7877,
+        "lng": 6.8668,
+        "location": "Rivers State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/south-south-regional/914266-wike-attacks-amaechi-says-24-years-in-top-positions-produced-nothing-for-rivers.html"
+    },
+    {
+        "title": "Police officer crushed to Death in Bayelsa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-03",
+        "lat": 4.74,
+        "lng": 6.0244,
+        "location": "Death Area, Bayelsa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-officer-crushed-to-death-in-bayelsa/"
+    },
+    {
+        "title": "Two shot dead at Plateau mining site",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-03",
+        "lat": 9.5137,
+        "lng": 9.5339,
+        "location": "Dead Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/two-shot-dead-at-plateau-mining-site/"
+    },
+    {
+        "title": "Troops Foil B’Haram IED Plot in Borno, Nab 2 Suspected Kidnappers in Kaduna - prnigeria.com",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-03",
+        "lat": 11.8598,
+        "lng": 13.1323,
+        "location": "Plot Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RWUpsMTZyak9WQzNMcjdSRl9rTGw5UERNSk43UkNoWDcyUTJ4bFRYZVFkdktCZU1iNGhZSWdWUzBjWXVMT2NvRS1ieEtTU1ZjVGpJNlQ3UDFKRVM3VVZuT21hMHg2TDIxVTU5Sw?oc=5"
+    },
+    {
+        "title": "Imo Police Locate Hideout of Abducted Corps Members, Cite IEDs Threat - prnigeria.com",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-03",
+        "lat": 5.5207,
+        "lng": 7.0107,
+        "location": "Imo State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9paXF5WFN3SV9PZXRZMUp1MTRZLVBGeE9aVTBCV1RGLW1MbFRqblBlY1hoVEdOYXpGTHFGSnEtSkxoOTZsVmpFSzBobkZlNGxBSFowYi1heHN4QV82c2JhWFhBRURtaWZTczA4?oc=5"
     }
 ]
