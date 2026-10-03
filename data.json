@@ -2825,5 +2825,49 @@
         "location": "Delta State",
         "source": "Punch Metro",
         "url": "https://punchng.com/julius-berger-begins-work-on-collapsed-delta-road/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Tinubu saved Nigeria from collapse – Shettima",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-03",
+        "lat": 9.9681,
+        "lng": 5.9401,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/tinubu-saved-nigeria-from-collapse-shettima/"
+    },
+    {
+        "title": "Abduction Of Corps Members: Police Deploy DIG, 2 Commissioners To Imo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-03",
+        "lat": 5.5232,
+        "lng": 7.0038,
+        "location": "Imo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/croabduction-police-deploy-dig-2-commissioners-to-imo/"
+    },
+    {
+        "title": "Army, Police, DSS Comb Forests in Search for 20 Abducted NYSC Members - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-03",
+        "lat": 10.0215,
+        "lng": 6.0074,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IUVY4RWZadndjWnZzc2Q4NjFPNEVWTjZZbjM5RFlrdXBzVnZKd2JOWE44cHFCcW1Ma1c1Szdpb1BfTG11YjRXX3hBdXFod3ZYaVZwUHVaVVlJMU95SWhhMzZXc0lKZDdNWmxMVEJYRQ?oc=5"
+    },
+    {
+        "title": "Army, Police, DSS launch aggressive operation to rescue 20 abducted NYSC members in Imo - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-03",
+        "lat": 5.4256,
+        "lng": 7.0234,
+        "location": "Members Area, Imo State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQckd0N3E0Y1IwZ2xfdzhLNUUyc1VRMndmSC1WOXcyRnJoQnptUXdnSGlkTEZ0N3ZlanNOT2NNUU5VcUFKSHNubFp0WlNwWm9tWEpxdTZlSnNfT1ktSC1jaXcxT2dGLThTZGJ4SlVDOW85WlUzdWJYblpldUEzbzNCS3JIdXZvZF9LbDZzOTVSN1pwZjNia2lWMnk0TnNSaDN6UlhnZ1lQM1pfYXFUdDVaT0F6dVhmMm5lNS1fWTJQVHV2QUFCSENXa21LVDI?oc=5"
     }
 ]
