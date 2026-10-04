@@ -2506,5 +2506,82 @@
         "location": "Abia State",
         "source": "Punch Metro",
         "url": "https://punchng.com/rangers-abia-warriors-clash-for-oriental-bragging-rights/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest two for alleged assault, obstruction of officers in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-04",
+        "lat": 10.517,
+        "lng": 9.9449,
+        "location": "Officers Area, Bauchi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-arrest-two-for-alleged-assault-obstruction-of-officers-in-bauchi/"
+    },
+    {
+        "title": "What is fuelling French school protests?",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-04",
+        "lat": 9.1364,
+        "lng": 7.4767,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/what-is-fuelling-french-school-protests/"
+    },
+    {
+        "title": "One dead, another injured as petrol tanker crashes in Cross River",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-04",
+        "lat": 5.7893,
+        "lng": 8.5492,
+        "location": "Crashes Area, Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/one-dead-another-injured-as-petrol-tanker-crashes-in-cross-river/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gombe to enforce engineering council recommendations on collapsed Assembly complex",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-04",
+        "lat": 10.2761,
+        "lng": 11.1655,
+        "location": "Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gombe-to-enforce-engineering-council-recommendations-on-collapsed-assembly-complex/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "JUST-IN: 3 Die As Vigilantes Allegedly Kill Suspect In Niger",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-04",
+        "lat": 10.015,
+        "lng": 6.046,
+        "location": "Suspect Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/just-in-3-die-as-vigilantes-allegedly-kill-suspect-in-minna/"
+    },
+    {
+        "title": "Niger: Three People Die In Minna As Vigilantes Allegedly Kill Suspect ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-04",
+        "lat": 9.9767,
+        "lng": 5.9808,
+        "location": "Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/niger-three-people-die-in-minna-as-vigilantes-allegedly-kill-suspect/"
+    },
+    {
+        "title": "Bauchi Police Arrest Two Over Alleged Assault, Obstruction of Officers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-04",
+        "lat": 10.4688,
+        "lng": 10.0524,
+        "location": "Bauchi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bauchi-police-arrest-two-over-alleged-assault-obstruction-of-officers/"
     }
 ]
