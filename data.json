@@ -2583,5 +2583,115 @@
         "location": "Bauchi State",
         "source": "Leadership News",
         "url": "https://leadership.ng/bauchi-police-arrest-two-over-alleged-assault-obstruction-of-officers/"
+    },
+    {
+        "title": "Abia NULGE begins three-day warning strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-04",
+        "lat": 5.4224,
+        "lng": 7.4637,
+        "location": "Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/abia-nulge-begins-three-day-warning-strike/"
+    },
+    {
+        "title": "FCT Police order arrest of plate number violators",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-04",
+        "lat": 9.0432,
+        "lng": 7.4871,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/fct-police-order-arrest-of-plate-number-violators/"
+    },
+    {
+        "title": "Oyo, Imo collaborate to rescue 20 abducted corps members",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-04",
+        "lat": 5.5085,
+        "lng": 6.9897,
+        "location": "Imo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/oyo-imo-collaborate-to-rescue-20-abducted-corps-members/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police rescue kidnapped victim in Delta, arrest five suspects",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-04",
+        "lat": 5.4991,
+        "lng": 6.0588,
+        "location": "Victim Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-kidnapped-victim-in-delta-arrest-five-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police confirm Lakurawa attack on Sokoto community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-04",
+        "lat": 13.0398,
+        "lng": 5.2882,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-confirm-lakurawa-attack-on-sokoto-community/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kebbi to establish military base in Bagudo LG after deadly attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-04",
+        "lat": 11.4387,
+        "lng": 4.2559,
+        "location": "Kebbi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kebbi-to-establish-military-base-in-bagudo-lg-after-deadly-attacks/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Five arrested for allegedly destroying Tinubu’s posters in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-04",
+        "lat": 11.9911,
+        "lng": 8.559,
+        "location": "Posters Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/five-arrested-for-allegedly-destroying-tinubus-posters-in-kano/"
+    },
+    {
+        "title": "Troops Recover Two Rustled Cattle After Foiling Attack in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-04",
+        "lat": 9.463,
+        "lng": 9.4821,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNF9mRk1CaW1xSlpnQ1pobm8ydzMyMzBDeV90VzNCMUZQRTNKMFJIZk9RZGxDR2pPaTJtQndwM3o4aXI0ODhiOEU5UW1JWWNZUWxiVlN3SUFob2ROWjZNbUlFaV9FSFMzOWttN2tQNWRBanNfbFRYMDJidFhKN2gxcmNhRlFfNE43SE53OTRFVjVrdl9uZmdfVkNYcXM3TG9DbVVxN0hwdlVhUFgtQlZR?oc=5"
+    },
+    {
+        "title": "Troops Arrest 15 Suspected Drug Peddlers in Jos Raid - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-04",
+        "lat": 9.9547,
+        "lng": 8.8693,
+        "location": "Peddlers Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRkpWZjRfZTJMVVRELWdib1FXRGFDeUJYaDlyU3BIVURxRTAzT3AxVzJCX0x2eDZhb1J2MVg1Z204TmluVE16LWlKSVBvemNoNC1DcE5kcF9qeUxaYUE2ZElfeWZRamNfcG1FMUx3NTZ2TUc1cmZNdXY0dm5KaGpPam9vekxfNVktTEtEX1R3OXd4TGZnaXBycl9nVG92Zw?oc=5"
+    },
+    {
+        "title": "Troops, DIA Team Recover SMG Rifle, Ammunition in Taraba Raid - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-04",
+        "lat": 8.0307,
+        "lng": 10.5578,
+        "location": "Ammunition Area, Taraba State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU0xGdlRmTEJlR1JBRlJHeE94NFlzYkNvbUppTldPREVoSEZYbUI4WlZQUXRBT2lfYkUyRXdmaUx6eGYwRG45ZEFXdHFDTU55djZEUExodGRHOUphV3lPV3NMREQ5ODh2Tms0dDlneGdZN3VVdF8yWUFpSGN5MFNHUzdoU09GR2hxZlBkSTBMTDNYZXAxNWduTnI4QzFrZkxSZmRMbkF4aw?oc=5"
     }
 ]
