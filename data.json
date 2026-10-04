@@ -2473,5 +2473,38 @@
         "location": "Missing Area, Benue State",
         "source": "Punch Metro",
         "url": "https://punchng.com/one-dead-eight-missing-in-benue-boat-accident/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "State Police Bill hits roadblock in states",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-04",
+        "lat": 9.0758,
+        "lng": 7.4722,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/state-police-bill-hits-roadblock-in-states/"
+    },
+    {
+        "title": "Parents of abducted corps members beg Olubadan: We can’t raise N1bn ransom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-04",
+        "lat": 8.9939,
+        "lng": 7.4791,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/parents-of-abducted-corps-members-beg-olubadan-we-cant-raise-n1bn-ransom/"
+    },
+    {
+        "title": "Rangers, Abia Warriors clash for Oriental bragging rights",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-04",
+        "lat": 5.4131,
+        "lng": 7.5015,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/rangers-abia-warriors-clash-for-oriental-bragging-rights/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
