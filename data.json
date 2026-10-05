@@ -2429,5 +2429,148 @@
         "location": "Kebbi State",
         "source": "Punch Metro",
         "url": "https://punchng.com/kebbi-plans-military-base-in-bandit-hit-communities/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "One dead, many injured as bus catches fire on Kwara expressway",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-05",
+        "lat": 8.5379,
+        "lng": 4.5238,
+        "location": "Kwara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/one-dead-many-injured-as-bus-catches-fire-on-kwara-expressway/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Seven injured as gunmen attack market traders in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-05",
+        "lat": 9.5503,
+        "lng": 9.5152,
+        "location": "Traders Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/seven-injured-as-gunmen-attack-market-traders-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Zulum denies ordering arrest of ‘TinubuMustGo’ protesters",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-05",
+        "lat": 8.9634,
+        "lng": 7.5728,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/zulum-denies-ordering-arrest-of-tinubumustgo-protesters/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "EPL: Haaland injury doubt ahead of Liverpool clash against Man City",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-05",
+        "lat": 9.1263,
+        "lng": 7.5031,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/epl-haaland-injury-doubt-ahead-of-liverpool-clash-against-man-city/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill one, injure seven traders in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-05",
+        "lat": 9.4805,
+        "lng": 9.5497,
+        "location": "Traders Area, Plateau State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/914522-gunmen-kill-one-injure-seven-traders-in-plateau.html"
+    },
+    {
+        "title": "28 killed despite curfew in Plateau",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-05",
+        "lat": 9.4446,
+        "lng": 9.456,
+        "location": "Curfew Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/28-killed-despite-curfew-in-plateau/"
+    },
+    {
+        "title": "Police launch Safe Schools Programme in Benue",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-05",
+        "lat": 7.3903,
+        "lng": 8.7773,
+        "location": "Programme Area, Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-launch-safe-schools-programme-in-benue/"
+    },
+    {
+        "title": "Troops Foil Bandit Attack, Rescue Two Abducted Victims in Zamfara - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-05",
+        "lat": 9.9751,
+        "lng": 6.0462,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9veURaQnV6TVJCa0NkS3A1YkRsV1hYUTFqdFFmaUNXZklwWGh6dmxmTDd2dzlyclZjNlBmWU5haGM4d3U1dE5KYVJKa003QWY0cW5ELUh6ZUF4RTR5U09HeHJQYk91UWhzNW4zbzl3?oc=5"
+    },
+    {
+        "title": "Zamfara: GOC 8 Division Reviews Front-Line Deployments, Boosts Troops’ Combat Readiness - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-05",
+        "lat": 10.0372,
+        "lng": 5.9986,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kZllxTnBVb1NtdzRvTXhvUXhMS01kVGRRZ29ocG1lSGw0MUlDNzJvYUZGTkZEcFluUHhzeE5mVGNRTWo5VlBKc19OQ0J5TGxsV0U1MUtycG1CRlhXbURfZElwdWNBR204UXhCMU9jcw?oc=5"
+    },
+    {
+        "title": "Troops Arrest 14 Suspected ISWAP Collaborators Along Illegal Route in Yobe - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-05",
+        "lat": 12.0369,
+        "lng": 11.5274,
+        "location": "Route Area, Yobe State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlVFUnY0Tm1uVHM5eDhfb1BDejFJTmdoelJlOWwtVzlOUUkzWXlJTm1jdjZfN1l1dnc0QXFVbTc3SU9STHRaeWw2LWVYdHNBZ19nWm1xOC1rUVAtSEJSYW12VlAtRndDTk9KZVF2WVRiUE1jdGVPWHRoLWpiZUROTTRta1NobXRZQ1ZkRVB6RjFLaTMwUWluTXNka2ljUERCanJicXZETFZhMktIcEZRRFVnZWlRUWpnZHdv?oc=5"
+    },
+    {
+        "title": "GOC 8 Division Inspects Front-Line Bases in Zamfara, Tasks Troops to Sustain Offensive - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-05",
+        "lat": 12.1096,
+        "lng": 6.2532,
+        "location": "Bases Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRnZjQnNyLUdKVjNFczRGZlZ5NmtOemJ0Mk5VZzJONnV3cHBkdVZtcWY3RDB5Y2I2MmpiLWNzSTRwVlpNRURMTWNNRVdPbU9kSUdFeExOc3ZlaTlEQ2xiczJ0VDd6TFJ6eTR1QjVBUGlBX1J4bWtYbnVBOHAzaGpzVjRNOG0xdVhLdFMydTM0ZzlZNWJpd1NRTzZyLWV4YTNIREVwZzlnNDBoSG5qaWVabGJITUFhSW1zT1d0dmVGa1BINFF4QUpUOXRn?oc=5"
+    },
+    {
+        "title": "Seven Passengers Reportedly Shot Near Bukuru Roundabout in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-05",
+        "lat": 9.5249,
+        "lng": 9.4505,
+        "location": "Roundabout Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGV6Y1VvbTFZYTFseThydktyT2xmZkR0a0ZfOHJwbnQzc0tTY2J3eEhucDN4c1ExN2hpSS1jRkVNTWtZcXFibnhVNmF5LU1taWdCZzVjR293TXA1VVdYU1hFdW1FN2FfVVVlaGplRktSa2gzY1RSUkhobTlDWjdBSnpUYTR0S2pMQmJwTi1aVy1USzU5R2dGd0VsQlNhSW0wb3h2Z08xd3B6RlUySHJnSA?oc=5"
+    },
+    {
+        "title": "Heavy Weapons Reportedly Seized From TPLF Forces in Northern Ethiopia - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-05",
+        "lat": 8.9965,
+        "lng": 7.5878,
+        "location": "Nigeria (General Area)",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOanBXUDNNWVQ4QmRPZU9NS0JiTmJvOFpIdnhWdEl2SzJRZGZFcVExT0lqaGgyMlVLYlBTZWhWRl92dkRPdVQ2T2k0VG1ZOWFINE1hcl9fM2pxZnlZSk5tU2NYQ0tlcHZMc082dGhtcTlzcE1BbG5RbFpseXVHd0JCWkt3TWJtZ3ZOWHVKU0xkWHJaeklOLUN2SVpKWUlWMFNsOFBVckE5el9pcjg1eHdMTDFXdWk?oc=5"
     }
 ]
