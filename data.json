@@ -2528,5 +2528,60 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CclBLYXFaVjNJU1JFcWNiS3RzVy1yRW92LWctSkNmOWpRQkNhMHBuU0wzQnI0ZGZDbXFTVVF6UGhxcTFEemMydzVVYTBQbkxwUDhxUlZKSUc4WElOd2VfT2RSdmE5UQ?oc=5"
+    },
+    {
+        "title": "Benue govt, PDP clash over threat to pull down billboards",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 7.3709,
+        "lng": 8.7533,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/benue-govt-pdp-clash-over-threat-to-pull-down-billboards/"
+    },
+    {
+        "title": "Insecurity: Armed men ambush commercial vehicle, kill driver in Benue",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 7.3694,
+        "lng": 8.7041,
+        "location": "Driver Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/insecurity-armed-men-ambush-commercial-vehicle-kill-driver-in-benue/"
+    },
+    {
+        "title": "Police arrest two armed robbers, recover tricycle in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-06",
+        "lat": 12.0202,
+        "lng": 8.5998,
+        "location": "Tricycle Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-armed-robbers-recover-tricycle-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Supporters of pastor arraigned for abduction attack journalists in Anambra",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 6.1462,
+        "lng": 7.0246,
+        "location": "Journalists Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/supporters-of-pastor-arraigned-for-abduction-attack-journalists-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "‎High Chief Shot Dead During Burial Ceremony In Ondo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 7.2888,
+        "lng": 5.1405,
+        "location": "Ceremony Area, Ondo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/high-chief-shot-dead-during-burial-ceremony-in-ondo/"
     }
 ]
