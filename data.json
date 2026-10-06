@@ -2440,5 +2440,93 @@
         "location": "Commander Area, Ondo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/security-agents-kill-iswap-commander-in-ondo/"
+    },
+    {
+        "title": "Ondo Police await heavy equipment to recover crashed NAF aircraft",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-06",
+        "lat": 7.2729,
+        "lng": 5.203,
+        "location": "Ondo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/ondo-police-await-heavy-equipment-to-recover-crashed-naf-aircraft/"
+    },
+    {
+        "title": "Attempted kidnap: FCT Police rescue suspect from jungle justice",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-06",
+        "lat": 9.1109,
+        "lng": 7.5496,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/attempted-kidnap-fct-police-rescue-suspect-from-jungle-justice/"
+    },
+    {
+        "title": "Drama in Anambra court as pastor’s supporters attack journalists",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 6.152,
+        "lng": 7.0322,
+        "location": "Drama Area, Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/drama-in-anambra-court-as-pastors-supporters-attack-journalists/"
+    },
+    {
+        "title": "Five feared killed as cult clash rocks Bayelsa",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 4.6923,
+        "lng": 6.0389,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/five-feared-killed-as-cult-clash-rocks-bayelsa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest suspected murderer after three-month manhunt",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-06",
+        "lat": 8.9723,
+        "lng": 7.4707,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspected-murderer-after-three-month-manhunt/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Anambra CP queries DPO, two officers over disappearance of armed robbery suspect",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-06",
+        "lat": 6.2387,
+        "lng": 7.0468,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/anambra-cp-queries-dpo-two-officers-over-disappearance-of-armed-robbery-suspect/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "90-Year-Old Father Of ADC Candidate Abducted In Edo, Govt Denies Link",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 6.5425,
+        "lng": 5.9547,
+        "location": "Abducted Area, Edo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/90-year-old-father-of-adc-candidate-abducted-in-edo-govt-denies-link/"
+    },
+    {
+        "title": "REVEALED: NAF releases identities of 25 personnel killed in Ondo aircraft crash - prnigeria.com",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 9.9789,
+        "lng": 5.9785,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CclBLYXFaVjNJU1JFcWNiS3RzVy1yRW92LWctSkNmOWpRQkNhMHBuU0wzQnI0ZGZDbXFTVVF6UGhxcTFEemMydzVVYTBQbkxwUDhxUlZKSUc4WElOd2VfT2RSdmE5UQ?oc=5"
     }
 ]
