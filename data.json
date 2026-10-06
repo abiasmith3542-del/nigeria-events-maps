@@ -2583,5 +2583,115 @@
         "location": "Ceremony Area, Ondo State",
         "source": "Leadership News",
         "url": "https://leadership.ng/high-chief-shot-dead-during-burial-ceremony-in-ondo/"
+    },
+    {
+        "title": "Bandits invade Kaduna estate, abduct pregnant woman, baby, two others",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 10.4492,
+        "lng": 7.5194,
+        "location": "Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-invade-kaduna-estate-abduct-pregnant-woman-baby-two-others/"
+    },
+    {
+        "title": "Two tipper crew members killed in isolated sporadic shooting by Militia in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 9.5389,
+        "lng": 9.4664,
+        "location": "Militia Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdWRqTzgtSjBQTzJLNmtMeTZURUp5ZUtNZ0ZXY3dLLXI2bUtGd2RpWDVjZ0V4VEZMZUwydTctaWh6ci1nQWNHeGZ5UTBybUN3N3EzRkZBS19GY3FEank5Q1VLaURsVDhnbnRiYUZ1bWNrSHAyUmR1Zlc3eVh0WGFFR1hYZlBLdFdWaVFZTmtYMXNEeDdHQUVfNEhDa3VvQmJXYkRPcVNpSFJ2S1o0V0FKQ3Noc0l0VGlacnA5TlluQVNIZDV3TFE?oc=5"
+    },
+    {
+        "title": "Troops arrest three suspected kidnappers in Kaduna - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-06",
+        "lat": 10.4747,
+        "lng": 7.5506,
+        "location": "Kidnappers Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTRjQ2hvYXYzNzh1cHg1R3NBaEE4TXdRUVo4c1YxM3V6UE9wOTVyTTd4OXlPdFB0WmhFUGZWN0J4VW0xZGVzN1I1MllBM1o4bTlJcE04QnI5a3ltVWpUZnZ5TGEySHp0ajJoUWc3VTVqS2o0TnlUcmxlLWxQMHExcm91SGhyZnoxcmtMWF9SOTJ1d3JzdHV4UDVCRQ?oc=5"
+    },
+    {
+        "title": "Five suspected kidnappers killed during encounter with troops in Kaduna - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 10.4612,
+        "lng": 7.4751,
+        "location": "Troops Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVG9HekJvUnIwMkNBVEh1dzloak1vUGVWazdTeGtxdnZCOTVSZDdJbS00N1oyYUI0dFh1SXd1bVo4WnRhY0Z1NUpoQXBGTTN2bTh0QlQ1MzhQdFNXZHp1NEdxek5HNEdkQXBudFRiZ3dRcDk1R3UxdHlmN1lCQzg4RjRCRU9XRDVuYlFFLURFeVBITjdIcG1pRjRUVURNdmpjb21BRVRSRHY2eUpDd3FucGtLN3k4MFE?oc=5"
+    },
+    {
+        "title": "Troops foil armed robbery attempt in Plateau, recover spent ammunition - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-06",
+        "lat": 9.53,
+        "lng": 9.5482,
+        "location": "Attempt Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHVxc09HUlllWHNqZWEzWE9OZThZM0x6XzB3MVZnQWxLNjBtUjFIMDkxVUNnOXotUWVNXzhlSzJJcUczS3ZVTHBRM3BRSFljMGZYQXg4bF9tdDJpR0YyWEtDc2RBaDdjaTNGVDRIMXN1NmhZTUZSeDZmSlZ1S0RHRW5lTXFMWHVhUFpzUkZvU0J0NmJFYlQtZXlqTWpGNl9KdzFETFIyR3o1czFPSDBkVkc2ZFc?oc=5"
+    },
+    {
+        "title": "Troops rescue kidnapped victim after pursuing terrorists in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 9.4422,
+        "lng": 9.555,
+        "location": "Terrorists Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUUtkbDJqZDdkcWtMeE02OEtnT0tkS2k1SFdENU11VUpCbjg3M1NwUmQ4VWRQckFMRkR5YXdqQ1JEQ19DTmY2MFlsb0NXQTFoV0pNRjJVWDNuZjJKLTg2NWpfZnpoU09jWDlCR3RNRkRpTUhYNDFmbUJMY2FVT3hvU2ZYLS1OS3VlWnJ0elhWNUl3SHdaSExiaUExTzFpVWdzekE2NERpNDBaREV6RXU1UC1R?oc=5"
+    },
+    {
+        "title": "Suspected cattle rustlers injure youth in isolated attack in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-06",
+        "lat": 9.5519,
+        "lng": 9.4933,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGk4eS1qSkcwT1pyM0QyTjZYX1NzY3F2bGZBbm9pQTFUeHlCWmlpUDlWTDNNRXBJZldabTk4M2VSZHpRLWVyS0lSSU9GeTFkQkViaFpKWTF4cG96cHJHU1U5ZmMzRGhNZExGQ1dsY0RwT3hrM25XeV85M2Nab0RBQ3FJYmRMeGFwTUtFc21PVEJIOU0tYWxaV0VFOVVFTTRIdXg3Z1Z3b0RFRnVUUGN0NTVqbw?oc=5"
+    },
+    {
+        "title": "Troops foil political disturbance as ADC supporters burn APC symbols in Kaduna - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-06",
+        "lat": 10.5091,
+        "lng": 7.4903,
+        "location": "Symbols Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT0tFM0J2Y1BqX1h0eG9YVm1YNGhySGREZkhBeTRldTh5MEQzUmNic29Xck1tODdZNWpfbVRkRVlneTFPUkx3QWYxRVdQWS1BbEpHa0RlUExrTTFqTG5ZMFRmTmc5eGphNUZGUjN0eS02OTd4SnhRUzRWZEJ6bDMwWmcyNWM4VHotM3FycHlwczZ4NFJrWThCd3o5T1pRbGxnTklQZmhLd1FWQWd4cjZUaWhIZ2tDT3FXZ2FJMmVpVlk?oc=5"
+    },
+    {
+        "title": "Troops recover 20 cows, 10 sheep after farmer assaulted in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-06",
+        "lat": 9.5356,
+        "lng": 9.4577,
+        "location": "Assaulted Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcHQ2U1FaaFhaQmwxZndodFNwSFowbzNKbnU4QWRxYmRtbmgxTjkxUkc1VGoxcm92c0VPbHlfeHpKUDNreHBzcE9Wd1dXQjRVbmRLVV9WTzF1LW1nM2JHM1Y2OHBYSTVmYkVOTGVvRHlnYWY1b3ZrT2gxWkd2d1VHREdoRkVqQzdjdnRKYzlYd0xKMG1yTV9kQnhHUjlfbllEem9iVmlxV3FkalZKZ0Nj?oc=5"
+    },
+    {
+        "title": "Two arrested over separate assault cases in Jos North - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-06",
+        "lat": 9.9119,
+        "lng": 8.8892,
+        "location": "Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRzVqcWhnLS1MMFFOMDJwQmJUMGVsaWk3VWQ3TXZrUGNZcHVsdDJVZmtMVFgwSDEwOUJzaDBFMU1mWmZnMVdzWG5DeWdZZkpCbVh5dDhjRGZSTnROVDlpNEtyYkcwZjRMNTAyRUpaZklCSE9teUdiSU9GMW1VclQybnFlM1pENndlXzRaNDFxVkIwMTFINGxCNThhWko5bnc?oc=5"
     }
 ]
