@@ -2297,5 +2297,148 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/olympics-qualifiers-ajibade-joins-camp-as-21-falcons-train-for-comoros-clash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "FCT workers begin indefinite strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-07",
+        "lat": 9.0352,
+        "lng": 7.4754,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/fct-workers-begin-indefinite-strike/"
+    },
+    {
+        "title": "Two killed, two suspects arrested over arson, stabbing in Jigawa",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-07",
+        "lat": 11.9701,
+        "lng": 9.7744,
+        "location": "Stabbing Area, Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/two-killed-two-suspects-arrested-over-arson-stabbing-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police confirm officer’s death in bandits attack on Sokoto community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-07",
+        "lat": 13.1008,
+        "lng": 5.2012,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-confirm-officers-death-in-bandits-attack-on-sokoto-community/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Army repels ISWAP attack in Borno, kills 25 terrorists",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-07",
+        "lat": 11.812,
+        "lng": 13.1079,
+        "location": "Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/army-repels-iswap-attack-in-borno-kills-25-terrorists/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian troops kill terrorist gang leader, recover 5,090 litres stolen crude",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-07",
+        "lat": 9.9807,
+        "lng": 6.0165,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/south-south-regional/915182-nigerian-troops-kill-terrorist-gang-leader-recover-5090-litres-stolen-crude.html"
+    },
+    {
+        "title": "Oyo police arrest three suspects over killing of six family members",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-07",
+        "lat": 8.0488,
+        "lng": 4.0521,
+        "location": "Oyo State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/915160-oyo-police-arrest-three-suspects-over-killing-of-six-family-members.html"
+    },
+    {
+        "title": "France Protests: Mayor Tear-Gassed While Shielding Students From Riot Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-07",
+        "lat": 8.9687,
+        "lng": 7.4411,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/france-protests-mayor-tear-gassed-while-shielding-students-from-riot-police/"
+    },
+    {
+        "title": "Jigawa Man Arrested For Allegedly Setting Brother Ablaze",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-07",
+        "lat": 12.0374,
+        "lng": 9.7112,
+        "location": "Jigawa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/jigawa-man-arrested-for-allegedly-setting-brother-ablaze/"
+    },
+    {
+        "title": "Borno: Court Grants Bail to 5 Arrested Over #TinubuMustGo T-Shirts",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-07",
+        "lat": 11.7971,
+        "lng": 13.1915,
+        "location": "Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/borno-court-grants-bail-to-5-arrested-over-tinubumustgo-t-shirts/"
+    },
+    {
+        "title": "14 suspected illegal miners arrested in Kogi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-07",
+        "lat": 7.7788,
+        "lng": 6.7121,
+        "location": "Arrested Area, Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/14-suspected-illegal-miners-arrested-in-kogi/"
+    },
+    {
+        "title": "Troops kill one terrorist, capture another in Yobe - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-07",
+        "lat": 11.9431,
+        "lng": 11.4586,
+        "location": "Another Area, Yobe State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjQzVzh2NHdiTTF2bHE0bUdXZ1lldWExSTdIUzAzNEY1TGMwTERzekt2ejMwdkNNVXlCbDlWQ0VibmUwNmNLWXRjS3N4Mk1aY08xb3U5ME9GSTluRmNZUWtpN3BDXzNXRDAyd0F3STZjcERmNFVPVEZ5NGxsOGg0OEhNZjVudDhubG14ekFpQllOV0R5S2U1RzRn?oc=5"
+    },
+    {
+        "title": "Troops recover motorcycle, 30 jerrycans of petrol hidden in abandoned hut in Adamawa - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-07",
+        "lat": 9.3902,
+        "lng": 12.491,
+        "location": "Adamawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGc3UWhkeHZZVXBjNGpsS2NpVUtoeTNQNFcySFdHQWQwTmRfV2tJeEtKd21uWXlldUdjMHZwZ3FkNEhHZ1B0RXpadGV4RFV0NWZrSzZKN1lodEJvSzlnVjZIbTNKeDF1aHczLUtXV3BtYzBWZ0Y4V0V0ZGVLZzI5WG95WUNBSFRpOE5DNFk3WUlMWkl6VUg1VDNST0VPWmJMUTJmcnNUTTZEYzdoYk80UTN3bFdWZ0lEMjRtd2lVdWNoNFBNTnVn?oc=5"
+    },
+    {
+        "title": "Troops, NDLEA arrest 11 suspected drug peddlers in Yobe - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-07",
+        "lat": 12.0515,
+        "lng": 11.5017,
+        "location": "Peddlers Area, Yobe State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVno5cHVONEoxMlFYakhiZmQ0elZPampob21uTVJhLWxUbFEwWGkwcEhYQmpRX2gwRWFfZUdKSE9RaVhXYU1fek41Qjc4QU5zcktsMG83QmYzMmktUFVSc0lyVTEyQUVMX3B4eF8zSjdFVmQyU1hsczZFUWlreVMtVW1sTGltUThuRmJXS0VXbENzRmFYYXM4MWxqYUpQM1B2?oc=5"
     }
 ]
