@@ -1,258 +1,5 @@
 [
     {
-        "title": "High fuel price, wage award: Public servants begin nationwide warning strike Oct 2, if…",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-30",
-        "lat": 9.0153,
-        "lng": 7.4934,
-        "location": "Nigeria (General Area)",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/high-fuel-price-wage-award-public-servants-begin-nationwide-warning-strike-oct-2-if/"
-    },
-    {
-        "title": "Chaos as Carter Efe, Speed Darlington face-off ahead clash",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 9.0632,
-        "lng": 7.4353,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/chaos-as-carter-efe-speed-darlington-face-off-ahead-clash/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Tinubu Urges UN Security Council To Sanction Nuclear Weapons Proliferation",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-30",
-        "lat": 9.1145,
-        "lng": 7.4598,
-        "location": "Nigeria (General Area)",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/tinubu-urges-un-security-council-to-sanction-nuclear-weapons-proliferation/"
-    },
-    {
-        "title": "Troops Rescue 49 Kano Travellers From Kidnappers - LEADERSHIP Newspapers",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-09-30",
-        "lat": 12.0523,
-        "lng": 8.6485,
-        "location": "Kano State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IQXQ4UmpWdWY5ZDZJN3NFTFYzNjEtSllXaUNZa2FNeUVLMl9hWXcwUUFKU2xLQVVTQTloamFHbXo0MmNfbTJSV2txYm1RdVYxT2p4elFlZGdYNjFOOGgyaF9JZ3NmcjJ5MVdVSjNNelBCNV9DU0NLRUFUWQ?oc=5"
-    },
-    {
-        "title": "Nigerian newspapers review: Public servants begin nationwide warning strike Oct 2, if…",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-30",
-        "lat": 9.9454,
-        "lng": 6.0025,
-        "location": "Niger State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/nigerian-newspapers-review-public-servants-begin-nationwide-warning-strike-oct-2-if/"
-    },
-    {
-        "title": "Nigeria rejects nuclear deterrence, demands total elimination of atomic weapons",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-30",
-        "lat": 10.0236,
-        "lng": 5.9607,
-        "location": "Niger State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/nigeria-rejects-nuclear-deterrence-demands-total-elimination-of-atomic-weapons/"
-    },
-    {
-        "title": "Building collapse kills one in Anambra",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-30",
-        "lat": 6.1861,
-        "lng": 7.0194,
-        "location": "Anambra State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/building-collapse-kills-one-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Security operatives move to rescue 47 abducted farmers in Niger",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 10.0308,
-        "lng": 6.0528,
-        "location": "Farmers Area, Niger State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/security-operatives-move-to-rescue-47-abducted-farmers-in-niger/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Nigeria to buy 12 US attack helicopters",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 10.0321,
-        "lng": 6.0173,
-        "location": "Niger State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/headlines/913427-nigeria-to-buy-12-us-attack-helicopters.html"
-    },
-    {
-        "title": "JUST-IN: 3 Feared Dead In Stampede At Niger Government House",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 10.0342,
-        "lng": 6.0142,
-        "location": "Stampede Area, Niger State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/just-in-3-feared-dead-in-stampede-at-niger-government-house/"
-    },
-    {
-        "title": "Atiku Demands Release Of Alleged 5 Borno Detainees Over ‘Tinubu Must Go’ Protest",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-30",
-        "lat": 11.795,
-        "lng": 13.1359,
-        "location": "Borno State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/atiku-demands-release-of-alleged-5-borno-detainees-over-tinubu-must-go-protest/"
-    },
-    {
-        "title": "Oyo Assembly passes state police bill",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-30",
-        "lat": 8.0504,
-        "lng": 4.0122,
-        "location": "Oyo State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/oyo-assembly-passes-state-police-bill/"
-    },
-    {
-        "title": "3 feared dead as flood ravages Ado-Ekiti",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 7.6993,
-        "lng": 5.1926,
-        "location": "Ekiti State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/3-feared-dead-as-flood-ravages-ado-ekiti/"
-    },
-    {
-        "title": "Police issue flood alert to parents after Anambra school pupil’s death",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-30",
-        "lat": 6.1606,
-        "lng": 6.9532,
-        "location": "Anambra State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-issue-flood-alert-to-parents-after-anambra-school-pupils-death/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Worker dies in building collapse in Anambra",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-30",
-        "lat": 6.2315,
-        "lng": 7.0427,
-        "location": "Collapse Area, Anambra State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/913535-worker-dies-in-building-collapse-in-anambra.html"
-    },
-    {
-        "title": "Benue: NDC Chairman killed in alleged attack in Makurdi",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 7.3189,
-        "lng": 8.6977,
-        "location": "Benue State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/09/benue-ndc-chairman-killed-in-alleged-attack-in-makurdi/"
-    },
-    {
-        "title": "Bauchi Police Rescue 16-Year-Old Boy, Arrest 60-Year-Old Abductor",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-30",
-        "lat": 10.4831,
-        "lng": 10.0264,
-        "location": "Bauchi State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/bauchi-police-rescue-16-year-old-boy-arrest-60-year-old-abductor-5-arrested-for-house-breaking-theft/"
-    },
-    {
-        "title": "Kano: Abducted village head killed in captivity",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 11.9905,
-        "lng": 8.5838,
-        "location": "Kano State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/kano-abducted-village-head-killed-in-captivity/"
-    },
-    {
-        "title": "Ekiti: Staff, students prevent police from arresting VC",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-30",
-        "lat": 7.6618,
-        "lng": 5.2433,
-        "location": "Ekiti State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/ekiti-staff-students-prevent-police-from-arresting-vc/"
-    },
-    {
-        "title": "Military Raids Terrorists Camp, Eliminates One, Arrests Suspect in Benue - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 7.2859,
-        "lng": 8.7618,
-        "location": "Suspect Area, Benue State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4WFF0ZkhxZTFQUEI5MlJwWHJYbmlrNHR2WVllcWFIRFJmdDF6cFdvN041SFlSUkp6SGs0U3hGc0pXZkpVVTlkX1ViSDc4Nnp6dUVIOXFIZFVxUHJjNElBNkh4cjZvOUdrNHI5eGYwRFM0UQ?oc=5"
-    },
-    {
-        "title": "OPWS troops neutralise terrorist, arrest another in Benue - zagazola.org",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 7.3586,
-        "lng": 8.7936,
-        "location": "Another Area, Benue State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0oyek54cDV6d25ZRmRWaWRjTEQ5aW1tTVYwUWd2N0k1cVJWMFdpZE1hODFQWmJra09Xa3ZGSlBJVFFvZEVpZkk0Y1EwcDFsTGtmVDg5M191bjZvNkhSNFIzZEVBXzNqWlVPUmFpSFVyX2l1bFpfc2dOcGJISGZkVHBGZkdIRHp6clRzZUxlRUtzYnltd0dZQ0VkY0J6ZVgtZnhB?oc=5"
-    },
-    {
-        "title": "Woman Assaulted, Abducted, Forced Into Enugu Psychiatric Hospital For Demanding Family Inheritance, WACOL Raises Alarm - Sahara Reporters",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 6.5453,
-        "lng": 7.524,
-        "location": "Enugu State",
-        "source": "Google News - Nigeria Local",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWjdNekhCbkwyRTZWeEM4VEZHSDY3dzU1V1VXUDNEYS0xSlNpRGV5VkZNaGIzdlhLdDgtb1JzSnE5NFZ3NVUzYXN6bnlKQ2E5Z01HRUQ5OXZqbnZaVnB0WTJCMDZNaHVkTnlXT1FEZk0xQWtSa0UzSWtmU003VUNBb19LcVU4TXNKSXR4eE9hU2tnZmNCRE1TNVFDSUNGdERUSUR3MmFCQmhWc29JeGdWbl9MUS1KdEw0X3lGZ2F3dHo4MzR3?oc=5"
-    },
-    {
-        "title": "Borno ADC, police trade claims over ‘Tinubu Must Go’ arrests",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-30",
-        "lat": 11.7929,
-        "lng": 13.0996,
-        "location": "Borno State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/borno-adc-police-trade-claims-over-tinubu-must-go-arrests/"
-    },
-    {
         "title": "Dangote blames marketers, IOCs for Lamu refinery protests",
         "type": "突发涉安事件",
         "level": "low",
@@ -284,39 +31,6 @@
         "location": "Formations Area, Kebbi State",
         "source": "Punch Metro",
         "url": "https://punchng.com/army-activates-three-formations-in-kebbi-to-fight-banditry/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "FCTA Completes Police Headquarters, Quarters In Ushafa, Saburi",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-09-30",
-        "lat": 9.0195,
-        "lng": 7.4843,
-        "location": "Abuja (FCT)",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/fcta-completes-police-headquarters-quarters-in-ushafa-saburi/"
-    },
-    {
-        "title": "Rivers Communities Protest Oil Firm’s Alleged Illegal Entry Into Ancestral Land",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-09-30",
-        "lat": 4.7288,
-        "lng": 6.7826,
-        "location": "Rivers State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/rivers-communities-protest-oil-firms-alleged-illegal-entry-into-ancestral-land/"
-    },
-    {
-        "title": "NDC ward chair killed in Benue",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-09-30",
-        "lat": 7.3838,
-        "lng": 8.7297,
-        "location": "Killed Area, Benue State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/ndc-ward-chair-killed-in-benue/"
     },
     {
         "title": "Police declare port corridor ticketing, revenue collection illegal",
@@ -2693,5 +2407,38 @@
         "location": "Payment Area, Katsina State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNmVabEVtUzZNOHBFWUJjTkVFVG9FN1E5UmdkeXZOOWtiLTNVdGkyTjdTN0hvMGpDNnVOQW5DV2ktVGxLb1I3ZS14VHQzUkJpbm90dG5KbUlLT1BBMjZCQXFvcXZCVjluSmpBT3l1YjVYQkNUS2hwaE9pUnVpWGNHMkxWYTQ4Q05pZnU3OXlRM2d5Wk1wYXNWd1pNOVRZNFJoMEoyUlBjNThnMTFDdUxvbjF2dTNlODlwU3VuR3A2dG4wWDlsRzUyS01VSGh4dw?oc=5"
+    },
+    {
+        "title": "Police, military women join Dangote share grant beneficiaries",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-08",
+        "lat": 9.0619,
+        "lng": 7.5088,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-military-women-join-dangote-share-grant-beneficiaries/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NBBF electoral committee confirms Oct 8 deadline",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-08",
+        "lat": 8.9654,
+        "lng": 7.5289,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nbbf-electoral-committee-confirms-oct-8-deadline/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Teachers’ promotion dispute sparks NLC indefinite FCT strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-08",
+        "lat": 9.0748,
+        "lng": 7.4445,
+        "location": "Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/teachers-promotion-dispute-sparks-nlc-indefinite-fct-strike/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
