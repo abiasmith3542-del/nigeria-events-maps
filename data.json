@@ -2737,5 +2737,71 @@
         "location": "Herdsmen Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlB4bXZBV2lIMTRYaktUWkpfa3NkMzFhenlQRHFHNTRybFJwNERmOW9XYTdXOFRlWFdPZkpLcFk2c2cwNUtmVjZzQTRpLTRsTEFydU1hSXFZRUFxQTFrSkV0V0JWb2doUHp4dDhzR1h0aUtaZkd6QjNTOGd1VC1XTUJ1VHdUWnpyS0o5QnBsRW4waC1LSkR2cVdxcnNLdjFSRGRRUjFCTGxsX2JSZ00w?oc=5"
+    },
+    {
+        "title": "Police arrest inspector, two civil guards over extortion in Imo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-10",
+        "lat": 5.5364,
+        "lng": 6.9982,
+        "location": "Extortion Area, Imo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-arrest-inspector-two-civil-guards-over-extortion-in-imo/"
+    },
+    {
+        "title": "Just In: Lagos varsity lecturers suspend strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-10",
+        "lat": 6.5427,
+        "lng": 3.3857,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/just-in-lagos-varsity-lecturers-suspend-strike/"
+    },
+    {
+        "title": "Police return recovered stolen cars, motorcycle to owners in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-10",
+        "lat": 11.9975,
+        "lng": 8.62,
+        "location": "Owners Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-return-recovered-stolen-cars-motorcycle-to-owners-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Family demands justice as man dies in Osun police cell",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-10",
+        "lat": 7.5154,
+        "lng": 4.4596,
+        "location": "Dies Area, Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/family-demands-justice-as-man-dies-in-osun-police-cell/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Tinubu Assures Zulum Of Action To Rescue Abducted Borno Children",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-10",
+        "lat": 11.7904,
+        "lng": 13.1956,
+        "location": "Borno State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/tinubu-assures-zulum-of-action-to-rescue-abducted-borno-children/"
+    },
+    {
+        "title": "Strike: FCT labour groups split as Wike orders ‘no work, no pay’",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-10",
+        "lat": 9.0024,
+        "lng": 7.5297,
+        "location": "Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/strike-fct-labour-groups-split-as-wike-orders-no-work-no-pay/"
     }
 ]
