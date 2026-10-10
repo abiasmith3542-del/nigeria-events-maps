@@ -2924,5 +2924,38 @@
         "location": "Oyo State",
         "source": "Leadership News",
         "url": "https://leadership.ng/oyo-police-arrest-officers-19-year-old-son-over-alleged-rape-of-5-year-old-girl/"
+    },
+    {
+        "title": "Benue: Suspected herdsmen kill nine in fresh Ukum attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-10",
+        "lat": 7.2994,
+        "lng": 8.8097,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/benue-suspected-herdsmen-kill-nine-in-fresh-ukum-attacks/"
+    },
+    {
+        "title": "Army, Police dismiss report of 111 deaths in alleged Sokoto attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-10",
+        "lat": 13.0324,
+        "lng": 5.2217,
+        "location": "Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/army-police-dismiss-report-of-111-deaths-in-alleged-sokoto-attack/"
+    },
+    {
+        "title": "Ogun Chief Imam clarifies ban on men with braids, tattoos in mosque",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-10",
+        "lat": 6.9467,
+        "lng": 3.5089,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ogun-chief-imam-clarifies-ban-on-men-with-braids-tattoos-in-mosque/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
