@@ -2880,5 +2880,49 @@
         "location": "Benue State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/were-ready-to-implement-state-police-benue-govt/"
+    },
+    {
+        "title": "Work with police, FCT CP urges Igboho’s security outfit",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-10",
+        "lat": 9.0509,
+        "lng": 7.4953,
+        "location": "Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/work-with-police-fct-cp-urges-igbohos-security-outfit/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest 23 suspected cultists in Bayelsa, recover weapons",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-10-10",
+        "lat": 4.7569,
+        "lng": 5.9559,
+        "location": "Cultists Area, Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-23-suspected-cultists-in-bayelsa-recover-weapons/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Launches Violent Crime Response Unit In Rivers  ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-10",
+        "lat": 4.7348,
+        "lng": 6.889,
+        "location": "Unit Area, Rivers State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-launches-violent-crime-response-unit-in-rivers/"
+    },
+    {
+        "title": "Oyo Police Arrest Officer’s 19-Year-Old Son Over Alleged Rape Of 5-Year-Old Girl",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-10",
+        "lat": 8.0493,
+        "lng": 4.0196,
+        "location": "Oyo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/oyo-police-arrest-officers-19-year-old-son-over-alleged-rape-of-5-year-old-girl/"
     }
 ]
