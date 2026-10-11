@@ -2671,5 +2671,49 @@
         "location": "Robber Area, Delta State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-arrest-suspected-armed-robber-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police rescue suspected transformer vandal from mob in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-11",
+        "lat": 11.9523,
+        "lng": 9.7217,
+        "location": "Jigawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-rescue-suspected-transformer-vandal-from-mob-in-jigawa/"
+    },
+    {
+        "title": "Accident injures Benue APC delegates en route to Lafia rally",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-11",
+        "lat": 7.3603,
+        "lng": 8.749,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/accident-injures-benue-apc-delegates-en-route-to-lafia-rally/"
+    },
+    {
+        "title": "About 40 NYSC members abducted in one year – Research",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-11",
+        "lat": 9.0108,
+        "lng": 7.5692,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/about-40-nysc-members-abducted-in-one-year-research/"
+    },
+    {
+        "title": "Police Warn Oyo Politicians On Threat To  Peace, Security In 2027 Polls",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-11",
+        "lat": 8.0006,
+        "lng": 4.0418,
+        "location": "Oyo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-warn-oyo-politicians-on-threat-to-peace-security-in-2027-polls/"
     }
 ]
