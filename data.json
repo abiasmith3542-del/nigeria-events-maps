@@ -2715,5 +2715,93 @@
         "location": "Oyo State",
         "source": "Leadership News",
         "url": "https://leadership.ng/police-warn-oyo-politicians-on-threat-to-peace-security-in-2027-polls/"
+    },
+    {
+        "title": "Renewed Hope group flares police persecution of Tinubu’s supporters in Imo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-11",
+        "lat": 5.4394,
+        "lng": 7.0918,
+        "location": "Supporters Area, Imo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/renewed-hope-group-flares-police-persecution-of-tinubus-supporters-in-imo/"
+    },
+    {
+        "title": "US names 24 Nigerians arrested over fraud, money laundering",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-11",
+        "lat": 10.0404,
+        "lng": 5.9785,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/us-names-24-nigerians-arrested-over-fraud-money-laundering/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest three suspected armed robbers in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-11",
+        "lat": 7.9989,
+        "lng": 4.053,
+        "location": "Robbers Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-suspected-armed-robbers-in-oyo-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Suspect arrested over farmer’s killing, kidnapping in Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-11",
+        "lat": 10.0599,
+        "lng": 6.0088,
+        "location": "Kidnapping Area, Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/916103-suspect-arrested-over-farmers-killing-kidnapping-in-niger.html"
+    },
+    {
+        "title": "Nine die in Benue attacks, days after Otukpo killings",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-11",
+        "lat": 7.3062,
+        "lng": 8.725,
+        "location": "Benue State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/916098-nine-die-in-benue-attacks-days-after-otukpo-killings.html"
+    },
+    {
+        "title": "Protest as Police barricade Venue of Anti-Tinubu meeting in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-11",
+        "lat": 11.9438,
+        "lng": 8.5488,
+        "location": "Meeting Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/breaking-protest-as-police-barricade-venue-of-anti-tinubu-meeting-in-kano/"
+    },
+    {
+        "title": "Suspected streetlight, transformer vandals arrested in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-11",
+        "lat": 11.9575,
+        "lng": 9.6908,
+        "location": "Arrested Area, Jigawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/suspected-streetlight-transformer-vandals-arrested-in-jigawa/"
+    },
+    {
+        "title": "Troops Rescue Kidnap Victim, Neutralise Three Suspected Kidnappers in Edo - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-11",
+        "lat": 6.526,
+        "lng": 6.0005,
+        "location": "Kidnappers Area, Edo State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORG9FeXVQQjJUT0Q2bHNPNXVScDNDbFUwQ2g4YmlteTVnNTgzNlZRUG1seXFhSXRwYnJXb3Z1LVhCMEpETGpYTXVmTV85VW1ad25IcEx1S0RtODlMYzJNaGNUa1p1RUc3ZWpjNDBpeE9jRUI2cHVrRXNaYVdZYUJ5MjV6ZXctTWozSENUeVpleFhrRF9EbGt4Z1lfeGdTTmstdW5ScW9xWTV4QWN5SktUVFJndXVUYzc0?oc=5"
     }
 ]
