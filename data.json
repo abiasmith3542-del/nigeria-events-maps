@@ -2660,5 +2660,93 @@
         "location": "Meeting Area, Kano State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/protest-as-police-stop-tinubu-must-go-meeting-in-kano/"
+    },
+    {
+        "title": "US warns of fresh attacks on Saudi airports",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 9.1394,
+        "lng": 7.4211,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/us-warns-of-fresh-attacks-on-saudi-airports/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "China condemns Houthi attacks on Saudi Arabia, warns of escalation",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 5.3871,
+        "lng": 7.5128,
+        "location": "Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/china-condemns-houthi-attacks-on-saudi-arabia-warns-of-escalation/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "French students set for fresh protests",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-12",
+        "lat": 9.1188,
+        "lng": 7.5423,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/french-students-set-for-fresh-protests/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2027: Lawmakers, former police boss, army general line up for Nasarawa governorship race",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-12",
+        "lat": 8.4675,
+        "lng": 8.1933,
+        "location": "Nasarawa State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/916299-2027-lawmakers-former-police-boss-army-general-line-up-for-nasarawa-governorship-race.html"
+    },
+    {
+        "title": "Houthi strike on Riyadh Airport kills 12, injures 309 as Saudi Arabia vows retaliation",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-11",
+        "lat": 5.4023,
+        "lng": 7.4786,
+        "location": "Abia State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/916228-houthi-strike-on-riyadh-airport-kills-12-injures-309-as-saudi-arabia-vows-retaliation.html"
+    },
+    {
+        "title": "Stop Police Harassment, Group Tells Imo APP Senatorial Candidate",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-12",
+        "lat": 5.5333,
+        "lng": 7.0639,
+        "location": "Imo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/stop-police-harassment-group-tells-imo-app-senatorial-candidate/"
+    },
+    {
+        "title": "Police Probe Alleged Shooting At NDC Secretariat In Enugu",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-12",
+        "lat": 6.5301,
+        "lng": 7.4732,
+        "location": "Secretariat Area, Enugu State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-probe-alleged-shooting-at-ndc-secretariat-in-enugu/"
+    },
+    {
+        "title": "150 days after abduction: Borno parents shelve Abuja protest over logistics",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-12",
+        "lat": 9.0544,
+        "lng": 7.5363,
+        "location": "Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/150-days-after-abduction-borno-parents-shelve-abuja-protest-over-logistics/"
     }
 ]
