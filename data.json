@@ -2748,5 +2748,181 @@
         "location": "Abuja (FCT)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/150-days-after-abduction-borno-parents-shelve-abuja-protest-over-logistics/"
+    },
+    {
+        "title": "Taraba varsity ASUU begins indefinite strike over arrears",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-12",
+        "lat": 7.9829,
+        "lng": 10.4976,
+        "location": "Taraba State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/taraba-varsity-asuu-begins-indefinite-strike-over-arrears/"
+    },
+    {
+        "title": "Troops kill three suspected kidnappers, rescue victim in Edo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-12",
+        "lat": 6.526,
+        "lng": 5.9787,
+        "location": "Victim Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/troops-kill-three-suspected-kidnappers-rescue-victim-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Health workers begin three-day strike at Ogun FMC",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-12",
+        "lat": 7.0045,
+        "lng": 3.4562,
+        "location": "Strike Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/health-workers-begin-three-day-strike-at-ogun-fmc/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ansaru terror group kidnapped Oyo pupils to free leaders — Witness",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 7.9412,
+        "lng": 4.0465,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ansaru-terror-group-kidnapped-oyo-pupils-to-free-leaders-witness/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ghana police arrest eight for beating 21-year-old during internet fraud initiation",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-12",
+        "lat": 8.9795,
+        "lng": 7.4609,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ghana-police-arrest-eight-for-beating-21-year-old-during-internet-fraud-initiation/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "ADC, NDC, PDP decry attacks on opposition parties in Enugu",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 6.4717,
+        "lng": 7.5167,
+        "location": "Parties Area, Enugu State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/916533-adc-ndc-pdp-decry-attacks-on-opposition-parties-in-enugu.html"
+    },
+    {
+        "title": "NDC rejects Enugu government’s claims on attack at airport",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 6.5175,
+        "lng": 7.5159,
+        "location": "Enugu State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/916473-ndc-rejects-enugu-governments-claims-on-attack-at-airport.html"
+    },
+    {
+        "title": "Atiku Urges Swift Rescue Of Kidnapped Kaduna Abducted Couple, Infant Child ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 10.4535,
+        "lng": 7.5039,
+        "location": "Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/atiku-urges-swift-rescue-of-kidnapped-kaduna-abducted-couple-infant-child/"
+    },
+    {
+        "title": "Police Arrest 8 Suspected Kidnappers, Recover AK-47 Rifles in Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-12",
+        "lat": 10.5321,
+        "lng": 7.495,
+        "location": "Rifles Area, Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-8-suspected-kidnappers-recover-ak-47-rifles-in-kaduna/"
+    },
+    {
+        "title": "Family of MOPOL officer killed in Plateau demands justice",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 9.5193,
+        "lng": 9.4411,
+        "location": "Killed Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/family-of-mopol-officer-killed-in-plateau-demands-justice/"
+    },
+    {
+        "title": "AIG Ahmed Musa Assumes Duty as 25th Police Chief of Zone 10, Pledges Stronger Security in Sokoto, Kebbi, Zamfara - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-12",
+        "lat": 11.4105,
+        "lng": 4.2117,
+        "location": "Kebbi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xelF4Y0hNR1h1NVhzdmlScE9sR0QyUmJ6ekMxZUczNkEtZ2ZzYUpJNWczX0lTQ0VENWtIeVd1X3h3LXhKSWgtVElXU3VOUVQ3TFpzRF9EeHFIbk8zb1ZqcGEzTjFOUnlZNTNMSFhR?oc=5"
+    },
+    {
+        "title": "Military Precision Air Strike Eliminates Over 40 ISWAP Fighters, Destroys Vehicles in Borno - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 11.7995,
+        "lng": 13.1835,
+        "location": "Vehicles Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JNVlROXNWM20yeFh6ZDhsT1U3TUlJSDY3OFV2WGNhLUk5Zl9jQ0F5YnFTdnJoNjItVUFzeFV1VUhJSnh6ZmxYeUxKN3lneWpVTHhmbnBnWFUyWDFCc2NJaE5rSENTTFBINU05T3ZhYzk?oc=5"
+    },
+    {
+        "title": "Pantami’s Omission: Five Senior Lawyers Give INEC October 14 Deadline to Publish PDP Candidate’s Name - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 9.955,
+        "lng": 5.9434,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FSHFabEctdWhkTUNfTXpPSVVSa1NWREdCRVkxbEdpV0RMWWxnbDE1RW1YazdPTlZ4UkFORE9lSUNQQU1UZGhjTV9MY0c1dnctdnBMQVdEV0wyTk9KejZWYS1PQ2dtaW85UlhoLTJWTQ?oc=5"
+    },
+    {
+        "title": "Troops Neutralise Terrorist, Recover AK-47 Rifle in Sokoto - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 13.0946,
+        "lng": 5.1889,
+        "location": "Rifle Area, Sokoto State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMXg0T0txanE3cUdjNFhybGZzRndGN2lNZ1RZVmdnLXNwbkREaFZtREZZWGppYXlqZzBuS09ELTlYcXVFRzNOaHdJOGhlSHcyd0NZaXNVVUp2U191eUhHY2k3MWM4WEo2b1VTcnNJcGp4Mm5xZ0dyUnhpaUhNT1l4UUZBV1pmeENyamRmZ2lGdHFjN1RUdTdnVjlxS3E0bVFuTU9QZA?oc=5"
+    },
+    {
+        "title": "Military Air Strike Kills Over 40 ISWAP Fighters, Destroys Vehicles in Badu Village in Borno - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 11.8275,
+        "lng": 13.1454,
+        "location": "Village Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc3NZOGs3R2g0YWdveno1d0RvT0ZfVGVZa0NOY29TQWVyLXhyOXo2UC1pWTV4Mjl1ZndNZzBmOUdWeUZLbW0wTGdMYWdfQTVOdlpTSkMzdHJZaWtnWVFxMlpMbGdnbjVQNGQ0NGxCY25KOFBYdHBSNUs5TzJKa3ZHbHdWZ05GRG5kX01yeE1oWTNMVkY4UTFaQmVuZnVnZXRBbWNVMDBkUjRadF9ZVENwTGhrcndzNi1Ld3dLd2g1bTBXZEVQTzZqczNMazhEVmd1NXc?oc=5"
+    },
+    {
+        "title": "Suspected bandits kill vigilante member in plateau - Daily Post Nigeria",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-12",
+        "lat": 9.4693,
+        "lng": 9.5029,
+        "location": "Member Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ0xFMll6Smkxb3dRUE1kRF94dGgxQnAzc2c0RnN6bDduSEtjcHVjVXR2WXkwSEc2eEdlZWFEZExDdEltbjhvb0pEVG9SMm1UV0QwMDFoRnlZQ0FlNXZVRnozZkdhN2VyM0xhdDlwSG5MaFh6OV9WS1pNSjNNMHcxamIyelBpS0RYVVYw?oc=5"
     }
 ]
