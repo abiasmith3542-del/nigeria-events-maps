@@ -2627,5 +2627,104 @@
         "location": "Killed Area, Zamfara State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/attacks-security-operatives-civilians-feared-killed-in-zamfara/"
+    },
+    {
+        "title": "JUST IN: Protesting military retirees block pensions board entrance in Abuja",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-13",
+        "lat": 9.0552,
+        "lng": 7.4402,
+        "location": "Entrance Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/just-in-protesting-military-retirees-block-pensions-board-entrance-in-abuja/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "AI market correction, cyberattacks threaten financial system, IMF warns",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-13",
+        "lat": 9.1251,
+        "lng": 7.5119,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ai-market-correction-cyberattacks-threaten-financial-system-imf-warns/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "FG seeks arrest of suspect in attack on Ogun FMC worker",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-13",
+        "lat": 6.9556,
+        "lng": 3.5517,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/fg-seeks-arrest-of-suspect-in-attack-on-ogun-fmc-worker/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Policemen in viral Ekiti extortion video face discipline in Abuja",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-13",
+        "lat": 9.1062,
+        "lng": 7.504,
+        "location": "Discipline Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/policemen-in-viral-ekiti-extortion-video-face-discipline-in-abuja/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "A deadly week in Zamfara",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-13",
+        "lat": 12.1396,
+        "lng": 6.1772,
+        "location": "Week Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/a-deadly-week-in-zamfara/"
+    },
+    {
+        "title": "Abducted Kaduna couple begs for rescue ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-13",
+        "lat": 10.5225,
+        "lng": 7.4519,
+        "location": "Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/abducted-kaduna-couple-begs-for-rescue/"
+    },
+    {
+        "title": "CDS Raises Alarm Over AI Deepfakes Targeting Military Operations - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-13",
+        "lat": 10.0019,
+        "lng": 6.0114,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGSkVTZHFJbG5KS0pRSjBjV2lndjVTT1hNd1NBclpNbEpjREtrTTF1bEVTYWRicGFZWlozbk96aW1MbVZ0aTM4TDN5cnlxVkZtMXBlWE5uS2lNZExueDR2Q2VRLVFXdw?oc=5"
+    },
+    {
+        "title": "Several ISWAP Terrorists Neutralised as Troops Repel Attack on Garaha Base in Adamawa - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-13",
+        "lat": 9.3356,
+        "lng": 12.5529,
+        "location": "Base Area, Adamawa State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMW0zOU95TG8wcmNtWlF3WUI4QnlDOVN0RnNYYjNxVmNaazh5Tl91c1lxR3NvNEdKSFVEOGR3djlUSEtFb2NTYWdsWFlYVHFQNEs0S0VkdVg4ZUhZWGIya3BkTGhidzdQVGFYbHNxTnhiOVZORWlSODUzc3ZMeG5pd2JWa1ZoVnlUZnlvdndheWFRWmlnckFJWFlCNk1UYkVNT2tJUWVXNXROeklETnJYcmJYRWQ1c0xCTzZ3SDBKZk83akpOcm9UVmVR?oc=5"
+    },
+    {
+        "title": "Army troops Arrests Arms Fabricator, Three Suspected Gunrunners, Recovers Weapons in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-13",
+        "lat": 9.5012,
+        "lng": 9.4923,
+        "location": "Weapons Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa2k4ZHVhQTlld2FVSzRGbUtIS0NHVEY1dHdZbVZPQnBsOEZLQ1JRU0FuU1YxVkFLbzJwYXdaZThJejBhT2lXTGt2UDlKV1V0WXhtanFKQlh1VDZTcHk5U21mRkJSLWc4VTdyNlFwVlpMYm1haV9UdWpaLWxhSHRRN0V3dkszeGxyUEVOdlZ3TkFFeVVxX0w0eUdCN2lTakQ0NVFBejdVMFE2Z0dKVHQxS202MjR5Y0U3bVJ2YlAxYWwzcTJ0N3oyS25NTkRpR3JW?oc=5"
     }
 ]
