@@ -2616,5 +2616,38 @@
         "location": "Abuja (FCT)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/strike-fct-council-chairman-begs-teachers-to-resume-work/"
+    },
+    {
+        "title": "Nigerian man, Adebayo arrested in Canada after exposing self to three victims",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-14",
+        "lat": 10.0524,
+        "lng": 6.0429,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/nigerian-man-adebayo-arrested-in-canada-after-exposing-self-to-three-victims/"
+    },
+    {
+        "title": "Plateau attacks: Three killed, two injured, 114 cattle rustled",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-14",
+        "lat": 9.5446,
+        "lng": 9.4685,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/plateau-attacks-three-killed-two-injured-114-cattle-rustled/"
+    },
+    {
+        "title": "Nigeria ​‌‍‍‍‍⁠⁠‍​‍‍​‌‍​‌‌​condemns attacks on fellow Africans, demands action against xenophobia",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-14",
+        "lat": 10.0349,
+        "lng": 6.0299,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/nigeria-%e2%81%a0%e2%81%a0condemns-attacks-on-f/"
     }
 ]
