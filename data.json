@@ -2605,5 +2605,71 @@
         "location": "Houses Area, Niger State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/bandits-fleeing-zamfara-kill-5-burn-houses-in-niger/"
+    },
+    {
+        "title": "JUSUN suspends Nasarawa strike for two weeks",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-15",
+        "lat": 8.4617,
+        "lng": 8.2034,
+        "location": "Nasarawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/jusun-suspends-nasarawa-strike-for-two-weeks/"
+    },
+    {
+        "title": "Four feared dead, many injured as fuel tanker explodes in Edo",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-15",
+        "lat": 6.4508,
+        "lng": 6.0569,
+        "location": "Explodes Area, Edo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/four-feared-dead-many-injured-as-fuel-tanker-explodes-in-edo/"
+    },
+    {
+        "title": "Army destroys Lakurawa camps in Sokoto, kills terrorists",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-15",
+        "lat": 13.0332,
+        "lng": 5.2802,
+        "location": "Camps Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/army-destroys-lakurawa-camps-in-sokoto-kills-terrorists/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kano: Police Arrest Two Over Illegal Firearm Possession",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-15",
+        "lat": 12.0299,
+        "lng": 8.6095,
+        "location": "Kano State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/kano-police-arrest-two-over-illegal-firearm-possession/"
+    },
+    {
+        "title": "14 Feared Dead as Terrorists hit Military Base in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-15",
+        "lat": 11.8134,
+        "lng": 13.1972,
+        "location": "Base Area, Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/14-feared-dead-as-terrorists-hit-military-base-in-borno/"
+    },
+    {
+        "title": "NIS Officer Killed, Another Injured in Niger Attack as Service Vows Justice - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-15",
+        "lat": 10.0224,
+        "lng": 5.998,
+        "location": "Injured Area, Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aYjQwUDIyZ1dCdzVDTHVqbUI2Vnl5Ujd5T0N4andOVnNFZlVaTFpMaWdZdHd4eVg1b1FWeGNLTHo3d2pEY3VETEx0WHJ4OUw2bW5qWVJVcjY0aGxlaS1kaFBCMHRhcW82SjUweg?oc=5"
     }
 ]
