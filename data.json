@@ -2429,5 +2429,82 @@
         "location": "Kwara State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-hunt-truck-driver-over-kwara-students-death/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian arrested in Canada over alleged sexual assault",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-15",
+        "lat": 10.0266,
+        "lng": 6.0105,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nigerian-arrested-in-canada-over-alleged-sexual-assault/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Terrorists hit Borno military post, soldiers feared killed",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-15",
+        "lat": 11.7981,
+        "lng": 13.1135,
+        "location": "Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/terrorists-hit-borno-military-post-soldiers-feared-killed/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "SDP presidential candidate demands release of five ‘Tinubu Must Go’ protesters in Borno",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-15",
+        "lat": 11.818,
+        "lng": 13.1888,
+        "location": "Protesters Area, Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/sdp-presidential-candidate-demands-release-of-five-tinubu-must-go-protesters-in-borno/"
+    },
+    {
+        "title": "Kidnapped Kaduna couple’s toddler not dead  – Family",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-15",
+        "lat": 10.5272,
+        "lng": 7.4659,
+        "location": "Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kidnapped-kaduna-couples-toddler-not-dead-family/"
+    },
+    {
+        "title": "Police arrest 3 over alleged removal of human heads from graves",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-15",
+        "lat": 9.0006,
+        "lng": 7.4864,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-3-over-alleged-removal-of-human-heads-from-graves/"
+    },
+    {
+        "title": "Police hunt thug who allegedly chopped off man’s wrist in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-15",
+        "lat": 10.5331,
+        "lng": 10.0245,
+        "location": "Wrist Area, Bauchi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-hunt-thug-who-allegedly-chopped-off-mans-wrist-in-bauchi/"
+    },
+    {
+        "title": "Terrorists Turn to AI, Crypto to Fund Attacks, Recruit Fighters — Ribadu, AU - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-13",
+        "lat": 10.0371,
+        "lng": 6.0358,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Tb1Q5UVI1OFJYemF6MnNuWFhJUXgxWVdhZ1Myak1aZnA1c3Z2eWtwbHNHYjJJbkM3T0IwYmRhNnQ0S2JlNV9CTXhrVDlnamI0bHhubUVKVzJqYmlUZUJNVjIwX3Rhb2lyVW5qc3Bn?oc=5"
     }
 ]
