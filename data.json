@@ -2473,5 +2473,71 @@
         "location": "Oyo State",
         "source": "Punch Metro",
         "url": "https://punchng.com/makinde-seeks-end-to-lautech-strike-says-oyo-wage-bill-now-%e2%82%a618bn/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops kill two Lakurawa terrorists, recover four AK-47 rifles in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-16",
+        "lat": 13.0538,
+        "lng": 5.2778,
+        "location": "Rifles Area, Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/troops-kill-two-lakurawa-terrorists-recover-four-ak-47-rifles-in-sokoto/"
+    },
+    {
+        "title": "Police debunk report of woman cutting off husband’s manhood in Taraba",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-16",
+        "lat": 8.0581,
+        "lng": 10.5357,
+        "location": "Manhood Area, Taraba State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-debunk-report-of-woman-cutting-off-husbands-manhood-in-taraba/"
+    },
+    {
+        "title": "2027: Police warn parties against hate speech, violence in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-16",
+        "lat": 10.5326,
+        "lng": 9.9991,
+        "location": "Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2027-police-warn-parties-against-hate-speech-violence-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Delta: Police Arrest 95 Suspected Cultists, Recover Guns",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-10-16",
+        "lat": 5.5475,
+        "lng": 5.9679,
+        "location": "Delta State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-95-suspected-cultists-recover-guns-in-delta/"
+    },
+    {
+        "title": "Suspected cable thief killed in Kogi",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-16",
+        "lat": 7.7493,
+        "lng": 6.7745,
+        "location": "Killed Area, Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/vigilantes-allegedly-kill-suspected-cable-thief-in-kogi/"
+    },
+    {
+        "title": "Gunmen kill community leader in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-16",
+        "lat": 9.5464,
+        "lng": 9.5089,
+        "location": "Leader Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-community-leader-in-plateau/"
     }
 ]
