@@ -2264,5 +2264,27 @@
         "location": "Niger State",
         "source": "Punch Metro",
         "url": "https://punchng.com/us-supreme-court-to-hear-nigerian-gunmens-cook-asylum-case/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Tor Tiv Decries Attacks On Catholic Facilities",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 9.0562,
+        "lng": 7.5466,
+        "location": "Nigeria (General Area)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/tor-tiv-decries-attacks-on-catholic-facilities/"
+    },
+    {
+        "title": "We Are Working To Rescue Abducted Benue Priest — Police",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 7.3335,
+        "lng": 8.7129,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/we-are-working-to-rescue-abducted-benue-priest-police/"
     }
 ]
