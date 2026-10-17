@@ -2330,5 +2330,60 @@
         "location": "Yobe State",
         "source": "Leadership News",
         "url": "https://leadership.ng/yobe-police-assist-man-who-lost-2-wives-2-children-in-fire/"
+    },
+    {
+        "title": "Nigeria commiserates with Saudi Arabia over terrorists’ attacks",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 5.4382,
+        "lng": 7.4497,
+        "location": "Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/nigeria-commiserates-with-saudi-arabia-over-terrorists-attacks/"
+    },
+    {
+        "title": "PHOTOS: COAS arrives Borno after Tinubu orders clearance of terrorist camps",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 11.8597,
+        "lng": 13.1414,
+        "location": "Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/photos-coas-arrives-borno-after-tinubu-orders-clearance-of-terrorist-camps/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest 95 suspected cultists in Delta, recover five firearms",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-10-17",
+        "lat": 5.4739,
+        "lng": 6.0076,
+        "location": "Cultists Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-95-suspected-cultists-in-delta-recover-five-firearms/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Arrest Suspected Robbers, Recover Weapons in Delta",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-17",
+        "lat": 5.5478,
+        "lng": 5.9767,
+        "location": "Weapons Area, Delta State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-suspected-robbers-recover-weapons-in-delta/"
+    },
+    {
+        "title": "Army Rescues 27 Hostages After Gun Battle with Terrorists in Katsina - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 12.4656,
+        "lng": 7.6435,
+        "location": "Terrorists Area, Katsina State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzczJ0V3BaZUdnWGl6bGZ5MHp1SWFHSmZEb3VrcnVuc3JjZmkxaG5fUGFfWmQ2MkxhSkJFeTlRaW8zRlZDN1RlamRvTmtqcF9aV05jVnJNVjdXQ2pfY0FtUDhEOWl3czAwTkN3?oc=5"
     }
 ]
