@@ -2495,5 +2495,27 @@
         "location": "Recovered Area, Kano State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1idExnY2JCTFlaeVVVT2g5MEFqQXE4eVo1RVZEbFBIeldHTmZXRDNSdERUUk1HS1ZJWllXaFBtZ19WeGp6eVRCMW1jd0ZQaVNqanRVV05rQzlsd2JuWnV1UEhQYmZuTzg?oc=5"
+    },
+    {
+        "title": "1 Killed, Vehicles Damaged As Youths Clash In Niger",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 10.0053,
+        "lng": 6.0426,
+        "location": "Clash Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/1-killed-vehicles-damaged-as-youths-clash-in-niger/"
+    },
+    {
+        "title": "Doctors’ Strike Paralyses Medical Services In Kwara Hospitals",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-17",
+        "lat": 8.5442,
+        "lng": 4.5979,
+        "location": "Services Area, Kwara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/doctors-strike-paralyses-medical-services-in-kwara-hospitals/"
     }
 ]
