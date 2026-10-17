@@ -2429,5 +2429,71 @@
         "location": "Station Area, Abia State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/917846-two-officers-killed-as-gunmen-attack-police-station-in-abia.html"
+    },
+    {
+        "title": "Hunters kill two suspected bandits, recover ₦10m ransom in Kano",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 12.032,
+        "lng": 8.5965,
+        "location": "Ransom Area, Kano State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/hunters-kill-two-suspected-bandits-recover-%e2%82%a610m-ransom-in-kano/"
+    },
+    {
+        "title": "Tanker, four commercial vehicles accident leaves five dead in Oyo",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 7.9406,
+        "lng": 4.0296,
+        "location": "Dead Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/tanker-four-commercial-vehicles-accident-leaves-five-dead-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abia: Gunmen Kill Policemen, Burn Patrol Van, Buildings",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-17",
+        "lat": 5.3581,
+        "lng": 7.485,
+        "location": "Abia State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/abia-gunmen-kill-policemen-burn-patrol-van-buildings/"
+    },
+    {
+        "title": "Troops gun down kidnappers, rescue victim, recover N10m ransom in Kano",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-17",
+        "lat": 11.9675,
+        "lng": 8.5625,
+        "location": "Ransom Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-gun-down-kidnappers-rescue-victim-recover-n10m-ransom-in-kano/"
+    },
+    {
+        "title": "Nurse Dies After Asthma Attack at Ogun Psychiatric Hospital",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 6.9606,
+        "lng": 3.5409,
+        "location": "Ogun State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/nurse-dies-after-asthma-attack-at-ogun-psychiatric-hospital/"
+    },
+    {
+        "title": "Two Bandits Eliminated, N10m Ransom Recovered in Kano – Police - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 12.0271,
+        "lng": 8.6016,
+        "location": "Recovered Area, Kano State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1idExnY2JCTFlaeVVVT2g5MEFqQXE4eVo1RVZEbFBIeldHTmZXRDNSdERUUk1HS1ZJWllXaFBtZ19WeGp6eVRCMW1jd0ZQaVNqanRVV05rQzlsd2JuWnV1UEhQYmZuTzg?oc=5"
     }
 ]
