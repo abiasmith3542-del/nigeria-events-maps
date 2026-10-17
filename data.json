@@ -2385,5 +2385,49 @@
         "location": "Terrorists Area, Katsina State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzczJ0V3BaZUdnWGl6bGZ5MHp1SWFHSmZEb3VrcnVuc3JjZmkxaG5fUGFfWmQ2MkxhSkJFeTlRaW8zRlZDN1RlamRvTmtqcF9aV05jVnJNVjdXQ2pfY0FtUDhEOWl3czAwTkN3?oc=5"
+    },
+    {
+        "title": "Nigeria awaits 10 attack helicopters, UAVs — Defence Minister",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 10.0194,
+        "lng": 6.0412,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/nigeria-awaits-10-attack-helicopters-uavs-defence-minister/"
+    },
+    {
+        "title": "Troops rescue 27 abducted residents in Katsina Forest",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 12.4662,
+        "lng": 7.6258,
+        "location": "Residents Area, Katsina State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/troops-rescue-27-abducted-residents-in-katsina-forest/"
+    },
+    {
+        "title": "Police deny misconduct over viral video of suspect arrested in Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-17",
+        "lat": 7.9955,
+        "lng": 4.0174,
+        "location": "Arrested Area, Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-deny-misconduct-over-viral-video-of-suspect-arrested-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Two officers killed as gunmen attack police station in Abia",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-17",
+        "lat": 5.4334,
+        "lng": 7.4943,
+        "location": "Station Area, Abia State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/917846-two-officers-killed-as-gunmen-attack-police-station-in-abia.html"
     }
 ]
