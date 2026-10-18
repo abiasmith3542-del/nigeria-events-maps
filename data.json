@@ -2407,5 +2407,159 @@
         "location": "Militiamen Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMTNTeWN1OW1KQ1JGNy1DUVFxS040aFpZeFRGUmNES2U0dGxXSDl3SU03NU1MZkJlMkdvU0NKLWdsRTRuOGUyLUFTdEppSE5vN2Q1a0ZzZ3Z0QkdsNEZWejY1eTZiVkRMdV9ETDZ0SzYyazJfTml3S2FIT2ZHamZ2blpfdkpUdDRhLTBhZE1weWFpNmNEVGRNZFYwaVZlQUdkYW9jUTNWWFBWTm1IZGxQZ3NGM2FGa2FrRlgzSk50cXJYaVVFSWFJbDRYUDlfR1lIb2gwMA?oc=5"
+    },
+    {
+        "title": "Farmers-herders clashes -Military seeks dialogue, forgiveness in Kaduna",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-18",
+        "lat": 10.4581,
+        "lng": 7.4524,
+        "location": "Forgiveness Area, Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/farmers-herders-clashes-military-seeks-dialogue-forgiveness-in-kaduna/"
+    },
+    {
+        "title": "Eight Nigerian soldiers killed as army vehicle hits landmine",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-18",
+        "lat": 9.9982,
+        "lng": 6.0336,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/eight-nigerian-soldiers-killed-as-army-vehicle-hits-landmine/"
+    },
+    {
+        "title": "One injured as five-storey building collapses in Abuja",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-18",
+        "lat": 9.0971,
+        "lng": 7.5467,
+        "location": "Collapses Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/one-injured-as-five-storey-building-collapses-in-abuja/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NDLEA intercepts N6.98bn tramadol shipment at Lagos port, arrests suspects across states",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 6.5403,
+        "lng": 3.3697,
+        "location": "Shipment Area, Lagos State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/ssouth-west/917972-ndlea-intercepts-n6-98bn-tramadol-shipment-at-lagos-port-arrests-suspects-across-states.html"
+    },
+    {
+        "title": "Health workers’ strike disrupts hospital services in Katsina",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-18",
+        "lat": 12.5685,
+        "lng": 7.5888,
+        "location": "Services Area, Katsina State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/917957-health-workers-strike-disrupts-hospital-services-in-katsina.html"
+    },
+    {
+        "title": "Bauchi agency CEO, 4 children die in road accident",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-18",
+        "lat": 10.4865,
+        "lng": 10.0009,
+        "location": "Bauchi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bauchi-agency-ceo-4-chidren-die-in-road-accident/"
+    },
+    {
+        "title": "Ogun FRSC Commander is dead",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-18",
+        "lat": 7.051,
+        "lng": 3.549,
+        "location": "Ogun State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/just-in-ogun-frsc-commander-is-dead/"
+    },
+    {
+        "title": "Troops Rescue Five Kidnap Victims in Kogi, Kill Suspected Militia Member in Plateau - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 9.5074,
+        "lng": 9.4866,
+        "location": "Member Area, Plateau State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsNE9hVllGUi1BSzdFbmNsZTV3S2thRUtaM25uT21PeUdEYkVXUm9aMk1xeTJFb1JCeTNUUWtMeUtiQ3lCZ0RKYlhfRGhCbEQxc09uUUpyNDU3elJQV3NyZEpzNzFwLVFwMV9v?oc=5"
+    },
+    {
+        "title": "Four Killed as fulani bandits Attack Shurum Community in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-18",
+        "lat": 9.5336,
+        "lng": 9.4454,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUo0WHA3TmRLYzQ1aXZxNUtfcDl0VFlndlpjRzVMeG1HVlhubFdEaFZXRUthSXpEdHdYV3I3R2tKem1fUlNjRWF1MnRETmstdW1CNE9nczRPYlFjQnlvSUw0RU9JS2pyWnB1bjUxemdueGNxNnFZTHk5VjZFc3hLTFo5Q2pIRFg3MnNDOEFSUVVpcE9BWjJSUlR5MExWMTJDekhKbWt5M1Z2VThodEE?oc=5"
+    },
+    {
+        "title": "Fulani Community Counts Losses In Unprovoked Attack by Berom Militia in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-18",
+        "lat": 9.5006,
+        "lng": 9.4795,
+        "location": "Militia Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnZPZGRtQkZmSnlPd0pYVEdHUHhNa0V4elFVcVZHWGdiMEx3V0hVSlo2eUN4aFQ1b0hrTTZMaGFoQ2VoRGJGeFhtYzRDdnBYQmZDNGUzc3VWY3pMQXlkMHA1REFzVy1GVmlIRUVBMjZDWVhhWnkzZXlFQVJNV2QwZVBRa0o1MUZBdmJmY0ltV3BoM3kyQ0JXcFRheWE1TENwYjN6NEZiUGNZd3JoNllSdDNOcHc5Y2Z6aVpwSWhILWlHQQ?oc=5"
+    },
+    {
+        "title": "OPEP Troops Raid Militia Hideout in Plateau, Arrest Suspect, Neutralise Another - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 9.5387,
+        "lng": 9.4673,
+        "location": "Hideout Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWlhyX183enZxQXY4c1hYanE0TmVwZGFjVkpCQjVyRURVZ1hEVml4LWlPQlo5Tms0cG1wTzBad0I1bXdfdTVVWG9JVU4wYWRfcVBQYnpWeEd1dEJBbTNfc2N2YW9LbjF1UWZ5czQ0dlMtQ2NlODlsVDY5MXFieWU3alNiWnVNQnB0UWpCakRGUVJ2R2JKcmVZVEtycGRIdkY0WS13dW5LcllkUmVyRzJZand3TzdlQWRDOHc1Ui0zMA?oc=5"
+    },
+    {
+        "title": "Troops Arrest Suspected Criminal, Recover Dane Gun in Edo - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 6.5548,
+        "lng": 5.9636,
+        "location": "Edo State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYVZnVWJhQTdNT0dYZ2txN3AzR19EeTlnMUU1VzRkU1BVR01rY0dzTm55T1dVY2wtOVlIS3o5enlTd19KckhCaVNNc015ZTVhNm1TdEEtZ0pIYlhaay00dWZJYTJmd01BYzZGUjZnMVpuc2ttanZzMldxcWgyYy1KcUNIcG00THJyaHFIUFVQdndRWDBRNDl6akR5SUZRX2JNbk5B?oc=5"
+    },
+    {
+        "title": "Troops Arrest Five Suspects Over Abduction of Corps Members in Imo, Recover Weapons - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 5.5379,
+        "lng": 7.0332,
+        "location": "Members Area, Imo State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWxqMng4VTJKRzZpRV9jUFIzcVE0SmthQ3QtTU1jUEMyVTNNbW1CMV9wekh1REZhYWVabE5uOHdGSG1wWmtfaFBscm8tekxfb0JKMDJIRi1rcjJCdDVuMWV1ZFRmQnB3cXZuTTFvN29xcW10U0lwR0VzYUR2YjhUbFhMb2RLOVo2VWdEaVpnYWhEQ2xsbEJUd1VnbEd6bE9OdVAyWDhHU2VVbmxUTHVaSlFiZHF6MTEwY2xnNjZaM0l4NV8tRmc?oc=5"
+    },
+    {
+        "title": "Troops Rescue Five Kidnap Victims in Kogi, Force Abductors to Flee - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 7.8177,
+        "lng": 6.7402,
+        "location": "Victims Area, Kogi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVVRYVJ2VU42TkFIT1JadFpWTkJVQVgza1ZHeFpEWXBDN3M1Zl9FYTZkYUU2ZzF0YjRoUVZhN09GVnMxNk9jVWVXdGh0MmVmNmRBZGdKOURuOFZvUXA0TW5kNzNqOE5PN2d0bFV3LTNERHJxSS1lc19SemM2Wmx1aGlpY24welRrczctbnpnQjgtYjdZSmdnZzBMRzBxYldqUTR2cUNfU1JXSzRFZ3dF?oc=5"
     }
 ]
