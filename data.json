@@ -2561,5 +2561,49 @@
         "location": "Victims Area, Kogi State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbVVRYVJ2VU42TkFIT1JadFpWTkJVQVgza1ZHeFpEWXBDN3M1Zl9FYTZkYUU2ZzF0YjRoUVZhN09GVnMxNk9jVWVXdGh0MmVmNmRBZGdKOURuOFZvUXA0TW5kNzNqOE5PN2d0bFV3LTNERHJxSS1lc19SemM2Wmx1aGlpY24welRrczctbnpnQjgtYjdZSmdnZzBMRzBxYldqUTR2cUNfU1JXSzRFZ3dF?oc=5"
+    },
+    {
+        "title": "Police arrest two robbery suspects in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 10.4565,
+        "lng": 10.0033,
+        "location": "Suspects Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-robbery-suspects-in-bauchi-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen shoot MACBAN leader in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 9.5049,
+        "lng": 9.4774,
+        "location": "Leader Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-shoot-macban-leader-in-plateau/"
+    },
+    {
+        "title": "Four Police officers arrested for allegedly assaulting man in Ogun ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 7.0464,
+        "lng": 3.5285,
+        "location": "Ogun State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/four-police-officers-arrested-for-allegedly-assaulting-ogun-youth/"
+    },
+    {
+        "title": "Soldiers killed as military van runs into ISWAP landmine in Borno",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-18",
+        "lat": 11.7825,
+        "lng": 13.1548,
+        "location": "Landmine Area, Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/soldiers-killed-as-military-van-runs-into-iswap-landmine-in-borno/"
     }
 ]
