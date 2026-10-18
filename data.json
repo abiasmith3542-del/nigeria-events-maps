@@ -2671,5 +2671,60 @@
         "location": "Shot Area, Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/gunmen-shoot-macban-leader-in-plateau/"
+    },
+    {
+        "title": "Police arrest 56-year-old man over wife’s death in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 6.9887,
+        "lng": 3.5085,
+        "location": "Death Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-arrest-56-year-old-man-over-wifes-death-in-ogun/"
+    },
+    {
+        "title": "Kidnapped Catholic Priest, three others rescued in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-18",
+        "lat": 7.3844,
+        "lng": 8.6901,
+        "location": "Rescued Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/kidnapped-catholic-priest-three-others-rescued-in-benue/"
+    },
+    {
+        "title": "Police unveil initiative to tackle youth crime in Sokoto",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 13.1078,
+        "lng": 5.2633,
+        "location": "Crime Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-unveil-initiative-to-tackle-youth-crime-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man over cult-related killing in Imo",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-10-18",
+        "lat": 5.5221,
+        "lng": 7.0008,
+        "location": "Killing Area, Imo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-over-cult-related-killing-in-imo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Fear Grips Zamfara Communities As Bandits Burn Vehicles In Yar Gada",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-18",
+        "lat": 12.1814,
+        "lng": 6.2661,
+        "location": "Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/fear-grips-zamfara-communities-as-bandits-burn-vehicles-in-yar-gada/"
     }
 ]
