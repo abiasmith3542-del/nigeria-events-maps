@@ -1,302 +1,5 @@
 [
     {
-        "title": "2027: Protest, relief as INEC releases final candidates’ list",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-11",
-        "lat": 9.0364,
-        "lng": 7.5213,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/2027-protest-relief-as-inec-releases-final-candidates-list/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police nab 17 suspected human traffickers",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 9.102,
-        "lng": 7.4174,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-nab-17-suspected-human-traffickers/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Flying Antelopes keen to stay top in Kano clash",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-10-11",
-        "lat": 11.9676,
-        "lng": 8.5478,
-        "location": "Kano State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/flying-antelopes-keen-to-stay-top-in-kano-clash/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police arrest suspected armed robber in Delta",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 5.5298,
-        "lng": 5.9845,
-        "location": "Robber Area, Delta State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-suspected-armed-robber-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police rescue suspected transformer vandal from mob in Jigawa",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 11.9523,
-        "lng": 9.7217,
-        "location": "Jigawa State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/police-rescue-suspected-transformer-vandal-from-mob-in-jigawa/"
-    },
-    {
-        "title": "Accident injures Benue APC delegates en route to Lafia rally",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-11",
-        "lat": 7.3603,
-        "lng": 8.749,
-        "location": "Benue State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/accident-injures-benue-apc-delegates-en-route-to-lafia-rally/"
-    },
-    {
-        "title": "About 40 NYSC members abducted in one year – Research",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-11",
-        "lat": 9.0108,
-        "lng": 7.5692,
-        "location": "Nigeria (General Area)",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/about-40-nysc-members-abducted-in-one-year-research/"
-    },
-    {
-        "title": "Police Warn Oyo Politicians On Threat To  Peace, Security In 2027 Polls",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 8.0006,
-        "lng": 4.0418,
-        "location": "Oyo State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/police-warn-oyo-politicians-on-threat-to-peace-security-in-2027-polls/"
-    },
-    {
-        "title": "Renewed Hope group flares police persecution of Tinubu’s supporters in Imo",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 5.4394,
-        "lng": 7.0918,
-        "location": "Supporters Area, Imo State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/renewed-hope-group-flares-police-persecution-of-tinubus-supporters-in-imo/"
-    },
-    {
-        "title": "US names 24 Nigerians arrested over fraud, money laundering",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 10.0404,
-        "lng": 5.9785,
-        "location": "Niger State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/us-names-24-nigerians-arrested-over-fraud-money-laundering/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police arrest three suspected armed robbers in Oyo",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 7.9989,
-        "lng": 4.053,
-        "location": "Robbers Area, Oyo State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-three-suspected-armed-robbers-in-oyo-2/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Suspect arrested over farmer’s killing, kidnapping in Niger",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 10.0599,
-        "lng": 6.0088,
-        "location": "Kidnapping Area, Niger State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/north-central/916103-suspect-arrested-over-farmers-killing-kidnapping-in-niger.html"
-    },
-    {
-        "title": "Nine die in Benue attacks, days after Otukpo killings",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-11",
-        "lat": 7.3062,
-        "lng": 8.725,
-        "location": "Benue State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/regional/north-central/916098-nine-die-in-benue-attacks-days-after-otukpo-killings.html"
-    },
-    {
-        "title": "Protest as Police barricade Venue of Anti-Tinubu meeting in Kano",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 11.9438,
-        "lng": 8.5488,
-        "location": "Meeting Area, Kano State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/breaking-protest-as-police-barricade-venue-of-anti-tinubu-meeting-in-kano/"
-    },
-    {
-        "title": "Suspected streetlight, transformer vandals arrested in Jigawa",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 11.9575,
-        "lng": 9.6908,
-        "location": "Arrested Area, Jigawa State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/suspected-streetlight-transformer-vandals-arrested-in-jigawa/"
-    },
-    {
-        "title": "Troops Rescue Kidnap Victim, Neutralise Three Suspected Kidnappers in Edo - zagazola.org",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 6.526,
-        "lng": 6.0005,
-        "location": "Kidnappers Area, Edo State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORG9FeXVQQjJUT0Q2bHNPNXVScDNDbFUwQ2g4YmlteTVnNTgzNlZRUG1seXFhSXRwYnJXb3Z1LVhCMEpETGpYTXVmTV85VW1ad25IcEx1S0RtODlMYzJNaGNUa1p1RUc3ZWpjNDBpeE9jRUI2cHVrRXNaYVdZYUJ5MjV6ZXctTWozSENUeVpleFhrRF9EbGt4Z1lfeGdTTmstdW5ScW9xWTV4QWN5SktUVFJndXVUYzc0?oc=5"
-    },
-    {
-        "title": "2027: Enugu Govt alleges opposition plot to import armed thugs, bandits",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-11",
-        "lat": 6.4565,
-        "lng": 7.506,
-        "location": "Enugu State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/2027-enugu-govt-alleges-opposition-plot-to-import-armed-t-bandits/"
-    },
-    {
-        "title": "Four injured as part of 60-year-old building collapses in Rivers",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-11",
-        "lat": 4.7697,
-        "lng": 6.8909,
-        "location": "Collapses Area, Rivers State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/four-injured-as-part-of-60-year-old-building-collapses-in-rivers/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police arrest four suspects in Kano, recover three stolen vehicles",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 12.0489,
-        "lng": 8.6354,
-        "location": "Suspects Area, Kano State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-four-suspects-in-kano-recover-three-stolen-vehicles/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "22 Feared Dead As Bandits Ambush Traders Under Army Escort In Zamfara",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-11",
-        "lat": 12.0661,
-        "lng": 6.2672,
-        "location": "Escort Area, Zamfara State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/22-feared-dead-as-bandits-ambush-traders-under-army-escort-in-zamfara/"
-    },
-    {
-        "title": "‘We Wanted to Protect Them’, CP Reacts to Blockade of Anti-Tinubu Meeting in Kano",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-11",
-        "lat": 12.0402,
-        "lng": 8.5582,
-        "location": "Meeting Area, Kano State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/we-wanted-to-protect-them-cp-reacts-to-blockage-of-anti-tinubu-meeting-in-kano/"
-    },
-    {
-        "title": "Saudi Airport Attack Leaves 12 Dead, 309 Injured - PRNigeria News",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-11",
-        "lat": 10.0106,
-        "lng": 5.9857,
-        "location": "Niger State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xbS1scG9RdmZjTk1pQVFUalhJN1ZPQUo1cnl1emtFWWhjNjRVb3NfMXhWWkZBc25hZlhMU181aHk2U3FmdTV3R3BYcTNma1M4aFFHTlFxbjFjS3dxX1NXTEJCYnVQTDU4eC1xNFZB?oc=5"
-    },
-    {
-        "title": "Suspected herders Destroy Large Portion of Cabbage Farm in Plateau - zagazola.org",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-11",
-        "lat": 9.4684,
-        "lng": 9.4729,
-        "location": "Farm Area, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcjJGVExfQWwwTDg1S0pkSHVvVHBXejMwY0xZVG1mS2NwTVZkSTVvOGtWTnozOWpPaTYzbTN1RjFmSjVyX1ctYnVmOXdaMGlUMFQ3M1AwYXVWbzUxeUtyekQta1FOS3hKdXVmU1NfM1o4a3d1QnhfUk1hYkRwNEpyM1RSZnhSNTUzbmx1N1RJZDg3aVNDam9XNmE1UUFiR1BmNFRHZVRNcEJMM3BFS2ZlUA?oc=5"
-    },
-    {
-        "title": "Suspected Fulani bandits Kill Vigilante Member in Plateau, Flee as Troops Arrive - ZAgazola",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-11",
-        "lat": 9.5153,
-        "lng": 9.4601,
-        "location": "Member Area, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTEIycE5lMUhnU05yMXJqdVNxT3N4Y2k0bnV2T1VjbmtCS3RxaGxGbTRLam5XaC1Va094VXNFa0JDb2ZhSV9ScUhUa2h2ZDloMEFQdkwxdFdEWHlmVWt6aVhXRzc1R1Y0Rm42aWxOcDhwWXlPdnhOU1RsOWZTdEhHcWlVMjBVRHBQbzRKaS04cTdZRldmMEE2Z2hKQWhRcGpoUnlwWHZiM1l2Y2FzNUJDbjRVMmcwQ2wzN0pOQllJenVBQQ?oc=5"
-    },
-    {
-        "title": "Four cows shot by Berom Militia in targeted attack Dorowa Babuje, Plateau - zagazola.org",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-11",
-        "lat": 9.4965,
-        "lng": 9.4791,
-        "location": "Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY0dHMUhteDM4Y0ZFSk5zd1R0bjdaTUFzWHBybHFPQ3dpaE51SnpVdXRfdUVSSEVoYURXZjI0WGxSYmgtNXhmTkJZV3NLclNadWNCV2pRWlV1Z2xlOEFHMWdzMTJ0MTVKT3ZiSkhfRFVqZlQtY2hfV1NBMHA2M3lERXJoRzk1YW5jbnc4VXNoNUtkOFo3Y2t1b2t1V1B4NEVqcEhyVHVTaFlXbnM3THlIVXZmRHpRSWph?oc=5"
-    },
-    {
-        "title": "Police: We Didn’t Stop Tinubu Must Go Protesters in Kano",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 11.9603,
-        "lng": 8.5447,
-        "location": "Protesters Area, Kano State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/police-we-didnt-stop-tinubu-must-go-protesters-in-kano/"
-    },
-    {
-        "title": "Kano Police recover stolen vehicles, arrest suspects ",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-11",
-        "lat": 11.9908,
-        "lng": 8.6468,
-        "location": "Kano State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/kano-police-recover-stolen-vehicles-arrest-suspects/"
-    },
-    {
         "title": "Lagos e-hailing drivers begin indefinite strike over fares",
         "type": "突发涉安事件",
         "level": "low",
@@ -372,17 +75,6 @@
         "location": "Nasarawa State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/news/top-news/916299-2027-lawmakers-former-police-boss-army-general-line-up-for-nasarawa-governorship-race.html"
-    },
-    {
-        "title": "Houthi strike on Riyadh Airport kills 12, injures 309 as Saudi Arabia vows retaliation",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-11",
-        "lat": 5.4023,
-        "lng": 7.4786,
-        "location": "Abia State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/916228-houthi-strike-on-riyadh-airport-kills-12-injures-309-as-saudi-arabia-vows-retaliation.html"
     },
     {
         "title": "Stop Police Harassment, Group Tells Imo APP Senatorial Candidate",
@@ -2748,5 +2440,27 @@
         "location": "Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekJZS0Nab2NieDNYRjhYdU1xQXduZ1pwUGREVjdKZl96eWV1TGdrSEJPOUJVODlZdnpmVUJ4eVNFZXpxZk5zY1dESlUxWDVZSnNueXVsTVFRY0V0djFRSEtibDMyOURzT3FUaFV6ekUzejVuQVJMR2VlRGh2THZWUUI5cEtvdnZUYzg0Qm8ycUctMGVHVWo1QnRR?oc=5"
+    },
+    {
+        "title": "Algerian fans attack coach, vandalise stadium after Rangers defeat",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-19",
+        "lat": 9.0593,
+        "lng": 7.4448,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/algerian-fans-attack-coach-vandalise-stadium-after-rangers-defeat/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NSF exclusion: Deaf sports stakeholders set for protest today",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-19",
+        "lat": 9.1394,
+        "lng": 7.5037,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nsf-exclusion-deaf-sports-stakeholders-set-for-protest-today/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
