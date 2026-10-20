@@ -2605,5 +2605,192 @@
         "location": "Suspects Area, Kebbi State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0VtZm5rYVBhbjdwMGZxS3VPQXFOWlI2WWg0RkZ5Uy1uNlVFZ1hyNXBMZDNmRTJLaDlMV01LdjhFVktTUnJlbVAzU29rT2JzUTNZejcyUWN0TjMwb1U4QzdUbnRabGthd0RIZ1I3LUJDVm9aMEZYaklxOVJobTVDVV9MOTUzZm1wZzR6SGJZblFEblVtd25iYTUyTl84U1NsZG9OZTJWZw?oc=5"
+    },
+    {
+        "title": "Police smash suspected robbery gang, arrest six in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-20",
+        "lat": 12.0502,
+        "lng": 9.7592,
+        "location": "Jigawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-smash-suspected-robbery-gang-arrest-six-in-jigawa/"
+    },
+    {
+        "title": "Anambra confirms Lassa fever case, activates emergency response",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-20",
+        "lat": 6.2073,
+        "lng": 6.9514,
+        "location": "Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/anambra-confirms-lassa-fever-case-activates-emergency-response/"
+    },
+    {
+        "title": "FCT police summon farmers, herders’ leaders over Dabiri, Paiko violence",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-20",
+        "lat": 9.0544,
+        "lng": 7.453,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/fct-police-summon-farmers-herders-leaders-over-dabiri-paiko-violence/"
+    },
+    {
+        "title": "Nigerian troops kill 103 suspected terrorists, destroy logistics hubs – Official",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-20",
+        "lat": 9.969,
+        "lng": 6.0132,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/918422-nigerian-troops-kill-103-suspected-terrorists-destroy-logistics-hubs-official.html"
+    },
+    {
+        "title": "Osun police declare ex-NURTW chief wanted over killing of Adeleke’s ally",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-20",
+        "lat": 7.4412,
+        "lng": 4.4601,
+        "location": "Osun State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/918391-osun-police-declare-ex-nurtw-chief-wanted-over-killing-of-adelekes-ally.html"
+    },
+    {
+        "title": "Suspected Herdsmen Kill Forestry Officer In Nasarawa",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-20",
+        "lat": 8.4514,
+        "lng": 8.1166,
+        "location": "Officer Area, Nasarawa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/suspected-herdsmen-kill-forestry-officer-in-nasarawa/"
+    },
+    {
+        "title": "How Bandits Cut Off My Fingers – Kaduna Fisherman",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-20",
+        "lat": 10.5198,
+        "lng": 7.4458,
+        "location": "Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/how-bandits-cut-off-my-fingers-kaduna-fisherman/"
+    },
+    {
+        "title": "REVEALED: How DSS Arrested Maina’s Fugitive Son in Abuja, Handed Him Over to EFCC for Prosecution - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-17",
+        "lat": 9.0395,
+        "lng": 7.4416,
+        "location": "Abuja (FCT)",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQnY3U2x4V0Y4RzF4ZGRaM3E4NWd1a0J5cnJZRzY4WHMtbnhpQVhwUk84ZUx6UWc5Y0J2c052bVhuWlBxTnFGZl85NU4yS0s0UHlJS1o0TWxxMHZycl9RNFhzaThBVVRUdU1xYmlB?oc=5"
+    },
+    {
+        "title": "Troops Arrest Four Suspects Berom Militia Over Attack on Herders in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-20",
+        "lat": 9.5183,
+        "lng": 9.5228,
+        "location": "Herders Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVQxYllsYzlwam1vRjN5YVZDUmM1Y3dBSENRbWM2ejM3Q3NpVUpwUEhQMjBaOVVMTXdkdC1VZEsxaW10b0thZGdRUXZWanlJQVZsYUxJNUo2RDhkTF9BTi1VdUluMjl5UldUQ2lhU19DSy02SjBWX0lmamxIQTZ3aFdCTTZ4WjFNRmpxSlU1U242cmdoNkpTMEw0eDFhRVo3Y1JGVFcyLUIxVDk2U1dodW9TMlJjVld4RVZmRw?oc=5"
+    },
+    {
+        "title": "Three Terrorist Family Members Escape ISWAP Enclave, Surrender to Troops in Borno - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-20",
+        "lat": 11.8345,
+        "lng": 13.1664,
+        "location": "Troops Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWhKMmNLRHR1aXE0TlpEUnA0bjd3a002NUNyeHEyMkNmSjJLcF8zRTRvU25DWWc2TTNTbjNxUFlaVXpBVkx4TjR6VWRIQlZnMTI2Tlp3ZWFYOG5NT3ZURHJpZWdzR2p4VzE5ZnJlNXkySzkxUkhrS3g4UXhYNnhoSDFBc2h5MEZudFlQa0xnQ0JhdkxCZmYyZV80VmU0OERDZFpuVW93enA2cVJGNXNYaFpiTjlHWlE1S1haakNTeUNvRkE?oc=5"
+    },
+    {
+        "title": "GOC 8 Division urges troops to sustain vigilance, professionalism in Sokoto - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-20",
+        "lat": 13.1138,
+        "lng": 5.2709,
+        "location": "Sokoto State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTXZlc0U3U1d5TVdlZjBadm5oOVM2Y0g2cTRXSjBkcVRuc2Iwd1BkVWdjeGl2b3hhYzZJdDQzczhiaXZ3c3EzczdwOGJYbmRZRWhsbDJnWTRRaTRJY0dMRlJKYUpsLXJrMVRZS0dqMVJKNE1Dang2SFV2TTFCclRVbEZDdFoyTklsa0pCV25MaFl3bldJSDFtUmxJVkVsU0RydjVjQktiSmtlZExqWmdBNkdjTnBURXFYTmxB?oc=5"
+    },
+    {
+        "title": "Troops Arrest Two Suspected Oil Thieves, Seize Illegally Refined Products in Rivers - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-20",
+        "lat": 4.742,
+        "lng": 6.8324,
+        "location": "Products Area, Rivers State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFhBOVhPczdyZUw5T3dJb21JUm4weHpMMTV4VXhYTXRTdkliWnhVQjd5LUhIYzRNcTZ1RzkzRjNlNW8wMGt0ZXF0MXpYN3RRbEl0cW5YRmJPVFVCNFRycEUyWU9JVUlpVUFkZTlFLTc1SV9UX1lkUXpnNHAtQ1hmUjI0NU9ZdjdLbFFQUmx1cGc0YUpuTXY4a3NMTGhHcVNzU2JaaGhzdXkwRVUzZE9tTXRkMzU1WkZIbkRSMEdiR0dXaWYya1E?oc=5"
+    },
+    {
+        "title": "Troops Arrest Three Suspected Herders Over Alleged Farmland Destruction in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-20",
+        "lat": 9.4693,
+        "lng": 9.4709,
+        "location": "Destruction Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUUlKT1R3YjVQSXVQYnhTN0xxOEl0RzNOUDZiM0NfZ0NHTHVnV1VERzUwdklUbGJwekVDdUU2THhhSzZkWHVxeWQ2c1MyRFc1TlhtR0pBWWtEZ1lCRHVVcjFBZnBjeFNxUk1FSm5lUWZPRGFiLXpUeXFiWkg4Wk1ocG1EN0dlaHUwRVN2STdsWEptamlpT2pEa2tkU0pvcVFqSTZGbl9BZWZoQTlDVnhvczJqRXRmNnZ4V2pDNU5sSExFSVl2ZkE?oc=5"
+    },
+    {
+        "title": "Troops secure release of kidnapped civilian in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-20",
+        "lat": 9.5248,
+        "lng": 9.5281,
+        "location": "Civilian Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMjluT1BjNmtyYU9xRnA0dFNMdXh6Y2JfR2dyTDRuMjBfV2ludmdLTW56cVlydTgtSlRCdFVOR3E3RWhJaUJCemYyeHV5ZFp1X1R5NHNHelNCeTBTel8yeU56cHpSaERVblR6X1c0NFA2MkptLUttVk9Da0NkSzd0S0ZrV0pHWFpQY0RRcTRnbHVMUlZsNm5KOXl4UEtaZWJv?oc=5"
+    },
+    {
+        "title": "One Fulani man killed, another injured in attack on herders by suspected Berom Militia in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-20",
+        "lat": 9.4695,
+        "lng": 9.5188,
+        "location": "Militia Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTzBiTGYwa2ozRTNXSnVPakdFOWllUmZnRFp1SHIyTVExWk1LSTBWal9TVjhvZi1XajJ3eHZUY3BkVFRxMkI4MDU3TGJncEpram5nOTRLSUVTSnZKY2EyM2d2dWtIWk5BbmcwSjhhb1U3YW1OLU8tUTNWc3FKdEkyT0oxV0VfOFRXNWRTM055S1lwVUtLd0RSM1MwSlFsYUJxRjAyTHV3Vm8xcDJYcjBLcVFoV2tzTkFRb3pGZHJoSTlWVXJyb0NOZzQyQjZwbE1tVG0zQ2NWZl8?oc=5"
+    },
+    {
+        "title": "Troops rescue two kidnapped victims, search for two others in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-20",
+        "lat": 9.5192,
+        "lng": 9.5029,
+        "location": "Others Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDZTdXJGNFpHdUZDVjBzSEZISjdoTUpMQVAxOTh0M1lPcVBFM3pQUzhQU2loVXZybkVJcUpVbWN6ZG1PUWQ1cEhmNGhyTVRfbDdhOG53UUw3bGlLWFBUUXdkcUZfUDlobUVIOEdLQlAwQlJ1NHhDWkQxTEkyWXJBRGQ2TDhvenREYUlYREtRek81bTRJR1VleWFmUUxyTkRvWC1DTFFmWmdtX0NGSlkzb25Ibw?oc=5"
+    },
+    {
+        "title": "Troops rescue kidnap victim, recover 18 rustled cattle in Kebbi - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-20",
+        "lat": 11.4561,
+        "lng": 4.147,
+        "location": "Cattle Area, Kebbi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPclNuT2hxLU1jZWE5WGxnRHZxYUg4bXA4dWJ2d3BVUnVfbmxPM3JQU21OaS10MEhBSnRmYkVCbVh0QlhjajlBRzVXT2VHQUNXR0J3TmcyblptamNaVFo3R3A0empqWjhGZW5qTGc4NlBVTHJlT2p6SkplTWZfdmphZ0F4eGV6eldmaS1JeEJLazVwU3NSYXRfM2pmMGxsaGhMQnFZaG5SQTdBbUlxdnc?oc=5"
     }
 ]
