@@ -2803,5 +2803,27 @@
         "location": "Scam Area, Ogun State",
         "source": "Punch Metro",
         "url": "https://punchng.com/police-rescue-11-ghanaians-after-ghc40000-visa-scam-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abuja bizman arrested over alleged $120m fraud",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 9.0475,
+        "lng": 7.5005,
+        "location": "Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/abuja-bizman-arrested-over-alleged-120m-fraud/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Group, Anambra clash over arrest, disappearance of gatekeeper",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-21",
+        "lat": 6.2445,
+        "lng": 6.9887,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/group-anambra-clash-over-arrest-disappearance-of-gatekeeper/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
