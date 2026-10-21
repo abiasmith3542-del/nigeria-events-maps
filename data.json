@@ -3166,5 +3166,27 @@
         "location": "Plateau State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/plateau-abducted-7-year-old-child-found-dead/"
+    },
+    {
+        "title": "Protests banned in parts of Paris as Macron swipes at Trump",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-21",
+        "lat": 8.9834,
+        "lng": 7.5252,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/protests-banned-in-parts-of-paris-as-macron-swipes-at-trump/"
+    },
+    {
+        "title": "Ebola Outbreak: Lawmakers move to amend Nigeria’s 100-year-old Quarantine Act",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-21",
+        "lat": 10.0009,
+        "lng": 5.9432,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/919037-ebola-outbreak-lawmakers-move-to-amend-nigerias-100-year-old-quarantine-act.html"
     }
 ]
