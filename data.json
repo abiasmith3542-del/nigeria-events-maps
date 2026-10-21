@@ -3100,5 +3100,71 @@
         "location": "Destruction Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY3hGR1BMczZHdDBZS21Jb1NFb1ctd29BN2p6X2JXalJWUFdUQjVqaG41U0lLTWctemd4Zl9ieTJPSlc4Wk5wY3poTE9DdmdsMlQzNk5xU044enpOM2ZHNXVvN0Z4ZkNCTjVrZ3J6Sk1XbjRwcDJYNnNEZm0ybnhHMnFRZ2hBQ0FkYmtVMjlBQ0JyZVhhSE16NXFLTTluTWJRRHFuVVlDZll1MTBQWUNQZXhRSThvdFlCWGZkcDN2ZGlQZnM?oc=5"
+    },
+    {
+        "title": "KADGIS warns public against unauthorised land sales in six Kaduna police barracks",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 10.5251,
+        "lng": 7.5025,
+        "location": "Kaduna State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/kadgis-warns-public-against-unauthorised-land-sales-in-six-kaduna-police-barracks/"
+    },
+    {
+        "title": "Borno: NOA urges calm over reported Ebola outbreak",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-21",
+        "lat": 11.8621,
+        "lng": 13.2019,
+        "location": "Borno State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/borno-noa-urges-calm-over-reported-ebola-outbreak/"
+    },
+    {
+        "title": "Ogun boosts epidemic preparedness as group donates surveillance devices",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-21",
+        "lat": 7.0086,
+        "lng": 3.4765,
+        "location": "Ogun State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/ogun-boosts-epidemic-preparedness-as-group-donates-surveillance-devices/"
+    },
+    {
+        "title": "Benue Assembly passes state police bill, seeks constitutional amendment",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 7.316,
+        "lng": 8.7629,
+        "location": "Benue State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/benue-assembly-passes-state-police-bill-seeks-constitutional-amendment/"
+    },
+    {
+        "title": "Ekiti Assembly passes state police bill",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 7.6559,
+        "lng": 5.2327,
+        "location": "Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ekiti-assembly-passes-state-police-bill/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Plateau: Abducted 7-year-old child found dead ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-21",
+        "lat": 9.487,
+        "lng": 9.4909,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/plateau-abducted-7-year-old-child-found-dead/"
     }
 ]
