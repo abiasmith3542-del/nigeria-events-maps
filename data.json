@@ -2935,5 +2935,170 @@
         "location": "Bayelsa State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/bayelsa-one-killed-as-rival-youth-groups-clash/"
+    },
+    {
+        "title": "Troops foil pipeline vandalism, apprehend suspect in Benue",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 7.3708,
+        "lng": 8.7397,
+        "location": "Suspect Area, Benue State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/post-58/"
+    },
+    {
+        "title": "Governor Uba Sani vows to confront banditry , make Kaduna a peaceful home",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-21",
+        "lat": 10.5403,
+        "lng": 7.445,
+        "location": "Kaduna State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/governor-uba-sani-vows-to-confront-banditry-make-kaduna-a-peaceful-home/"
+    },
+    {
+        "title": "Adamawa Assembly adopts 24 of 26 clauses in State Police Bill",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 9.3424,
+        "lng": 12.4408,
+        "location": "Adamawa State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/adamawa-adopts-state-police-constitution-alteration-bill/"
+    },
+    {
+        "title": "Police arrest 11 suspects for cultism, ATM fraud in Kogi",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 7.757,
+        "lng": 6.719,
+        "location": "Fraud Area, Kogi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-arrest-11-suspects-for-cultism-atm-fraud-in-kogi/"
+    },
+    {
+        "title": "Police arrest three suspects, recover gun in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 11.9504,
+        "lng": 9.7827,
+        "location": "Jigawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-arrest-three-suspects-recover-gun-in-jigawa/"
+    },
+    {
+        "title": "Police arrest eight cultists, three ATM fraudsters in Kogi ",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 7.7474,
+        "lng": 6.7584,
+        "location": "Fraudsters Area, Kogi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-eight-cultists-three-atm-fraudsters-in-kogi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Reps want federal relief for Edo tanker explosion victims",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-21",
+        "lat": 6.4608,
+        "lng": 6.045,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/reps-want-federal-relief-for-edo-tanker-explosion-victims/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Army foils pipeline vandalism attempt, arrests 18-Year-old suspect in Benue",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-21",
+        "lat": 7.3921,
+        "lng": 8.7143,
+        "location": "Suspect Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/army-foils-pipeline-vandalism-attempt-arrests-18-year-old-suspect-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NAFDAC raids Lagos factory producing bitters with cough syrup registration number",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 6.5191,
+        "lng": 3.4222,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nafdac-raids-lagos-factory-producing-bitters-with-cough-syrup-registration-number/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police target kidnappers, bandits in Nasarawa forests search",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-21",
+        "lat": 8.4651,
+        "lng": 8.1221,
+        "location": "Bandits Area, Nasarawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-target-kidnappers-bandits-in-nasarawa-forests-search/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police probe Rivers boat capsize, casualty figure uncertain",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 4.7694,
+        "lng": 6.8436,
+        "location": "Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-probe-rivers-boat-capsize-casualty-figure-uncertain/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gombe confirms cholera outbreak, treats 74 patients",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-21",
+        "lat": 10.3404,
+        "lng": 11.1254,
+        "location": "Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gombe-confirms-cholera-outbreak-treats-74-patients/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "10 drown as youths, security operatives clash in Rivers ",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-21",
+        "lat": 4.7965,
+        "lng": 6.8547,
+        "location": "Clash Area, Rivers State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/10-drown-as-youths-security-operatives-clash-in-rivers/"
+    },
+    {
+        "title": "Fulani Man Shot in Plateau Berom Militia Attack Succumbs to Injuries as Troops Arrest Suspect - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-21",
+        "lat": 9.547,
+        "lng": 9.5227,
+        "location": "Shot Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOWdPS3V3aHhLbWVtcV9DejNlQ3IyMmhUVU5ZYjgxUU50dXVLdlJmNXVWTjNGU0pNeHRHWTFCd3JyUHBtSEdYTWVZRHJicTFHMy1IZS1tRVgwbHh1cU9SQmNheDVyQzRGNGJtamRYT0FRSHptcWxSR1B0eHI3dmJTdW1Fd0pVdHB2bEJLaWJ5b2VqdWVpTmxUY3R0dHJ4V2JFeGZCdGNISHZYYmVqRUN3bWJ5YWc0TE4zOEgzWGdPY3dFc182TkNIVFl6RXI3WEg4SmJ1Zw?oc=5"
+    },
+    {
+        "title": "Farmers, Fulani Herders Agree on Compensation for Farmland Destruction in Plateau - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-21",
+        "lat": 9.5503,
+        "lng": 9.4601,
+        "location": "Destruction Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY3hGR1BMczZHdDBZS21Jb1NFb1ctd29BN2p6X2JXalJWUFdUQjVqaG41U0lLTWctemd4Zl9ieTJPSlc4Wk5wY3poTE9DdmdsMlQzNk5xU044enpOM2ZHNXVvN0Z4ZkNCTjVrZ3J6Sk1XbjRwcDJYNnNEZm0ybnhHMnFRZ2hBQ0FkYmtVMjlBQ0JyZVhhSE16NXFLTTluTWJRRHFuVVlDZll1MTBQWUNQZXhRSThvdFlCWGZkcDN2ZGlQZnM?oc=5"
     }
 ]
