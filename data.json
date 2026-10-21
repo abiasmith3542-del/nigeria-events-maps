@@ -2825,5 +2825,115 @@
         "location": "Anambra State",
         "source": "Punch Metro",
         "url": "https://punchng.com/group-anambra-clash-over-arrest-disappearance-of-gatekeeper/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police call for closer collaboration to curb insecurity in Kaduna",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 10.4812,
+        "lng": 7.4869,
+        "location": "Insecurity Area, Kaduna State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/police-call-for-closer-collaboration-to-curb-insecurity-kaduna/"
+    },
+    {
+        "title": "NNPCL postpones Abuja conference following Ebola outbreak",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-21",
+        "lat": 9.0477,
+        "lng": 7.5513,
+        "location": "Abuja (FCT)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/nnpcl-postpones-abuja-conference-following-ebola-outbreak/"
+    },
+    {
+        "title": "Rivers govt inspects Eleme gas pipeline explosion site",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-21",
+        "lat": 4.7951,
+        "lng": 6.8199,
+        "location": "Rivers State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/rivers-state-government-inspects-eleme-gas-pipeline-explosion-site/"
+    },
+    {
+        "title": "Kebbi Assembly receives bill seeking constitutional backing for state police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 11.4562,
+        "lng": 4.2476,
+        "location": "Kebbi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/21/kebbi-assembly-receives-bill-seeking-constitutional-backing-for-state-police/"
+    },
+    {
+        "title": "Anambra Assembly passes State Police Bill",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 6.2015,
+        "lng": 6.9404,
+        "location": "Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/anambra-assembly-passes-state-police-bill/"
+    },
+    {
+        "title": "UCL: Bayern’s Kimmich misses Arsenal clash after family loss",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-21",
+        "lat": 9.078,
+        "lng": 7.4393,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ucl-bayerns-kimmich-misses-arsenal-clash-after-family-loss/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest four robbery suspects, recover firearms in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 4.6931,
+        "lng": 6.8694,
+        "location": "Firearms Area, Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-robbery-suspects-recover-firearms-in-rivers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Morning recap: Nigeria confirms Ebola case, state police bill, $120m fraud probe, other top stories",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 10.0032,
+        "lng": 6.0139,
+        "location": "Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/morning-recap-nigeria-confirms-ebola-case-state-police-bill-120m-fraud-probe-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "State Police: Nasarawa Assembly joins 11 other states to approve bill",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-21",
+        "lat": 8.48,
+        "lng": 8.1564,
+        "location": "Nasarawa State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/918745-state-police-nasarawa-assembly-joins-11-other-states-to-approve-bill.html"
+    },
+    {
+        "title": "Bayelsa: One killed as rival youth groups clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-21",
+        "lat": 4.7611,
+        "lng": 5.9492,
+        "location": "Bayelsa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bayelsa-one-killed-as-rival-youth-groups-clash/"
     }
 ]
