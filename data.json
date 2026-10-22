@@ -3089,5 +3089,49 @@
         "location": "Kebbi State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiQmpCNV9KS2VVN3R5RWRPUnBEVW5pUlN6TjRvM0RrMFdmSFBDVlJOMWFYb1Y1bldJR09DZ1daU2E2SHZxWFVMdWZ6aDJnMjlEci1yRmpjSWoyZ3ZYYXl0WjlpbUN6ck9HMHhN?oc=5"
+    },
+    {
+        "title": "Yobe Assembly backs creation of state police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 12.0545,
+        "lng": 11.5086,
+        "location": "Yobe State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/22/yobe-assembly-backs-state-police-approves-26-constitution-amendment-bills/"
+    },
+    {
+        "title": "Kano court orders police probe of lawmaker over alleged assault, demolition",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 11.9714,
+        "lng": 8.59,
+        "location": "Kano State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/22/kano-court-orders-police-probe-of-lawmaker-over-alleged-assault-demolition/"
+    },
+    {
+        "title": "INTERPOL arrests two cybercrime suspects in Nigeria",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 9.9865,
+        "lng": 5.9986,
+        "location": "Suspects Area, Niger State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/interpol-arrests-two-cybercrime-suspects-in-nigeria/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Abuja ​‌⁠‌‍⁠⁠‍‌​‍‌‌⁠‍​‌​motorists, commuters react as petrol discount deadline approaches",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-22",
+        "lat": 9.0053,
+        "lng": 7.5529,
+        "location": "Abuja (FCT)",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/abuja-%e2%81%a0%e2%81%a0%e2%81%a0%e2%81%a0motorists-commuters-react-as-pe/"
     }
 ]
