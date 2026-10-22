@@ -2990,5 +2990,104 @@
         "location": "Cultists Area, Akwa Ibom State",
         "source": "Leadership News",
         "url": "https://leadership.ng/police-arrest-15-suspected-cultists-in-akwa-ibom-recover-drugs-stolen-items/"
+    },
+    {
+        "title": "Kaduna police clarify circumstances surrounding journalist Farida Isiak’s case",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 10.4748,
+        "lng": 7.5333,
+        "location": "Kaduna State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/22/kaduna-police-clarify-circumstances-surrounding-farida-isiaks-case-call-for-responsible-journalism/"
+    },
+    {
+        "title": "Police intercept SUV with fake Presidency number plate in FCT ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 9.0539,
+        "lng": 7.4987,
+        "location": "Plate Area, Abuja (FCT)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/22/fct-police-intercept-suv-with-fake-presidency-number-plate-impersonating-ssg/"
+    },
+    {
+        "title": "FCT police arrest SUV occupant over fake presidency plate",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 9.0306,
+        "lng": 7.527,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/fct-police-arrest-suv-occupant-over-fake-presidency-plate/"
+    },
+    {
+        "title": "Police recover Anambra stolen vehicle in Cross River, arrest suspect",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 6.2385,
+        "lng": 6.9922,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-anambra-stolen-vehicle-in-cross-river-arrest-suspect/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bayelsa Assembly approves state police, introduces two bills",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 4.7031,
+        "lng": 5.9818,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bayelsa-assembly-approves-state-police-introduces-two-bills/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Akwa Ibom Assembly adopts recommendations to establish state police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 4.9534,
+        "lng": 7.8186,
+        "location": "Akwa Ibom State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/south-south-regional/919203-akwa-ibom-assembly-adopts-recommendations-to-establish-state-police.html"
+    },
+    {
+        "title": "Bandits kill teacher, two others in Sokoto ambush ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-22",
+        "lat": 13.0439,
+        "lng": 5.2339,
+        "location": "Others Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-teacher-two-others-in-sokoto-ambush/"
+    },
+    {
+        "title": "NIGERIA DAILY: State Police: Is Nigeria Finally Moving Towards Decentralised Policing?",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 10.0172,
+        "lng": 5.9974,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/nigeria-daily-state-police-is-nigeria-finally-moving-towards-decentralised-policing/"
+    },
+    {
+        "title": "Troops Rescue Four Kidnap Victims in Zamfara, Kebbi Operations - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 11.4412,
+        "lng": 4.2505,
+        "location": "Kebbi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiQmpCNV9KS2VVN3R5RWRPUnBEVW5pUlN6TjRvM0RrMFdmSFBDVlJOMWFYb1Y1bldJR09DZ1daU2E2SHZxWFVMdWZ6aDJnMjlEci1yRmpjSWoyZ3ZYYXl0WjlpbUN6ck9HMHhN?oc=5"
     }
 ]
