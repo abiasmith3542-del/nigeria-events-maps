@@ -2924,5 +2924,71 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/greeks-protest-over-rising-costs-of-living/"
+    },
+    {
+        "title": "AIG Ewah assures students of police protection, partnership ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 9.1538,
+        "lng": 7.4868,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/22/aig-ewah-assures-students-of-police-protection-partnership/"
+    },
+    {
+        "title": "Ekiti Assembly passes State Police Bill",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 7.6183,
+        "lng": 5.3057,
+        "location": "Ekiti State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/ekiti-assembly-passes-state-police-bill/"
+    },
+    {
+        "title": "Libya recovers Swiss, Austrian women kidnapped since 2025 in Niger",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-22",
+        "lat": 10.0307,
+        "lng": 5.9739,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/libya-recovers-swiss-austrian-women-kidnapped-since-2025-in-niger/"
+    },
+    {
+        "title": "Ebola: One imported case does not mean Nigeria is experiencing outbreak – WHO",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-22",
+        "lat": 10.0478,
+        "lng": 6.0093,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/919091-ebola-one-imported-case-does-not-mean-nigeria-is-experiencing-outbreak-who.html"
+    },
+    {
+        "title": "ADC Condemns Attack On Party’s Reps Candidate In Anambra, Demands Probe",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-22",
+        "lat": 6.1696,
+        "lng": 6.9614,
+        "location": "Candidate Area, Anambra State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/adc-condemns-attack-on-partys-reps-candidate-in-anambra-demands-probe/"
+    },
+    {
+        "title": "Police Arrest 15 Suspected Cultists In Akwa Ibom, Recover Drugs, Stolen Items",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 4.9622,
+        "lng": 7.8326,
+        "location": "Cultists Area, Akwa Ibom State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-15-suspected-cultists-in-akwa-ibom-recover-drugs-stolen-items/"
     }
 ]
