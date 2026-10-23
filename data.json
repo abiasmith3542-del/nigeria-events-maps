@@ -1,335 +1,5 @@
 [
     {
-        "title": "Accord supporters attacked in Oyo, APC demands probe",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 7.9993,
-        "lng": 3.9705,
-        "location": "Attacked Area, Oyo State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/accord-supporters-attacked-in-oyo-apc-demands-probe/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police arrest physically challenged man, two others in Kwara",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-15",
-        "lat": 8.5424,
-        "lng": 4.6082,
-        "location": "Others Area, Kwara State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-physically-challenged-man-two-others-in-kwara/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police hunt truck driver over Kwara student’s death",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-15",
-        "lat": 8.4657,
-        "lng": 4.5842,
-        "location": "Kwara State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-hunt-truck-driver-over-kwara-students-death/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Nigerian arrested in Canada over alleged sexual assault",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-15",
-        "lat": 10.0266,
-        "lng": 6.0105,
-        "location": "Niger State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/nigerian-arrested-in-canada-over-alleged-sexual-assault/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Terrorists hit Borno military post, soldiers feared killed",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 11.7981,
-        "lng": 13.1135,
-        "location": "Borno State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/terrorists-hit-borno-military-post-soldiers-feared-killed/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "SDP presidential candidate demands release of five ‘Tinubu Must Go’ protesters in Borno",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-15",
-        "lat": 11.818,
-        "lng": 13.1888,
-        "location": "Protesters Area, Borno State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/sdp-presidential-candidate-demands-release-of-five-tinubu-must-go-protesters-in-borno/"
-    },
-    {
-        "title": "Kidnapped Kaduna couple’s toddler not dead  – Family",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 10.5272,
-        "lng": 7.4659,
-        "location": "Kaduna State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/kidnapped-kaduna-couples-toddler-not-dead-family/"
-    },
-    {
-        "title": "Police arrest 3 over alleged removal of human heads from graves",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-15",
-        "lat": 9.0006,
-        "lng": 7.4864,
-        "location": "Nigeria (General Area)",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/police-arrest-3-over-alleged-removal-of-human-heads-from-graves/"
-    },
-    {
-        "title": "Police hunt thug who allegedly chopped off man’s wrist in Bauchi",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-15",
-        "lat": 10.5331,
-        "lng": 10.0245,
-        "location": "Wrist Area, Bauchi State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/police-hunt-thug-who-allegedly-chopped-off-mans-wrist-in-bauchi/"
-    },
-    {
-        "title": "NIS vows justice after officer killed in Niger attack",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 9.958,
-        "lng": 5.9568,
-        "location": "Killed Area, Niger State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/nis-vows-justice-after-officer-killed-in-niger-attack/"
-    },
-    {
-        "title": "Gunmen kill immigration officer, injure another in Niger ",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-10-15",
-        "lat": 10.0539,
-        "lng": 6.0345,
-        "location": "Another Area, Niger State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/gunmen-kill-immigration-officer-injure-another-in-niger/"
-    },
-    {
-        "title": "Man,​‌‍‍‍‍⁠⁠‍​‍⁠‌​‌‍​‌​ 40, dies in attack on Accord supporters in Ibadan – Police",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 8.9953,
-        "lng": 7.5538,
-        "location": "Nigeria (General Area)",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/man%e2%81%a0%e2%81%a0%e2%81%a0-40-dies-in-attack-on-ac/"
-    },
-    {
-        "title": "UCH resident doctors suspend warning strike",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-15",
-        "lat": 9.063,
-        "lng": 7.5151,
-        "location": "Nigeria (General Area)",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/uch-resident-doctors-suspend-warning-strike/"
-    },
-    {
-        "title": "NIS confirms death of officer in Niger attack, vows justice",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 10.0079,
-        "lng": 5.9593,
-        "location": "Officer Area, Niger State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/nis-confirms-death-of-personnel-in-niger-attack-vows-justice/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Katsina health professionals declare 7-day warning strike",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-15",
-        "lat": 12.563,
-        "lng": 7.6564,
-        "location": "Katsina State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/917278-katsina-health-professionals-declare-7-day-warning-strike.html"
-    },
-    {
-        "title": "Court convicts 19 in Kebbi over terrorism, illegal firearms, cable vandalism",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-15",
-        "lat": 11.4854,
-        "lng": 4.199,
-        "location": "Kebbi State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/917266-court-convicts-19-in-kebbi-over-terrorism-illegal-firearms-cable-vandalism.html"
-    },
-    {
-        "title": "Bandits kill five, abduct 18 in Niger communities",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 10.0371,
-        "lng": 6.0007,
-        "location": "Niger State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/917252-bandits-kill-five-abduct-18-in-niger-communities.html"
-    },
-    {
-        "title": "Bandits fleeing Zamfara kill 5, burn houses in Niger",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 10.0434,
-        "lng": 5.9455,
-        "location": "Houses Area, Niger State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/bandits-fleeing-zamfara-kill-5-burn-houses-in-niger/"
-    },
-    {
-        "title": "JUSUN suspends Nasarawa strike for two weeks",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-15",
-        "lat": 8.4617,
-        "lng": 8.2034,
-        "location": "Nasarawa State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/jusun-suspends-nasarawa-strike-for-two-weeks/"
-    },
-    {
-        "title": "Four feared dead, many injured as fuel tanker explodes in Edo",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 6.4508,
-        "lng": 6.0569,
-        "location": "Explodes Area, Edo State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/four-feared-dead-many-injured-as-fuel-tanker-explodes-in-edo/"
-    },
-    {
-        "title": "Army destroys Lakurawa camps in Sokoto, kills terrorists",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 13.0332,
-        "lng": 5.2802,
-        "location": "Camps Area, Sokoto State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/army-destroys-lakurawa-camps-in-sokoto-kills-terrorists/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Kano: Police Arrest Two Over Illegal Firearm Possession",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-15",
-        "lat": 12.0299,
-        "lng": 8.6095,
-        "location": "Kano State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/kano-police-arrest-two-over-illegal-firearm-possession/"
-    },
-    {
-        "title": "14 Feared Dead as Terrorists hit Military Base in Borno",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 11.8134,
-        "lng": 13.1972,
-        "location": "Base Area, Borno State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/14-feared-dead-as-terrorists-hit-military-base-in-borno/"
-    },
-    {
-        "title": "NIS Officer Killed, Another Injured in Niger Attack as Service Vows Justice - PRNigeria News",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 10.0224,
-        "lng": 5.998,
-        "location": "Injured Area, Niger State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aYjQwUDIyZ1dCdzVDTHVqbUI2Vnl5Ujd5T0N4andOVnNFZlVaTFpMaWdZdHd4eVg1b1FWeGNLTHo3d2pEY3VETEx0WHJ4OUw2bW5qWVJVcjY0aGxlaS1kaFBCMHRhcW82SjUweg?oc=5"
-    },
-    {
-        "title": "50 houses razed, scores injured as explosion rocks Rivers community",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 4.7612,
-        "lng": 6.7942,
-        "location": "Rivers State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/50-houses-razed-scores-injured-as-explosion-rocks-rivers-community/"
-    },
-    {
-        "title": "Police arrest two teenagers, recover pistol in Kano",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-15",
-        "lat": 12.014,
-        "lng": 8.6474,
-        "location": "Pistol Area, Kano State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-two-teenagers-recover-pistol-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "State police: National policing bill 90% ready — Gbajabiamila",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-15",
-        "lat": 5.4599,
-        "lng": 7.5288,
-        "location": "Abia State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/state-police-national-policing-bill-90-ready-gbajabiamila/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "BREAKING: Explosion Rocks Rivers Community, Injures Residents, Damages Buildings",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-15",
-        "lat": 4.7966,
-        "lng": 6.8285,
-        "location": "Rivers State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/breaking-explosion-rocks-rivers-community-injures-residents-damages-buildings/"
-    },
-    {
-        "title": "Kaduna: Abducted couple, toddler regain freedom",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 6.4791,
-        "lng": 6.0252,
-        "location": "Edo State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/kaduna-abducted-couple-toddler-regain-freedom/"
-    },
-    {
-        "title": "Kwara doctors begin 7-Day warning strike",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-15",
-        "lat": 8.5579,
-        "lng": 4.5321,
-        "location": "Kwara State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/kwara-doctors-begin-7-day-warning-strike/"
-    },
-    {
         "title": "Fintiri warns Boko Haram, ISWAP remain major threats",
         "type": "恐怖分子/土匪袭击",
         "level": "high",
@@ -471,17 +141,6 @@
         "location": "Terrorists Area, Borno State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/soldiers-feared-killed-repelling-terrorists-in-borno/"
-    },
-    {
-        "title": "Terrorists kill soldiers at Borno military post, six in Niger, Plateau - The Guardian Nigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-15",
-        "lat": 9.5285,
-        "lng": 9.4436,
-        "location": "Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekJZS0Nab2NieDNYRjhYdU1xQXduZ1pwUGREVjdKZl96eWV1TGdrSEJPOUJVODlZdnpmVUJ4eVNFZXpxZk5zY1dESlUxWDVZSnNueXVsTVFRY0V0djFRSEtibDMyOURzT3FUaFV6ekUzejVuQVJMR2VlRGh2THZWUUI5cEtvdnZUYzg0Qm8ycUctMGVHVWo1QnRR?oc=5"
     },
     {
         "title": "2027: Tinubu afraid to face Nigerians, has no business seeking re-election — ADC campaign",
@@ -3210,5 +2869,49 @@
         "location": "Abducted Area, Kogi State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/apc-youth-leader-wife-abducted-in-kogi/"
+    },
+    {
+        "title": "PDP gov candidate redeems N15m, motorcycles pledge to dead miners’ family",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-23",
+        "lat": 9.0579,
+        "lng": 7.4545,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/pdp-gov-candidate-redeems-n15m-motorcycles-pledge-to-dead-miners-family/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Enugu youths protest alleged police killing of socialite ‘Stone’",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-23",
+        "lat": 6.4608,
+        "lng": 7.4692,
+        "location": "Enugu State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/enugu-youths-protest-alleged-police-killing-of-socialite-stone/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NSCDC intercepts 50 stolen railway clips in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-23",
+        "lat": 11.9781,
+        "lng": 8.6063,
+        "location": "Clips Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nscdc-intercepts-50-stolen-railway-clips-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Taraba Task Force Arrests Suspected Illegal Miners, Raids Mining Sites",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-22",
+        "lat": 7.968,
+        "lng": 10.4515,
+        "location": "Taraba State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/taraba-task-force-arrests-suspected-illegal-miners-raids-mining-sites/"
     }
 ]
