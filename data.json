@@ -2957,5 +2957,126 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/france-seeks-to-ban-fresh-protests/"
+    },
+    {
+        "title": "MURIC petitions Police over alleged killing of man inside Oyo mosque",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-23",
+        "lat": 7.9747,
+        "lng": 4.0372,
+        "location": "Oyo State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/23/muric-petitions-police-over-alleged-killing-of-man-inside-oyo-mosque/"
+    },
+    {
+        "title": "ECOMOG: Defence Minister pledges to honour Nigerian troops killed in Liberia, Sierra Leone",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-23",
+        "lat": 10.0209,
+        "lng": 5.9483,
+        "location": "Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/23/ecomog-defence-minister-pledges-to-honour-nigerian-troops-killed-in-liberia-sierra-leone/"
+    },
+    {
+        "title": "ISWAP member, family surrender to troops in Borno",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-23",
+        "lat": 11.7924,
+        "lng": 13.0943,
+        "location": "Troops Area, Borno State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/23/iswap-member-family-surrender-to-troops-in-borno/"
+    },
+    {
+        "title": "State Police: 24 states approve creation, 12 being awaited [FULL LIST]",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-23",
+        "lat": 9.0684,
+        "lng": 7.4863,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/23/state-police-24-states-approve-creation-12-being-awaited-full-list-2/"
+    },
+    {
+        "title": "One dead, three rescued in Lagos building collapse",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-23",
+        "lat": 6.4836,
+        "lng": 3.4066,
+        "location": "Rescued Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/one-dead-three-rescued-in-lagos-building-collapse/"
+    },
+    {
+        "title": "2027: Police promise adequate security in Plateau",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-23",
+        "lat": 9.4605,
+        "lng": 9.5244,
+        "location": "Security Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2027-police-promise-adequate-security-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Benue APC slams attack on electricity workers",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-23",
+        "lat": 7.3914,
+        "lng": 8.8072,
+        "location": "Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/benue-apc-slams-attack-on-electricity-workers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "APC youth leader, wife abducted in Kogi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-23",
+        "lat": 7.7471,
+        "lng": 6.6978,
+        "location": "Abducted Area, Kogi State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/919529-apc-youth-leader-wife-abducted-in-kogi.html"
+    },
+    {
+        "title": "Lagos: One dead, several feared trapped as building collapses",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-23",
+        "lat": 6.4754,
+        "lng": 3.3444,
+        "location": "Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/lagos-one-dead-several-feared-trapped-as-building-collapses/"
+    },
+    {
+        "title": "Troops Discover, Detonate Two IEDs Along Pulka-Firgi Road in Borno - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-23",
+        "lat": 11.8653,
+        "lng": 13.1002,
+        "location": "Road Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUktjWmRIOXhlN3J3MEZ3YmIwQVRMZG82ZWFBREVUbTVjWHRrZFJ2MXBQS1ozcGRDWUR2VzRhb2hTUVZCeVdOMHJSZHBkSzdHaWRhalRsUXVZZFdMcmZIQ0hpQUZZT3E3bHZibFdrZVFEOXRPVUZLSHdxMDBheDM3QjlwY0dCUHVFeFBxNkFpc2FycFhiYTc1MzZpUXNBckJSX0JtaDNTZ252RXY5VGJB?oc=5"
+    },
+    {
+        "title": "Bandit Infighting Claims Over 40 Lives in Zamfara, Brother of Ado Allero Reportedly Killed - zagazola.org",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-23",
+        "lat": 12.1583,
+        "lng": 6.2538,
+        "location": "Lives Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY1R6Rk82Y1ZjTEZ3V1lnbEZudWtsdlh0Vm5sM3VFZ0dfMzFPc2tDUUxDeWM0ZFNUZUJYbldJd1RodDFHbXNRbW1kZEZXOGRJOXQ1WmlKQ0kwZ3BEc0ptaVRyNTE3S0xEVUJNOUtERUs1VEdkX3BnWEphb1M0czhTTnBqcWV3X3BRZ1kzYnd5N1pFeTlqU2NBZUNCeFRWazh2alZEV3diWGFISm81cWgxUUdMM0N3Q3BqYW9PLWZuSzB4SG5PX1NJdE54d0NLUXc?oc=5"
     }
 ]
