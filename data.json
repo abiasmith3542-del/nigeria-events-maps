@@ -3133,5 +3133,16 @@
         "location": "Taraba State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/gunmen-invade-taraba-community-kill-residents-cart-away-motorcycles/"
+    },
+    {
+        "title": "2027: Enugu ADC alleges attacks, demands level playing field",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 6.5362,
+        "lng": 7.5327,
+        "location": "Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/2027-enugu-adc-alleges-attacks-demands-level-playing-field/"
     }
 ]
