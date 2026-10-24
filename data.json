@@ -3144,5 +3144,16 @@
         "location": "Enugu State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/10/2027-enugu-adc-alleges-attacks-demands-level-playing-field/"
+    },
+    {
+        "title": "Woman killed, two injured on Plateau farm",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 9.5173,
+        "lng": 9.5388,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/woman-killed-two-injured-on-plateau-farm/"
     }
 ]
