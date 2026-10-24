@@ -2979,5 +2979,27 @@
         "location": "Enugu State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/enugu-rangers-crash-out-of-caf-champions-league-after-collapse-to-mc-alger/"
+    },
+    {
+        "title": "NLC accuses Edo Govt of orchestrating night raid on electricity workers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-24",
+        "lat": 6.5324,
+        "lng": 5.9647,
+        "location": "Edo State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/24/nlc-accuses-edo-govt-of-orchestrating-night-raid-on-electricity-workers/"
+    },
+    {
+        "title": "European, Middle Eastern ministers warn against new attacks on Iran",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 8.9675,
+        "lng": 7.4836,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/foreign/919773-european-middle-eastern-ministers-warn-against-new-attacks-on-iran.html"
     }
 ]
