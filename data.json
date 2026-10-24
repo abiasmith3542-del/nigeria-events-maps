@@ -3056,5 +3056,82 @@
         "location": "Benue State",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/regional/north-central/919784-benue-residents-groan-as-jed-disconnects-electricity-after-attack-on-staff.html"
+    },
+    {
+        "title": "Troops neutralise 15 terrorists in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 11.823,
+        "lng": 13.0994,
+        "location": "Terrorists Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/troops-neutralise-15-terrorists-in-borno/"
+    },
+    {
+        "title": "10 killed as armed bandits raid Taraba community, loot food stores",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 8.0445,
+        "lng": 10.4711,
+        "location": "Taraba State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/10-killed-as-armed-bandits-raid-taraba-community-loot-food-stores/"
+    },
+    {
+        "title": "Police rescue kidnap victim, arrest eight suspects in Delta",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-24",
+        "lat": 5.4798,
+        "lng": 5.9669,
+        "location": "Suspects Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-rescue-kidnap-victim-arrest-8-suspects-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "10 killed in Taraba attack as residents flee community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 7.9974,
+        "lng": 10.4431,
+        "location": "Killed Area, Taraba State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/nnorth-east/919878-10-killed-in-taraba-attack-as-residents-flee-community.html"
+    },
+    {
+        "title": "Kidnappers kill Abuja victim after collecting N16.2m ransom, suspects arrested – Police",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-24",
+        "lat": 9.0429,
+        "lng": 7.4808,
+        "location": "Abuja (FCT)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/919840-kidnappers-kill-abuja-victim-after-collecting-n16-2m-ransom-suspects-arrested-police.html"
+    },
+    {
+        "title": "Bandits killed as hunters repel attack in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 12.5363,
+        "lng": 7.591,
+        "location": "Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-killed-as-hunters-repel-attack-in-katsina/"
+    },
+    {
+        "title": "Gunmen invade Taraba community, kill residents, cart away motorcycles",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-24",
+        "lat": 7.9889,
+        "lng": 10.4658,
+        "location": "Taraba State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-invade-taraba-community-kill-residents-cart-away-motorcycles/"
     }
 ]
