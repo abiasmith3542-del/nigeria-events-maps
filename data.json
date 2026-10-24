@@ -3155,5 +3155,27 @@
         "location": "Plateau State",
         "source": "Vanguard National",
         "url": "https://www.vanguardngr.com/2026/10/woman-killed-two-injured-on-plateau-farm/"
+    },
+    {
+        "title": "PDP Faction Declares Rainbow Coalition Dead In Cross River",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 5.7365,
+        "lng": 8.5429,
+        "location": "Dead Area, Cross River State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/pdp-faction-declares-rainbow-coalition-dead-in-cross-river/"
+    },
+    {
+        "title": "Bandits Kill 7 Vigilantes, Abduct Over 30 Residents in Zamfara Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 12.1078,
+        "lng": 6.2264,
+        "location": "Residents Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-7-vigilantes-abduct-over-30-residents-in-zamfara-community/"
     }
 ]
