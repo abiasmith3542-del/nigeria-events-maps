@@ -3001,5 +3001,60 @@
         "location": "Nigeria (General Area)",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/foreign/919773-european-middle-eastern-ministers-warn-against-new-attacks-on-iran.html"
+    },
+    {
+        "title": "Kano prepares for possible Ebola outbreak, trains health workers",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-24",
+        "lat": 11.9613,
+        "lng": 8.5881,
+        "location": "Kano State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/24/kano-prepares-for-possible-ebola-outbreak-trains-health-workers/"
+    },
+    {
+        "title": "Two suspected thugs killed, vehicle burnt during attack on NDC candidate in Ebonyi [VIDEO]",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 6.2581,
+        "lng": 7.985,
+        "location": "Candidate Area, Ebonyi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/24/ndc-candidate-convoy-burnt-during-thugs-attack-in-ebonyi-video/"
+    },
+    {
+        "title": "Police arrest three suspects over vandalism at popular Jigawa event centre",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-24",
+        "lat": 11.9601,
+        "lng": 9.7722,
+        "location": "Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-suspects-over-vandalism-at-popular-jigawa-event-centre/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest suspect over death of 23-year-old woman in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-24",
+        "lat": 6.2545,
+        "lng": 6.9821,
+        "location": "Woman Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspect-over-death-of-23-year-old-woman-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Benue residents groan as JED disconnects electricity after attack on staff",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 7.328,
+        "lng": 8.7599,
+        "location": "Benue State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/919784-benue-residents-groan-as-jed-disconnects-electricity-after-attack-on-staff.html"
     }
 ]
