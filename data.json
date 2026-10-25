@@ -3122,5 +3122,49 @@
         "location": "Crash Area, Lagos State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/mother-child-killed-as-2-trucks-crash-in-lagos/"
+    },
+    {
+        "title": "Motorists protest three-month CNG scarcity in Niger",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-25",
+        "lat": 9.9638,
+        "lng": 6.0236,
+        "location": "Scarcity Area, Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/25/motorists-protest-three-month-cng-scarcity-in-niger/"
+    },
+    {
+        "title": "Police arrest Delta school bus driver over minor’s kidnapping, assault",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-25",
+        "lat": 5.4959,
+        "lng": 5.9858,
+        "location": "Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-delta-school-bus-driver-over-minors-kidnapping-assault/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bayelsa debunks Nembe-Brass bridge collapse rumour, says road 85% complete",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-25",
+        "lat": 4.7246,
+        "lng": 6.038,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bayelsa-debunks-nembe-brass-bridge-collapse-rumour-says-road-85-complete/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "3 Arrested for Allegedly Defiling Minors in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-25",
+        "lat": 6.4566,
+        "lng": 5.9939,
+        "location": "Minors Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-arrested-for-allegedly-defiling-minors-in-edo/"
     }
 ]
