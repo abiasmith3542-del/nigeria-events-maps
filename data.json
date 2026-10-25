@@ -2858,5 +2858,49 @@
         "location": "Terrorists Area, Borno State",
         "source": "Punch Metro",
         "url": "https://punchng.com/troops-kill-15-terrorists-in-borno/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Varsity workers protest shortfalls in FG’s arrears payment",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-25",
+        "lat": 9.0875,
+        "lng": 7.541,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/varsity-workers-protest-shortfalls-in-fgs-arrears-payment/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Aondoakaa, Residents Seek Restoration Of Electricity After Attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 7.2307,
+        "lng": 5.2089,
+        "location": "Ondo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/aondoakaa-residents-seek-restoration-of-electricity-after-attack/"
+    },
+    {
+        "title": "150 Days After, Foundation Demands Urgent Rescue Of Abducted Borno Pupils",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 11.822,
+        "lng": 13.1809,
+        "location": "Borno State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/150-days-after-foundation-demands-urgent-rescue-of-abducted-borno-pupils/"
+    },
+    {
+        "title": "PHOTO: Troops Neutralise 15 Terrorists in Air Strike Near Pulka - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-24",
+        "lat": 10.01,
+        "lng": 6.0349,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JX2lLQlNKMk1jSDNNTjMwYlZPdUdqbTZ6OE0zdXlxMlRyeldiMkNtOXBmTjZSZi0wNVNNX3BJdVN3elh1empRYmtHLU9kRjdxV0FGWGN4NERMSld2OXZ4enNINlplRlZv?oc=5"
     }
 ]
