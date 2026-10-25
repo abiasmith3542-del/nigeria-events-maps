@@ -1,335 +1,5 @@
 [
     {
-        "title": "Kwankwasiyya supporters protest over NDC candidate’s omission",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-17",
-        "lat": 9.0265,
-        "lng": 7.4704,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/kwankwasiyya-supporters-protest-over-ndc-candidates-omission/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police arrest two suspected bandits in Katsina",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 12.5515,
-        "lng": 7.6691,
-        "location": "Bandits Area, Katsina State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-two-suspected-bandits-in-katsina/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Oyo police arrest three over alleged homosexual",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 8.0115,
-        "lng": 3.9535,
-        "location": "Oyo State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/oyo-police-arrest-three-over-alleged-homosexual/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "I still braid hair, do makeup despite being blind — Adams",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 9.0263,
-        "lng": 7.5133,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/i-still-braid-hair-do-makeup-despite-being-blind-adams/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Troops kill two terrorists, recover rifles in Sokoto",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 13.1166,
-        "lng": 5.2334,
-        "location": "Rifles Area, Sokoto State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/troops-kill-two-terrorists-recover-rifles-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Rivers pipeline explosion: 20 injured as monarch blames ignored warning",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-17",
-        "lat": 4.7383,
-        "lng": 6.8005,
-        "location": "Rivers State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/rivers-pipeline-explosion-20-injured-as-monarch-blames-ignored-warning/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "US Supreme Court to hear Nigerian ‘gunmen’s cook’ asylum case",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 10.0089,
-        "lng": 6.007,
-        "location": "Niger State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/us-supreme-court-to-hear-nigerian-gunmens-cook-asylum-case/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Tor Tiv Decries Attacks On Catholic Facilities",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 9.0562,
-        "lng": 7.5466,
-        "location": "Nigeria (General Area)",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/tor-tiv-decries-attacks-on-catholic-facilities/"
-    },
-    {
-        "title": "We Are Working To Rescue Abducted Benue Priest — Police",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 7.3335,
-        "lng": 8.7129,
-        "location": "Benue State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/we-are-working-to-rescue-abducted-benue-priest-police/"
-    },
-    {
-        "title": "Gunmen storm Plateau community, kill four vigilantes",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 9.4449,
-        "lng": 9.5521,
-        "location": "Plateau State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/gunmen-storm-plateau-community-kill-four-vigilantes/"
-    },
-    {
-        "title": "Expert raises fuel tanker safety concerns following explosion at Edo market",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-17",
-        "lat": 6.52,
-        "lng": 6.033,
-        "location": "Explosion Area, Edo State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/expert-raises-fuel-tanker-safety-concerns-following-explosion-at-edo-market/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Osun Highway Robbery: Police Link Ex-Convicts To 5 Vehicles, N50m Valuables Stolen",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 7.5089,
-        "lng": 4.5315,
-        "location": "Osun State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/osun-highway-robbery-police-link-ex-convicts-to-5-vehicles-n50m-valuables-stolen/"
-    },
-    {
-        "title": "Yobe Police Assist Man Who Lost 2 Wives, 2 Children In Fire",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 11.9527,
-        "lng": 11.5465,
-        "location": "Yobe State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/yobe-police-assist-man-who-lost-2-wives-2-children-in-fire/"
-    },
-    {
-        "title": "Nigeria commiserates with Saudi Arabia over terrorists’ attacks",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 5.4382,
-        "lng": 7.4497,
-        "location": "Abia State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/nigeria-commiserates-with-saudi-arabia-over-terrorists-attacks/"
-    },
-    {
-        "title": "PHOTOS: COAS arrives Borno after Tinubu orders clearance of terrorist camps",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 11.8597,
-        "lng": 13.1414,
-        "location": "Borno State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/photos-coas-arrives-borno-after-tinubu-orders-clearance-of-terrorist-camps/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police arrest 95 suspected cultists in Delta, recover five firearms",
-        "type": "族群冲突/武装对抗",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 5.4739,
-        "lng": 6.0076,
-        "location": "Cultists Area, Delta State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-95-suspected-cultists-in-delta-recover-five-firearms/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police Arrest Suspected Robbers, Recover Weapons in Delta",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 5.5478,
-        "lng": 5.9767,
-        "location": "Weapons Area, Delta State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/police-arrest-suspected-robbers-recover-weapons-in-delta/"
-    },
-    {
-        "title": "Army Rescues 27 Hostages After Gun Battle with Terrorists in Katsina - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 12.4656,
-        "lng": 7.6435,
-        "location": "Terrorists Area, Katsina State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzczJ0V3BaZUdnWGl6bGZ5MHp1SWFHSmZEb3VrcnVuc3JjZmkxaG5fUGFfWmQ2MkxhSkJFeTlRaW8zRlZDN1RlamRvTmtqcF9aV05jVnJNVjdXQ2pfY0FtUDhEOWl3czAwTkN3?oc=5"
-    },
-    {
-        "title": "Nigeria awaits 10 attack helicopters, UAVs — Defence Minister",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 10.0194,
-        "lng": 6.0412,
-        "location": "Niger State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/nigeria-awaits-10-attack-helicopters-uavs-defence-minister/"
-    },
-    {
-        "title": "Troops rescue 27 abducted residents in Katsina Forest",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 12.4662,
-        "lng": 7.6258,
-        "location": "Residents Area, Katsina State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/troops-rescue-27-abducted-residents-in-katsina-forest/"
-    },
-    {
-        "title": "Police deny misconduct over viral video of suspect arrested in Oyo",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 7.9955,
-        "lng": 4.0174,
-        "location": "Arrested Area, Oyo State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-deny-misconduct-over-viral-video-of-suspect-arrested-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Two officers killed as gunmen attack police station in Abia",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 5.4334,
-        "lng": 7.4943,
-        "location": "Station Area, Abia State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/917846-two-officers-killed-as-gunmen-attack-police-station-in-abia.html"
-    },
-    {
-        "title": "Hunters kill two suspected bandits, recover ₦10m ransom in Kano",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 12.032,
-        "lng": 8.5965,
-        "location": "Ransom Area, Kano State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/10/hunters-kill-two-suspected-bandits-recover-%e2%82%a610m-ransom-in-kano/"
-    },
-    {
-        "title": "Tanker, four commercial vehicles accident leaves five dead in Oyo",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 7.9406,
-        "lng": 4.0296,
-        "location": "Dead Area, Oyo State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/tanker-four-commercial-vehicles-accident-leaves-five-dead-in-oyo/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Abia: Gunmen Kill Policemen, Burn Patrol Van, Buildings",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 5.3581,
-        "lng": 7.485,
-        "location": "Abia State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/abia-gunmen-kill-policemen-burn-patrol-van-buildings/"
-    },
-    {
-        "title": "Troops gun down kidnappers, rescue victim, recover N10m ransom in Kano",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 11.9675,
-        "lng": 8.5625,
-        "location": "Ransom Area, Kano State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/troops-gun-down-kidnappers-rescue-victim-recover-n10m-ransom-in-kano/"
-    },
-    {
-        "title": "Nurse Dies After Asthma Attack at Ogun Psychiatric Hospital",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 6.9606,
-        "lng": 3.5409,
-        "location": "Ogun State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/nurse-dies-after-asthma-attack-at-ogun-psychiatric-hospital/"
-    },
-    {
-        "title": "Two Bandits Eliminated, N10m Ransom Recovered in Kano – Police - PRNigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 12.0271,
-        "lng": 8.6016,
-        "location": "Recovered Area, Kano State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1idExnY2JCTFlaeVVVT2g5MEFqQXE4eVo1RVZEbFBIeldHTmZXRDNSdERUUk1HS1ZJWllXaFBtZ19WeGp6eVRCMW1jd0ZQaVNqanRVV05rQzlsd2JuWnV1UEhQYmZuTzg?oc=5"
-    },
-    {
-        "title": "1 Killed, Vehicles Damaged As Youths Clash In Niger",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 10.0053,
-        "lng": 6.0426,
-        "location": "Clash Area, Niger State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/1-killed-vehicles-damaged-as-youths-clash-in-niger/"
-    },
-    {
-        "title": "Doctors’ Strike Paralyses Medical Services In Kwara Hospitals",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-10-17",
-        "lat": 8.5442,
-        "lng": 4.5979,
-        "location": "Services Area, Kwara State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/doctors-strike-paralyses-medical-services-in-kwara-hospitals/"
-    },
-    {
         "title": "Gunmen raze Abia police station, kill two cops",
         "type": "恐怖分子/土匪袭击",
         "level": "medium",
@@ -801,17 +471,6 @@
         "location": "Niger State",
         "source": "Punch Metro",
         "url": "https://punchng.com/dele-cole-served-nigeria-with-uncommon-patriotism-dignity-fubara-condoles-family/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Terrorists kill soldiers at Borno military post, six in Niger, Plateau - The Guardian Nigeria News",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-10-17",
-        "lat": 9.4709,
-        "lng": 9.5308,
-        "location": "Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQekJZS0Nab2NieDNYRjhYdU1xQXduZ1pwUGREVjdKZl96eWV1TGdrSEJPOUJVODlZdnpmVUJ4eVNFZXpxZk5zY1dESlUxWDVZSnNueXVsTVFRY0V0djFRSEtibDMyOURzT3FUaFV6ekUzejVuQVJMR2VlRGh2THZWUUI5cEtvdnZUYzg0Qm8ycUctMGVHVWo1QnRR?oc=5"
     },
     {
         "title": "Algerian fans attack coach, vandalise stadium after Rangers defeat",
@@ -1351,17 +1010,6 @@
         "location": "Kaduna State",
         "source": "Leadership News",
         "url": "https://leadership.ng/how-bandits-cut-off-my-fingers-kaduna-fisherman/"
-    },
-    {
-        "title": "REVEALED: How DSS Arrested Maina’s Fugitive Son in Abuja, Handed Him Over to EFCC for Prosecution - PRNigeria News",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-10-17",
-        "lat": 9.0395,
-        "lng": 7.4416,
-        "location": "Abuja (FCT)",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zQnY3U2x4V0Y4RzF4ZGRaM3E4NWd1a0J5cnJZRzY4WHMtbnhpQVhwUk84ZUx6UWc5Y0J2c052bVhuWlBxTnFGZl85NU4yS0s0UHlJS1o0TWxxMHZycl9RNFhzaThBVVRUdU1xYmlB?oc=5"
     },
     {
         "title": "Troops Arrest Four Suspects Berom Militia Over Attack on Herders in Plateau - zagazola.org",
@@ -3177,5 +2825,38 @@
         "location": "Residents Area, Zamfara State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/bandits-kill-7-vigilantes-abduct-over-30-residents-in-zamfara-community/"
+    },
+    {
+        "title": "Police warn against paying for bail",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-25",
+        "lat": 9.0189,
+        "lng": 7.4165,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-warn-against-paying-for-bail/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ogun nurses protest inadequate equipment, staff",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-25",
+        "lat": 7.0571,
+        "lng": 3.4545,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ogun-nurses-protest-inadequate-equipment-staff/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops kill 15 terrorists in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 11.8862,
+        "lng": 13.1584,
+        "location": "Terrorists Area, Borno State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/troops-kill-15-terrorists-in-borno/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
