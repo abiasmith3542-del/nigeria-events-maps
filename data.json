@@ -3034,5 +3034,93 @@
         "location": "Victims Area, Kebbi State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3ekVQazI3YzB3eTJZb0VFVUp5WDh5SjN0NEpQMEY1ZmJwRnFPSTFJYlhZSE1MbW1jeFlGWW9GQ3J1dDFhRHViczc5UTVnOEFFWnE4djByOWFKNElkbWRNUXNvMDNieHlCOUozWQ?oc=5"
+    },
+    {
+        "title": "Police rescue kidnap victim in Oyo",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-25",
+        "lat": 7.955,
+        "lng": 4.015,
+        "location": "Victim Area, Oyo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-rescue-kidnap-victim-in-oyo/"
+    },
+    {
+        "title": "Nigerian student dies after asthma attack while celebrating birthday with friends in London",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 10.0505,
+        "lng": 5.9757,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/nigerian-student-dies-after-asthma-attack-while-celebrating-birthday-with-friends-in-london/"
+    },
+    {
+        "title": "Police arrest suspect over railway vandalism in Ogun, recover 16 iron rods",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-25",
+        "lat": 7.0062,
+        "lng": 3.5261,
+        "location": "Vandalism Area, Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-arrest-suspect-over-railway-vandalism-in-ogun-recover-16-iron-rods/"
+    },
+    {
+        "title": "Taraba Govt mobilizes emergency relief, food supplies to Binnari after bandit attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 8.0398,
+        "lng": 10.4591,
+        "location": "Taraba State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/taraba-govt-mobilizes-emergency-relief-food-supplies-to-binnari-after-bandit-attack/"
+    },
+    {
+        "title": "Police arrest man for vandalising railway infrastructure in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-25",
+        "lat": 6.9431,
+        "lng": 3.5348,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-for-vandalising-railway-infrastructure-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest two robbery suspects in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-25",
+        "lat": 10.5166,
+        "lng": 10.0023,
+        "location": "Suspects Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-robbery-suspects-in-bauchi-3/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest wanted suspect over robbery, kidnapping in Anambra",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-25",
+        "lat": 6.1808,
+        "lng": 7.033,
+        "location": "Kidnapping Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-wanted-suspect-over-robbery-kidnapping-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Mother, child killed as 2 trucks crash in Lagos",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 6.4646,
+        "lng": 3.3834,
+        "location": "Crash Area, Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/mother-child-killed-as-2-trucks-crash-in-lagos/"
     }
 ]
