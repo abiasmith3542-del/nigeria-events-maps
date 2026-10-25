@@ -3166,5 +3166,82 @@
         "location": "Minors Area, Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/3-arrested-for-allegedly-defiling-minors-in-edo/"
+    },
+    {
+        "title": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 5.4708,
+        "lng": 7.5391,
+        "location": "Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/flights-resume-at-riyadh-airport-as-houthis-attack-saudi-arabia/"
+    },
+    {
+        "title": "TROOPS NEUTRALISE SIX ISWAP TERRORISTS IN AMBUSH IN BORNO - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 11.8436,
+        "lng": 13.1266,
+        "location": "Ambush Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWXExcXNIWnUtazVnN240TnhDN0c5TGIyTUp5VVhNeENlcTZVQjl5eXlHaUhGVXByT1lGdGVvUFdPS1hBaFdvV092NFdKaUphSG91UGluWlNCS29Ya0V2UUx6Njl3dFhqbmtkVmppZENXX18tSkp5dkhoUWo0QmVrcU1HUktja2tpNzJiaGFuSDBXekFGQ09jNG9HLWVnSnUySHF6Ug?oc=5"
+    },
+    {
+        "title": "Troops, Security Agencies Conduct Show of Force to Secure Church Services in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-25",
+        "lat": 9.499,
+        "lng": 9.5452,
+        "location": "Services Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHdIWjhMazlEbG5JWC0waDJCM1hpWnpISkxwbVNiLU0wY1BMMU9SR0NRLXd4dmh4ajB0ZUprVUZna2NwWEJwMkZvTUF5M0QzeGNlMG15bHIzVmpaWW5nREY4Z1VRNnlVNVEwWnVTNldHYkNlUldudFBpVi0xTENvNnR5bkR1bG9iNEV3UWstRmdhVm9fa3FNaFNKWXlFenBzTFEySmdfZjdtRU05NXRGb2pmSlpVRVBFQUNwS2RCM3hhVU9rTXhv?oc=5"
+    },
+    {
+        "title": "Troops Arrest Military Uniform Impersonator Over Phone Snatching, Public Disturbance in Jos - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-25",
+        "lat": 9.8845,
+        "lng": 8.8328,
+        "location": "Disturbance Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMGhTU3o4SU9nZ0p0MDcxMnZzWjl0ek0zLWFuUHNWZFJpUjhCNjJxTENIQnBuVEZGcWhoQUVKaHB3UmU3NHBOWndDbTBrNHZER2E5My1EcWRJVzVya1EtMzdZa1ZXTFI0UEF4WmJZQi1MTmJHNXZ4RnBDMmx5UW5OUXZUd29ZckRuQmRocHFDQzBJZjBZb1hqd0UwVUdNVEZvaFpWbHl4VjlzaXREQmJiMllkZEpvbUJFYjdmOWt4WUxEMXIxaTR6XzBCc19CZkZw?oc=5"
+    },
+    {
+        "title": "Troops Recover Three Cattle, Motorcycle in Raid on Suspected Herders’ Settlement in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 9.4465,
+        "lng": 9.536,
+        "location": "Settlement Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWW1TNXhPUEhrTVNuRG94X3g4eTZMQ2NaMWpzMkkyc3BFMzZwYXk5YjlFcmFsLXhRakkxUWFreGpsQXBhYmtDRkZEQlBuZG9hTkpBemNTdXloSFpoejh0c2F5MzRFXzFQVXJFaU1sbExlZ0xnRURUSDlaYTcyUXE5dnNkLUJFTGdjRnltUnJ6bHI4b2xzS1luWDRCWFlYMEdNb2MxelFUM3VBTHZxdVgwUG1ac0czQkIyeFlEMkYwQUZXNWd6TWhzdzFnR0x1N2s?oc=5"
+    },
+    {
+        "title": "Fulani attackers Kill Farmer, Injure Another in Plateau Attack - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 9.5328,
+        "lng": 9.5237,
+        "location": "Another Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVlpadmpscVdaQnhhWXR1Q2Zyc3B2RXFhcFlfQ195NHVJaXpIOXFGWEI2TTRSSjI5TVVpc3BoVWlzbE9BZC1ZdlZWM0JGTl9xd0E5QlZuT0RtS2FtSWVsN01zeDdDdjdxUkFrUzdiSzFGSHlsd25aRU9SbXVzUGpTR1V6clktQmFITUJqOVBBYUZBNm16aFlVRFlud0Z3LXNKOU5OTmlvTjRldw?oc=5"
+    },
+    {
+        "title": "Berom Militia Attack Herder in Plateau, Shoot 10 Cows, Four Others Missing - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-25",
+        "lat": 9.5142,
+        "lng": 9.4716,
+        "location": "Herder Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORTBHb2hNSXMyNWwyN0VzMWFHa3l5LWh5V05Wdk5ZUE1COUxVRE9tdHFNaFp2MGJ4NXg4b2RsQVFJY21JNE50Y21SN2Z3QnNVY0Nqbi1Fb2Ffcm1NWm96bDVRcERwZ3otWDFpdWJSdWpWc0xGWnFBNUItV05aOEZLc1RDdG1idE1odmdDNVZsZmE1OUREY0RaWi12UDlIQTZrT0tweDdaRkI4SElUWWtWNF9SMzZ2V1Zz?oc=5"
     }
 ]
