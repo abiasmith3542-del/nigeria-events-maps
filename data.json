@@ -2946,5 +2946,60 @@
         "location": "Abia State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/despite-fresh-houthi-attacks-saudi-arabias-riyadh-airport-resumes-flights/"
+    },
+    {
+        "title": "Zamfara ADC guber candidate condemns Kaura Namoda attack, calls for stronger security",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-26",
+        "lat": 12.069,
+        "lng": 6.2253,
+        "location": "Zamfara State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/26/zamfara-adc-guber-candidate-condemns-kaura-namoda-attack-calls-for-stronger-security/"
+    },
+    {
+        "title": "Police arrest school driver for kidnapping, raping Delta student",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-26",
+        "lat": 5.497,
+        "lng": 6.0154,
+        "location": "Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-school-driver-for-kidnapping-raping-delta-student/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ogun youths protest months after gov’s road repair pledge",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-26",
+        "lat": 6.9403,
+        "lng": 3.5301,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ogun-youths-protest-months-after-govs-road-repair-pledge/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Wanted Anambra suspect arrested over robbery, kidnapping",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-26",
+        "lat": 6.2555,
+        "lng": 6.9694,
+        "location": "Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/wanted-anambra-suspect-arrested-over-robbery-kidnapping/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police begin probe as officer kills colleague, self in Kogi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-26",
+        "lat": 7.7682,
+        "lng": 6.7654,
+        "location": "Self Area, Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-begin-probe-as-officer-kills-colleague-self-in-kogi/"
     }
 ]
