@@ -3122,5 +3122,104 @@
         "location": "Bikes Area, Jigawa State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-arrest-suspected-motorcycle-thief-recover-2-bikes-in-jigawa/"
+    },
+    {
+        "title": "Jigawa police train officers on election security ahead of 2027 polls",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-26",
+        "lat": 11.9699,
+        "lng": 9.798,
+        "location": "Jigawa State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/26/jigawa-police-train-officers-on-election-security-ahead-of-2027-polls/"
+    },
+    {
+        "title": "Terrorists abduct Sunday Igboho’s Iru Ekun Security Group members in Kwara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-26",
+        "lat": 8.4447,
+        "lng": 4.507,
+        "location": "Members Area, Kwara State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/26/terrorists-kidnap-sunday-igbohos-men-force-them-to-renounce-community-protection-in-kwara/"
+    },
+    {
+        "title": "Kano tests health workers’ readiness for Ebola outbreak",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-26",
+        "lat": 11.9834,
+        "lng": 8.6451,
+        "location": "Kano State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/26/kano-tests-health-workers-readiness-for-ebola-outbreak/"
+    },
+    {
+        "title": "Northern senators demand justice for victims of Taraba attack ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-26",
+        "lat": 7.9489,
+        "lng": 10.5323,
+        "location": "Taraba State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/26/northern-senators-demands-justice-for-victims-of-taraba-attack/"
+    },
+    {
+        "title": "Mass killing threat: Enugu ex-lawmakers place N5m bounty on terrorist ringleaders",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-26",
+        "lat": 6.5,
+        "lng": 7.5256,
+        "location": "Enugu State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/mass-killing-threat-enugu-ex-lawmakers-place-n5m-bounty-on-terrorist-ringleaders/"
+    },
+    {
+        "title": "Nigeria could declare Ebola outbreak over by Dec 7 – Pate",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-26",
+        "lat": 9.9795,
+        "lng": 5.9964,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/nigeria-could-declare-ebola-outbreak-over-by-dec-7-pate/"
+    },
+    {
+        "title": "Islamic group members ask for AK-47s to attack ‘infidels’ in Enugu, Jos",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-26",
+        "lat": 9.9349,
+        "lng": 8.857,
+        "location": "Jos, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/islamic-group-members-ask-for-ak-47s-to-attack-infidels-in-enugu-jos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Yuletide: Police step up traffic enforcement in Ekiti",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-26",
+        "lat": 7.6864,
+        "lng": 5.2685,
+        "location": "Enforcement Area, Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/yuletide-police-step-up-traffic-enforcement-in-ekiti/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits Shoot Resident, Rustle 28 Cattle in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-26",
+        "lat": 13.013,
+        "lng": 5.2831,
+        "location": "Cattle Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-shoot-resident-rustle-28-cattle-in-sokoto/"
     }
 ]
