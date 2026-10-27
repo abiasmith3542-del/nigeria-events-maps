@@ -3089,5 +3089,159 @@
         "location": "Terrorists Area, Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmJxamZXRmU2YmdsQ1VicU9jVTdMd2Y0S2o5VEZQN3oyZ2FULWdjTWhXQmxPUU1UeDlSa1A4Z3JQYng4elZhVmNjWUx4TVZHV0Fvc201SmZPb3o3dTdMU1FUTE12UDlobzczVGFUSVNaNDNPWHY3Q2p6d2pSQnZuRWpwWGxzN3E2?oc=5"
+    },
+    {
+        "title": "Insecurity: Kogi Assembly approves State Police Bill ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 7.7945,
+        "lng": 6.6915,
+        "location": "Kogi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/27/kogi-assembly-approves-state-police-bill/"
+    },
+    {
+        "title": "FCT: Police intercept another vehicle with fake Presidency number plate ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 9.0978,
+        "lng": 7.4894,
+        "location": "Abuja (FCT)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/27/fct-police-nab-another-vehicle-with-fake-presidency-number-plate/"
+    },
+    {
+        "title": "Lagos Assembly okays establishment of state police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 6.5021,
+        "lng": 3.413,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/lagos-assembly-okays-establishment-of-state-police/"
+    },
+    {
+        "title": "Troops repel terrorists in Benue, recover two AK-47 rifles",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-27",
+        "lat": 7.3561,
+        "lng": 8.7629,
+        "location": "Terrorists Area, Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/troops-repel-terrorists-in-benue-recover-two-ak-47-rifles/"
+    },
+    {
+        "title": "Troops kill 8 terrorists, recover weapons in Kaduna, Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-27",
+        "lat": 10.4508,
+        "lng": 7.5003,
+        "location": "Weapons Area, Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/troops-kill-8-terrorists-recover-weapons-in-kaduna-zamfara/"
+    },
+    {
+        "title": "Police arrest drug dealer, rescue 14-year-old courier in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 10.4822,
+        "lng": 9.9953,
+        "location": "Courier Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-drug-dealer-rescue-14-year-old-courier-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Court strikes cybercrime charges against man accused of threatening governor",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-27",
+        "lat": 9.0184,
+        "lng": 7.5096,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/920721-court-strikes-cybercrime-charges-against-man-accused-of-threatening-governor.html"
+    },
+    {
+        "title": "5 suspects arrested over woman’s abduction in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 4.7405,
+        "lng": 6.8643,
+        "location": "Abduction Area, Rivers State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/5-suspects-arrested-over-womans-abduction-in-rivers/"
+    },
+    {
+        "title": "5 siblings killed as tanker rams into tricycle in Gombe ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-27",
+        "lat": 10.2352,
+        "lng": 11.1322,
+        "location": "Tricycle Area, Gombe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/5-siblings-killed-as-tanker-rams-into-tricycle-in-gombe/"
+    },
+    {
+        "title": "Two Cattle Die After Targeted with Poison by suspected Berom Militia in Plateau, as troops Begin Investigation - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 9.5581,
+        "lng": 9.4593,
+        "location": "Militia Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdk1UU1hKc1ZPYXd4VFV3QmRTYzhhNDA2dW5lQzEyQjM4N3BjamM0T21IeEJFR3dNNkNab2Z4dHlSRXhRcGpjX3FZNzNqYVNWdHo4VWhUXzR1OU9mSGUya096bTZrREdOWFdiX3F6LU1jeUlfeXJKT0hpd0FPX0JOcTNfV1JadTVTWlByejUzRU1QQlY3ZFh1SF9qSDZYOWxHT2JaS2kyUTA1bjF0WEV4QTNIUlNkRXUzQ2NoT3FSemstR05lUlBLVkFRSElOQnlRMi1GUXIzOGxicDlMSDd6R3J2aU1mVURRZHc?oc=5"
+    },
+    {
+        "title": "Fulani Man Ambush and Killed by Mwaghavul Militia Along Gohotgum–Lamor Road in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-27",
+        "lat": 9.5111,
+        "lng": 9.4994,
+        "location": "Road Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ0ZJbHZCYzZCdF91MERuM1ZqNjVtTXJiSUpVUHhqMXUxRXBORVAyTlYzY2dGVVVweHBwTWZRQ2xlcGNEMzBvbjBBN1hPUm9PbTlGek9nYS1FVmFYSTNMbHlKWUQ4eTdsbGpoaUhVempLYzUxbkVzYlJDMUZyMFpzSkZ1em1udEJENHBWWnFETk9BT2tIUlRtUnhrXzdnREpacGZqMHpTekJ3RHotSVROV1BKai1JM3RSWVQ3RTJrZlNFaWdkQncyN0FSdw?oc=5"
+    },
+    {
+        "title": "Fulani Herder Attacks Farmer, Son with Machete in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-27",
+        "lat": 9.4434,
+        "lng": 9.479,
+        "location": "Machete Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFByaEctcWtHUEloUDVuZTRDcUstLTd4MmFRcFZvWTlrUzVBSVdiLUFRejc4blFZemE2SzVGRmMwckQyLXBOcGs3QkcxREVlQkhsNkE1T0JTYkkwWGR5cUYtVFllMzZPODdmVXd4QjlBUC1hV3ZUV2dfLVRRYlh5UDNuZk1CZEp6UUxidUZ0dFpXd3JnTDBPUjU0eHFEQjdkNVJB?oc=5"
+    },
+    {
+        "title": "One Cow Dies in Suspected Poisoning Incident in Plateau as Troops Broker Peace - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 9.4552,
+        "lng": 9.4727,
+        "location": "Incident Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeURlMlRMb0NQSFVjLUV4X1dMaWZMV01vU2ZCUno5eDdCVXR0dzJRdGluYmJ4aXc1eGFEOWRKRGJhYTdhQWFiUTR3SUVyeERmUzVmeUhxOS01ZTN4emZlalN4Z2ZPZFVuTmw5R2hQZkNJbmtJdThrcVdlV3FqeWNfZnB5UjNxM1BHdTgtWDg3R1VMRFVqLU9HRFZ6UHBqYl9ZZ2FZVGJHbElzTUJSWEh1RkR0dGp1NTVHVDlMVHE5cVQ?oc=5"
+    },
+    {
+        "title": "JIBWIS DISOWNS MAN IN VIRAL VIDEO CALLING FOR AK-47 ATTACKS ON JOS, ENUGU - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-27",
+        "lat": 9.9512,
+        "lng": 8.8364,
+        "location": "Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRENMLW5USXUtYUIzc0ZYbFBTc0tsWU9heU9kdm10YW5HRDNtSVdRWThLYTdnT2xTV3NlYXBuZVNOTDkxR2w3Nng0VTdobW9fUkxrN25rRmozME8yWTVBNWxHampqaVdNNi1ITTdyLXdyRG9vY19vY0VETGJXeXVFaU9BWVZyLUtiSGZWcjZfeEN6UDRpMXp2RmN5dnRCQzRFbVdYUkg1VGxmZUhFbFAzdGtKWTN6aFpk?oc=5"
     }
 ]
