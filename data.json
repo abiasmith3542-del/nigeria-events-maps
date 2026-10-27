@@ -2968,5 +2968,126 @@
         "location": "Plateau State",
         "source": "Leadership News",
         "url": "https://leadership.ng/taraba-lawmaker-urges-plateau-to-curb-alleged-bandit-incursions-2/"
+    },
+    {
+        "title": "Suspected kidnappers ​‌‍‍‍‍⁠⁠‍‌‌‍​​⁠⁠‍‌​attack Kaduna estate, abduct residents",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-27",
+        "lat": 10.5141,
+        "lng": 7.4812,
+        "location": "Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/suspected-kidnappers-%e2%81%a0%e2%81%a0%e2%81%a0%e2%81%a0attack-k/"
+    },
+    {
+        "title": "Gunmen kill seven in Plateau community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 9.4679,
+        "lng": 9.5451,
+        "location": "Seven Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/gunmen-kill-seven-in-plateau-community/"
+    },
+    {
+        "title": "Ebola won’t be used as political weapon — NCDC chief",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 9.0731,
+        "lng": 7.5593,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/ebola-wont-be-used-as-political-weapon-ncdc-chief/"
+    },
+    {
+        "title": "Gunmen kill Islamic cleric, friend in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 12.5011,
+        "lng": 7.5686,
+        "location": "Friend Area, Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-kill-islamic-cleric-friend-in-katsina/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops kill eight suspected terrorists, rescue three abductees in three states – Military",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-27",
+        "lat": 9.0988,
+        "lng": 7.5776,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/920583-troops-kill-eight-suspected-terrorists-rescue-three-abductees-in-three-states-military.html"
+    },
+    {
+        "title": "Gunmen kill Islamic cleric Sheikh Masussuka in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 12.4915,
+        "lng": 7.6613,
+        "location": "Masussuka Area, Katsina State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/920577-gunmen-kill-islamic-cleric-sheikh-masussuka-in-katsina.html"
+    },
+    {
+        "title": "Masussuka: Katsina Police launch manhunt for fleeing killers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 12.4948,
+        "lng": 7.6323,
+        "location": "Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/masussuka-katsina-police-launch-manhunt-for-fleeing-attackers/"
+    },
+    {
+        "title": "Gunmen kill Islamic cleric, associate in Katsina",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 12.5033,
+        "lng": 7.5935,
+        "location": "Associate Area, Katsina State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-islamic-cleric-associate-in-katsina/"
+    },
+    {
+        "title": "North-West Operations: Troops Kill 8 Terrorists, Rescue 3 Kidnap Victims - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-27",
+        "lat": 10.0534,
+        "lng": 6.0428,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45RWE3c2NCN0M2OGZOcGduT3BrMzVRTmhSUHJ6b1RNU3h3c1dwSTJhRWVtbDFubXlEVTA4NVRsQU43RTJ4Qk1Gb195MmNwM0xLUkhnaUdEM2l1b1VKYks3azFiWF9pLVFEdnllelUwTQ?oc=5"
+    },
+    {
+        "title": "Troops Engage Kidnappers in Gunfight, Rescue Two Victims in Benue - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-27",
+        "lat": 7.3913,
+        "lng": 8.7474,
+        "location": "Victims Area, Benue State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DWnRWOGRXUnkteU10Tl9ZenpsejZMc1JOcmd2Qk1hOVR2Tkh5QmwxYURJcG1Gc3c3dW1CVUpYMXZWN25TWGZhMUo2bEJfR0RRNWNKeDUxSjB2cURvVDVYVnN4aHdUWmJ1?oc=5"
+    },
+    {
+        "title": "Military air strike kills 16 suspected terrorists in Borno - TG NEWS",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-26",
+        "lat": 11.7778,
+        "lng": 13.1876,
+        "location": "Terrorists Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObmJxamZXRmU2YmdsQ1VicU9jVTdMd2Y0S2o5VEZQN3oyZ2FULWdjTWhXQmxPUU1UeDlSa1A4Z3JQYng4elZhVmNjWUx4TVZHV0Fvc201SmZPb3o3dTdMU1FUTE12UDlobzczVGFUSVNaNDNPWHY3Q2p6d2pSQnZuRWpwWGxzN3E2?oc=5"
     }
 ]
