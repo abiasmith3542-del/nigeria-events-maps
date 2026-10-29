@@ -3397,5 +3397,115 @@
         "location": "Hideout Area, Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0xiS1hyN3gzTVRodnppM2hkWllaY3l6dFpqTi1aWXNZTkM3QzFibDBWSHVYbkF2S3dhLWdhYS1tdTBZMDlkaXlGNHQ1OVRUcmE4eHhnWXZzRmIyWGg4U3VYOHlyZ3dheU9fckp6emxCaEU2WkZPUlVNMGhua0lIeGRZUHpDM0kzSHplT0FXQzhQLVQ2eVR4MGFNZXNDZjMyeWZaU3JEUnVBOG1mc2ZTMllrRjF4VnFxUGVIVVdZNnBqS0RPS2xxRmRsLV9rYndsMXhCYzZDSQ?oc=5"
+    },
+    {
+        "title": "Police warn motorists in Osun, Oyo against illegal sirens, covered number plates",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-29",
+        "lat": 7.4949,
+        "lng": 4.5401,
+        "location": "Motorists Area, Osun State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/29/police-warn-motorists-in-osun-oyo-against-illegal-sirens-covered-number-plates/"
+    },
+    {
+        "title": "Suspected terrorists kill police inspector, 11 civilians in Kebbi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-29",
+        "lat": 11.394,
+        "lng": 4.1677,
+        "location": "Civilians Area, Kebbi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/29/suspected-terrorists-kill-police-inspector-11-civilians-in-kebbi/"
+    },
+    {
+        "title": "Troops neutralise two high-profile ISWAP leaders, others in Borno",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-29",
+        "lat": 11.8456,
+        "lng": 13.2066,
+        "location": "Others Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/troops-neutralise-two-high-profile-iswap-leaders-others-in-borno/"
+    },
+    {
+        "title": "Police arrest two masquerades over alleged extortion, others in Akwa Ibom",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-29",
+        "lat": 5.0388,
+        "lng": 7.8164,
+        "location": "Others Area, Akwa Ibom State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-arrest-two-masquerades-over-alleged-extortion-others-in-akwa-ibom/"
+    },
+    {
+        "title": "How Our five-year-old daughter was kidnapped in Lagos — Family",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-29",
+        "lat": 6.534,
+        "lng": 3.4273,
+        "location": "Kidnapped Area, Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/how-our-five-year-old-daughter-was-kidnapped-in-lagos-family/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2027: Police warn officers against partisan politics in Plateau ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-29",
+        "lat": 9.5386,
+        "lng": 9.4981,
+        "location": "Politics Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2027-police-warn-officers-against-partisan-politics-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest suspect over alleged abduction, robbery in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-29",
+        "lat": 6.5464,
+        "lng": 6.0565,
+        "location": "Robbery Area, Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspect-over-alleged-abduction-robbery-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Farmer found hanging in Osun, police begin probe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-29",
+        "lat": 7.4756,
+        "lng": 4.4486,
+        "location": "Hanging Area, Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/farmer-found-hanging-in-osun-police-begin-probe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits Attack: Reps seek security, humanitarian intervention in Taraba",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-29",
+        "lat": 8.0403,
+        "lng": 10.5463,
+        "location": "Intervention Area, Taraba State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/nnorth-east/921346-bandits-attack-reps-seek-security-humanitarian-intervention-in-tarababandits-attack-reps-seek-security-humanitarian-intervention-in-taraba.html"
+    },
+    {
+        "title": "Zamfara Hails MSF Over Support Against Diphtheria Outbreak",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-29",
+        "lat": 12.1174,
+        "lng": 6.257,
+        "location": "Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/zamfara-hails-msf-over-support-against-diphtheria-outbreak/"
     }
 ]
