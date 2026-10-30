@@ -3342,5 +3342,159 @@
         "location": "Borno State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/borno-community-seeks-release-of-78-abducted-school-children/"
+    },
+    {
+        "title": "Sowore attacked in Ekiti, police orderly disarmed - Adeyanju alleges",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 7.7218,
+        "lng": 5.1919,
+        "location": "Attacked Area, Ekiti State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/30/sowore-attacked-in-ekiti-police-orderly-disarmed-adeyanju-alleges/"
+    },
+    {
+        "title": "Thugs reportedly attack Sowore in Ekiti",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 7.7264,
+        "lng": 5.1935,
+        "location": "Sowore Area, Ekiti State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/30/thugs-reportedly-attack-sowore-in-ekiti/"
+    },
+    {
+        "title": "48 terrorists, one soldier killed in foiled attacks on troops in Borno, Yobe",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 11.8255,
+        "lng": 13.199,
+        "location": "Troops Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/48-terrorists-one-soldier-killed-in-foiled-attacks-on-ophk-troops-locations-in-borno-yobe-military-says/"
+    },
+    {
+        "title": "29-year-old Nigerian man killed as tree crushes car in London",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 10.0483,
+        "lng": 6.0126,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/29-year-old-nigerian-man-killed-as-tree-crushes-car-in-london/"
+    },
+    {
+        "title": "Gunmen kill four in Plateau community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 9.5407,
+        "lng": 9.5118,
+        "location": "Four Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/gunmen-kill-four-in-plateau-community/"
+    },
+    {
+        "title": "Police arrest fake soldier, recover stolen vehicle in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 10.5394,
+        "lng": 9.9764,
+        "location": "Vehicle Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-fake-soldier-recover-stolen-vehicle-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "NSCDC busts illegal diesel refining site in Kano, arrests five suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 12.0543,
+        "lng": 8.6295,
+        "location": "Site Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/nscdc-busts-illegal-diesel-refining-site-in-kano-arrests-five-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Soldiers kill three terrorists in Kaduna, Kano, recover cows, sheep",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 10.5498,
+        "lng": 7.4622,
+        "location": "Terrorists Area, Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-kill-three-terrorists-in-kaduna-sokoto-recover-cows-sheep/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest two suspected cultists, recover gun, axe in Osun",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 7.4464,
+        "lng": 4.4994,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-suspected-cultists-recover-gun-axe-in-osun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "EXCLUSIVE: NSCDC ‘s Niger commandant fabricated ‘disease outbreak’ to cover up 33 deaths in cell – Report",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-30",
+        "lat": 9.9753,
+        "lng": 6.0533,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/921534-exclusive-nscdc-s-niger-commandant-fabricated-disease-outbreak-to-cover-up-33-deaths-in-cell-report.html"
+    },
+    {
+        "title": "Police Arrest Man Over Alleged Rape, Abduction in Edo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 6.5168,
+        "lng": 5.9973,
+        "location": "Abduction Area, Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-arrest-man-over-alleged-rape-abduction-in-edo/"
+    },
+    {
+        "title": "5 killed in fresh Plateau attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 9.503,
+        "lng": 9.4486,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/5-killed-in-fresh-plateau-attack-2/"
+    },
+    {
+        "title": "Gunmen kill police inspector, 11 others in Kebbi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 11.3904,
+        "lng": 4.172,
+        "location": "Others Area, Kebbi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-police-inspector-11-others-in-kebbi/"
+    },
+    {
+        "title": "Troops Repel Attacks in Borno, Yobe, Kill 48 Terrorists, Neutralise 3 in Kaduna - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 11.8741,
+        "lng": 13.1864,
+        "location": "Attacks Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCQzFuY2VOVmNmWk55dkZpNWpQZ3lZZldtLTdUQjJVYldqYmY4YzB0dHFlYU00Vl9rWk1WbkQ4Ul9NMGIwMDlaMUwzWm9kekE0TFladjJKMmNJRlRaamxRLWJmSVR0LTQ2MkhNNg?oc=5"
     }
 ]
