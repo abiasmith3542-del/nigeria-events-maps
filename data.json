@@ -3309,5 +3309,38 @@
         "location": "Farmers Area, Bauchi State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMk1xc2hUNW51RFBPVml4c0Q3ZnQ3ZVNZZ18yUGtZTDFmMFpaMVFxMHVTZXpWdVdWUzM0amlBdGRvaHFuRkFDUEV4M2p5cmwyTFdoN0xHbnNnUXYxX3dneG9fVFFHWmt4UmdKQ2ljTUZFVS1CNjB3UmRrR2sxX1hnTnVtTnRoZHVKMUZiYzFHNGNKVDJkQjYzWEx5bWptbE5Db3JHVnRRSFowXzlzQ0pfUkl2R3M?oc=5"
+    },
+    {
+        "title": "Gunmen abduct teacher in Nasarawa, demand N50m ransom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 8.4835,
+        "lng": 8.1252,
+        "location": "Teacher Area, Nasarawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-abduct-teacher-in-nasarawa-demand-n50m-ransom/"
+    },
+    {
+        "title": "NCCE honours abducted Oyo school principal, two other ex- provosts",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 8.0259,
+        "lng": 4.038,
+        "location": "Oyo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ncce-honours-abducted-oyo-school-principal-two-other-ex-provosts/"
+    },
+    {
+        "title": "Borno community seeks release of 78 abducted school children",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 11.8576,
+        "lng": 13.1256,
+        "location": "Borno State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/borno-community-seeks-release-of-78-abducted-school-children/"
     }
 ]
