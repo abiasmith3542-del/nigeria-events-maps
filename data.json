@@ -3496,5 +3496,137 @@
         "location": "Attacks Area, Borno State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCQzFuY2VOVmNmWk55dkZpNWpQZ3lZZldtLTdUQjJVYldqYmY4YzB0dHFlYU00Vl9rWk1WbkQ4Ul9NMGIwMDlaMUwzWm9kekE0TFladjJKMmNJRlRaamxRLWJmSVR0LTQ2MkhNNg?oc=5"
+    },
+    {
+        "title": "Police, DSS seized CCTV footage that captured my attackers in Ado-Ekiti - Sowore cries out ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 7.6401,
+        "lng": 5.2995,
+        "location": "Ekiti State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/30/police-dss-seized-cctv-footage-that-captured-my-attackers-in-ado-ekiti-sowore-cries-out/"
+    },
+    {
+        "title": "Imo NYSC kidnap: 'They are the ones' - Bus driver identifies suspects in court",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 5.4532,
+        "lng": 7.0411,
+        "location": "Imo State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/30/imo-nysc-kidnap-they-are-the-ones-bus-driver-identifies-suspects-in-court/"
+    },
+    {
+        "title": "NSCDC uncovers illegal diesel refinery, arrests five suspects in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 12.055,
+        "lng": 8.641,
+        "location": "Suspects Area, Kano State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/30/nscdc-uncover-illegal-diesel-refinery-arrest-five-suspects-in-kano-2/"
+    },
+    {
+        "title": "Ebola outbreak not under control in Africa, CDC warns",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-10-30",
+        "lat": 9.096,
+        "lng": 7.4818,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/ebola-outbreak-not-under-control-in-africa-cdc-warns/"
+    },
+    {
+        "title": "2027: Bayelsa PDP, APC chairmen clash over Diri’s support for Tinubu",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 4.7273,
+        "lng": 5.9799,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2027-bayelsa-pdp-apc-chairmen-clash-over-diris-support-for-tinubu-2/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest pastor, accomplice over Abuja car theft",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 9.0857,
+        "lng": 7.5096,
+        "location": "Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-pastor-accomplice-over-abuja-car-theft/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ondo businessman dies by suicide, police begin probe",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 7.2373,
+        "lng": 5.2265,
+        "location": "Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ondo-businessman-dies-by-suicide-police-begin-probe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Motorists Accuse Police, Soldiers Of Extortion On Benue Road",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 7.3823,
+        "lng": 8.7972,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/motorists-accuse-police-soldiers-of-extortion-on-benue-road/"
+    },
+    {
+        "title": "Ondo businessman found dead in office ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 7.2378,
+        "lng": 5.2143,
+        "location": "Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ondo-businessman-found-dead-in-office/"
+    },
+    {
+        "title": "5 arrested as NSCDC uncovers illegal diesel refinery in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-30",
+        "lat": 12.0571,
+        "lng": 8.6285,
+        "location": "Refinery Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/5-arrested-as-nscdc-uncovers-illegal-refinery-in-kano/"
+    },
+    {
+        "title": "3 injured in attack on Jigawa community",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 11.9878,
+        "lng": 9.7692,
+        "location": "Jigawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-injured-in-attack-on-jigawa-village/"
+    },
+    {
+        "title": "TROOPS NEUTRALISE 3 TERRORISTS, RECOVER ARMS, MOTORCYCLE, 41 LIVESTOCK IN KADUNA, KANO - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-30",
+        "lat": 10.502,
+        "lng": 7.5248,
+        "location": "Livestock Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY24wZHhNb1ozZld6ak1raEFRWHk4U0hmdlhGell5bVdLSkVLV01NMk9Mc2MzZGJwVDg5Z1ppQWxXZWhlVVMwRlRwSUMyNVdkUjdQbzVCdVptVDF2RDZIb1FlMTlkZF9DSDJpcVd4blRIWTJ0b2paUDVHVDJNM0VOaXRFLTFDOXRabnlqR0FkaThEUnZjVDd1TUc1bjhlQjZhb2Q4ck5aOTBXeGF4dnpHb2FoR2JUcVZ0WGY0Wm1ta090OWdSZ2c?oc=5"
     }
 ]
