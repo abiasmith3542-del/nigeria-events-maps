@@ -3441,5 +3441,115 @@
         "location": "Edo State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/three-abducted-zamfara-imams-regain-freedom/"
+    },
+    {
+        "title": "Police repel bandits’ attack on Kebbi community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 11.4143,
+        "lng": 4.2382,
+        "location": "Kebbi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-repel-bandits-attack-on-kebbi-community/"
+    },
+    {
+        "title": "US yet to decide on new Iran strikes, says Rubio",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-31",
+        "lat": 9.0353,
+        "lng": 7.5379,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/us-yet-to-decide-on-new-iran-strikes-says-rubio/"
+    },
+    {
+        "title": "Police arrest two over robbery in Bauchi, recover stolen phones",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-31",
+        "lat": 10.4951,
+        "lng": 9.9564,
+        "location": "Robbery Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-two-over-robbery-in-bauchi-recover-stolen-phones/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest five over defilement of two minors in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-31",
+        "lat": 10.4668,
+        "lng": 9.9877,
+        "location": "Minors Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-five-over-defilement-of-two-minors-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "VIDEO: Police raid criminal hideouts in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-31",
+        "lat": 6.2539,
+        "lng": 7.0408,
+        "location": "Hideouts Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-police-raid-criminal-hideouts-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Over 30 suspected bandits’ bodies found after gun battle in Zamfara — Police",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 12.063,
+        "lng": 6.2154,
+        "location": "Battle Area, Zamfara State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/nwest/921748-over-30-suspected-bandits-bodies-found-after-gun-battle-in-zamfara-police.html"
+    },
+    {
+        "title": "Enugu Natives Decry Police Inaction 47 Days After Murder Of Defunct NPP Secretary’s Son",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-31",
+        "lat": 6.5189,
+        "lng": 7.4822,
+        "location": "Enugu State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/enugu-natives-decry-police-inaction-47-days-after-murder-of-defunct-npp-secretarys-son/"
+    },
+    {
+        "title": "IGP Disu Secures US, Italy Partnership for Specialised Training of 5,000 Police Officers - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-31",
+        "lat": 10.0371,
+        "lng": 5.9489,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QNTlEeS02MWM1TXltYXZ4eW9KYjNydW1hYi01WXU0QjV4UnJHWms5eTVfQ3lVWDBIalVFVWlpV2ZicHF0SDJtSWk3TVJkMU9Ud1dzekFnV0plN0MtN3FGUEtJWHF4eUU?oc=5"
+    },
+    {
+        "title": "Senator Buba Condoles with Misau Emirate over Accident Victims, Inaugurates PRP Campaign Office - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-31",
+        "lat": 10.0223,
+        "lng": 5.9842,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oWjZiSjJvNlI1aVl5UGhJSE1CRFlIdGJHdVdLMWxZaFRGZkdYOWNwckJFYXZWaXhhRGN1VWw2TGhtT3REbkg2YnVCWUtIY3VUMXVOQ0g0dXB1NUZXbE9kRDhpaEw2Tlo2aXdSSXFR?oc=5"
+    },
+    {
+        "title": "Soldier Sustains Machete Wounds In Plateau Community Attack, Two Civilians Suffer Gunshot Injuries - Sahara Reporters",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 9.5199,
+        "lng": 9.4912,
+        "location": "Wounds Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd21oQjZndUR6WUgwMXl4TEhWZmJxSkFYSGdySUQ1Q2VSdUg0bTBETUY3dlNGVEZUaUcwemhfbTFpNUQzbEZVaHpybmhKRlljajhzNFJ2eEN4aWJPQmFrODBzblpkMUJMekV6eG1oN1BYWFdXWjRsUDJRSHRiQzl5bS1mQlEyaVBoV3FOdWdCMHZja2dUSU1fakktYVFHejdNekYxS2FDOS1HR3d4LVRMWERWZGlnN3ZkTThzS1YtV3B2Zw?oc=5"
     }
 ]
