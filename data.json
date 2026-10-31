@@ -3287,5 +3287,71 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/military-records-73-drop-in-attacks/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Tambuwal reacts to alleged attack on Sokoto ADC candidate ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 13.0174,
+        "lng": 5.1944,
+        "location": "Sokoto State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/31/tambuwal-reacts-to-alleged-attack-on-adc-candidate/"
+    },
+    {
+        "title": "Strike looms as NASU gives Yobe government 14-day ultimatum over staff welfare",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-10-31",
+        "lat": 12.0548,
+        "lng": 11.4668,
+        "location": "Yobe State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/31/strike-looms-as-nasu-gives-yobe-government-14-day-ultimatum-over-staff-welfare/"
+    },
+    {
+        "title": "Plateau police arrest man for killing wife, recover three rifles, live cartridges ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-31",
+        "lat": 9.4499,
+        "lng": 9.4872,
+        "location": "Plateau State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/31/plateau-police-arrests-man-for-killing-wife-recover-rifles-live-cartridges/"
+    },
+    {
+        "title": "Police confirm rescue of 3 kidnapped Zamfara Islamic clerics ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 12.1288,
+        "lng": 6.2694,
+        "location": "Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/police-confirm-rescue-of-3-kidnapped-zamfara-islamic-clerics/"
+    },
+    {
+        "title": "Sowore, police differ over attack in Ekiti",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 7.6194,
+        "lng": 5.2018,
+        "location": "Ekiti State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/10/sowore-police-differ-over-attack-in-ekiti/"
+    },
+    {
+        "title": "I Strangled, Macheted Retired Civil Servant Over N3.45m – Ogun Suspect Tells Police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-31",
+        "lat": 6.9551,
+        "lng": 3.4795,
+        "location": "Ogun State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/i-strangled-macheted-retired-civil-servant-over-n3-45m-ogun-suspect-tells-police/"
     }
 ]
