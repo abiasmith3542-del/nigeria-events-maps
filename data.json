@@ -3353,5 +3353,93 @@
         "location": "Ogun State",
         "source": "Leadership News",
         "url": "https://leadership.ng/i-strangled-macheted-retired-civil-servant-over-n3-45m-ogun-suspect-tells-police/"
+    },
+    {
+        "title": "‘We won’t accept foot soldiers arrested while masterminds walk free’ — Sowore",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-10-31",
+        "lat": 9.1262,
+        "lng": 7.572,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/31/we-wont-accept-foot-soldiers-arrested-while-masterminds-walk-free-sowore/"
+    },
+    {
+        "title": "'Nigeria drifting to dictatorship' - Atiku condemns attacks on Sowore, ADC candidate ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 9.9907,
+        "lng": 5.984,
+        "location": "Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/10/31/2027-atiku-blasts-tinubu-govt-over-attack-on-sowore-sokoto-adc-guber-candidate/"
+    },
+    {
+        "title": "Police arrest four suspected armed robbers, cultists in Delta",
+        "type": "族群冲突/武装对抗",
+        "level": "medium",
+        "date": "2026-10-31",
+        "lat": 5.5186,
+        "lng": 6.0481,
+        "location": "Cultists Area, Delta State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-four-suspected-armed-robbers-cultists-in-delta/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest 11 over attack on Sowore in Ekiti",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 7.6094,
+        "lng": 5.2106,
+        "location": "Sowore Area, Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-11-over-attack-on-sowore-in-ekiti/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "APC chieftain cautions Bayelsa PDP chair against attacks on Diri",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 4.8079,
+        "lng": 6.0197,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/apc-chieftain-cautions-bayelsa-pdp-chair-against-attacks-on-diri/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police Arrest 11 Over Attack On Sowore, Supporters In Ekiti",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 7.6206,
+        "lng": 5.2144,
+        "location": "Supporters Area, Ekiti State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-11-over-attack-on-sowore-supporters-in-ekiti/"
+    },
+    {
+        "title": "How Transporter Allegedly Killed Retired Civil Servant in Ogun",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 7.0025,
+        "lng": 3.5014,
+        "location": "Servant Area, Ogun State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/how-transporter-allegedly-killed-retired-civil-servant-in-ogun/"
+    },
+    {
+        "title": "Three Abducted Zamfara Imams Regain Freedom",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-10-31",
+        "lat": 6.5288,
+        "lng": 5.9423,
+        "location": "Edo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/three-abducted-zamfara-imams-regain-freedom/"
     }
 ]
