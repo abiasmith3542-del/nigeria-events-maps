@@ -3133,5 +3133,148 @@
         "location": "Nigeria (General Area)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/n4-6trn-lost-to-building-collapse-in-4-years-report/"
+    },
+    {
+        "title": "Tackle Boko Haram to safeguard Nigeria - Cleric urges Tinubu   ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-02",
+        "lat": 10.036,
+        "lng": 5.9796,
+        "location": "Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/02/tackle-boko-haram-to-safeguard-nigeria-cleric-urges-tinubu/"
+    },
+    {
+        "title": "SSANU, Sokoto State University commences five-day warning strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-02",
+        "lat": 13.0601,
+        "lng": 5.2728,
+        "location": "Sokoto State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/02/ssanu-sokoto-state-university-chapter-commences-five-day-warning-strike/"
+    },
+    {
+        "title": "Kefas appeals to ASUU to end prolonged strike at Taraba varsity ",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-02",
+        "lat": 8.0549,
+        "lng": 10.4635,
+        "location": "Strike Area, Taraba State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/02/kefas-appeals-to-asuu-to-end-prolonged-strike-at-taraba-varsity/"
+    },
+    {
+        "title": "Bauchi Zaki Council Chairman dies in fatal road crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-02",
+        "lat": 10.5347,
+        "lng": 10.0562,
+        "location": "Bauchi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/02/bauchi-zaki-council-chairman-dies-in-fatal-road-crash/"
+    },
+    {
+        "title": "Tinubu inherited Nigeria on brink of collapse from Buhari — Plateau gov",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-02",
+        "lat": 9.5032,
+        "lng": 9.5249,
+        "location": "Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/tinubu-inherited-nigeria-on-brink-of-collapse-from-buhari-plateau-gov/"
+    },
+    {
+        "title": "Police arrest 24-year-old for stealing cleric’s mobile phone in Anambra",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-02",
+        "lat": 6.1747,
+        "lng": 6.9996,
+        "location": "Phone Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-24-year-old-for-stealing-clerics-mobile-phone-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Man arrested over attempt to smuggle hemp into Kano prison",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-02",
+        "lat": 12.053,
+        "lng": 8.5402,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/man-arrested-over-attempt-to-smuggle-hemp-into-kano-prison/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Sowore releases video of alleged attackers, alleges erased CCTV footage in Ekiti",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-02",
+        "lat": 7.7006,
+        "lng": 5.2632,
+        "location": "Footage Area, Ekiti State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/922061-sowore-releases-video-of-alleged-attackers-alleges-erased-cctv-footage-in-ekiti.html"
+    },
+    {
+        "title": "Police arrest three over political violence in Katsina",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-02",
+        "lat": 12.5273,
+        "lng": 7.5592,
+        "location": "Katsina State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/922031-police-arrest-three-over-political-violence-in-katsina.html"
+    },
+    {
+        "title": "Kogi: Troops kill 2 suspected bandits",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-02",
+        "lat": 7.8262,
+        "lng": 6.6939,
+        "location": "Kogi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kogi-troops-kill-2-suspected-bandits/"
+    },
+    {
+        "title": "Gunmen kill soldier, cart away weapons in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-02",
+        "lat": 9.5224,
+        "lng": 9.4913,
+        "location": "Weapons Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-soldier-cart-away-weapons-in-plateau/"
+    },
+    {
+        "title": "Troops rescue 11 kidnapped victims in Kebbi operations",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-02",
+        "lat": 11.4481,
+        "lng": 4.1668,
+        "location": "Victims Area, Kebbi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-rescue-11-kidnapped-victims-in-kebbi-operations/"
+    },
+    {
+        "title": "Troops Free 11 Abducted Persons in Kebbi, Kill Two Bandits in Kogi - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-02",
+        "lat": 11.4928,
+        "lng": 4.1568,
+        "location": "Persons Area, Kebbi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydmNpT3EwZ1ptSURpVU1IYVJZMDZ5SFRLVkdtcTJoYWVLeldnVDI3Nk1nNWdJZjhGd1ItNXVPdUpVTU5nb25LcnY3OEQ0Y0pHby1Mb2JSS3BSS1lQU0JVc3RrQlRsOGNPNDFpb3FtOA?oc=5"
     }
 ]
