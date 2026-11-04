@@ -3045,5 +3045,126 @@
         "location": "Niger State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/nigeria-daily-niger-abductions-these-attacks-are-not-new/"
+    },
+    {
+        "title": "AIG orders probe into viral video of police officers assaulting suspect in Osun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-04",
+        "lat": 7.5172,
+        "lng": 4.4971,
+        "location": "Suspect Area, Osun State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/04/police-identify-officers-involved-in-viral-brutality-video-in-osun/"
+    },
+    {
+        "title": "\"They said Christians won't see Christmas\" - Plateau pastor alleges planned attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-04",
+        "lat": 9.507,
+        "lng": 9.4629,
+        "location": "Plateau State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/04/they-said-we-will-not-live-to-see-christmas-plateau-pastor-raises-alarm-over-alleged-plot-to-kill-christians/"
+    },
+    {
+        "title": "Don’t politicise national security, TMS warns Atiku as DSS probes Sokoto protest",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-04",
+        "lat": 13.081,
+        "lng": 5.2367,
+        "location": "Sokoto State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/dont-politicise-national-security-tms-warns-atiku-as-dss-probes-sokoto-protest/"
+    },
+    {
+        "title": "Sowore dismisses police’s arrest of 11 suspects linked to his attack in Ekiti, alleges cover-up",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-04",
+        "lat": 7.7006,
+        "lng": 5.2964,
+        "location": "Ekiti State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/922669-sowore-dismisses-polices-arrest-of-11-suspects-linked-to-his-attack-in-ekiti-alleges-cover-up.html"
+    },
+    {
+        "title": "Kwara lawyer alleges police intimidation after accusing Tinubu’s ADC of land grabbing",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-04",
+        "lat": 8.4759,
+        "lng": 4.5122,
+        "location": "Kwara State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/922638-kwara-lawyer-alleges-police-intimidation-after-accusing-tinubus-adc-of-land-grabbing.html"
+    },
+    {
+        "title": "Police Arrest 2 Suspects Over Alleged Murder Of 26-Year-Old Man In Oyo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-04",
+        "lat": 8.02,
+        "lng": 4.0217,
+        "location": "Oyo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/police-arrest-2-suspects-over-alleged-murder-of-26-year-old-man-in-oyo/"
+    },
+    {
+        "title": "TMS Challenges Atiku Over DSS Protest Claims, Demands Evidence and Impartial Investigation - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-04",
+        "lat": 10.0488,
+        "lng": 5.9714,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0QTFGS1Y0c180dnRVWU5iWlVHRFV6RFpwcERRM1VXNkF4dGxBWFVSd0ZGYWMwQTZZOF9HMXZPd3RYUW51d1ZVT2N0ZmVYSUtKdWJ6VFhJSk52Z2U2LTJEVnZ1ZDdicXlwbWtYMVU3NUo?oc=5"
+    },
+    {
+        "title": "Troops Arrest Two Suspected Boko Haram Informants in Borno - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-04",
+        "lat": 11.8613,
+        "lng": 13.1215,
+        "location": "Informants Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUFFIb3FVbFo3WGhHWVNhcmZjZFpKcFRyOGtlSVpVWXRJMjlwS2JGWWowbTQ4dGRSTmRYSmR1cDZMV0xkYTRlZUljLXZYQ2xmaHpLb1hRTG12a0swSmZvQ0NXNUVNeXhIb0xnWDJiT0tROWFMZHloSmkta2tyWnFONlBubjlwNWIxM0tZWXFjcEZQR3p6WmU5eGkzZXo2d191U2JXUG40QW4?oc=5"
+    },
+    {
+        "title": "Troops Rescue Three Kidnap Victims in Forest in Kwara, Reunite Them With Families - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-04",
+        "lat": 8.4585,
+        "lng": 4.5849,
+        "location": "Forest Area, Kwara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWWVJdWRFdWdJRzhfZ2l3OWtKVkdlUmhreXNfck04aHlKellQYWM3aGpMelEteDJ2OXMzMTJfMFd2RTJIYnlRLWhieG5aXzkxVEFCSDNmSFFSSU5aZHVBczJNZDU5N3VEQXdabWhNbFNxSDNPaHQ3aXl0X21KY1JZVkFTaXRHOUg2YTktYTNpdDJ2aUVNU3VkMmVLWV9vaVFfeDVHTnhZTV9HN3lkOWRaejVodGo1XzlySm1lWnJJZDZpa0k?oc=5"
+    },
+    {
+        "title": "Troops Raid Suspected Kidnappers’ Enclave in Kogi, Recover Ammunition and Motorcycles - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-04",
+        "lat": 7.7811,
+        "lng": 6.7234,
+        "location": "Enclave Area, Kogi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY3hLMXlwaFpZXzhQbEs0eDAtb2J5M1lTX1U2b0FPdlVGS0hGWWNleDU5ZndTOTFJbTJyR3FZY1RwQlNBcWxRYkdnVXV4cEtxUjQzQU1oR1c0aEdfX0g3RVJPYVF5WnJLVFBpRmM2bUFxalZLVWh1Qm1HSEJJSXBFZGQ5aHA0dGtvY0pSSGRicWlNaXhIMVRIeUFDRDg4WGFBLXJ1MHFCVXRLdkhtQjNvVEl1RTFUc2FRNVM2TjNUcnowVHc1bk13?oc=5"
+    },
+    {
+        "title": "Troops Rescue Kidnap Victim After Gun Battle in Jos North - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-04",
+        "lat": 9.848,
+        "lng": 8.8097,
+        "location": "Battle Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWk5VME1mbnhpcVRGY2N0OTVYR1RkTVhfOVRPbThRbzdqMGhGYVF5U005VE9qOTM5dEtuYlNIX0pDNkJOZ2Rjc2VCZy1xS2lFcHBraGxHeEMzdGpYSC1wUEVEaUdGUzlJb2tVNmJLNjl6VlNrTlZmaUhTSldUNUdwV041V1N2NkpxTnZPX1B6SzN3VkxqZ2VZYXJodVVHWHR4dExETQ?oc=5"
     }
 ]
