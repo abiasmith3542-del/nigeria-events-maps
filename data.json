@@ -2803,5 +2803,71 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/psc-dismisses-three-senior-police-officers-over-misconduct/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Otu condemns attack on Peter Obi’s convoy, orders arrest of perpetrators",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-05",
+        "lat": 9.1183,
+        "lng": 7.449,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/05/otu-condemns-attack-on-peter-obis-convoy-orders-arrest-of-perpetrators/"
+    },
+    {
+        "title": "2027 Politics Watch: From Atiku’s Sokoto rally to Obi’s convoy attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-05",
+        "lat": 13.0591,
+        "lng": 5.2491,
+        "location": "Sokoto State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/922892-2027-politics-watch-from-atikus-sokoto-rally-to-obis-convoy-attack.html"
+    },
+    {
+        "title": "Bandits Kill 2, Abduct 21 Others In Latest Kaduna Attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-05",
+        "lat": 10.4726,
+        "lng": 7.5583,
+        "location": "Kaduna State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/bandits-kill-2-abduct-21-others-in-latest-kaduna-attack/"
+    },
+    {
+        "title": "Gunmen attack Benue community, kill 4",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-05",
+        "lat": 7.3631,
+        "lng": 8.7454,
+        "location": "Benue State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-attack-benue-community-kill-4/"
+    },
+    {
+        "title": "Soldier, pregnant woman killed, 15 abducted in Taraba",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-05",
+        "lat": 7.9749,
+        "lng": 10.5452,
+        "location": "Abducted Area, Taraba State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/soldier-pregnant-woman-killed-15-abducted-in-taraba/"
+    },
+    {
+        "title": "Troops Kill ISWAP Fighters, including Three Foreigners in Borno - BarristerNG.com",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-04",
+        "lat": 11.8689,
+        "lng": 13.1769,
+        "location": "Foreigners Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXY2cnN6T29ZdGc2VWdzWGFMOVBCdDhWTkVRSFIycldMNXVKSHF4UzdCNmVxdlVDWWgwTTk0Z3h2ZF9mQmJGMW8wQ1ZuWnk3TlVUVld4dXRMZjRYNnItb2lUUE9ibkh3WjM0Z18xSUJxakgyZjJjWG5zM290N3RjQW1vbkdiU1JXaUFRSDE2a2c?oc=5"
     }
 ]
