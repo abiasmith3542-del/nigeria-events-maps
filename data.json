@@ -2869,5 +2869,115 @@
         "location": "Foreigners Area, Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXY2cnN6T29ZdGc2VWdzWGFMOVBCdDhWTkVRSFIycldMNXVKSHF4UzdCNmVxdlVDWWgwTTk0Z3h2ZF9mQmJGMW8wQ1ZuWnk3TlVUVld4dXRMZjRYNnItb2lUUE9ibkh3WjM0Z18xSUJxakgyZjJjWG5zM290N3RjQW1vbkdiU1JXaUFRSDE2a2c?oc=5"
+    },
+    {
+        "title": "PSC deploys four new police commissioners to Plateau, Nasarawa, Ondo, Enugu",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-05",
+        "lat": 9.5221,
+        "lng": 9.5118,
+        "location": "Plateau State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/05/psc-deploys-four-new-police-commissioners-to-plateau-nassarawa-ondo-enugu/"
+    },
+    {
+        "title": "Taraba varsity non-academic staff issue 14-day ultimatum, threaten indefinite strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-05",
+        "lat": 7.9499,
+        "lng": 10.462,
+        "location": "Taraba State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/05/taraba-varsity-non-academic-staff-issue-14-day-ultimatum-threaten-indefinite-strike/"
+    },
+    {
+        "title": "Police beef up security, restrict drone operation in Akwa Ibom ahead Tinubu's visit",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-05",
+        "lat": 4.9468,
+        "lng": 7.8489,
+        "location": "Operation Area, Akwa Ibom State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/05/police-beef-up-security-restrict-drone-operation-in-akwa-ibom-ahead-of-tinubus-visit-2/"
+    },
+    {
+        "title": "‘What’s your business with land’ - Wike blasts UniAbuja lecturers as strike looms",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-05",
+        "lat": 9.0794,
+        "lng": 7.5433,
+        "location": "Abuja (FCT)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/05/uniabuja-wike-queries-asuus-interest-in-land-as-lecturers-threaten-strike/"
+    },
+    {
+        "title": "Suspect who defiled, raped 15-year-old girl not police officer - Delta CP Erale",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-05",
+        "lat": 5.4728,
+        "lng": 5.9877,
+        "location": "Delta State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/05/news-suspect-who-defiledraped-15yr-old-girlnot-a-police-officer-delta-cp-erale-clarifiessay-case-transferred-to-scid/"
+    },
+    {
+        "title": "Troops kill three suspected kidnappers, recover four rifles in Kogi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-05",
+        "lat": 7.8036,
+        "lng": 6.7372,
+        "location": "Rifles Area, Kogi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/troops-kill-three-suspected-kidnappers-recover-four-rifles-in-kogi/"
+    },
+    {
+        "title": "Two kidnapped visually impaired persons regain freedom in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-05",
+        "lat": 9.5302,
+        "lng": 9.5151,
+        "location": "Freedom Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/two-kidnapped-visually-impaired-persons-regain-freedom-in-plateau/"
+    },
+    {
+        "title": "Tinubu’s visit: Police ban drones, restrict traffic in Akwa Ibom",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-05",
+        "lat": 5.0047,
+        "lng": 7.8331,
+        "location": "Traffic Area, Akwa Ibom State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/tinubus-visit-police-ban-drones-restrict-traffic-in-akwa-ibom/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian military denies ceasefire deal with Boko Haram",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-05",
+        "lat": 9.9412,
+        "lng": 6.0512,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/922989-nigerian-military-denies-ceasefire-deal-with-boko-haram.html"
+    },
+    {
+        "title": "Vigilantes allegedly kill man over dog in Kano",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-05",
+        "lat": 12.0345,
+        "lng": 8.5594,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/vigilantes-allegedly-kill-man-over-dog-in-kano/"
     }
 ]
