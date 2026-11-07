@@ -2880,5 +2880,49 @@
         "location": "Akwa Ibom State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/your-pvc-is-your-weapon-tinubu-tells-akwa-ibom-youths/"
+    },
+    {
+        "title": "Sokoto deploys medical team over suspected fever outbreak",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-11-07",
+        "lat": 13.0545,
+        "lng": 5.2679,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/sokoto-deploys-medical-team-over-suspected-fever-outbreak/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Soldiers rescue three abducted women in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-07",
+        "lat": 9.5099,
+        "lng": 9.4764,
+        "location": "Women Area, Plateau State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-rescue-three-abducted-women-in-plateau/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police detain officer after shooting leaves girl dead, another injured in Lagos",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-07",
+        "lat": 6.5229,
+        "lng": 3.3743,
+        "location": "Injured Area, Lagos State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/923428-police-detain-officer-after-shooting-leaves-girl-dead-another-injured-in-lagos.html"
+    },
+    {
+        "title": "Lagos: Police officer detained for shooting 2-year-old girl to death ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-07",
+        "lat": 6.481,
+        "lng": 3.4258,
+        "location": "Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/lagos-police-officer-detained-for-shooting-2-year-old-girl-to-death/"
     }
 ]
