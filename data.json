@@ -2924,5 +2924,49 @@
         "location": "Lagos State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/lagos-police-officer-detained-for-shooting-2-year-old-girl-to-death/"
+    },
+    {
+        "title": "Navy uncovers 117,000 litres of suspected stolen crude oil in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-07",
+        "lat": 4.7589,
+        "lng": 6.8042,
+        "location": "Rivers State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/07/navy-uncovers-117000-litres-of-suspected-stolen-crude-oil-in-rivers/"
+    },
+    {
+        "title": "Fake bank alert: Police recover N3m stolen electronics in Bauchi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-07",
+        "lat": 10.5155,
+        "lng": 10.0496,
+        "location": "Electronics Area, Bauchi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/07/fake-bank-alert-police-recover-n3m-stolen-electronics-in-bauchi/"
+    },
+    {
+        "title": "Delta Political Tension: Injuries, destruction as another Obi-Kwankwaso rally comes under attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-07",
+        "lat": 5.5186,
+        "lng": 5.9741,
+        "location": "Delta State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/delta-political-tension-injuries-destruction-as-another-obi-kwankwaso-rally-comes-under-attack/"
+    },
+    {
+        "title": "Yobe APC launches counter protest Against ‘Tinubu Must Go’ Movt",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-07",
+        "lat": 12.0228,
+        "lng": 11.4476,
+        "location": "Yobe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/yobe-apc-launches-counter-protest-against-tinubu-must-go-movt/"
     }
 ]
