@@ -2726,5 +2726,181 @@
         "location": "Benue State",
         "source": "Daily Post Nigeria",
         "url": "https://dailypost.ng/2026/11/08/benue-report-any-officer-demanding-money-on-highways-police-tell-motorists/"
+    },
+    {
+        "title": "Cross River govt, Presbyterian Church clash over access road",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-08",
+        "lat": 5.7953,
+        "lng": 8.4927,
+        "location": "Cross River State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/08/cross-river-govt-presbyterian-church-clash-over-access-road/"
+    },
+    {
+        "title": "Troops withdrawal must not create security gaps – Sokoto gov’s aide",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 13.077,
+        "lng": 5.2108,
+        "location": "Sokoto State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/08/troop-withdrawal-must-not-create-security-gaps-sokoto-govs-aide/"
+    },
+    {
+        "title": "Bandits kill 12 family members, abduct others in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-08",
+        "lat": 12.1276,
+        "lng": 6.1735,
+        "location": "Others Area, Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/bandits-kill-12-family-members-abduct-others-in-zamfara/"
+    },
+    {
+        "title": "Troops neutralise suspected criminal, arrest five in Plateau",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 9.5013,
+        "lng": 9.5325,
+        "location": "Five Area, Plateau State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/troops-neutralise-suspected-criminal-arrest-five-in-plateau/"
+    },
+    {
+        "title": "Ugandan woman in Nigeria for church crusade arrested with 87 cocaine wraps",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 10.0402,
+        "lng": 6.0105,
+        "location": "Woman Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/ugandan-woman-in-nigeria-for-church-crusade-arrested-with-87-cocaine-wraps/"
+    },
+    {
+        "title": "Troops rescue 119 civilians, recover eight vehicles in Borno",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 11.8235,
+        "lng": 13.1962,
+        "location": "Vehicles Area, Borno State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/troops-rescue-119-civilians-recover-eight-vehicles-in-borno/"
+    },
+    {
+        "title": "Iran executes three men linked to anti-government protests",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-08",
+        "lat": 9.0673,
+        "lng": 7.5765,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/iran-executes-three-men-linked-to-anti-government-protests/"
+    },
+    {
+        "title": "Woman arrested over poisoning of co-wife’s children in Niger",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 9.9742,
+        "lng": 5.9807,
+        "location": "Children Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/woman-arrested-over-poisoning-of-co-wifes-children-in-niger/"
+    },
+    {
+        "title": "Police recover 39 stolen cows in Kaduna",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 10.5085,
+        "lng": 7.5484,
+        "location": "Cows Area, Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-39-stolen-cows-in-kaduna/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man over fake alert in Bauchi, recover N3m goods",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 10.5146,
+        "lng": 10.0353,
+        "location": "Alert Area, Bauchi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-over-fake-alert-in-bauchi-recover-n3m-goods/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Rescue 119 Civilians, Recover Eight Vehicles from Terrorists in Borno - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-08",
+        "lat": 11.7989,
+        "lng": 13.1844,
+        "location": "Terrorists Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYnlLRTJ6N2pLR2piUFpXMTZQNk1oUmFLVlVHTWt2ZWpWZ2ZZajJITklRWUhuSkJvakc4SzVWZU5EUnJIM29lOS1mbjRMZXpjSTNOYldqblRrZF9JY1dFd3k3YTFPMjdRVmlJamlGcDNHNU1ETXYxRll2dFVnQWZ2RF9lMjRQZmxGUG8tRFRsYlhWV2xKOHRLUmZBTS05cG5GWENXQmJkSjVRRFZ6MjlTLWVxN1RwZzlJN2lFXw?oc=5"
+    },
+    {
+        "title": "Troops Raid Jos Hotel, Arrest Five Suspects Over Phone Snatching, Recover 26 Phones - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 9.9409,
+        "lng": 8.8591,
+        "location": "Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZTlyMTF6LUh4SmxTWDdxMU9YQVRQWk15Qng4dUVzd2pCWURyT0hiNUVJeXd0M2tSWmJRTW0tTUU0bmp5bzR1bnVlUWNEd2daVDZ0ZnlmVFFVUUgtNWFzY3ZTMURXMF91ZlVTeXRyMWxDY0EzVzZ2Yko5SHktTnZPVDFCYkJ6MHVsVXhUZDhkLU1EZTNweE9DZ0FMemozVHJmNzlMR21uV2gyalNKTGxCaEpKbFhKamZMWlZyemJGbDdadGRt?oc=5"
+    },
+    {
+        "title": "Troops Foil Kidnap Attempt, Rescue Gunshot-Wounded Victim in Plateau - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-08",
+        "lat": 9.5419,
+        "lng": 9.4708,
+        "location": "Victim Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEVtaWZHZUJmeG9ld3luZ3d3eWxObGphaVdqcF9jdTlmbmR5WlphQnQyUS1Jc21GVVZ4WURNMjl4SllTd1lFazVnWElmMWMwNjA4aUpGQWZva3R1NF9OTkMzeTRFd3FPUFdKWFJ1TWZ4ejZKTk1OdHVYbzZ3d0UtY1M5RzF1VWJyUDNRN0JkNWVzQkRjRE1aTWpMeVVwRmQzMUptT2pUakUxU1dIeGE2eFJR?oc=5"
+    },
+    {
+        "title": "Troops Neutralise Suspected Notorious Criminal During Attempt to Escape in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 9.4505,
+        "lng": 9.5259,
+        "location": "Escape Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHRQaF9aZjdtcndOMGhqMHVjTGFQNVE2ak1XZ3JYb1FuQ0ZQVHlfZlJmcHVPaWJ0UDY5V2VsSnBDOVBWNUV4UlMzY0FkUDJhblQtTXJOTjhfTHJCdVlXeUN2ektIaHh3dkN5V0VvSUZsM0laa3JGUTNVQjhfN3BYUWwzNDZMUy1zNWNnNEE0dmRnNzlTU2VSeEdoVUxiZHVwbG5GR2ZaQjZfR0wyc0puUXZOOEVnM2RQMF9wZTFFZmpvenM5LUE?oc=5"
+    },
+    {
+        "title": "Troops Rescue Two Kidnapped Women During Clearance Operations in Zamfara Forests - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-08",
+        "lat": 12.0964,
+        "lng": 6.1939,
+        "location": "Operations Area, Zamfara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVTVxRDlxTkM2cFZnVElyaEJhY2tDZWp6VS02OUhDWnc3TVpXUnB2RVdlYXpnVFdMb19HbV8yRVV5UGxNRjB4eVRFMGt5VWJrMkdPbFBNSU1ydklCLThXLXpUV2pRcXVNckh0WEs1TjlCOHdpNmppVTMya21iel9uQzdKMXNSem1CQXdmVV80c0U5Qkx5d0d5QlpGRHY4OEVKejFUWnFZUXBrSVptNzhQdWtPdEZpbTE0XzFEQmJrWWFkVGs?oc=5"
+    },
+    {
+        "title": "Troops Neutralise Two Suspects Arrested Over Killing of Plateau Couple During Escape Attempt - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 9.5253,
+        "lng": 9.5481,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORE1Icnd2OThldnBUaUR3ZzRIZjllXzVhYkhVWkx1dG5sLVF3RmRycWx6Q2M1UjhlZGR0VF9KVlZmbnpPLW1fWGRNOXVxbmFHTFlkR25rcy0yYS1KUFdjb1VWWnFtVjAycWNMUU5zT3JuRndmNnl4VFFMOGZUY3FoX1pib0xYU3ZjcEp5MjVmaWg5WW52NTNyZkNfRmdFLXFCMTIycnF4Yk9sOFZkRFo5akoxZE1LcGlpWGRDRkVnTUUyUUwtd2lHUVptZ3J3a01hSWFv?oc=5"
     }
 ]
