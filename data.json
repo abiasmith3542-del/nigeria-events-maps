@@ -2902,5 +2902,159 @@
         "location": "Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORE1Icnd2OThldnBUaUR3ZzRIZjllXzVhYkhVWkx1dG5sLVF3RmRycWx6Q2M1UjhlZGR0VF9KVlZmbnpPLW1fWGRNOXVxbmFHTFlkR25rcy0yYS1KUFdjb1VWWnFtVjAycWNMUU5zT3JuRndmNnl4VFFMOGZUY3FoX1pib0xYU3ZjcEp5MjVmaWg5WW52NTNyZkNfRmdFLXFCMTIycnF4Yk9sOFZkRFo5akoxZE1LcGlpWGRDRkVnTUUyUUwtd2lHUVptZ3J3a01hSWFv?oc=5"
+    },
+    {
+        "title": "Bandits kill 12 family members in Zamfara fire attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-08",
+        "lat": 12.0921,
+        "lng": 6.2257,
+        "location": "Members Area, Zamfara State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/08/bandits-burn-12-family-members-to-death-in-zamfara-attack/"
+    },
+    {
+        "title": "Ogun police rescue 10 kidnap victims, kill suspect",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 6.9747,
+        "lng": 3.4806,
+        "location": "Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/ogun-police-rescue-10-kidnap-victims-kill-suspect/"
+    },
+    {
+        "title": "Bauchi police arrest two suspected armed robbers, recover motorcycle",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 10.5217,
+        "lng": 9.9867,
+        "location": "Bauchi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/bauchi-police-arrest-two-suspected-armed-robbers-recover-motorcycle/"
+    },
+    {
+        "title": "Navy uncovers 68,175 litres of suspected stolen crude in Rivers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 4.7453,
+        "lng": 6.879,
+        "location": "Crude Area, Rivers State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/navy-uncovers-68175-litres-of-suspected-stolen-crude-in-rivers/"
+    },
+    {
+        "title": "Policeman, woman die in separate Bayelsa boat accidents",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 4.7621,
+        "lng": 6.0045,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/policeman-woman-die-in-separate-bayelsa-boat-accidents/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2027: Oyo APC alleges attack plot, APM denies claim",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-08",
+        "lat": 7.9406,
+        "lng": 3.9724,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2027-oyo-apc-alleges-attack-plot-apm-denies-claim/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest suspect over nine-year-old’s kidnap in Kano",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 12.0316,
+        "lng": 8.6278,
+        "location": "Kidnap Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-suspect-over-nine-year-olds-kidnap-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "SSANU Suspends Strike In Sokoto Varsity, Gives Govt 14-Day Ultimatum",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-08",
+        "lat": 13.1065,
+        "lng": 5.1942,
+        "location": "Strike Area, Sokoto State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/ssanu-suspends-strike-in-sokoto-varsity-gives-govt-14-day-ultimatum/"
+    },
+    {
+        "title": "One Killed, 5 Injured During NDC Rally In Delta",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-08",
+        "lat": 5.5081,
+        "lng": 5.9764,
+        "location": "Rally Area, Delta State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/one-killed-5-injured-as-violence-mars-ndc-rally-in-delta/"
+    },
+    {
+        "title": "Notorious Kano thug ‘Sankolo’ Arrested",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 11.9878,
+        "lng": 8.5612,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/notorious-kano-thug-sankolo-arrested/"
+    },
+    {
+        "title": "Bandits Burn 12 Family Members Alive In Zamfara Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-08",
+        "lat": 12.1344,
+        "lng": 6.2315,
+        "location": "Alive Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-burn-12-family-members-alive-in-zamfara-community/"
+    },
+    {
+        "title": "Police Repel Rustlers, Recover 39 Cattle in Kaduna",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 10.5221,
+        "lng": 7.5089,
+        "location": "Cattle Area, Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-repel-rustlers-recover-39-cattle-in-kaduna/"
+    },
+    {
+        "title": "Navy Uncovers 68,175 Litres of Suspected Stolen Crude Oil in Rivers - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-08",
+        "lat": 9.9478,
+        "lng": 5.9496,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03b1h6SGg1M0V6TGZOS3ZqYUt4NW5MQnVDcjFKeVdQc18wZ3VEX2oyTFZCX0RKaXkycEVRQ3NXZk9QTnFIczRXbXJvX0lXX19yX0hKQjctMEFUU3hYUlNXcURxSTR6dlU?oc=5"
+    },
+    {
+        "title": "Army Rescues 119 Abducted Civilians, Recovers Eight Vehicles in Borno - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-08",
+        "lat": 11.8163,
+        "lng": 13.2066,
+        "location": "Vehicles Area, Borno State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qemtrbENjR0draWUzZ0hxek53eWRseW1mbWVvTXhDQk44ZFNXUWRVSndhbDByUGczUHlWTXdXTDZ0SkltaFVBUjd0WmtLamZhS1pwVWZXc2l2aTIxdmNKNkl3cmtUUQ?oc=5"
     }
 ]
