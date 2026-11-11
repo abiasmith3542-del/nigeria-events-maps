@@ -2858,5 +2858,148 @@
         "location": "Chairman Area, Taraba State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/gunmen-kill-macban-chairman-in-taraba/"
+    },
+    {
+        "title": "ACF crisis deepens as chairman petitions Gov Sani, DSS, police",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-11",
+        "lat": 9.093,
+        "lng": 7.5198,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/11/acf-crisis-deepens-as-chairman-petitions-gov-sani-police-dss-others/"
+    },
+    {
+        "title": "Security operatives neutralise bandit, arrest 11 others in Niger ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-11",
+        "lat": 9.9724,
+        "lng": 6.0253,
+        "location": "Others Area, Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/11/one-suspected-bandit-killed-11-arrested-in-niger-operation/"
+    },
+    {
+        "title": "Ogun varsity suspends lectures for two days after student dies in shuttle bus accident",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-11",
+        "lat": 6.9841,
+        "lng": 3.5019,
+        "location": "Ogun State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/11/ogun-varsity-suspends-lectures-for-two-days-after-student-dies-in-shuttle-bus-incident/"
+    },
+    {
+        "title": "Military precision airstrikes neutralise 40 ISWAP terrorists in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-11",
+        "lat": 11.7753,
+        "lng": 13.155,
+        "location": "Terrorists Area, Borno State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/11/military-precision-airstrikes-under-operation-hadin-kai-neutralise-40-iswap-terrorists-in-borno/"
+    },
+    {
+        "title": "Court rejects police request for arrest warrant against FIJ founder Soyombo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-11",
+        "lat": 7.9978,
+        "lng": 3.9668,
+        "location": "Oyo State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/924425-court-rejects-police-request-for-arrest-warrant-against-fij-founder-soyombo.html"
+    },
+    {
+        "title": "ADC supporters protest at Abuja court over judgement sacking party’s 2027 candidates",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-11",
+        "lat": 9.0454,
+        "lng": 7.459,
+        "location": "Protest Area, Abuja (FCT)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/924403-adc-supporters-protest-at-abuja-court-over-judgement-sacking-partys-2027-candidates.html"
+    },
+    {
+        "title": "3 killed as gunmen attack mining site in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-11",
+        "lat": 9.4983,
+        "lng": 9.4809,
+        "location": "Site Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-killed-as-gunmen-attack-mining-site-in-plateau/"
+    },
+    {
+        "title": "Troops arrest 13 suspected illegal miners at newly excavated site in Abuja - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-11",
+        "lat": 9.0724,
+        "lng": 7.5141,
+        "location": "Site Area, Abuja (FCT)",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckNOWnNmTlQ0Z0tva0hDdU5aMF85dUQwLVpqU1diQ0xtajRwZFNtRmVTQThvTS1ua0lhdEZsVXRzTzV5TU5lWkp3bVZQRkZxRXh0N0NsSlBHZmpZcTYyTTNfUjFIV2tIUEo0MVQ5b0dzeFpFRVZrNjY0SFE3aWNUZDFlcUMwell4RFNOM3B6ZUU5VzF0Q0xIX2NHVDF5dDdMeVlIYWZaMU9kcW52N2FLM2czQzJRNkZVdmFr?oc=5"
+    },
+    {
+        "title": "Troops arrest father and son suspected of terrorism in Sokoto forest, recover AK-47 rifle - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-11",
+        "lat": 13.0826,
+        "lng": 5.2277,
+        "location": "Terrorism Area, Sokoto State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV0V1emlDODNYeWljWmNOM1dOcktneVRqc0pweWQ2c201REtxSGNDV1dkVVRGWk80LW5lM0NkUzRVTVJJQXV2SGYwUWNMVXQyVUVzVmVsSFZnMmJMOGFFYThXaUptdWR0ano2NjNJVkpHZ0w2eUZ4aENKV2hGR0tQQzRYbGRCNjFRek1tU1FER19MS1AtS1BVbnc5dzBscWxWLWF4SWVXUHE1ZUVvdC0wWFFaenlPOHRDX29QY2lYcjZNVEh6cjhoU3E5ZWtUZw?oc=5"
+    },
+    {
+        "title": "Troops uncover illegal crude oil refining site, recover 4,420 litres of stolen crude in Rivers - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-11",
+        "lat": 4.7305,
+        "lng": 6.8498,
+        "location": "Crude Area, Rivers State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcmhpUHBxOHhEOWprM3V1VGtTSmRRakRqd29Nc2loakYyQm1ST3AtRG1mdUJVS3VvaVRDM3V5STdKUzdBNUR0NEE1WkJBNmxXUnBld1puVlhHUmctU3EzLWJzOWpJLXpJcU5FS0FVd1QyWW9Gb2ZjYmFfbGdSdFpoWVpjUG9FajVCeFprUmdGeUsxZi1lRXZPcHhkZlVkREN6WFBZWTI2TllEaXJPVUhCVldYZEUwUDJuWk1SOHJ5XzNORVQ4WGpNOVZuNFB0WlpuUVpfYw?oc=5"
+    },
+    {
+        "title": "How IGP Tunji Disu is reshaping the Nigeria Police Force - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-11",
+        "lat": 9.9682,
+        "lng": 5.9515,
+        "location": "Niger State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEFiTUViQWZjWlJZT2NiV2NkaENEazl5OVpxdGFSZk44YU9wRUI4UHk1WHFURkl2YzgwU1hZRE1sUjAwWld6TjNldVFHMmdQblplV29kRWhQUGdVTjFIWF9XRXlIWlowSWNMWG5KNU1wZ3pYTzJ6TXJzRUNuUUhHWkZ2MmhtMGFOdXBRNUpJa0dzNVhIWTFIZHBQWVc3VzVwOGlR?oc=5"
+    },
+    {
+        "title": "Troops arrest two suspected armed robbers in Jos, recover motorcycle and toy pistol - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-11",
+        "lat": 9.8612,
+        "lng": 8.8688,
+        "location": "Robbers Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWDZQYUlwSzA5OUZ4NEowbFZHenpfQlFjdVFWdHVhREVHcmxnZG9aUi1INWEtenlrYml5MGRVUjRUQmF2Vng3RGdvUmdmRXRzQTR3bk85UFFVcHRlUllZVE92azBWaW94QXc1cUpCOW1OcFpNcnVFaFl2aFR3TTBwSnR2c0RQYUc3bmJWeXlGTnZ1OUp1ZVQ2eWVNMlFyZlhvSjVUWks5LWNnaV82R2Nod2ZsdUhjakpRZ1F3RGFjbUR0ajh3VHc?oc=5"
+    },
+    {
+        "title": "Notorious bandit leader Kachalla Bello reportedly killed in rival gang clash in Katsina - zagazola.org",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-11",
+        "lat": 12.5348,
+        "lng": 7.6189,
+        "location": "Clash Area, Katsina State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkNEOEZUSmdnUWhPOU83TzFKenpWWkhkQjEtcHNaVENQUXpIOUZ6YkpJN1Zfam91MEpjUC13eldDemRfeVdFLU5TM1FzeU9zN0NnWlVOTzlUdnN3NG9VbUFjVzRRSFNrNThDZEc2M3Rsa1lNekREQkkzMWVRNlMySUJrSW85Z1Y3elIxdXNjSjhocDZkM0s0QlBpbElwYVdFdG9NZkxUTDRNZU0wbko5cTVxdzNUUXVEQnJPVHZrdFUtd29iTFV5WDR3RnI?oc=5"
     }
 ]
