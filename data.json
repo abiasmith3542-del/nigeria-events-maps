@@ -2814,5 +2814,49 @@
         "location": "Niger State",
         "source": "WHO Africa Outbreaks",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd2xIOWJ5ZU5DRlVJT0loemFsX0tDYkpqUWVIeF84YlVvMjA1RE1kZTduQVFNOEU4THdDR0VWQUZUMG5vU0d3b0N0UnJERlJSM2VOSTFiZE1OVWdCLXJWZzhMcEpsR1ZMWkIwVnRMcEpDLUNPZ2NPcENVMl9uWVpCTVB6ZDNLb09PRWlaWWdubTNrd3RqTWhoVlNEcnROZUJ4ZEF3OXU2V2xIT1VrR3pLYk95bHZtYmV2V3F2Nmg0ZWUzbi1HNk91anJtczZpYTBsR0ZXclZOSEN1OXFpc1BIUVU5ZG5qSTA?oc=5"
+    },
+    {
+        "title": "2021 Capitol riot should follow Trump ‘to his grave’ — Biden",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-11",
+        "lat": 9.1573,
+        "lng": 7.5117,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2021-capitol-riot-should-follow-trump-to-his-grave-biden/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Kebbi ADC alleges police plot to arrest opposition members",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-11",
+        "lat": 11.4028,
+        "lng": 4.2286,
+        "location": "Kebbi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kebbi-adc-alleges-police-plot-to-arrest-opposition-members/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "How Bandits Burnt 12 Family Members Alive In Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-11",
+        "lat": 12.182,
+        "lng": 6.2235,
+        "location": "Alive Area, Zamfara State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/how-bandits-burnt-12-family-members-alive-in-zamfara/"
+    },
+    {
+        "title": "Gunmen kill MACBAN chairman in Taraba",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-11",
+        "lat": 7.9799,
+        "lng": 10.5061,
+        "location": "Chairman Area, Taraba State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-macban-chairman-in-taraba/"
     }
 ]
