@@ -2836,5 +2836,71 @@
         "location": "Resident Area, Kogi State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlpCUy0wbVVLVkhKb1FLTC1pWjBQZEFtUEt1d1RxTzhDOVpPZWdub09PbjU4ZmlJMUNXbXpweTFwekMyQVpyV1RCVUN2VHZveDN2a2p6d1ZlWXNISk1VS2hvQUNMUk1XTURaOUlKZE8tUjBiemgzLVNtV0hSN1F5NmhtU2lxaWJoQTRZWURuUVhHTkN0T3F1MTBtLTVrbjNGWlJweFNQRktnY3U0TXlVRFF6M0RjWkoyS05N?oc=5"
+    },
+    {
+        "title": "Adamawa police distribute ₦9.2m to families of deceased officers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-12",
+        "lat": 9.3823,
+        "lng": 12.5415,
+        "location": "Adamawa State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/12/adamawa-police-distribute-9-2m-to-families-of-deceased-officers/"
+    },
+    {
+        "title": "Police arraign two over ₦11m farmland fraud in Ogun",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-12",
+        "lat": 7.042,
+        "lng": 3.4982,
+        "location": "Fraud Area, Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arraign-two-over-%e2%82%a611m-farmland-fraud-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Islamic State is incentivising ISWAP to target military stockpiles in Nigeria, others",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-12",
+        "lat": 9.9739,
+        "lng": 6.0491,
+        "location": "Stockpiles Area, Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/headlines/924634-islamic-state-is-incentivising-iswap-to-target-military-stockpiles-in-nigeria-others.html"
+    },
+    {
+        "title": "Amnesty condemns attack on Pantami’s campaign convoy in Gombe",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-12",
+        "lat": 10.2488,
+        "lng": 11.1536,
+        "location": "Convoy Area, Gombe State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/924624-amnesty-condemns-attack-on-pantamis-campaign-convoy-in-gombe.html"
+    },
+    {
+        "title": "Gunmen Abduct 5, Shoot 2 In Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-12",
+        "lat": 9.4721,
+        "lng": 9.5253,
+        "location": "Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/gunmen-abduct-5-shoot-2-in-plateau/"
+    },
+    {
+        "title": "Youth groups clash over colleague’s death in Kaduna",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-12",
+        "lat": 10.5585,
+        "lng": 7.4605,
+        "location": "Death Area, Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/youth-groups-clash-over-colleagues-death-in-kaduna/"
     }
 ]
