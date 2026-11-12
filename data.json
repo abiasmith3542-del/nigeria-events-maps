@@ -3056,5 +3056,71 @@
         "location": "Anambra State",
         "source": "Google News - Nigeria Local",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04R1VXX18tMXhLRnR3bWJLQjEzYjJzZ1VvSVNSUEp2YjZSMW1KcFAxUWxjdTRJSWlGb1BndDF4Mm9WOU1HTWl5TTBIb2d4QjZjZ2haOEFwSmR4alJuc2p0WktVbS1BZnlGbURGZXpUSkhTQjNB?oc=5"
+    },
+    {
+        "title": "Troops neutralise terrorist, arrest father, son suspected of terrorism in Katsina, Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-12",
+        "lat": 12.5507,
+        "lng": 7.5628,
+        "location": "Terrorism Area, Katsina State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/12/troops-neutralise-terrorist-arrest-father-son-suspected-of-terrorism-in-katsina-sokoto/"
+    },
+    {
+        "title": "Army, vigilantes rescue four kidnap victims in Kogi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-12",
+        "lat": 7.797,
+        "lng": 6.7617,
+        "location": "Victims Area, Kogi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/12/army-vigilantes-rescue-four-kidnap-victims-in-kogi/"
+    },
+    {
+        "title": "Lagos taskforce raids Cele, Itire, Ilasamaja, arrests 3 suspected drug peddlers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-12",
+        "lat": 6.5601,
+        "lng": 3.3906,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/lagos-taskforce-raids-cele-itire-ilasamaja-arrests-3-suspected-drug-peddlers/"
+    },
+    {
+        "title": "Reps condemn political violence as thugs attack NDC supporters in Lagos; NDC, APC-PCC fault attack",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-12",
+        "lat": 6.4813,
+        "lng": 3.3311,
+        "location": "Supporters Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/reps-condemn-political-violence-as-thugs-attack-ndc-supporters-in-lagos-ndc-apc-pcc-fault-attack/"
+    },
+    {
+        "title": "Amupitan Faces Protesters Outside Chatham House In London",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-12",
+        "lat": 7.2373,
+        "lng": 5.1926,
+        "location": "Ondo State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/amupitan-faces-protesters-outside-chatham-house-in-london/"
+    },
+    {
+        "title": "Four arrested over attack on Kano poultry farm",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-12",
+        "lat": 12.0342,
+        "lng": 8.5783,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/four-arrested-over-attack-on-kano-poultry-farm/"
     }
 ]
