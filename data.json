@@ -2891,5 +2891,104 @@
         "location": "Rival Area, Bayelsa State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-launch-manhunt-after-cultists-killed-rival-in-bayelsa/"
+    },
+    {
+        "title": "Gombe 2027: Arrest, prosecute Pantami's attackers - MURIC charges Police",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-13",
+        "lat": 10.238,
+        "lng": 11.1916,
+        "location": "Gombe State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/13/gombe-2027-arrest-prosecute-pantamis-attackers-muric-charges-police/"
+    },
+    {
+        "title": "Obi condemns attack on NDC supporters in Lagos, urges peaceful defence of votes",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-13",
+        "lat": 6.5843,
+        "lng": 3.3814,
+        "location": "Supporters Area, Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/obi-condemns-attack-on-ndc-supporters-in-lagos-urges-peaceful-defence-of-votes/"
+    },
+    {
+        "title": "NDC attack: NYCN warns Lagos youths against political thuggery",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-13",
+        "lat": 6.4765,
+        "lng": 3.4022,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/ndc-attack-nycn-warns-lagos-youths-against-political-thuggery/"
+    },
+    {
+        "title": "Fuel price hikes spark protests in Central African Republic",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-13",
+        "lat": 9.1329,
+        "lng": 7.4558,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/fuel-price-hikes-spark-protests-in-central-african-republic/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest man with pistol, 15 bullets in Abia",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-13",
+        "lat": 5.3915,
+        "lng": 7.5373,
+        "location": "Bullets Area, Abia State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-man-with-pistol-15-bullets-in-abia/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Lectures continue despite strike, Kaduna varsity insists",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-13",
+        "lat": 10.5575,
+        "lng": 7.5435,
+        "location": "Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/lectures-continue-despite-strike-kaduna-varsity-insists/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police probe death of four UNN students during house party",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-13",
+        "lat": 8.9665,
+        "lng": 7.5051,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/ssouth-east/924831-police-probe-death-of-four-unn-students-during-house-party.html"
+    },
+    {
+        "title": "DHQ Keeps Mum As ISIS Incentivise ISWAP To Target Military Bases In Nigeria",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-13",
+        "lat": 9.9411,
+        "lng": 6.0277,
+        "location": "Bases Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/dhq-keeps-mum-as-isis-incentivise-iswap-to-target-military-bases-in-nigeria/"
+    },
+    {
+        "title": "Kogi: Army, Vigilantes Rescue Four Abducted Farmers in Yagba West - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-13",
+        "lat": 7.8238,
+        "lng": 6.7188,
+        "location": "Kogi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ydGQ3dmh0ZXFramFfS1V6MG04eVlrT190Z2VNUUw1eUlFeVZHR181amh5YlZGaDctaXZtVTVoTFRzVWJUNzZ3bUR4OTg2Sm5pTEdjVDN6b0RTMmFtYnd3U3NCb0tnVm96MUY4bHdn?oc=5"
     }
 ]
