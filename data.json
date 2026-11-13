@@ -2990,5 +2990,115 @@
         "location": "Kogi State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8ydGQ3dmh0ZXFramFfS1V6MG04eVlrT190Z2VNUUw1eUlFeVZHR181amh5YlZGaDctaXZtVTVoTFRzVWJUNzZ3bUR4OTg2Sm5pTEdjVDN6b0RTMmFtYnd3U3NCb0tnVm96MUY4bHdn?oc=5"
+    },
+    {
+        "title": "Katsina deploys 1,008 forest guards to fight banditry",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-13",
+        "lat": 12.5591,
+        "lng": 7.6101,
+        "location": "Katsina State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/13/katsina-deploys-1008-forest-guards-to-fight-banditry/"
+    },
+    {
+        "title": "Diphtheria outbreak hits Kano school with 12 confirmed cases",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-11-13",
+        "lat": 11.9993,
+        "lng": 8.5431,
+        "location": "Kano State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/13/diphtheria-outbreak-hits-kano-school-with-12-confirmed-cases/"
+    },
+    {
+        "title": "'Tinubu Must Go' - Angry protesters storm Abuja streets, tear down President's posters, banners [VIDEO]",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-13",
+        "lat": 9.0549,
+        "lng": 7.5212,
+        "location": "Abuja (FCT)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/13/tinubu-must-go-angry-protesters-storm-abuja-streets-tear-down-presidents-posters-banners-video/"
+    },
+    {
+        "title": "Shehu Sani condemns alleged attack on INEC chairman in London",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-13",
+        "lat": 7.2592,
+        "lng": 5.2378,
+        "location": "Ondo State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/13/senator-shehu-sani-worries-over-attack-on-inec-chairman-in-london/"
+    },
+    {
+        "title": "NSCDC disbands anti-vandalism outpost after Gombe incident",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-13",
+        "lat": 10.226,
+        "lng": 11.1099,
+        "location": "Gombe State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/nscdc-disbands-anti-vandalism-outpost-after-gombe-incident/"
+    },
+    {
+        "title": "Oyo condemns attack on enforcement team",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-13",
+        "lat": 8.0037,
+        "lng": 3.9719,
+        "location": "Oyo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/oyo-condemns-attack-on-enforcement-team/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ogun ASUP seeks negotiation as strike enters third day",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-13",
+        "lat": 7.055,
+        "lng": 3.447,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ogun-asup-seeks-negotiation-as-strike-enters-third-day/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Fresh Diphtheria outbreak in Kano, boarding school affected",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-11-13",
+        "lat": 11.9641,
+        "lng": 8.6045,
+        "location": "Outbreak Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/fresh-diphtheria-outbreak-in-kano-boarding-school-affected/"
+    },
+    {
+        "title": "Woman arrested over alleged abduction of 3-year-old niece in Zamfara",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-13",
+        "lat": 12.1051,
+        "lng": 6.2488,
+        "location": "Niece Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/woman-arrested-over-alleged-abduction-of-3-year-old-niece/"
+    },
+    {
+        "title": "Police Train Newly Promoted AIGs, CPs as IG Disu Harps on Accountability, Strategic Leadership - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-13",
+        "lat": 9.9919,
+        "lng": 6.0047,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CNnVGNWxmRkdsRnFIYjF0bTNzVk1OZjV0c1ZxMWpSbW91NFVVLXE0NWtRQktqak9NVE1PbldTOHFFUzV4b2JseTFfQzNDOEhRS2JheG1WQjY5WnlmRXhtNGR1R0wwSVFOQWpoZDJn?oc=5"
     }
 ]
