@@ -2682,5 +2682,60 @@
         "location": "Epidemic Area, Niger State",
         "source": "Google News - Nigeria Local",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wQWo4V0haUkk2TVVBVnF1Z0QxVzhNd29yNTcwWWJ2UERsREM3U05vV2hoVGtaQ01OSDhKQVhOYlN5SzFUakxzeTF5R2t5Y05xRDJ4NU5pbzd0aS12TzIzN3Y4LTdvUkQwdThfdEN0NA?oc=5"
+    },
+    {
+        "title": "2027: 'We dey wait' - Dino Melaye alleges plot to attack him in Bauchi, Yobe",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-14",
+        "lat": 10.4578,
+        "lng": 9.958,
+        "location": "Bauchi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/14/2027-we-dey-wait-dino-melaye-alleges-uniform-men-plot-to-attack-him-in-bauchi-yobe/"
+    },
+    {
+        "title": "IDPs call for release of their abducted members in Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-14",
+        "lat": 10.4491,
+        "lng": 7.555,
+        "location": "Members Area, Kaduna State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/14/idps-call-for-release-of-their-abducted-members-in-kaduna/"
+    },
+    {
+        "title": "Tinubu’s aide dismisses reports of attack on presidential convoy in Abuja",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-14",
+        "lat": 9.0861,
+        "lng": 7.5241,
+        "location": "Convoy Area, Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/tinubus-aide-dismisses-reports-of-attack-on-presidential-convoy-in-abuja/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Diphtheria Outbreak Claims 1,260 Lives, 41,000 Suspected Cases Recorded In Nigeria ",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-11-14",
+        "lat": 9.9609,
+        "lng": 6.0122,
+        "location": "Recorded Area, Niger State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/diphtheria-outbreak-claims-1260-lives-41000-suspected-cases-recorded-in-nigeria/"
+    },
+    {
+        "title": "Troops’ Welfare: COAS Commissions 120 Homes, Reserves 5% for Wounded Soldiers - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-14",
+        "lat": 10.0034,
+        "lng": 6.0466,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81UFA3U1lqMHAyZmhzUmxxN0o3QjhhM1dRMVNHMm5BTmVYRm9vb2lzbWs2TUVoNHRVSVJxVEY0Tml1azdOZUlnUDE5dFozV0NwazkwQWtjMGV3VVduRmxkOXFUcnF2RXYwTEZj?oc=5"
     }
 ]
