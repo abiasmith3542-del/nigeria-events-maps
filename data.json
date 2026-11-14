@@ -2737,5 +2737,49 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81UFA3U1lqMHAyZmhzUmxxN0o3QjhhM1dRMVNHMm5BTmVYRm9vb2lzbWs2TUVoNHRVSVJxVEY0Tml1azdOZUlnUDE5dFozV0NwazkwQWtjMGV3VVduRmxkOXFUcnF2RXYwTEZj?oc=5"
+    },
+    {
+        "title": "Ogun  police present ₦10.7m to families of fallen officers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-14",
+        "lat": 7.0245,
+        "lng": 3.4842,
+        "location": "Ogun State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/14/cp-ojajuni-presents-10-6m-to-families-of-fallen-officers-in-ogun/"
+    },
+    {
+        "title": "Clashes between gangs, vigilantes kill over 50 in Zamfara – Report",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-14",
+        "lat": 12.0892,
+        "lng": 6.1831,
+        "location": "Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/clashes-between-gangs-vigilantes-kill-over-50-in-zamfara-report/"
+    },
+    {
+        "title": "Police arrest three for tampering with Bayelsa oil wellhead",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-14",
+        "lat": 4.6915,
+        "lng": 5.9599,
+        "location": "Bayelsa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-three-for-tampering-with-bayelsa-oil-wellhead/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "3 Arrested Over Alleged Vandalism of Oil Wellhead in Bayelsa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-14",
+        "lat": 4.746,
+        "lng": 6.0427,
+        "location": "Wellhead Area, Bayelsa State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/3-arrested-over-alleged-vandalism-of-oil-wellhead-in-bayelsa/"
     }
 ]
