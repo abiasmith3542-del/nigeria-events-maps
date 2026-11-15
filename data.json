@@ -2649,5 +2649,126 @@
         "location": "Kano State",
         "source": "Punch Metro",
         "url": "https://punchng.com/kano-arrests-1760-drug-suspects-secures-890-convictions/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Nigerian property owner in US named among worst landlords after building collapse kills eight",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-15",
+        "lat": 9.9852,
+        "lng": 5.9523,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/nigerian-property-owner-in-us-named-among-worst-landlords-after-building-collapse-kills-eight/"
+    },
+    {
+        "title": "Bandits kill three, abduct residents in Sokoto",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 13.1139,
+        "lng": 5.1995,
+        "location": "Residents Area, Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bandits-kill-three-abduct-residents-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "10 killed or missing, 2,000 displaced in Anambra communal clash — NEMA",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 6.1722,
+        "lng": 6.9649,
+        "location": "Displaced Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/10-killed-or-missing-2000-displaced-in-anambra-communal-clash-nema/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police probe claims of extortion by unidentified officers in Imo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 5.476,
+        "lng": 7.044,
+        "location": "Officers Area, Imo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-probe-claims-of-extortion-by-unidentified-officers-in-imo/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits attack Zamfara mosque, kill APC e-registration supervisor, abduct worshippers",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 12.0947,
+        "lng": 6.2719,
+        "location": "Zamfara State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/925270-bandits-attack-zamfara-mosque-kill-apc-e-registration-supervisor-abduct-worshippers.html"
+    },
+    {
+        "title": "54 African countries to meet in Abuja over recovery of stolen assets",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 9.0534,
+        "lng": 7.5373,
+        "location": "Meet Area, Abuja (FCT)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/925267-54-african-countries-to-meet-in-abuja-over-recovery-of-stolen-assets.html"
+    },
+    {
+        "title": "Akume, Alia camps clash over Tinubu campaign in Benue",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 7.2746,
+        "lng": 8.6989,
+        "location": "Campaign Area, Benue State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/925264-akume-alia-camps-clash-over-tinubu-campaign-in-benue.html"
+    },
+    {
+        "title": "Court remands two over alleged armed robbery in Kano ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 11.9903,
+        "lng": 8.6447,
+        "location": "Robbery Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/court-remands-two-over-alleged-armed-robbery-in-kano/"
+    },
+    {
+        "title": "Bandits Kill Four, Abduct Women in Sokoto Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 13.0072,
+        "lng": 5.1932,
+        "location": "Women Area, Sokoto State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/bandits-kill-four-abduct-women-in-sokoto-community/"
+    },
+    {
+        "title": "NDLEA Intercepts 25kg Meth Hidden in Cereals, Arrests Nigerian, US Suspects - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 10.0072,
+        "lng": 6.0466,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYU1VmZnpkYndrWFJJNmlnckctbkFJM2w4QzdSYUswNHV2VnhMN3VoLWgyRVlPN3RvVS1BbzQ4NnIxSHh0VlRVRUdJQ0tlZXJQc3VBXzNId2FLTHVwbWQtUExxc1ZZeFNwSTR4VHVZYw?oc=5"
+    },
+    {
+        "title": "Troops Rescue Three Kidnap Victims, Recover 45 Rustled Livestock in Kebbi - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 11.4478,
+        "lng": 4.2231,
+        "location": "Livestock Area, Kebbi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OT04zcHZ2TGduYmxMWFF5UTlRaVFic3QxLXVxdGVuemtXYlNrX1kzYm5yamFtWV9NT2Vvakl1WDZPSkJCVGQtUjNhNUlnSWxOQ1p5ZmVfN2tUZHoyVEwyR2VkZkxxQmFNLXpEb1ZlMA?oc=5"
     }
 ]
