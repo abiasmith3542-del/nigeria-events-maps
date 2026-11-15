@@ -2594,5 +2594,60 @@
         "location": "Nigeria (General Area)",
         "source": "Punch Metro",
         "url": "https://punchng.com/experts-decry-vandalism-of-public-facilities/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "State police, resource control top Makinde’s ‘Reset Agenda’",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 9.0866,
+        "lng": 7.444,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/state-police-resource-control-top-makindes-reset-agenda/"
+    },
+    {
+        "title": "Igando accident: Woman killed as Lexus rams into commercial bus",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 9.1485,
+        "lng": 7.5113,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/igando-accident-woman-killed-as-lexus-rams-into-commercial-bus/"
+    },
+    {
+        "title": "2027: Abuja natives reject anti-Tinubu protest",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-15",
+        "lat": 9.0537,
+        "lng": 7.5044,
+        "location": "Abuja (FCT)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/2027-abuja-natives-reject-anti-tinubu-protest/"
+    },
+    {
+        "title": "Why Edo was among first states to approve state police — Okpebholo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 6.522,
+        "lng": 5.9752,
+        "location": "Edo State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/why-edo-was-among-first-states-to-approve-state-police-okpebholo/"
+    },
+    {
+        "title": "Kano arrests 1,760 drug suspects, secures 890 convictions",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 12.0309,
+        "lng": 8.5419,
+        "location": "Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kano-arrests-1760-drug-suspects-secures-890-convictions/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
