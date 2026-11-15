@@ -2770,5 +2770,148 @@
         "location": "Livestock Area, Kebbi State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OT04zcHZ2TGduYmxMWFF5UTlRaVFic3QxLXVxdGVuemtXYlNrX1kzYm5yamFtWV9NT2Vvakl1WDZPSkJCVGQtUjNhNUlnSWxOQ1p5ZmVfN2tUZHoyVEwyR2VkZkxxQmFNLXpEb1ZlMA?oc=5"
+    },
+    {
+        "title": "Police arrest five over kidnap, murder of Anambra man",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 6.2365,
+        "lng": 7.0493,
+        "location": "Anambra State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/police-arrest-five-over-kidnap-murder-of-anambra-man/"
+    },
+    {
+        "title": "Troops repel terrorists attacks in Zamfara, seize weapons, motorcycles in Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 10.5235,
+        "lng": 7.5008,
+        "location": "Motorcycles Area, Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/troops-repel-terrorists-attacks-in-zamfara-seize-weapons-motorcycles-in-kaduna/"
+    },
+    {
+        "title": "Troops repel terrorists in Zamfara, kill suspect in Kaduna",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 10.5283,
+        "lng": 7.5026,
+        "location": "Suspect Area, Kaduna State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/troops-repel-terrorists-in-zamfara-kill-suspect-in-kaduna/"
+    },
+    {
+        "title": "Troops repel terrorists attacks in Zamfara, neutralise terrorist",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 12.1698,
+        "lng": 6.1998,
+        "location": "Attacks Area, Zamfara State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/troops-repel-terrorists-attacks-in-zamfara-neutralise-terrorist/"
+    },
+    {
+        "title": "Gunmen kidnap three travellers, shoot driver on Benue highway",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 7.28,
+        "lng": 8.7738,
+        "location": "Benue State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/gunmen-kidnap-three-travellers-shoot-driver-on-benue-highway/"
+    },
+    {
+        "title": "Gunmen shoot driver, abduct three passengers in Benue",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 7.2761,
+        "lng": 8.7517,
+        "location": "Passengers Area, Benue State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/gunmen-shoot-driver-abduct-three-passengers-in-benue/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest five over kidnap, murder, recover N5m ransom in Anambra",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-15",
+        "lat": 6.1587,
+        "lng": 7.0214,
+        "location": "Ransom Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-five-over-kidnap-murder-recover-n5m-ransom-in-anambra/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Three killed, many abducted in Sokoto attack – Police",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 13.0603,
+        "lng": 5.2836,
+        "location": "Abducted Area, Sokoto State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/925372-three-killed-many-abducted-in-sokoto-attack-police.html"
+    },
+    {
+        "title": "Police rescue three-year-old girl, 19 other abducted persons in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 12.1195,
+        "lng": 6.2734,
+        "location": "Persons Area, Zamfara State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/925313-police-rescue-three-year-old-girl-19-other-abducted-persons-in-zamfara.html"
+    },
+    {
+        "title": "AKK gas pipeline set for commissioning amid protest by Kano manufacturers",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-15",
+        "lat": 11.9702,
+        "lng": 8.555,
+        "location": "Kano State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/925310-akk-gas-pipeline-set-for-commissioning-amid-protest-by-kano-manufacturers.html"
+    },
+    {
+        "title": "Many Feared Dead As Granite-Laden Trailer Crashes Into Vehicles, Filling Station In Abuja",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 9.0198,
+        "lng": 7.517,
+        "location": "Station Area, Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/many-feared-dead-as-granite-laden-trailer-crashes-into-vehicles-filling-station-in-dutse/"
+    },
+    {
+        "title": "Scores killed as military airstrikes hit terrorists in Zamfara",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 12.1737,
+        "lng": 6.1761,
+        "location": "Terrorists Area, Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/scores-killed-as-military-airstrikes-hit-terrorists-in-zamfara/"
+    },
+    {
+        "title": "Troops Repel Terrorist Attacks, Kill Scores in Zamfara, Recover Firearms - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-15",
+        "lat": 10.0247,
+        "lng": 6.0269,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Bd204UDdpSHpuYUluVG9wLWNzbWg2MW1TVlpYNDdaUlRXclgzdWVUcUZTOW9NeVBQNHhYeENibUxwV1ptaEFRbVpjTmQ0NDEyYmUwWUdaZ0hiVnZvNUk3Yjc5V3Z4eXlHNVhLNmpRN3FseHJM?oc=5"
     }
 ]
