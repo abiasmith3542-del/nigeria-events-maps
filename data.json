@@ -2605,5 +2605,104 @@
         "location": "Livestock Area, Kebbi State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeE4xbmZMRkpWemYzWUNObFlhWlZJMDIxQm54TlloUG9jbzBTNXpXSWRPZFh3bXJOMGhUU1BBeV9xRzJqbnViS3JTcE1QQnl3bDdrSTJrNmtDSHFNZEg5OE9LWDdxa3VaY3lmU2FYZmZUUTd2UEJLSEhKZUhQbUdCZnlhOFFFemcyejJNVmdzd1VWRDJ2c3BIQklPaDZuUkN5ZkJrVWNNUUNwY2V2d2lkNXRqY1ZJaUx0dmNreA?oc=5"
+    },
+    {
+        "title": "Troops nab two suspects over alleged supply of materials to terrorists in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 11.7959,
+        "lng": 13.1657,
+        "location": "Terrorists Area, Borno State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/troops-nab-two-suspects-over-alleged-supply-of-materials-to-terrorists-in-borno/"
+    },
+    {
+        "title": "Army intercepts two suspected terrorists escaping internal clashes in Borno",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 11.8292,
+        "lng": 13.1049,
+        "location": "Clashes Area, Borno State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/army-intercepts-two-suspected-terrorists-escaping-internal-clashes-in-borno/"
+    },
+    {
+        "title": "Troops recover four cattle, arrest two suspects in Kogi",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-16",
+        "lat": 7.8139,
+        "lng": 6.6945,
+        "location": "Suspects Area, Kogi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/troops-recover-four-cattle-arrest-two-suspects-in-kogi/"
+    },
+    {
+        "title": "Troops recover AK-47, ammunition after ISWAP attack in Adamawa",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 9.3872,
+        "lng": 12.5006,
+        "location": "Adamawa State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/troops-recover-ak-47-ammunition-after-iswap-attack-in-adamawa/"
+    },
+    {
+        "title": "Kebbi: Troops repel bandits’ attack, rescue three abducted residents",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 11.4461,
+        "lng": 4.2299,
+        "location": "Kebbi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/kebbi-troops-repel-bandits-attack-rescue-three-abducted-residents/"
+    },
+    {
+        "title": "Military air strike wipes out 10 ISWAP fighters in Borno, destroys hideout",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 11.774,
+        "lng": 13.1427,
+        "location": "Fighters Area, Borno State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/military-air-strike-wipes-out-10-iswap-fighters-in-borno-destroys-hideout/"
+    },
+    {
+        "title": "Lekki residents threaten monthly protests over power outages",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-16",
+        "lat": 9.1038,
+        "lng": 7.4639,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/lekki-residents-threaten-monthly-protests-over-power-outages/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "CSOs demand probe over ‘attack’ on INEC chair in London",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 7.2008,
+        "lng": 5.2588,
+        "location": "Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/csos-demand-probe-over-attack-on-inec-chair-in-london/"
+    },
+    {
+        "title": "Lone Niger female guber candidate collapses structure for PDP candidate",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-16",
+        "lat": 9.9702,
+        "lng": 6.0478,
+        "location": "Niger State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/lone-niger-female-guber-candidate-collapses-structure-for-pdp-candidate/"
     }
 ]
