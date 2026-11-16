@@ -2704,5 +2704,192 @@
         "location": "Niger State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/lone-niger-female-guber-candidate-collapses-structure-for-pdp-candidate/"
+    },
+    {
+        "title": "Plateau gets new Commissioner of Police,  Sunday Okoebor",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-16",
+        "lat": 9.4808,
+        "lng": 9.5251,
+        "location": "Plateau State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/plateau-gets-new-commissioner-of-police/"
+    },
+    {
+        "title": "All 36 states have approved state police bill - Clerk of National Assembly, Ogunlana",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-16",
+        "lat": 6.9921,
+        "lng": 3.5103,
+        "location": "Ogun State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/all-36-states-approve-bill-for-state-police/"
+    },
+    {
+        "title": "Osun Govt, monarch clash over demotion of two Osogbo Baales",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 7.4724,
+        "lng": 4.4618,
+        "location": "Osun State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/osun-govt-monarch-clash-over-demotion-of-two-osogbo-baales/"
+    },
+    {
+        "title": "Nigeria has killed, arrested top terrorist leaders – Tinubu",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 10.0254,
+        "lng": 6.0074,
+        "location": "Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/nigeria-has-killed-arrested-top-terrorist-leaders-tinubu/"
+    },
+    {
+        "title": "UniAbuja staff, students protest alleged land grabbing by Wike [Video]",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-16",
+        "lat": 9.1114,
+        "lng": 7.4595,
+        "location": "Abuja (FCT)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/uniabuja-staff-students-protest-alleged-land-grabbing-by-wike-video/"
+    },
+    {
+        "title": "Kogi Police dismiss claims of political motive behind firearms training",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-16",
+        "lat": 7.843,
+        "lng": 6.7144,
+        "location": "Kogi State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/16/kogi-police-dismiss-claims-of-political-motive-behind-firearms-training/"
+    },
+    {
+        "title": "No casualty as gas explosion rocks Lagos NNPC station, spreads to school",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-16",
+        "lat": 6.5369,
+        "lng": 3.3675,
+        "location": "Lagos State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/no-casualty-as-gas-explosion-rocks-lagos-nnpc-station-spreads-to-school/"
+    },
+    {
+        "title": "Kaduna varsity unions suspend strike, insist on demands",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-16",
+        "lat": 10.5438,
+        "lng": 7.4979,
+        "location": "Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/kaduna-varsity-unions-suspend-strike-insist-on-demands/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police arrest eight after APC, NDC clash in Kano",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 11.9854,
+        "lng": 8.561,
+        "location": "Clash Area, Kano State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-eight-after-apc-ndc-clash-in-kano/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "ATAPOLY ASUP Declares Two-Week Warning Strike Over Bauchi Govt’s Failure To Implement CATA, EAA",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-16",
+        "lat": 10.4752,
+        "lng": 9.9655,
+        "location": "Bauchi State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/atapoly-asup-declares-two-week-warning-strike-over-bauchi-govts-failure-to-implement-cata-eaa/"
+    },
+    {
+        "title": "Abuja Mosque Attack: Tinubu Orders Release Of 78 Suspects Arrested ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 9.0462,
+        "lng": 7.512,
+        "location": "Abuja (FCT)",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/abuja-mosque-attack-tinubu-orders-release-of-78-suspects-arrested/"
+    },
+    {
+        "title": "Two herders killed in fresh Plateau attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 9.4557,
+        "lng": 9.528,
+        "location": "Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/two-herders-killed-in-plateau-attack/"
+    },
+    {
+        "title": "Eight arrested over clash between APC, NDC supporters in Kano",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 12.0471,
+        "lng": 8.5756,
+        "location": "Supporters Area, Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/eight-arrested-over-clash-between-apc-ndc-supporters-in-kano/"
+    },
+    {
+        "title": "Troops kill suspected terrorist, recover two motorcycles in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 9.4736,
+        "lng": 9.4793,
+        "location": "Motorcycles Area, Plateau State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/troops-kill-suspected-terrorist-recover-two-motorcycles-in-plateau/"
+    },
+    {
+        "title": "12 Abducted in Fresh Attack on Kaduna Community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 10.4726,
+        "lng": 7.4976,
+        "location": "Kaduna State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/12-abducted-in-fresh-attack-on-kaduna-community/"
+    },
+    {
+        "title": "Kano: TikTokers arrested for allegedly insulting Hisbah Commander",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-16",
+        "lat": 12.0171,
+        "lng": 8.6207,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kano-tiktokers-arrested-for-allegedly-insulting-hisbah-commander/"
+    },
+    {
+        "title": "Kogi: Troops Arrest Suspected Terrorist, Two Cattle Rustlers, Recover Motorcycle - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-16",
+        "lat": 7.7732,
+        "lng": 6.7802,
+        "location": "Kogi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KYzZaZjNKT3NLU2dYZjdDYnlNLUdtSmJQa0FGRmkteHFlc3MtS2NLY0ZvNmIyYVV0OW5KdDJIWUw4YmJWZXVWY1VGQmFpMUFtRXMzREVHTWktUnppWHlMRGxxck81LVU4cjBVcE1zNA?oc=5"
     }
 ]
