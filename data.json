@@ -2858,5 +2858,170 @@
         "location": "Farm Area, Borno State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1dlNmlzNUUxOG5FWWtyVHhkYS1hOC0yNmpCVThyNjBSSmpmOTRYQkJNZ3NIZElkbFdTeDQ5UzZSMzBTb2FSclBUbVhRQmViVWc3TVVRWkxUTTZjS1JTYk10OHE0dnFkcUllZWp1VzNNQTUwREh3SjhadmpvNDh5bzFHWDJORHVmdHZvS1NnNHhWUGQ5WnZiSEVQUmV4eXBaUTBPMkgxXzJnRUhGSWVFY2RweG1QRE9K?oc=5"
+    },
+    {
+        "title": "Adamawa CP decorates 90 promoted police officers",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-17",
+        "lat": 9.3076,
+        "lng": 12.5066,
+        "location": "Adamawa State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/17/adamawa-cp-decorates-90-promoted-police-officers/"
+    },
+    {
+        "title": "Terrorists ambush Operation Rainbow team, kill  commander, one other in Plateau",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-17",
+        "lat": 9.4797,
+        "lng": 9.5328,
+        "location": "Other Area, Plateau State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/17/terrorists-ambush-operation-rainbow-team-kill-commander-one-other-in-plateau/"
+    },
+    {
+        "title": "Troops arrest suspected terrorist collaborator in Borno",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-17",
+        "lat": 11.7737,
+        "lng": 13.1217,
+        "location": "Collaborator Area, Borno State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/17/troops-arrest-suspected-terrorist-collaborator-in-borno/"
+    },
+    {
+        "title": "Amnesty demands probe into attack on Kwankwaso’s campaign convoy in Kano",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-17",
+        "lat": 11.9669,
+        "lng": 8.639,
+        "location": "Convoy Area, Kano State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/17/amnesty-demands-probe-into-attack-on-kwankwasos-campaign-convoy-in-kano/"
+    },
+    {
+        "title": "2027 election: 'We're capable' - Police provide updates on its readiness  ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-17",
+        "lat": 9.0986,
+        "lng": 7.5804,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/17/2027-election-were-capable-police-provide-updates-on-its-readiness/"
+    },
+    {
+        "title": "War on terror: Over 2,000 suspected terrorists facing prosecution — Tinubu",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-17",
+        "lat": 9.0461,
+        "lng": 7.4065,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/war-on-terror-over-2000-suspected-terrorists-facing-prosecution-tinubu/"
+    },
+    {
+        "title": "Ekiti PDP seeks probe of attack on ex-dep gov candidate",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-17",
+        "lat": 7.7094,
+        "lng": 5.2464,
+        "location": "Ekiti State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ekiti-pdp-seeks-probe-of-attack-on-ex-dep-gov-candidate/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Protests rock UniAbuja over FCTA land cuts",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-17",
+        "lat": 9.1008,
+        "lng": 7.5169,
+        "location": "Abuja (FCT)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/protests-rock-uniabuja-over-fcta-land-cuts/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Gunmen kill Plateau security commander, one other",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-17",
+        "lat": 9.4467,
+        "lng": 9.5393,
+        "location": "Plateau State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/925756-gunmen-kill-plateau-security-commander-one-other.html"
+    },
+    {
+        "title": "Again, Akwa Ibom fire service fails to respond to outbreak over grounded truck",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-11-17",
+        "lat": 4.9735,
+        "lng": 7.8258,
+        "location": "Akwa Ibom State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/south-south-regional/925742-again-akwa-ibom-fire-service-fails-to-respond-to-outbreak-over-grounded-truck.html"
+    },
+    {
+        "title": "Gas explosion rocks NNPC station in Lagos, damages school",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-17",
+        "lat": 6.5118,
+        "lng": 3.3725,
+        "location": "Station Area, Lagos State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gas-explosion-rocks-nnpc-station-in-lagos-damages-school/"
+    },
+    {
+        "title": "Again, gunmen hit Zamfara community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-17",
+        "lat": 12.1626,
+        "lng": 6.1778,
+        "location": "Zamfara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/again-gunmen-hit-zamfara-community/"
+    },
+    {
+        "title": "Gunmen kill Chinese miner, police inspector in Bauchi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-17",
+        "lat": 10.5401,
+        "lng": 10.0311,
+        "location": "Inspector Area, Bauchi State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/gunmen-kill-chinese-miner-police-inspector-in-bauchi/"
+    },
+    {
+        "title": "POLITICAL PULSE: Kwankwaso Convoy Attack, Tinubu Clemency Heighten Campaign Tensions - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-17",
+        "lat": 10.0432,
+        "lng": 6.0331,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jM0NYNkxhVHRXZUtaRnRWeU5JanVrbG5BNUtQMnc5MmlDTVJXV19uTDFBRnJoX3pqYWY5bi1kODUxYWZtbEFqWjFURkVfNElSd2lCNkxlNExyd3JOdHh1a1d2cGFodDNzSjY0?oc=5"
+    },
+    {
+        "title": "How Military Pressure Leads to Release of 10 Captives, Surrender of Terrorists and 12 Rifles in Kwara as Video sparks Controversy - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-17",
+        "lat": 8.5016,
+        "lng": 4.5511,
+        "location": "Rifles Area, Kwara State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPd2FJNDR4d3NwMGJSVUQxOWpIQmZzUUQ5TldOdk5BdldfVmNMMmJqRDYxdVEzV2xod2RrY2hiTDllYlhOMldlcDJscDRKZUpOS1pldWZzOVppdS11MjVYT1FqclFfcHpjVFVvSHAyLTNiTDMxOHZTQ0J1YzRPZ2JmYno2cFhaWWxUVVhGZWo3a2NGQl9JZkxCZGVLZFhnb3lJYWVtc2Fkb2YtVW5heVlYdDFoX3picUtTUWs3LUg5al8wVU42VEx1ZGRKcFVsb3JDWVQwYXJQOHhrZ0lWaFJyUGFXNzFYSzFpTERMZng2WWZaaUZlNW5YUU9hRnRYS2k1Y0J3?oc=5"
     }
 ]
