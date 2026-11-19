@@ -3056,5 +3056,93 @@
         "location": "Kogi State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hOWRhVHNfMlVNLWVib1RreENTLTJKdWp3blZBdzBNekNtZGFScjVJOWZ0aFIwRFpNUU90bVlxQmp2MTB2SEtmQWlNaWhYaXozX212Um5ldDJTdHR5M0lJdW04WkpPSDdJU1R3?oc=5"
+    },
+    {
+        "title": "Five arrested over disappearance of five-year-old boy in Cross River",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-19",
+        "lat": 5.7121,
+        "lng": 8.4661,
+        "location": "Cross River State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/five-arrested-over-disappearance-of-five-year-old-boy-in-cross-river/"
+    },
+    {
+        "title": "14 killed as truck carrying passengers, cattle crashes in Niger",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-19",
+        "lat": 10.0566,
+        "lng": 6.0372,
+        "location": "Crashes Area, Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/14-killed-as-truck-carrying-passengers-cattle-crashes-in-niger/"
+    },
+    {
+        "title": "Police arrest nine over robbery at student hostels in Nasarawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-19",
+        "lat": 8.4577,
+        "lng": 8.2159,
+        "location": "Hostels Area, Nasarawa State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/police-arrest-nine-over-robbery-at-student-hostels-in-nasarawa/"
+    },
+    {
+        "title": "Ogun students protest ASUP strike, seek gov’s intervention",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-19",
+        "lat": 7.0224,
+        "lng": 3.4775,
+        "location": "Ogun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ogun-students-protest-asup-strike-seek-govs-intervention/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Rivers promises new wage structure, urges ASUP to end strike",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-19",
+        "lat": 4.7953,
+        "lng": 6.8218,
+        "location": "Rivers State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/rivers-promises-new-wage-structure-urges-asup-to-end-strike/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Mob kills accident survivor after crash claims two lives in Osun",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-19",
+        "lat": 7.5367,
+        "lng": 4.4502,
+        "location": "Lives Area, Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/mob-kills-accident-survivor-after-crash-claims-two-lives-in-osun/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "2027: APC, ADC clash over Katsina insecurity, governance",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-19",
+        "lat": 12.4633,
+        "lng": 7.5626,
+        "location": "Katsina State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2027-apc-adc-clash-over-katsina-insecurity-governance/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Unpaid Allowances: FCT health sector union issues 7-day strike notice",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-19",
+        "lat": 9.0798,
+        "lng": 7.4647,
+        "location": "Abuja (FCT)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/health/health-news/926502-unpaid-allowances-fct-health-sector-union-issues-7-day-strike-notice.html"
     }
 ]
