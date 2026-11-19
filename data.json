@@ -2913,5 +2913,148 @@
         "location": "Road Area, Niger State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWnNJbENuczctZGQ5MDVtUGloWURqVjJWVmVDcE9UQm5RNG90U3RLbGFBNHRPUTU5SzRRVlI4Q0VNWHQ4czEzUk5ndXhVNGJwN1ljRERHUkt1NzJQQjdZWEpQRGlINV84YVplck56cHAwUzFZOFdPN25zOXNMQXI5U0NlRk9leHVtLURaZEtkazF1WmtZZ1dscEQxaGNNQ3kxVG05MHpEX2VmOEZZcWFnX1RZVWN2Q01sUUQ2cERuMnN2Rmc?oc=5"
+    },
+    {
+        "title": "'Enugu has lost peaceful state status, residents being kidnapped in numbers' - Obodoeze",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-19",
+        "lat": 6.4929,
+        "lng": 7.4477,
+        "location": "Enugu State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/19/enugu-has-lost-peaceful-state-status-residents-being-kidnapped-in-numbers-obodoeze/"
+    },
+    {
+        "title": "Stop giving free publicity to terrorists - Adesina tells Nigerian media",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-19",
+        "lat": 10.0592,
+        "lng": 6.0417,
+        "location": "Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/19/dont-be-terrorists-loudspeakers-adesina-warns-nigerian-media/"
+    },
+    {
+        "title": "‘Ban Nigerians from our country’ - South Africans protest in Pretoria [VIDEO]",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-19",
+        "lat": 9.9939,
+        "lng": 5.9779,
+        "location": "Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/19/ban-nigerians-from-our-country-south-africans-protest-in-pretoria-video/"
+    },
+    {
+        "title": "‘End strike now’ - IMSU lecturers storm Owerri streets, beg Uzodimma to intervene [VIDEO]",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-19",
+        "lat": 9.0467,
+        "lng": 7.4966,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/19/end-strike-now-imsu-lecturers-storm-owerri-streets-beg-uzodimma-to-intervene-video/"
+    },
+    {
+        "title": "VIDEO: South Africans protest Nigerians calling Pretoria community ‘Little Lagos’",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-19",
+        "lat": 6.5832,
+        "lng": 3.4221,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/video-south-africans-protest-nigerians-calling-pretoria-community-little-lagos/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police recover NIWA vehicle stolen in Anambra, abandoned in Cross River",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-19",
+        "lat": 6.1458,
+        "lng": 6.9411,
+        "location": "Stolen Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-recover-niwa-vehicle-stolen-in-anambra-abandoned-in-cross-river/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police rescue 15 kidnapped victims in Kogi forest",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-19",
+        "lat": 7.7984,
+        "lng": 6.6885,
+        "location": "Victims Area, Kogi State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/regional/north-central/926453-police-rescue-15-kidnapped-victims-in-kogi-forest.html"
+    },
+    {
+        "title": "2027 Politics Watch: From APC’s Benue ticket setback to Tinubu’s state police bill",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-19",
+        "lat": 7.3432,
+        "lng": 8.7491,
+        "location": "Benue State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/926362-2027-politics-watch-from-apcs-benue-ticket-setback-to-tinubus-state-police-bill.html"
+    },
+    {
+        "title": "3 killed, 2 injured in Jigawa farmers-herders clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-19",
+        "lat": 11.9849,
+        "lng": 9.7792,
+        "location": "Injured Area, Jigawa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-killed-2-injured-in-jigawa-farmers-herders-clash/"
+    },
+    {
+        "title": "Kwara: 7 arrested over alleged plot to kidnap bizman",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-19",
+        "lat": 8.5592,
+        "lng": 4.5803,
+        "location": "Kwara State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kwara-7-arrested-over-alleged-plot-to-kidnap-bizman/"
+    },
+    {
+        "title": "Plateau: Troops Arrest 3 Suspected Kidnappers, Recover Firearms - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-19",
+        "lat": 9.4967,
+        "lng": 9.4427,
+        "location": "Plateau State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xcmEtczVCOGFVaUZISksyQ0Rndi0xVEZqWTJfWURDQ204bG5Pb2owNWpMS1FTeFdCTnowVWVLY3dpNDhLeUNrN0h2dGZiN3pYVHl4Sm4xTGhYLXZoMjI2NVVrTzYtOVo0?oc=5"
+    },
+    {
+        "title": "Troops Dismantle Seven Illegal Bunkering Sites, Recover 85,000 Litres of Crude Oil in Rivers - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-19",
+        "lat": 9.9815,
+        "lng": 5.9961,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hQ1ZFWkxpUWdVYi1MZ2hSbDdMaHBDMy1yLUtuYm9PZUdwTzZfd1hydUZ6YklsRmFoZXk5ZXh2T1VGVTNUcHFNWHRzN1R5X2RUYjNlQXVJSzJrWms4bjdRbXZ6Sm9wOEZsOEx3RlB5Sk95dw?oc=5"
+    },
+    {
+        "title": "Kogi Police Rescue 15 Kidnap Victims, Including Three Children, After Fierce Gun Battles with Abductors - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-19",
+        "lat": 7.8118,
+        "lng": 6.7395,
+        "location": "Kogi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hOWRhVHNfMlVNLWVib1RreENTLTJKdWp3blZBdzBNekNtZGFScjVJOWZ0aFIwRFpNUU90bVlxQmp2MTB2SEtmQWlNaWhYaXozX212Um5ldDJTdHR5M0lJdW04WkpPSDdJU1R3?oc=5"
     }
 ]
