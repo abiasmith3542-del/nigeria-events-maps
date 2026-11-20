@@ -1,324 +1,5 @@
 [
     {
-        "title": "Taifa Stars’ clashes  must-games, Ex-int’ls charge Eagles",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 9.1293,
-        "lng": 7.4607,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/taifa-stars-clashes-must-games-ex-intls-charge-eagles/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Election: Police declare war on AI-generated fake news",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-12",
-        "lat": 8.9735,
-        "lng": 7.5359,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/election-police-declare-war-on-ai-generated-fake-news/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "UNILAG VC promises intervention as health workers protest arrears",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-11-12",
-        "lat": 8.9723,
-        "lng": 7.592,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/unilag-vc-promises-intervention-as-health-workers-protest-arrears/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Adamawa police distribute ₦9.2m to families of deceased officers",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-12",
-        "lat": 9.3823,
-        "lng": 12.5415,
-        "location": "Adamawa State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/12/adamawa-police-distribute-9-2m-to-families-of-deceased-officers/"
-    },
-    {
-        "title": "Police arraign two over ₦11m farmland fraud in Ogun",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-12",
-        "lat": 7.042,
-        "lng": 3.4982,
-        "location": "Fraud Area, Ogun State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arraign-two-over-%e2%82%a611m-farmland-fraud-in-ogun/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Islamic State is incentivising ISWAP to target military stockpiles in Nigeria, others",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 9.9739,
-        "lng": 6.0491,
-        "location": "Stockpiles Area, Niger State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/headlines/924634-islamic-state-is-incentivising-iswap-to-target-military-stockpiles-in-nigeria-others.html"
-    },
-    {
-        "title": "Amnesty condemns attack on Pantami’s campaign convoy in Gombe",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 10.2488,
-        "lng": 11.1536,
-        "location": "Convoy Area, Gombe State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/924624-amnesty-condemns-attack-on-pantamis-campaign-convoy-in-gombe.html"
-    },
-    {
-        "title": "Gunmen Abduct 5, Shoot 2 In Plateau",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-11-12",
-        "lat": 9.4721,
-        "lng": 9.5253,
-        "location": "Plateau State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/gunmen-abduct-5-shoot-2-in-plateau/"
-    },
-    {
-        "title": "Youth groups clash over colleague’s death in Kaduna",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 10.5585,
-        "lng": 7.4605,
-        "location": "Death Area, Kaduna State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/youth-groups-clash-over-colleagues-death-in-kaduna/"
-    },
-    {
-        "title": "Police raid illicit drug trafficking hideout in Akwa Ibom, arrest three",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-12",
-        "lat": 5.0199,
-        "lng": 7.8496,
-        "location": "Hideout Area, Akwa Ibom State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/12/police-raid-illicit-drug-trafficking-hideout-in-akwa-ibom-arrest-three/"
-    },
-    {
-        "title": "Navy busts two illegal refineries, recovers 53,000 litres of stolen petroleum in Rivers State",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-12",
-        "lat": 4.7554,
-        "lng": 6.8672,
-        "location": "Petroleum Area, Rivers State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/12/navy-busts-two-illegal-refineries-recovers-53000-litres-of-stolen-petroleum-in-rivers-state/"
-    },
-    {
-        "title": "Troops neutralise terrorist, arrest others in Katsina, Sokoto operations ",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 12.4941,
-        "lng": 7.58,
-        "location": "Others Area, Katsina State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/12/troops-neutralize-terrorist-arrest-two-suspects-recover-2-ak-47-rifles-and-ammunition-in-katsina-sokoto-states/"
-    },
-    {
-        "title": "Atiku accuses Tinubu of failing Nigerians as 638 killed in one month",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 9.9946,
-        "lng": 6.0279,
-        "location": "Niger State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/12/insecurity-atiku-accuses-tinubu-govt-of-failing-nigerians-as-638-die-in-one-month/"
-    },
-    {
-        "title": "Indigenes of Abacha in Anambra besiege govt house in protest, beg Soludo to quell impending violence",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-11-12",
-        "lat": 6.2572,
-        "lng": 6.966,
-        "location": "Abacha Area, Anambra State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/12/anambra-community-indigenes-besiege-govt-house-in-protest-beg-soludo-to-quell-impending-violence/"
-    },
-    {
-        "title": "Edo pharmacists, consumer committee clash over drug inspections",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 6.5369,
-        "lng": 5.9643,
-        "location": "Edo State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/11/edo-pharmacists-consumer-committee-clash-over-drug-inspections/"
-    },
-    {
-        "title": "APC-PCC condemns attack on NDC Lagos town hall, demands swift arrests",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 6.5312,
-        "lng": 3.3462,
-        "location": "Lagos State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/11/apc-pcc-condemns-attack-on-ndc-lagos-town-hall-demands-swift-arrests/"
-    },
-    {
-        "title": "NDLEA arrests three suspects, sacks drug peddlers in Edo",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-12",
-        "lat": 6.5338,
-        "lng": 5.9527,
-        "location": "Peddlers Area, Edo State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/ndlea-arrests-three-suspects-sacks-drug-peddlers-in-edo/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Soldiers kill terrorist, arrest father, son in Katsina, Sokoto",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 12.5182,
-        "lng": 7.5987,
-        "location": "Katsina State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/soldiers-kill-terrorist-arrest-father-son-in-katsina-sokoto/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Suspected thugs attack NDC town hall venue in Lagos, damage vehicles",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 6.5762,
-        "lng": 3.406,
-        "location": "Venue Area, Lagos State",
-        "source": "Premium Times",
-        "url": "https://www.premiumtimesng.com/news/top-news/924677-suspected-thugs-attack-ndc-town-hall-venue-in-lagos-damage-vehicles.html"
-    },
-    {
-        "title": "Gridlock as APC campaign team arrives Edo",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-11-12",
-        "lat": 6.4478,
-        "lng": 5.9907,
-        "location": "Edo State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/gridlock-as-apc-campaign-train-arrives-edo/"
-    },
-    {
-        "title": "Adeniyi Tasks Customs Police to Embrace AI, Intelligence-Led Policing - PRNigeria News",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-12",
-        "lat": 9.9662,
-        "lng": 5.9682,
-        "location": "Niger State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ESzN4SEU4LUxCUWZuNHBUYk40cnNReTgteHV2YnBJT2x1a0dCSmZ3SE9USFRzS28zaGxxUmZIbXE2MGh5b2RQWVZsOFVIUVgyU2M4M096WFlFQldzbzQzcmh2SnJNOEdKZmdKQ2lpWQ?oc=5"
-    },
-    {
-        "title": "6 Cattle Killed, 3 Slaughtered, 8 Injured as Suspected Berom Militia Attack 44 Cattle in Plateau - ZAgazola",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 9.5079,
-        "lng": 9.4473,
-        "location": "Cattle Area, Plateau State",
-        "source": "Zagazola Defense",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3hxRUN2b3VGc0Z1aDZ5aGY3elZTNDlDYUxuWC04UHl3dGFQR2Y4YzVwT2VncEdlSEtOS1lYZkhRaXV6VTZZOVliaFduMnZaaGFYWlR4Z19kR0dZeHJnMk9RMVFBWEFzd3MyMUxrRWx0ZGs5S0pqT1hVd0Y5Y3EzS1BuM3h2Zlp6V0FnY19zNlkyclRhRjhZUU5HOG9XaXpDdFVnNS1STkVPZjhSLTlueXpkR2Vzdk1VaFlHLWVpS0FNSzE5TWoxazJfdjVRWG5GNU5IbkRn?oc=5"
-    },
-    {
-        "title": "Lassa Fever: Anambra Confirms Patient’s Recovery - Voice of Nigeria",
-        "type": "突发公共卫生疫情",
-        "level": "low",
-        "date": "2026-11-12",
-        "lat": 6.1603,
-        "lng": 7.0069,
-        "location": "Anambra State",
-        "source": "Google News - Nigeria Local",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04R1VXX18tMXhLRnR3bWJLQjEzYjJzZ1VvSVNSUEp2YjZSMW1KcFAxUWxjdTRJSWlGb1BndDF4Mm9WOU1HTWl5TTBIb2d4QjZjZ2haOEFwSmR4alJuc2p0WktVbS1BZnlGbURGZXpUSkhTQjNB?oc=5"
-    },
-    {
-        "title": "Troops neutralise terrorist, arrest father, son suspected of terrorism in Katsina, Sokoto",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 12.5507,
-        "lng": 7.5628,
-        "location": "Terrorism Area, Katsina State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/12/troops-neutralise-terrorist-arrest-father-son-suspected-of-terrorism-in-katsina-sokoto/"
-    },
-    {
-        "title": "Army, vigilantes rescue four kidnap victims in Kogi",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-11-12",
-        "lat": 7.797,
-        "lng": 6.7617,
-        "location": "Victims Area, Kogi State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/12/army-vigilantes-rescue-four-kidnap-victims-in-kogi/"
-    },
-    {
-        "title": "Lagos taskforce raids Cele, Itire, Ilasamaja, arrests 3 suspected drug peddlers",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-12",
-        "lat": 6.5601,
-        "lng": 3.3906,
-        "location": "Lagos State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/11/lagos-taskforce-raids-cele-itire-ilasamaja-arrests-3-suspected-drug-peddlers/"
-    },
-    {
-        "title": "Reps condemn political violence as thugs attack NDC supporters in Lagos; NDC, APC-PCC fault attack",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 6.4813,
-        "lng": 3.3311,
-        "location": "Supporters Area, Lagos State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/11/reps-condemn-political-violence-as-thugs-attack-ndc-supporters-in-lagos-ndc-apc-pcc-fault-attack/"
-    },
-    {
-        "title": "Amupitan Faces Protesters Outside Chatham House In London",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-11-12",
-        "lat": 7.2373,
-        "lng": 5.1926,
-        "location": "Ondo State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/amupitan-faces-protesters-outside-chatham-house-in-london/"
-    },
-    {
-        "title": "Four arrested over attack on Kano poultry farm",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 12.0342,
-        "lng": 8.5783,
-        "location": "Kano State",
-        "source": "Daily Trust",
-        "url": "https://dailytrust.com/four-arrested-over-attack-on-kano-poultry-farm/"
-    },
-    {
         "title": "Kano police return 222 recovered mobile phones, stolen items to owners",
         "type": "突发涉安事件",
         "level": "medium",
@@ -713,17 +394,6 @@
         "location": "Woman Area, Plateau State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzZDQ3N1UGkxcnc1MFRfYkdwWEpqdHVuSUtFV2RKX0g1VG5rcFJYUnpkZzREbF9xWG1tRDdob05FdWxpblR6dTUtakJvQUJNczl6TmNYNTBDZnJZTWVZUXQ1MEhSa3g0QzdJMHJORkpPekw3bktmWHJnSlp2SV8zWDZTU2FXbU5OUXAyOGNtbHA1MnloTy02MElndV9yc0dQaktmOVpxcFhlS0hh?oc=5"
-    },
-    {
-        "title": "Diphtheria epidemic in Nigeria - Atlas Global de Riesgo",
-        "type": "突发公共卫生疫情",
-        "level": "low",
-        "date": "2026-11-12",
-        "lat": 9.9808,
-        "lng": 5.9601,
-        "location": "Epidemic Area, Niger State",
-        "source": "Google News - Nigeria Local",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wQWo4V0haUkk2TVVBVnF1Z0QxVzhNd29yNTcwWWJ2UERsREM3U05vV2hoVGtaQ01OSDhKQVhOYlN5SzFUakxzeTF5R2t5Y05xRDJ4NU5pbzd0aS12TzIzN3Y4LTdvUkQwdThfdEN0NA?oc=5"
     },
     {
         "title": "2027: 'We dey wait' - Dino Melaye alleges plot to attack him in Bauchi, Yobe",
@@ -2442,17 +2112,6 @@
         "url": "https://punchng.com/no-evidence-of-sokoto-protest-plot-dss-tackles-atiku/?utm_source=rss.punchng.com&utm_medium=web"
     },
     {
-        "title": "Hare-Haren Jiragen Yaƙi Sun Kashe Ƴan Ta’addan ISWAP 40 a Borno - PRNigeria News",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-12",
-        "lat": 11.874,
-        "lng": 13.1945,
-        "location": "Borno State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YODVSU2dRSW5acmlzbGp4M2tRQTVTTWo2SlVGR0JKbzZvR05ieW4zNVZyZ215djVrYmVuM1NtcWVjb3BlOEkyeUNzelozeV9WejZaUUVQVURaUWpwOXVaTzVoNEZydV9Jb0pNU0JzVEs0VmR4M0U5anlR?oc=5"
-    },
-    {
         "title": "‘We don’t know where he is’ — Kemi Olunloyo speaks as US police hunt son",
         "type": "突发涉安事件",
         "level": "medium",
@@ -3144,5 +2803,115 @@
         "location": "Abuja (FCT)",
         "source": "Premium Times",
         "url": "https://www.premiumtimesng.com/health/health-news/926502-unpaid-allowances-fct-health-sector-union-issues-7-day-strike-notice.html"
+    },
+    {
+        "title": "Ogun polytechnic students protest ASUP strike, seek Abiodun’s intervention",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-20",
+        "lat": 6.9923,
+        "lng": 3.4929,
+        "location": "Ogun State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/ogun-polytechnic-students-protest-asup-strike-seek-abioduns-intervention/"
+    },
+    {
+        "title": "‘Bamayi’ chant sparks violence as suspected thugs attack APC convoy in Gombe",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-20",
+        "lat": 10.2835,
+        "lng": 11.1882,
+        "location": "Convoy Area, Gombe State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bamayi-chant-sparks-violence-as-suspected-thugs-attack-apc-convoy-in-gombe/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "FG suspends Lagos-Ibadan bridge work after 20-hour gridlock",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-20",
+        "lat": 6.5256,
+        "lng": 3.4377,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/fg-suspends-lagos-ibadan-bridge-work-after-20-hour-gridlock/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Mob kills Osun accident survivor, police hunt suspects",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-20",
+        "lat": 7.5092,
+        "lng": 4.551,
+        "location": "Osun State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/mob-kills-osun-accident-survivor-police-hunt-suspects/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "DHQ denies supplying camouflage uniforms to suspected bandits",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-20",
+        "lat": 8.9747,
+        "lng": 7.4159,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/dhq-denies-supplying-camouflage-uniforms-to-suspected-bandits/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Osimhen ranks 5th among CIES’ most valuable strikers",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-20",
+        "lat": 9.0046,
+        "lng": 7.559,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/osimhen-ranks-5th-among-cies-most-valuable-strikers/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "14 arrested over $22.5m train cargo theft in US",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-20",
+        "lat": 9.1541,
+        "lng": 7.4697,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/14-arrested-over-22-5m-train-cargo-theft-in-us/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police storm Kogi forest, rescue 15 kidnap victims",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-20",
+        "lat": 7.7703,
+        "lng": 6.7126,
+        "location": "Kogi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-storm-kogi-forest-rescue-15-kidnap-victims/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits abduct six, rustle livestock in fresh Sokoto attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-20",
+        "lat": 13.0413,
+        "lng": 5.1998,
+        "location": "Sokoto State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bandits-abduct-six-rustle-livestock-in-fresh-sokoto-attack/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Lagos arraigns suspects over monarch’s son, another’s murder",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-20",
+        "lat": 6.4991,
+        "lng": 3.4037,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/lagos-arraigns-suspects-over-monarchs-son-anothers-murder/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
