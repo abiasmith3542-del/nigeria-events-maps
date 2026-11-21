@@ -2968,5 +2968,71 @@
         "location": "Rescued Area, Bayelsa State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/police-confirm-4-dead-24-rescued-in-bayelsa-boat-accident/"
+    },
+    {
+        "title": "Many hospitalised as hoodlums attack APM members in Oyo ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 8.0495,
+        "lng": 3.9799,
+        "location": "Members Area, Oyo State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/21/many-hospitalised-as-hoodlums-attack-apm-members-in-oyo-photos/"
+    },
+    {
+        "title": "Jigawa NLC disowns strike notice over N70,000 transport allowance",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-21",
+        "lat": 11.9855,
+        "lng": 9.8025,
+        "location": "Jigawa State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/21/jigawa-nlc-disowns-strike-notice-over-n70000-transport-allowance/"
+    },
+    {
+        "title": "Nigerian military neutralises 21 ISWAP fighters, frees kidnap victims",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 9.994,
+        "lng": 6.0297,
+        "location": "Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/21/military-neutralises-21-iswap-fighters-rescues-kidnap-victims-in-nationwide-operations/"
+    },
+    {
+        "title": "AI, fake news threaten Nigeria’s security – Ex-police PRO",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 10.05,
+        "lng": 5.9716,
+        "location": "Niger State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/ai-fake-news-threaten-nigerias-security-ex-police-pro/"
+    },
+    {
+        "title": "How we tackled kidnapping, armed robbery in Anambra – Obi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 6.22,
+        "lng": 7.0225,
+        "location": "Robbery Area, Anambra State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/how-we-tackled-kidnapping-armed-robbery-in-anambra-obi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "3 Killed, 13 Injured as Soldiers ‘Open Fire’ in Gombe Village",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 10.2625,
+        "lng": 11.1685,
+        "location": "Gombe State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/3-killed-13-injured-as-soldiers-open-fire-in-gombe-village/"
     }
 ]
