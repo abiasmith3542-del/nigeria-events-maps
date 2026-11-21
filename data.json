@@ -2880,5 +2880,93 @@
         "location": "Abuja (FCT)",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/breaking-angry-mob-attacks-rarara-tinubus-praise-singer-at-national-mosque-abuja/"
+    },
+    {
+        "title": "LAWMA sets 60-day deadline to clear refuse dumps across Lagos",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 6.582,
+        "lng": 3.3883,
+        "location": "Lagos State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/21/lawma-sets-60-day-deadline-to-clear-refuse-dumps-across-lagos-promises-cleaner-city-before-christmas/"
+    },
+    {
+        "title": "2027 polls: Nasarawa police assure INEC of adequate security ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 8.5506,
+        "lng": 8.1801,
+        "location": "Nasarawa State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/21/nasarawa-police-assure-inec-of-adequate-security-ahead-of-2027-elections/"
+    },
+    {
+        "title": "AIG decorates seven newly promoted senior police officers in Zone 11",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 9.1,
+        "lng": 7.5843,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/21/aig-decorates-seven-newly-promoted-senior-police-officers-in-zone-11/"
+    },
+    {
+        "title": "Tinubu govt has failed to secure release of abducted Borno schoolchildren — Buba Galadima",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 11.8685,
+        "lng": 13.187,
+        "location": "Borno State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/21/tinubu-govt-has-failed-to-secure-release-of-abducted-borno-schoolchildren-buba-galadima/"
+    },
+    {
+        "title": "South Korea records first cholera case in 10 years",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-11-21",
+        "lat": 9.0507,
+        "lng": 7.5531,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/south-korea-records-first-cholera-case-in-10-years/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police probe attack on Edo NDC secretariat, invite LG chairman",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 6.4551,
+        "lng": 6.0308,
+        "location": "Edo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-probe-attack-on-edo-ndc-secretariat-invite-lg-chairman/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Calm Returns To Kano School After Diphtheria Outbreak",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-11-21",
+        "lat": 11.9907,
+        "lng": 8.6301,
+        "location": "Kano State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/calm-returns-to-kano-school-after-diphtheria-outbreak/"
+    },
+    {
+        "title": "Police confirm 4 dead, 24 rescued in Bayelsa boat accident",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 4.7365,
+        "lng": 5.997,
+        "location": "Rescued Area, Bayelsa State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/police-confirm-4-dead-24-rescued-in-bayelsa-boat-accident/"
     }
 ]
