@@ -3034,5 +3034,148 @@
         "location": "Gombe State",
         "source": "Daily Trust",
         "url": "https://dailytrust.com/3-killed-13-injured-as-soldiers-open-fire-in-gombe-village/"
+    },
+    {
+        "title": "Soldiers dislodge bandits, recover rifles in Kogi",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 7.7899,
+        "lng": 6.7482,
+        "location": "Rifles Area, Kogi State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-dislodge-bandits-recover-rifles-in-kogi/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Suspected Herdsmen Attack Benue Communities, Military Base, 2 Women Rescued",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 7.3422,
+        "lng": 8.7298,
+        "location": "Benue State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/suspected-herdsmen-attack-benue-communities-military-base-2-women-rescued/"
+    },
+    {
+        "title": "Troops Arrest 22-Year-Old Suspect for Alleged Phone Snatching in Jos - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 9.8404,
+        "lng": 8.8135,
+        "location": "Snatching Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUzJyUlQzWG1fY0JjM2ZfSGdqTmp5T3Rkekd1QTNWWk5WUVVmcGJkSHdvdlpzNlVYbHlBSjdfZ3N0d0ZpTW81dGE3UnB1NkUyX0ZwX1QzSXBqR3FHQkZpc2tfYXlDX0kwWlVoYU9JQXh1Z0VEaUZORk9GY1JFTHVnbFFNbkludXlDY0hUa3o1U2ZXVEdYR0NHc0Zud3FXU2pOcG9UQ1p4a2dWNkwza2d5QjFmZw?oc=5"
+    },
+    {
+        "title": "Troops Arrest 17-Year-Old Suspected Burglar in Jos - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 9.9227,
+        "lng": 8.8888,
+        "location": "Burglar Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWotN19LTENEejQwcFBWQkozT2hkSkZGSFRiaHpJOURUa0pBdUJ0anFQcEpmQlBXWkpIWi1VOTRUa2pyNjR1VGM1LTZydUxlaVJQZzFEQzRRTml2MzFZdTBwQl9iQ0xBRTh3dTI1ZzNiTzhZbWpoZlpoSFFGWkY0ZTgwMTEyelM2aFhwQkxtVkxpNzJOdE5YUWFzWQ?oc=5"
+    },
+    {
+        "title": "Troops Intercept 30 Cows After Farmland Destruction in Plateau Community - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 9.444,
+        "lng": 9.4582,
+        "location": "Destruction Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTnZGUTZQRW5naVVSZ3NpN1o1eHFhZ2RCM3ZHTTZfWGh1ZWgwUEJsdWRIOXl4d3Z1ZjNhMEZfZWVyMGhZbFpRdHp5VEJxc3ZsTjR0NElMOUNFVTZPQmx3bk9vRUxRaXcyd0xKQjQ3el9uMXJ0RGZKb1BkaXpGdkVNRDdaWnhQSlFad3VNY2VOZFNZNFhQTEhoM3g3V3hHQmtpT1poblhEVWxvSm0yQk9VS19NRV9Gc001?oc=5"
+    },
+    {
+        "title": "Troops Intervene as Cattle Destroy Guinea Corn Farmland in Plateau Community - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 9.5494,
+        "lng": 9.493,
+        "location": "Farmland Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQem8weHBnR0s5SlFXRl9oQW9HZDE2Uk9WVGREN3M3dTRSUGFqMldhdUxhMU1RMXNXVWUxR0UtOGtWcnpiU3ZrVUJ5QVoxZFpIXzJZWTVrSFRfZjNweEt5T0p6S1VFTk1nNFRiT0VPZmVkZm5FVWZNdXNHYmtqaHZLNlFIZ3lTcHFVVXh3TnJSTzQyN0dhYXV1cDRyOWNTRGZNbjZDWkdidG5XVHY3YmhJTHJmdWFONU1FQUpHLU1B?oc=5"
+    },
+    {
+        "title": "Troops Quell Farmers-Herders Clash in Plateau, Injured Herder Hospitalised - ZAgazola",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 9.4606,
+        "lng": 9.4503,
+        "location": "Clash Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVnZDNnJQdnRabEtDQkJnZFoybDd4ZDNIYXRDbENJZzZ6aFV2dHBIcUFEemh5eFl5STJVQzE0MXhzOXdSanpKM3BxNVk3YlpVRXZwRDdPc0xkUkFjSTY3NGllVkVlOGt1UnVyZWlqUzl4TW1MM0d1b0ZWbk04R0pfVHFQSlBCeEU0T3VwRnBfWE80MnpVRXpzSjhDZGtSOW00MnR1WnVjZk03OGx5ajJURFNvMFdPci01REE?oc=5"
+    },
+    {
+        "title": "Troops Launch Search-and-Rescue Operation After Woman Is Kidnapped in Jos - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 9.9091,
+        "lng": 8.8784,
+        "location": "Kidnapped Area, Jos, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTHBoNThnT2RrNjljY3B5ZnFNRTlIa2FJQktMS2NKN1NPcEtPZFNNdGxDdm1rdl8wQ2ltT0QwQzVjcXVfU21IZUlveDc5Tm1lc0sxZTRyS1pDemM3MV8taE5RWkdjaWgyeTUxYzcxLTRRSFdXZGV4SGx6LXV3Zi1QZTR2cmg3NmUyazVtQnVpbXhRZU53bkpSQ1dNLWdwckpMOGZpQmo5Y3JVY0xHU3p0QURfdWdIQ3dWSnc?oc=5"
+    },
+    {
+        "title": "Troops Repel Berom Militia Attack on Ruga Madaki Auwalu Community in Plateau - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 9.4973,
+        "lng": 9.4807,
+        "location": "Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUl5M19DamMtc0pZUjZzeHAtU2dhSkhGX2dOX1BCTjRWRVBLTkpZdWpOTGthak5YNHdCc3FkQzBsbnBfVDlnMXB0R1NrdGR0YW8xME5ldVlNZnh6c1V1WGZfUnVEcHdsZmt2d0l2dFZOY25IQVM4a1R0dS0yd2htN0pRd0dXYzdRQUZoTkgtM3RUWEpqemNRMERVWVJfMnNNRjNQUHlXNVJHUk9NNUt4QVp2V0hoSkxHVE1iTWNn?oc=5"
+    },
+    {
+        "title": "Troops Rescue Kidnapped Woman in Plateau After Pressure Forces Abductors to Abandon Her - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 9.5411,
+        "lng": 9.5107,
+        "location": "Woman Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcUY3NC1oZUtOTXZmLVhrbmZGMDVZQ3dZT2cwczZsUHVEdmE3N0FUWjhPaU8tTlhSN3hnZEUwNDBXdXA4cFlRWnZvT3N1N1hfdktQWmh1QXZ1U0lERG45bnN6N2F4S0hqT25adUJQT1lHNEg0WEtnZHhMelB2N0sta2xSMnlLYk1ZbC1sTFBmdnhOLWdiSjdYY0dteUpJYWNkUlBfU0h0OUVhZjhVOUN4ckVWYVd2YTVtQlJnd1pMcVU3MGRrTGk5cThwQ1Q?oc=5"
+    },
+    {
+        "title": "Troops Repel Bandits in Kogi Forest, Recover Two AK-47 Rifles, 65 Rounds of Ammunition - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 7.7845,
+        "lng": 6.7916,
+        "location": "Bandits Area, Kogi State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2g4eFQ0SjlGYmhtdWFodmt0R1ZHckw0YkY4UFVFNUdVcVdIY2hMak5PWUk4TXNvNmVjYlZnM2RrNTY1S0Y1d0JKUGg5bFFkX1ZMY2ZMWWQ4YjNJNHREWndRRW9teW9JamRUUDFLNUlyNmE5T0ZsX2hfWHNzYnJ3SG5RMTJNekZtQ1c0eF91V25xaHZSNkVSbGdMWERSYlZUOHQybEl6eWQ5WFR3Smt3RjhQM0gzSENSVFFiR1htQTd4cTF5bDlFcQ?oc=5"
+    },
+    {
+        "title": "Troops Rescue Woman from Suspected Herdsmen After Attempted Rape in Plateau - zagazola.org",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 9.5084,
+        "lng": 9.4741,
+        "location": "Rape Area, Plateau State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcVNydVQ0dHVsV3ZVWXlqR255bDVOUDJrTjFDMmc0aENBaFVhZVZBajN0Smo1N3VkTHNOTVQ4blA1cGpsWXJFR3Q4SWFuLXM1T1JCcnV1TU9UM3lPdTJQdWV3WEpIT1ZrU1JZeFpza3NDekw2dTNHSGhJRndzOWw2TFNQWGt0aTRLOHR5eWZMRnB4SVl1SzEyT1dHa2Zvei15NlBBSlJZYk1fcHZEaDZYSWxaS1NOcE1hc242eg?oc=5"
+    },
+    {
+        "title": "Troops Foil Suspected Kidnap Attempt at School in Kaduna, Rescue Students from Potential Danger - zagazola.org",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 10.4737,
+        "lng": 7.5171,
+        "location": "School Area, Kaduna State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT194bDdIdmRUM3IzZnNNZG1YT3NKcHBfbS1xdnVxTUNqZEQ4aktjaXNQSTFfT0g4UEU3RG5rR2dET25KdHl3TWNxRFFqdDM5bGZVMFRMUXc4dDNTYVBpMGw3QktQZXFIT0dVNEpCOEp2SWxZOUZ1dnRfODM4Rl9ET2dSdDlHODBUcjJFZzlTN1MtTkxMbVdTWjk3Z0xON3JXN3RQeXp2cjhMcGtkR09TR2VxZGJmclNJeVBZZWRJeG1oV0lXZmlKd2ljaGI3UUNRSU42dGdn?oc=5"
     }
 ]
