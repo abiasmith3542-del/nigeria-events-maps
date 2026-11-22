@@ -3012,5 +3012,71 @@
         "location": "Kogi State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnVW1MbktucjFIcTVTTzJHRVd1b1JwRFV4M1c1SjVhb2IxeXpvZms3SnV1bWxIUXdPelpqdmV6WGEzSkZPeldnTVdsSGdXMnJnNWh0X3hEdlkzTTdBRU1Ed1RiS3ZCNy1Ub2ZyNnkwZw?oc=5"
+    },
+    {
+        "title": "Police take over Fountain of Life Church as leadership crisis deepens",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-22",
+        "lat": 9.0684,
+        "lng": 7.5461,
+        "location": "Nigeria (General Area)",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/22/police-take-over-fountain-of-life-church-as-leadership-crisis-deepens/"
+    },
+    {
+        "title": "Terrorists attack Niger communities, kill several residents, set houses ablaze ",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-22",
+        "lat": 9.9412,
+        "lng": 6.0373,
+        "location": "Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/22/terrorists-attack-niger-communities-kill-several-residents-set-houses-ablaze/"
+    },
+    {
+        "title": "Sokoto: UDUS medical lecturers threaten five-day warning strike over unpaid allowances",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-22",
+        "lat": 13.0085,
+        "lng": 5.2763,
+        "location": "Sokoto State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/22/sokoto-udus-medical-lecturers-threaten-five-day-warning-strike-over-unpaid-allowances/"
+    },
+    {
+        "title": "School building collapses, kills pupil in Abia",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-22",
+        "lat": 5.4453,
+        "lng": 7.4972,
+        "location": "Pupil Area, Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/school-building-collapses-kills-pupil-in-abia/"
+    },
+    {
+        "title": "COP31 faces collapse threat as latest draft fails to mention fossil fuels",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-22",
+        "lat": 9.1459,
+        "lng": 7.5871,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/cop31-faces-collapse-threat-as-latest-draft-fails-to-mention-fossil-fuels/"
+    },
+    {
+        "title": "Troops raid bandits’ hideout in Kogi, recover AK-47 rifles",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-22",
+        "lat": 7.7503,
+        "lng": 6.7761,
+        "location": "Hideout Area, Kogi State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/troops-raid-bandits-hideout-in-kogi-recover-ak-47-rifles/"
     }
 ]
