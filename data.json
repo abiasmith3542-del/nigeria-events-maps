@@ -1,236 +1,5 @@
 [
     {
-        "title": "Malaysia police shoot Nigerian dead",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-14",
-        "lat": 10.0386,
-        "lng": 5.9533,
-        "location": "Niger State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/malaysia-police-shoot-nigerian-dead/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Police nab suspect over stolen car",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-14",
-        "lat": 9.1136,
-        "lng": 7.5261,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-nab-suspect-over-stolen-car/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Akala, Adegoke strike late to sink Benin Arsenal",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-11-14",
-        "lat": 9.1123,
-        "lng": 7.4033,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/akala-adegoke-strike-late-to-sink-benin-arsenal/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Ex-Lagos civil servant found dead in UK home",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-14",
-        "lat": 6.545,
-        "lng": 3.355,
-        "location": "Lagos State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/ex-lagos-civil-servant-found-dead-in-uk-home/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Gala target Villa clash for Osimhen return",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-11-14",
-        "lat": 9.0132,
-        "lng": 7.5417,
-        "location": "Nigeria (General Area)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/gala-target-villa-clash-for-osimhen-return/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "2027: 'We dey wait' - Dino Melaye alleges plot to attack him in Bauchi, Yobe",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-14",
-        "lat": 10.4578,
-        "lng": 9.958,
-        "location": "Bauchi State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/14/2027-we-dey-wait-dino-melaye-alleges-uniform-men-plot-to-attack-him-in-bauchi-yobe/"
-    },
-    {
-        "title": "IDPs call for release of their abducted members in Kaduna",
-        "type": "恐怖分子/土匪袭击",
-        "level": "high",
-        "date": "2026-11-14",
-        "lat": 10.4491,
-        "lng": 7.555,
-        "location": "Members Area, Kaduna State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/14/idps-call-for-release-of-their-abducted-members-in-kaduna/"
-    },
-    {
-        "title": "Tinubu’s aide dismisses reports of attack on presidential convoy in Abuja",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-14",
-        "lat": 9.0861,
-        "lng": 7.5241,
-        "location": "Convoy Area, Abuja (FCT)",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/tinubus-aide-dismisses-reports-of-attack-on-presidential-convoy-in-abuja/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "Diphtheria Outbreak Claims 1,260 Lives, 41,000 Suspected Cases Recorded In Nigeria ",
-        "type": "突发公共卫生疫情",
-        "level": "low",
-        "date": "2026-11-14",
-        "lat": 9.9609,
-        "lng": 6.0122,
-        "location": "Recorded Area, Niger State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/diphtheria-outbreak-claims-1260-lives-41000-suspected-cases-recorded-in-nigeria/"
-    },
-    {
-        "title": "Troops’ Welfare: COAS Commissions 120 Homes, Reserves 5% for Wounded Soldiers - PRNigeria News",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-14",
-        "lat": 10.0034,
-        "lng": 6.0466,
-        "location": "Niger State",
-        "source": "PRNigeria (Security)",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81UFA3U1lqMHAyZmhzUmxxN0o3QjhhM1dRMVNHMm5BTmVYRm9vb2lzbWs2TUVoNHRVSVJxVEY0Tml1azdOZUlnUDE5dFozV0NwazkwQWtjMGV3VVduRmxkOXFUcnF2RXYwTEZj?oc=5"
-    },
-    {
-        "title": "Ogun  police present ₦10.7m to families of fallen officers",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-14",
-        "lat": 7.0245,
-        "lng": 3.4842,
-        "location": "Ogun State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/14/cp-ojajuni-presents-10-6m-to-families-of-fallen-officers-in-ogun/"
-    },
-    {
-        "title": "Clashes between gangs, vigilantes kill over 50 in Zamfara – Report",
-        "type": "族群冲突/武装对抗",
-        "level": "high",
-        "date": "2026-11-14",
-        "lat": 12.0892,
-        "lng": 6.1831,
-        "location": "Zamfara State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/11/clashes-between-gangs-vigilantes-kill-over-50-in-zamfara-report/"
-    },
-    {
-        "title": "Police arrest three for tampering with Bayelsa oil wellhead",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-14",
-        "lat": 4.6915,
-        "lng": 5.9599,
-        "location": "Bayelsa State",
-        "source": "Punch Metro",
-        "url": "https://punchng.com/police-arrest-three-for-tampering-with-bayelsa-oil-wellhead/?utm_source=rss.punchng.com&utm_medium=web"
-    },
-    {
-        "title": "3 Arrested Over Alleged Vandalism of Oil Wellhead in Bayelsa",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-14",
-        "lat": 4.746,
-        "lng": 6.0427,
-        "location": "Wellhead Area, Bayelsa State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/3-arrested-over-alleged-vandalism-of-oil-wellhead-in-bayelsa/"
-    },
-    {
-        "title": "You couldn't visit Plateau during attack but came for campaign - Fayose slams Tinubu [VIDEO]",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-14",
-        "lat": 9.5389,
-        "lng": 9.4675,
-        "location": "Plateau State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/14/you-couldnt-visit-plateau-during-attack-but-came-for-campaign-fayose-slams-tinubu-video/"
-    },
-    {
-        "title": "Navy uncovers 56,800 litres of suspected stolen crude oil, destroys illegal refining sites in Rivers",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-14",
-        "lat": 4.7578,
-        "lng": 6.8679,
-        "location": "Sites Area, Rivers State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/14/navy-uncovers-56800-litres-of-suspected-stolen-crude-oil-destroys-illegal-refining-sites-in-rivers/"
-    },
-    {
-        "title": "NAFDAC discovers fake antibiotics, cosmetic packaging materials in Lagos raid",
-        "type": "突发涉安事件",
-        "level": "medium",
-        "date": "2026-11-14",
-        "lat": 6.518,
-        "lng": 3.3418,
-        "location": "Materials Area, Lagos State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/14/nafdac-discovers-fake-antibiotics-cosmetic-packaging-materials-in-lagos-raid/"
-    },
-    {
-        "title": "FRSC confirms one dead, eight injured in Anambra multiple crash",
-        "type": "突发涉安事件",
-        "level": "high",
-        "date": "2026-11-14",
-        "lat": 6.2288,
-        "lng": 6.9455,
-        "location": "Injured Area, Anambra State",
-        "source": "Vanguard National",
-        "url": "https://www.vanguardngr.com/2026/11/frsc-confirms-one-dead-eight-injured-in-anambra-multiple-crash/"
-    },
-    {
-        "title": "Abuja Mosque Protest: FCT Residents Allege Opposition Plot To Discredit Tinubu, Wike",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-11-14",
-        "lat": 9.1162,
-        "lng": 7.4682,
-        "location": "Abuja (FCT)",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/abuja-mosque-protest-fct-residents-allege-opposition-plot-to-discredit-tinubu-wike/"
-    },
-    {
-        "title": "INEC Debunks Amupitan’s Resignation Rumour Amid London Protest",
-        "type": "突发涉安事件",
-        "level": "low",
-        "date": "2026-11-14",
-        "lat": 7.2064,
-        "lng": 5.1701,
-        "location": "Ondo State",
-        "source": "Leadership News",
-        "url": "https://leadership.ng/inec-debunks-amupitans-resignation-rumour-amid-london-protest/"
-    },
-    {
-        "title": "Troops recover 12 rifles, rescue 10 kidnap victims in Kwara",
-        "type": "恐怖分子/土匪袭击",
-        "level": "medium",
-        "date": "2026-11-14",
-        "lat": 8.4534,
-        "lng": 4.5261,
-        "location": "Victims Area, Kwara State",
-        "source": "Daily Post Nigeria",
-        "url": "https://dailypost.ng/2026/11/14/troops-recover-12-rifles-rescue-10-kidnap-victims-in-kwara/"
-    },
-    {
         "title": "Experts decry vandalism of public facilities",
         "type": "突发涉安事件",
         "level": "low",
@@ -3177,5 +2946,71 @@
         "location": "School Area, Kaduna State",
         "source": "Zagazola Defense",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT194bDdIdmRUM3IzZnNNZG1YT3NKcHBfbS1xdnVxTUNqZEQ4aktjaXNQSTFfT0g4UEU3RG5rR2dET25KdHl3TWNxRFFqdDM5bGZVMFRMUXc4dDNTYVBpMGw3QktQZXFIT0dVNEpCOEp2SWxZOUZ1dnRfODM4Rl9ET2dSdDlHODBUcjJFZzlTN1MtTkxMbVdTWjk3Z0xON3JXN3RQeXp2cjhMcGtkR09TR2VxZGJmclNJeVBZZWRJeG1oV0lXZmlKd2ljaGI3UUNRSU42dGdn?oc=5"
+    },
+    {
+        "title": "Several soldiers feared dead in Yobe road crash",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 12.0562,
+        "lng": 11.4756,
+        "location": "Dead Area, Yobe State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/several-soldiers-feared-dead-in-yobe-road-crash/"
+    },
+    {
+        "title": "2027: Outrage over widespread billboard attacks",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-22",
+        "lat": 9.1454,
+        "lng": 7.5258,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/2027-outrage-over-widespread-billboard-attacks/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Bandits threaten to stop 2027 elections in Zamfara communities",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-22",
+        "lat": 12.0743,
+        "lng": 6.167,
+        "location": "Elections Area, Zamfara State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/bandits-threaten-to-stop-2027-elections-in-zamfara-communities/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Troops Foil Suspected Kidnap Attempt at Kaduna School, Students Confirmed Safe - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 10.5406,
+        "lng": 7.4592,
+        "location": "Attempt Area, Kaduna State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRQ2JhbVZ3Ykw3OUQxbFVxWVlkNmMtbkRUeVlQYUt6N25GbG9iLVkyYndhaFpYb2syVmJTZ0dFSEhQRzVjNlRBZHo2Y213YTZMTWgyZEhTX3BYbDhBRmJLSHRoRG82ckJJbTV3M1RXTQ?oc=5"
+    },
+    {
+        "title": "Tinubu Commissions 845 New Assistant Superintendents of Police in Kano - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-21",
+        "lat": 12.0296,
+        "lng": 8.6025,
+        "location": "Kano State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrUU5naldrZjBJdzdHV0puVXpBRkNUWHBNanRTdHdEc2wyeW9zZUtaUVdheGVUUVo4YXBzeFZmZ0ZEX0t4TV95N2FnWWp4b0hRLWVrUzBZRXpnODhUV182SVRJTm9tT1E?oc=5"
+    },
+    {
+        "title": "Troops Dislodge Bandits from Kogi Forest Hideout, Recover Firearms - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-21",
+        "lat": 7.7975,
+        "lng": 6.7339,
+        "location": "Kogi State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnVW1MbktucjFIcTVTTzJHRVd1b1JwRFV4M1c1SjVhb2IxeXpvZms3SnV1bWxIUXdPelpqdmV6WGEzSkZPeldnTVdsSGdXMnJnNWh0X3hEdlkzTTdBRU1Ed1RiS3ZCNy1Ub2ZyNnkwZw?oc=5"
     }
 ]
