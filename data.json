@@ -3210,5 +3210,38 @@
         "location": "Katsina State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xLVhTZHFCekN6OE9hc3lkNk1OcnpZcXFzamR1UE0tczdBUkhyMFRKN1J3OXV6T1lhczFZWFhEcklpXzU5TmxmXzdfTzdaMllaN0ZUNmxQMEVLMWRsY2pTcFZ4WlVrcEF6VVVXc3VSbkdMdw?oc=5"
+    },
+    {
+        "title": "Troops foil mass abduction in Kaduna, rescue 18 children",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-22",
+        "lat": 10.4615,
+        "lng": 7.5545,
+        "location": "Abduction Area, Kaduna State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/22/troops-foil-mass-abduction-in-kaduna-rescue-18-children/"
+    },
+    {
+        "title": "Collapsed school building: APC tells Abia Govt to compensate parents of dead pupil ",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-22",
+        "lat": 5.3658,
+        "lng": 7.4644,
+        "location": "Abia State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/22/collapsed-school-building-apc-tells-abia-govt-to-compensate-parents-of-dead-pupil/"
+    },
+    {
+        "title": "Soldiers rescue 18 abducted Kaduna children, search for four others",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-22",
+        "lat": 10.5462,
+        "lng": 7.5287,
+        "location": "Kaduna State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/soldiers-rescue-18-abducted-kaduna-children-search-for-four-others/?utm_source=rss.punchng.com&utm_medium=web"
     }
 ]
