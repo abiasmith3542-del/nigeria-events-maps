@@ -2748,5 +2748,181 @@
         "location": "Zamfara State",
         "source": "Leadership News",
         "url": "https://leadership.ng/zamfara-bandit-leader-defies-military-still-rules-communities/"
+    },
+    {
+        "title": "Qua’an-Pan chairman visits attack scene in Plateau, demands investigation, prosecution of perpetrators",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-23",
+        "lat": 9.4793,
+        "lng": 9.5083,
+        "location": "Scene Area, Plateau State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/23/quaan-pan-chairman-visits-attack-scene-in-plateau-demands-investigation-prosecution-of-perpetrators-2/"
+    },
+    {
+        "title": "Tinubu approves N250m for families of 29 Bayelsa boat accident victims",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-23",
+        "lat": 4.7238,
+        "lng": 6.0424,
+        "location": "Bayelsa State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/23/tinubu-approves-n250m-for-families-of-29-bayelsa-boat-accident-victims/"
+    },
+    {
+        "title": "Troops recover detonator components, neutralise IEDs in Imo",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-23",
+        "lat": 5.4925,
+        "lng": 6.9818,
+        "location": "Ieds Area, Imo State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/23/troops-recover-detonator-components-neutralise-ieds-in-imo/"
+    },
+    {
+        "title": "Abia: Dead pupil would have been alive if govt hadn't failed - APC dep gov candidate",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-23",
+        "lat": 5.4676,
+        "lng": 7.4679,
+        "location": "Abia State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/23/abia-dead-pupil-would-have-been-alive-if-govt-agencies-pulled-down-dilapidated-structure-apc-dep-gov-candidate/"
+    },
+    {
+        "title": "Woman arrested for assaulting policeman in Abia",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-23",
+        "lat": 5.3877,
+        "lng": 7.55,
+        "location": "Policeman Area, Abia State",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/woman-arrested-for-assaulting-policeman-in-abia/"
+    },
+    {
+        "title": "Military air strikes kill 37 terrorists, destroy four vehicles",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-23",
+        "lat": 9.045,
+        "lng": 7.5422,
+        "location": "Nigeria (General Area)",
+        "source": "Vanguard National",
+        "url": "https://www.vanguardngr.com/2026/11/military-air-strikes-kill-37-terrorists-destroy-four-vehicles/"
+    },
+    {
+        "title": "Police arrest eight suspects, recover 8,739 illicit drugs in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-23",
+        "lat": 11.9901,
+        "lng": 9.755,
+        "location": "Drugs Area, Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-arrest-eight-suspects-recover-8739-illicit-drugs-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Ondo community protests alleged planned imposition of monarch",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-23",
+        "lat": 7.2462,
+        "lng": 5.2172,
+        "location": "Ondo State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/ondo-community-protests-alleged-planned-imposition-of-monarch/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Daura emirate examines tourist’s assault video; police deny knowledge of incident",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-23",
+        "lat": 9.147,
+        "lng": 7.4055,
+        "location": "Nigeria (General Area)",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/927384-daura-emirate-examines-tourists-assault-video-police-deny-knowledge-of-incident.html"
+    },
+    {
+        "title": "NASS Roundup: State police, drug-related deaths, displaced Nigerians, other stories from House of Reps",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-23",
+        "lat": 10.0208,
+        "lng": 5.9506,
+        "location": "Niger State",
+        "source": "Premium Times",
+        "url": "https://www.premiumtimesng.com/news/top-news/927341-nass-roundup-state-police-drug-related-deaths-displaced-nigerians-other-stories-from-house-of-reps.html"
+    },
+    {
+        "title": "BREAKING: Gunmen Kill Four Herders, Rustle Over 100 Cattle In Fresh Plateau Attack",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-23",
+        "lat": 9.4981,
+        "lng": 9.5384,
+        "location": "Plateau State",
+        "source": "Leadership News",
+        "url": "https://leadership.ng/breaking-gunmen-kill-four-herders-rustle-over-100-cattle-in-fresh-plateau-attack/"
+    },
+    {
+        "title": "Kano court remands 12 suspects over alleged murder ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-23",
+        "lat": 11.9453,
+        "lng": 8.6512,
+        "location": "Kano State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/kano-court-remands-12-suspects-over-alleged-murder/"
+    },
+    {
+        "title": "Military Precision Strike Obliterates Several ISWAP Terrorists in Borno - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-23",
+        "lat": 11.7996,
+        "lng": 13.2039,
+        "location": "Terrorists Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUTBoZGEtZi1DRWwwRWdkcG1fWkNraENGSzdUOE0zS2ZJZ0xmeGI1WEtPVnJMNGV2dEliVUJ3enFCSTZZX1c0aGE4bGdnQVlTYkhwaUpFaUpuSkRHNzFBRE9JRmxuX2VIa1Y4QUw1RWppTVRVc3V1V3J2NWtjbjF2U1VZS0tpRnZNSmh0cWJNNDBXZHBCZy1IcG1ITXJBbE5DUEowLXhWMldYU0haeWJ0UTY4cXctRG8?oc=5"
+    },
+    {
+        "title": "Troops Clear Suspected Militia Camp in Borno, Arrest Two Suspects, Recover Arrows, Ammunition - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-23",
+        "lat": 11.8689,
+        "lng": 13.1392,
+        "location": "Camp Area, Borno State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0kzNzBBSk9waDVDek5nZVlzQlIydHR1STJIVURmUzVMZjhjbFZuaExESHNTM3Q5Vjc2eUVtMFdhdGZTbzFuZ3c1UUhKZzd4blZIeDFsVkFVcWFyVTFYZk9wQzdjSThYbWZrcFRPTHN2S0QwbWdLbGdUQm5OVDNyYWdiWEwyU3g4YVNQaUhEMDZSMkVkZFBaUWt6T1lHMzdLSDYwY0dhbk5BbzY5MG9Qd0h6cGxQUjV6MHNTMVdtdm03S3U2V0dJR09HTDdiNy1O?oc=5"
+    },
+    {
+        "title": "Troops Discover 4,858 Litres of Stolen Crude Oil, Illegal Refining Sites in Rivers - ZAgazola",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-23",
+        "lat": 4.7667,
+        "lng": 6.8544,
+        "location": "Sites Area, Rivers State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmpWNGNiTDk1TjBKeGtCT1VXVU9jYVI5RldZekNrd2l6bzdpd3FZcEpDaEJWZG1NYlQ5SUM2Q1l1RE9XUlBpUjZpT0dFeVFsVC11aVZIeFJPeDAyVHRCNGdDTHMyczNjRUpxdGlCYXZ0ci1tdFZiVTZqR1g3S3Axc0RFM0U5eEs4amdwaUNRc1plY1g0ejRBc3YtWmFPZ2JfX3A2Z3F5WmZzMGJ0dE0wb0F2aE9uMmc1dWJ5WWVHUVpBa01F?oc=5"
+    },
+    {
+        "title": "Troops Clear IPOB/ESN Camp in Imo, Discover and Destroy IEDs, Repel Terrorist Attack - ZAgazola",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-23",
+        "lat": 5.4583,
+        "lng": 7.0587,
+        "location": "Camp Area, Imo State",
+        "source": "Zagazola Defense",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTFNqLXVtS3A2R2E3QURtVWFoZ3BTS2VidW1rOXlxdU9DZy1oQ1VuV0xpUUZQNGZQbU1JdUQ4VGhYZVE3ZU9KZ3Z6YjRIQWc3Z2pkbDdaSW56WjdNTWd0enVRM0Z4ZWdHTXhtOXU4ZFV4UGZLZDNzd29Pbk1ReW5IRi1YeEZib0NIaTdfa2ZiQ1B6Qk90dS1KZ3hJbThUUllLa014ODBiaE5EQXJicHkwWkltbHJ0MVR3a3pidk8zTjJubTU5bWc?oc=5"
     }
 ]
