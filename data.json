@@ -2473,5 +2473,38 @@
         "location": "Niger State",
         "source": "PRNigeria (Security)",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PdHY4YVpLNlhXVHZmTGUtaVJ0NE1qQXprVUg5WW5LdjB4LTZVa3g1dkxMMWxFbXU2MG1Sdm5qSkc3ZWRIcEhRS1hxVlNLX1VSTDhRUmdSd3EwZFlGaUttbTFIM1BtelVqc1Bn?oc=5"
+    },
+    {
+        "title": "Magodo land dispute: Lagos suspends truck movement, orders suspects’ release",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-27",
+        "lat": 6.5022,
+        "lng": 3.3749,
+        "location": "Lagos State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/magodo-land-dispute-lagos-suspends-truck-movement-orders-suspects-release/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Delta Attack: I never received police invitation – Omo-Agege",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-27",
+        "lat": 5.5113,
+        "lng": 5.967,
+        "location": "Delta State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/delta-attack-i-never-received-police-invitation-omo-agege/"
+    },
+    {
+        "title": "Ondo: 17-year-old girl arrested for poisoning housemate’s drink ",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-27",
+        "lat": 7.3037,
+        "lng": 5.148,
+        "location": "Ondo State",
+        "source": "Daily Trust",
+        "url": "https://dailytrust.com/ondo-17-year-old-girl-confesses-to-poisoning-housemates-drink/"
     }
 ]
