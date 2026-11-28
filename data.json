@@ -2209,5 +2209,104 @@
         "location": "Niger State",
         "source": "Leadership News",
         "url": "https://leadership.ng/breaking-bandits-set-homes-shops-ablaze-in-fresh-attack-on-niger-community/"
+    },
+    {
+        "title": "Police confirm military air support during bandit attack on Niger community",
+        "type": "恐怖分子/土匪袭击",
+        "level": "high",
+        "date": "2026-11-28",
+        "lat": 10.0318,
+        "lng": 6.015,
+        "location": "Niger State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/28/police-confirm-military-air-support-during-bandit-attack-on-niger-community/"
+    },
+    {
+        "title": "Goodluck Jonathan identifies aggressors behind deadly attacks in Plateau",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-28",
+        "lat": 9.5581,
+        "lng": 9.5458,
+        "location": "Attacks Area, Plateau State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/28/goodluck-jonathan-identifies-aggressors-behind-deadly-attacks-in-plateau/"
+    },
+    {
+        "title": "Another popular Enugu politician, Nana Ogbodo is dead",
+        "type": "突发涉安事件",
+        "level": "high",
+        "date": "2026-11-28",
+        "lat": 6.4957,
+        "lng": 7.5296,
+        "location": "Enugu State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/28/popular-enugu-politician-nana-ogbodo-is-dead/"
+    },
+    {
+        "title": "Kano Gov orders reconstruction of Yankifi fish market after fire outbreak ",
+        "type": "突发公共卫生疫情",
+        "level": "low",
+        "date": "2026-11-28",
+        "lat": 12.0549,
+        "lng": 8.5692,
+        "location": "Kano State",
+        "source": "Daily Post Nigeria",
+        "url": "https://dailypost.ng/2026/11/28/kano-gov-orders-reconstruction-of-yankifi-fish-market-after-fire-outbreak/"
+    },
+    {
+        "title": "Three killed, houses burnt in Cross River communal clash",
+        "type": "族群冲突/武装对抗",
+        "level": "high",
+        "date": "2026-11-28",
+        "lat": 5.7389,
+        "lng": 8.5533,
+        "location": "Burnt Area, Cross River State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/three-killed-houses-burnt-in-cross-river-communal-clash/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Police pay N20.4m to families of fallen officers in Jigawa",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-28",
+        "lat": 12.0308,
+        "lng": 9.7556,
+        "location": "Officers Area, Jigawa State",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/police-pay-n20-4m-to-families-of-fallen-officers-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Israeli strike kills two Doctors Without Borders staff in Gaza – MSF",
+        "type": "突发涉安事件",
+        "level": "low",
+        "date": "2026-11-28",
+        "lat": 9.1003,
+        "lng": 7.5445,
+        "location": "Nigeria (General Area)",
+        "source": "Punch Metro",
+        "url": "https://punchng.com/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza-msf/?utm_source=rss.punchng.com&utm_medium=web"
+    },
+    {
+        "title": "Rhetoric of Insecurity and the Danger of Weaponised Communication - PRNigeria News",
+        "type": "突发涉安事件",
+        "level": "medium",
+        "date": "2026-11-28",
+        "lat": 10.0445,
+        "lng": 5.952,
+        "location": "Niger State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwOGhxbzl3eFdycDFacmdKUDdGS0dUU1ZxYzItMGlGVlVuYnNBWkJzNktqY2lONVVIWHNlcEVlX2xLUUVzQTJPUHFOdG5tOVZ1OFhiemo5aVFWaWttNEkxN3RpRi1YRXFvV3FsZA?oc=5"
+    },
+    {
+        "title": "‘My Wife Can Barely Walk’: Distressed Husband Pleads for Rescue as Gunmen Abduct Six in Kaduna Community - PRNigeria News",
+        "type": "恐怖分子/土匪袭击",
+        "level": "medium",
+        "date": "2026-11-27",
+        "lat": 10.507,
+        "lng": 7.5566,
+        "location": "Kaduna State",
+        "source": "PRNigeria (Security)",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQ3h1d3d3czF2dEVBNFNPZUFhUEVpSEgwV1l3UTJ1T1FwNE5sOHMxeUUzUExUTC0zYjQ0eU5TQTBYd3dYNnFvMmhKa2xYbTQ4QUxMNTd6R1Q0aVdvNHk2Q1owMWE?oc=5"
     }
 ]
